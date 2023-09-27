@@ -17,7 +17,7 @@ Para a realização dessas atividades existem os processos de design, que propõ
 Esse processo apresenta simplicidade em seu desenvolvimento e para ele não existe muita descrição para suas etapas, por isso é recomendado para projetos pequenos.
 
 <p align="center">
-    <img src="./assets/ciclosimples.png width="500">
+    <img src="./assets/ciclosimples.png" width="500">
 </p>
 
 **Pontos positivos:**
@@ -35,7 +35,7 @@ Esse processo apresenta simplicidade em seu desenvolvimento e para ele não exis
 Esse ciclo de vida permite o início de sua execução por qualquer "ponta" da estrela e deve-se passar sempre pela avaliação após a realização das atividades. Esse ciclo de vida apresenta um pouco mais de detalhamento que o ciclo de vida simples.
 
 <p align="center">
-    <img src="./assets/cicloestrela.png width="500">
+    <img src="./assets/cicloestrela.png" width="500">
 </p>
 
 **Pontos positivos:**
@@ -78,7 +78,7 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 Esse processo divide a análise em três fases a análise de requisitos que consiste em definir as metas de usabilidade utilizando o perfil do usuário, análise de tarefas entre outros. A segunda fase sendo a de design, avaliação e desenvolvimento da solução de IHC que atenda as metas definidas previamente, e por fim, a última fase de instalação que consiste na obtenção do feedback dos usuários para resolver questões e conseguir melhorias.
 
 <p align="center">
-    <img src="./assets/ciclomayhew.png width="500">
+    <img src="./assets/ciclomayhew.png" width="500">
 </p>
 
 **Pontos positivos:**

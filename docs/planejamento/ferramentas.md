@@ -17,12 +17,19 @@ Para execução do projeto está planejado o uso de diversas ferramentas computa
 ## Referências
 
 > Github. Disponível em: <https://github.com/>. Acesso em: 27 set. 2023.
+
 > Teams. Disponível em: <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software>. Acesso em: 27 set. 2023.
+
 > Whatsapp. Disponível em: <https://www.whatsapp.com>. Acesso em: 27 set. 2023.
+
 > Figma. Disponível em: <https://www.figma.com/>. Acesso em: 27 set. 2023.
+
 > Youtube. Disponível em: <https://www.youtube.com/>. Acesso em: 27 set. 2023.
+
 > This person does not exist. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 27 set. 2023.
+
 > VSCode. Disponível em: <https://code.visualstudio.com/>. Acesso em: 27 set. 2023.
+
 > Google Docs. Disponível em: <https://www.google.com/docs/about/>. Acesso em: 27 set. 2023.
 
 
