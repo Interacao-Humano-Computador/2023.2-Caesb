@@ -33,6 +33,8 @@ Na Tabela a seguir, é possível verificar o site escolhido de cada integrante:
 ## MPDFT
 O membro Jefferson Sena ficou responsável por avaliar o site MPDFT e identificou as seguites 
 heurísticas descumpridas:
+
+
 - Status do sistema: Simples.
 
 
@@ -80,6 +82,8 @@ heurísticas descumpridas:
 
 ## Domínio Público
 O membro Pedro Muniz ficou responsável por avaliar o site Domínio Público e teve a seguinte conclusões:
+
+
 - O usuário tem dificuldade em concluir as tarefas que o site disponibiliza.
 
 
@@ -91,6 +95,8 @@ O membro Pedro Muniz ficou responsável por avaliar o site Domínio Público e t
 
 ## Ministério da Educação
 O membro Tiago de lima ficou responsável por avaliar o site Ministério da Educação e identificou as seguites heurísticas descumpridas:
+
+
 - Consistência e padrões: cosmético.
 
 
@@ -99,6 +105,8 @@ O membro Tiago de lima ficou responsável por avaliar o site Ministério da Educ
 
 ## Portal GOV
 O membro Rodrigo Fonseca ficou responsável por avaliar o site Portal GOV e identificou as seguites heurísticas descumpridas:
+
+
 - Visibilidade e estatus do sistema: cosmético.
 
 
@@ -132,6 +140,8 @@ específicos, em vez de fornecer pistas ou sugestões contextuais durante a inte
 
 ## Câmara Municipal de Rio Branco
 O membro Oscar de Brito ficou responsável por avaliar o site Câmara Municipal de Rio Branco e identificou as seguites heurísticas descumpridas:
+
+
 - Estética e design minimalista: Grave.
 
 
