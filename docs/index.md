@@ -21,20 +21,34 @@
 
 ---
 
+<center>
+
 ## Contribuidores
 
 |                                                                                          **Foto**                                                                                          |         **Nome**         |                       **GitHub**                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: | :-----------------------------------------------------: |
-|    <a href="https://github.com/leomitx10"><img src="https://avatars.githubusercontent.com/u/90487905?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;    |   Leandro de Almeida Oliveira    |       [leomitx10](https://github.com/leomitx10)       |
+|    <a href="https://github.com/mateus9levy"><img src="https://avatars.githubusercontent.com/u/70410544?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Mateus Levy |        [mateus9levy](https://github.com/mateus9levy)        |
+|    <a href="https://github.com/JeffersonSenaa"><img src="https://avatars.githubusercontent.com/u/73854228?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;    |   Jefferson Sena Oliveira    |       [JeffersonSenaa](https://github.com/JeffersonSenaa)       |
+|    <a href="https://github.com/leomitx10"><img src="https://avatars.githubusercontent.com/u/90487905?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Leandro de Almeida Oliveira |        [leomitx10](https://github.com/leomitx10)        |
 |    <a href="https://github.com/OscarDeBrito"><img src="https://avatars.githubusercontent.com/u/98489703?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Oscar de Brito |        [OscarDeBrito](https://github.com/OscarDeBrito)        |
+|    <a href="https://github.com/Muniz2811"><img src="https://avatars.githubusercontent.com/u/106991930?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Pedro Henrique Muniz de Oliveira |        [Muniz2811](https://github.com/Muniz2811)        |
+|    <a href="https://github.com/rodfon3301"><img src="https://avatars.githubusercontent.com/u/98030427?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Rodrigo fonseca  |        [rodfon3301](https://github.com/rodfon3301)        |
+|    <a href="https://github.com/Tiago1604"><img src="https://avatars.githubusercontent.com/u/98188815?v=4" height="auto" width="90" style="border-radius:50%"></a> &nbsp; &nbsp; &nbsp;     | Tiago Albuquerque  |        [Tiago1604](https://github.com/Tiago1604)        |
+
+</center>
 
 ---
 
 ## Histórico de versão
 
+<center>
+
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 26/09/2023 | Adicionou descrições | Leandro | Oscar  |
+|  1.1   | 26/09/2023 | Adicionou contribuidores | Leandro | Oscar  |
+
+</center>
 
 ---
 
