@@ -33,10 +33,16 @@ Na Tabela a seguir, é possível verificar o site escolhido de cada integrante:
 ## MPDFT
 O membro Jefferson Sena ficou responsável por avaliar o site MPDFT e identificou as seguites 
 heurísticas descumpridas:
-* Status do sistema: Simples.
-* Consistência e Padrões: Simples.
-* Flexibilidade e Eficiência de Uso: Simples.
-* Controle de usuário e Liberdade: Simples.
+- Status do sistema: Simples.
+
+
+- Consistência e Padrões: Simples.
+
+
+- Flexibilidade e Eficiência de Uso: Simples.
+
+
+- Controle de usuário e Liberdade: Simples.
 
 
 ## Biblioteca Virtual em Saúde
@@ -44,58 +50,98 @@ heurísticas descumpridas:
 O membro Leandro Oliveira ficou responsável por avaliar o site Biblioteca Virtual em Saúde e identificou as seguites 
 heurísticas descumpridas:
 
-* Visibilidade do status do sistema: cosmético.
-* Consistência e padrões: cosmético.
-* Flexibilidade e Eficiência: grave.
-* Auxiliar usuários a reconhecer, diagnosticar e recuperar erros: grave.
+- Visibilidade do status do sistema: cosmético.
+
+
+- Consistência e padrões: cosmético.
+
+
+- Flexibilidade e Eficiência: grave.
+
+
+- Auxiliar usuários a reconhecer, diagnosticar e recuperar erros: grave.
 
 
 ## CAESB
 O membro Mateus Boquady ficou responsável por avaliar o site CAESB e identificou as seguites 
 heurísticas descumpridas:
 
-* Estética e design minimalista: simples.
-* Consistência e padrões: grave.
-* Reconhecimento ao invés de relembrança: grave.
-* Ajuda e documentação: grave.
+- Estética e design minimalista: simples.
+
+
+- Consistência e padrões: grave.
+
+
+- Reconhecimento ao invés de relembrança: grave.
+
+
+- Ajuda e documentação: grave.
 
 
 ## Domínio Público
 O membro Pedro Muniz ficou responsável por avaliar o site Domínio Público e teve a seguinte conclusões:
-* O usuário tem dificuldade em concluir as tarefas que o site disponibiliza.
-* O site apresenta diversos problemas de IHC e oculta informações e opções do usuário.
-* O usuário consegue operar o sistema de forma razoável, tendo dificuldade e necessitando de muita experiência para realizar algumas tarefas.
+- O usuário tem dificuldade em concluir as tarefas que o site disponibiliza.
+
+
+- O site apresenta diversos problemas de IHC e oculta informações e opções do usuário.
+
+
+- O usuário consegue operar o sistema de forma razoável, tendo dificuldade e necessitando de muita experiência para realizar algumas tarefas.
 
 
 ## Ministério da Educação
 O membro Tiago de lima ficou responsável por avaliar o site Ministério da Educação e identificou as seguites heurísticas descumpridas:
-* Consistência e padrões: cosmético.
-* Identificar problemas na interação e interface: cosmético.
+- Consistência e padrões: cosmético.
+
+
+- Identificar problemas na interação e interface: cosmético.
 
 
 ## Portal GOV
 O membro Rodrigo Fonseca ficou responsável por avaliar o site Portal GOV e identificou as seguites heurísticas descumpridas:
-* Visibilidade e estatus do sistema: cosmético.
-* relação entre o sistema e o mundo real: O conteúdo costuma utilizar terminologia técnica e complexa.
-* Controle e liberdade do usuário: Os usuários têm uma percepção reduzida de controle sobre a experiência.
-* Consistência e padrões: Certos elementos podem não ser visualmente consistentes por todas as páginas exploradas.
-* Reconhecimento ao invés de memorização: O site muitas vezes exige que os usuários se lembrem de nomes ou termos de serviços
+- Visibilidade e estatus do sistema: cosmético.
+
+
+- relação entre o sistema e o mundo real: O conteúdo costuma utilizar terminologia técnica e complexa.
+
+
+- Controle e liberdade do usuário: Os usuários têm uma percepção reduzida de controle sobre a experiência.
+
+
+- Consistência e padrões: Certos elementos podem não ser visualmente consistentes por todas as páginas exploradas.
+
+
+- Reconhecimento ao invés de memorização: O site muitas vezes exige que os usuários se lembrem de nomes ou termos de serviços
 específicos, em vez de fornecer pistas ou sugestões contextuais durante a interação.
-* Flexibilidade e eficiência de uso: O site não oferece atalhos de teclado ou funcionalidades avançadas para usuários experientes.
-* Projeto estético e minimalista: O design do site pode ser considerado um pouco carregado, com muitas informações e elementos visuais em algumas páginas
-* Prevenção de Erros: O site não fornece confirmação ou aviso antes de realizar uma ação irreversível, como enviar um formulário.
-* Ajuda aos Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros: Quando os usuários cometem erros, as mensagens de erro nem sempre são claras ou fornecem informações úteis, dificultando a compreensão do problema.
-* Ajuda e Documentação: O site não apresenta uma seção de ajuda ou documentação para auxiliar os usuários na resolução de problemas ou no entendimento de recursos.
+
+
+- Flexibilidade e eficiência de uso: O site não oferece atalhos de teclado ou funcionalidades avançadas para usuários experientes.
+
+
+- Projeto estético e minimalista: O design do site pode ser considerado um pouco carregado, com muitas informações e elementos visuais em algumas páginas
+
+
+- Prevenção de Erros: O site não fornece confirmação ou aviso antes de realizar uma ação irreversível, como enviar um formulário.
+
+
+- Ajuda aos Usuários a Reconhecer, Diagnosticar e Recuperar-se de Erros: Quando os usuários cometem erros, as mensagens de erro nem sempre são claras ou fornecem informações úteis, dificultando a compreensão do problema.
+
+
+- Ajuda e Documentação: O site não apresenta uma seção de ajuda ou documentação para auxiliar os usuários na resolução de problemas ou no entendimento de recursos.
 
 
 ## Câmara Municipal de Rio Branco
 O membro Oscar de Brito ficou responsável por avaliar o site Câmara Municipal de Rio Branco e identificou as seguites heurísticas descumpridas:
-* Estética e design minimalista: Grave.
-* Controle do usuário e liberdade: Simples.
-*  Ajuda e documentação: Simples.
-* Consistência e padrões: Simples.
-* 
+- Estética e design minimalista: Grave.
 
+
+- Controle do usuário e liberdade: Simples.
+
+
+- Ajuda e documentação: Simples.
+
+
+- Consistência e padrões: Simples.
 
 
 
