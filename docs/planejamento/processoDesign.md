@@ -3,11 +3,11 @@
 ## Introdução
 
 Design é um processo que possui três atividades principais sendo elas:
-<p align="justify">
 
-- Análise da situação atual: Consiste em estudar e interpretar a situação atual;
-- Síntese de uma intervenção: É planejar e realizar uma intervenção na situação atual previamente analisada;
-- Avaliação da nova situação: Consiste na análise dos efeitos da intervenção feita, comparando a situação analisada no primeiro tópico com a nova situação atingida por meio da intervenção proposta.</p>
+
+* Análise da situação atual: Consiste em estudar e interpretar a situação atual;
+* Síntese de uma intervenção: É planejar e realizar uma intervenção na situação atual previamente analisada;
+* Avaliação da nova situação: Consiste na análise dos efeitos da intervenção feita, comparando a situação analisada no primeiro tópico com a nova situação atingida por meio da intervenção proposta.
 
 
 <p align="justify">Para a realização dessas atividades existem os processos de design, que propõem métodos iterativos e ordenados para que se atenda o objetivo final de design que seria atender às necessidades dos usuários e outros envolvidos no sistema em análise. Para esse projeto foram analisados quatro principais processos de design sendo eles o ciclo de vida simples, o ciclo de vida em estrela, a engenharia de usabilidade de Nielsen e a engenharia de usabilidade de Mayhew. Esses processos serão definidos e analisados abaixo.</p>
@@ -110,4 +110,6 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 27/09/2023 | Adicionou as definições e o ciclo de vida escolhido| Pedro Muniz e Rodrigo Fonseca| Mateus Levy |
+|  1.0   | 27/09/2023 | Adicionou as definições e o ciclo de vida escolhido| [Pedro de Oliveira](https://github.com/Muniz2811) e [Rodrigo ](https://github.com/rodfon3301)| [Mateus Levy](https://github.com/mateus9levy) |
+
+
