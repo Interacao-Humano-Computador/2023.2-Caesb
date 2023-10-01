@@ -34,7 +34,7 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
-      - Reuniões: planejamento/reunioes.md
+      - Heatmap: heatmap/heatmap.md
       - Metodologia: planejamento/metodologia.md
       - Ferramentas: planejamento/ferramentas.md
       - Processo Design: planejamento/processoDesign.md
