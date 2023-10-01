@@ -159,4 +159,4 @@ O membro Oscar de Brito ficou responsável por avaliar o site Câmara Municipal 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
- `1.0` | 29/09/2023 | Criação do documento | [Mateus Levy](https://github.com/mateus9levy) e  [Pedro Muniz](https://github.com/Muniz2811)| [Rodrigo ](https://github.com/rodfon3301)
+ 1.0 | 29/09/2023 | Criação do documento | Mateus e Pedro | Rodrigo 

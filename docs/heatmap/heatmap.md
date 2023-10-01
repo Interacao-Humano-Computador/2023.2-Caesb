@@ -12,7 +12,7 @@
 
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
-| 1.0 | 27/09/2023 |  Colocando o heatmap| Leandro | Oscar Brito |
+| 1.0 | 27/09/2023 |  Colocando o heatmap| Leandro | Oscar |
 
 </center>
 

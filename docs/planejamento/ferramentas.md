@@ -40,4 +40,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 27/09/2023 | Adicionou as ferramentas do projeto| Pedro Muniz | ?  |
+|  1.0   | 27/09/2023 | Adicionou as ferramentas do projeto| Pedro | Rodrigo  |
