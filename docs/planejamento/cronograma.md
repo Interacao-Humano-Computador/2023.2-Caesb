@@ -133,7 +133,7 @@ Atualizar o pages com as novas informações| Leandro | Oscar | 23/11 - 26/11 | 
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 01/10/2023 | Adicionando cronograma definido| [Pedro de Oliveira](https://github.com/Muniz2811) | Equipe |
+|  1.0   | 01/10/2023 | Adicionando cronograma definido| Pedro | Equipe |
 
 
 
