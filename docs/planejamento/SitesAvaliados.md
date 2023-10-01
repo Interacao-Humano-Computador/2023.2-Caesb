@@ -18,13 +18,13 @@ Na Tabela a seguir, é possível verificar o site escolhido de cada integrante:
 
 | Nome | Site avaliado | Avaliação |
 | :---------------------------------------------: | :----------------------: | :-------------------------:|
-| [Jefferson Sena](https://github.com/JeffersonSenaa) | [MPDFT](https://www.mpdft.mp.br/portal/) |[Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoMPDFT.pdf) |
-| [Leandro Oliveira](https://github.com/leomitx10) | [Biblioteca Virtual em Saúde](https://bvsms.saude.gov.br/) | [Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoBibliotecaVirtualEmSaude.pdf) |
-| [Mateus Boquady](https://github.com/mateus9levy) | [CAESB](https://www.caesb.df.gov.br/) | [Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoCAESB.pdf) |
-| [Pedro Muniz](https://github.com/Muniz2811) | [Domínio Público](http://www.dominiopublico.gov.br/) |   [Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoDominioPublico.pdf) | 
-| [Tiago de Lima](https://github.com/Tiago1604) | [Ministério da Educação](http://portal.mec.gov.br/) |   [Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoMinisterioEducacao.pdf)  | 
-|[Rodrigo Fonseca](https://github.com/rodfon3301)| [ Portal GOV ](https://www.gov.br/pt-br )| [Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoPortalGov.pdf)  |
-|[Oscar de Brito](https://github.com/OscarDeBrito)| [Câmara Municipal de Rio Branco](https://www.riobranco.ac.leg.br/) | [Link da avaliação aqui](/docs/assets/avaliacoes/avaliacaoCamaraRioBranco.pdf) |
+| [Jefferson Sena](https://github.com/JeffersonSenaa) | [MPDFT](https://www.mpdft.mp.br/portal/) |[Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoMPDFT.pdf) |
+| [Leandro Oliveira](https://github.com/leomitx10) | [Biblioteca Virtual em Saúde](https://bvsms.saude.gov.br/) | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoBibliotecaVirtualEmSaude.pdf) |
+| [Mateus Boquady](https://github.com/mateus9levy) | [CAESB](https://www.caesb.df.gov.br/) | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoCAESB.pdf) |
+| [Pedro Muniz](https://github.com/Muniz2811) | [Domínio Público](http://www.dominiopublico.gov.br/) |   [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoDominioPublico.pdf) | 
+| [Tiago de Lima](https://github.com/Tiago1604) | [Ministério da Educação](http://portal.mec.gov.br/) |   [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoMinisterioEducacao.pdf)  | 
+|[Rodrigo Fonseca](https://github.com/rodfon3301)| [ Portal GOV ](https://www.gov.br/pt-br )| [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoPortalGov.pdf)  |
+|[Oscar de Brito](https://github.com/OscarDeBrito)| [Câmara Municipal de Rio Branco](https://www.riobranco.ac.leg.br/) | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoCamaraRioBranco.pdf) |
 
 
 
