@@ -45,8 +45,8 @@
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 26/09/2023 | Adicionou descrições | Leandro | Oscar  |
-|  1.1   | 26/09/2023 | Adicionou contribuidores |  Oscar | Leandro  |
+|  1.0   | 26/09/2023 | Adicionou descrições e contribuidores | Leandro | Oscar  |
+
 
 </center>
 

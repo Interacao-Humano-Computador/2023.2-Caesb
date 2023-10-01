@@ -48,7 +48,8 @@ nav:
   - Apresentação Final:
     - Entrega Final: entrega-final/entrega-final.md
     - Etapa Final - 01/02/2023: entrega-final/etapafinal.md
-
+  - Site selecionado:
+    - Site escolhido: site-escolhido/siteEscolhido.md
 markdown_extensions:
   - attr_list
   - md_in_html
