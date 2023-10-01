@@ -15,7 +15,7 @@
 | Ferramentas | Pedro Muniz | Leandro | 25/09 - 28/09 | 28/09 - 01/09 |
 | Processo de design | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 25/09 - 28/09 | 28/09 - 01/09 |
 | Criação pages | Leandro | Oscar | 25/09 - 28/09 | 28/09 - 01/09 |
-| Gravação e edição da apresentação | Equipe | Equipe | 30/09 - 01/09 | 01/09 - 02/09 |
+| Gravação e edição da apresentação | Leandro e Oscar | Equipe | 30/09 - 01/09 | 01/09 - 02/09 |
 | Revisao cronograma | Equipe | Equipe | 30/09 - 01/09 | 01/09 - 02/09 |
 
 
@@ -29,7 +29,7 @@
 | Criação de Personas | Pedro Muniz | Mateus Levy | 02/10 - 08/10|09/10 - 15/10 |
 | Processo de design | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 02/10 - 08/10 | 09/10 - 15/10 |
 | Atualizar o pages com as novas informações | Oscar | Leandro |02/10 - 08/10 | 09/10 - 15/10 |
-| Gravação e edição da apresentação | Equipe | Equipe | 15/10 - 16/10 | 16/10 - 16/10 |
+| Gravação e edição da apresentação | Leandro e Oscar | Equipe | 15/10 - 16/10 | 16/10 - 16/10 |
 | Revisão cronograma | Rodrigo/Leandro| 15/10 - 08/10 | 17/10 - 15/10|
 
 
@@ -42,7 +42,7 @@
 | Criar o guia de estilos | Leandro e Oscar | Equipe | 17/10 - 20/10 | 21/10 - 24/10 | 
 | Determinar as características da plataforma para o projeto |Mateus Levy | Pedro Muniz | 17/10 - 20/10 | 21/10 - 24/10 |
 | Atualizar o pages com as novas informações | Mateus Levy | Tiago  | 17/10 - 20/10 | 21/10 - 24/10 | 
-| Gravação e edição da apresentação | Equipe | Equipe | 17/10 - 20/10 | 21/10 - 24/10 |
+| Gravação e edição da apresentação | Leandro e Oscar | Equipe | 17/10 - 20/10 | 21/10 - 24/10 |
 | Revisao cronograma | Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 
 
@@ -56,7 +56,7 @@
 | Planejamento do relato de resultados da avaliação da Análise de tarefas | Jefferson | Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
 | Planejamento da avaliação do protótipo de papel | Rodrigo | Pedro Muniz | 24/10 - 27/10 | 27/10 - 29/10 |
 | Atualização do pages | Leandro | Oscar | 24/10 - 27/10 | 27/10 - 29/10| 
-|Gravação e edição da apresentação | Oscar | Equipe | 29/10 - 30/10 | 29/10 - 30/10 |
+|Gravação e edição da apresentação | Leandro e Oscar | Equipe | 29/10 - 30/10 | 29/10 - 30/10 |
 | Revisão cronograma | Pedro Muniz | Jefferson | 29/10 - 30/10 | 30/10 - 31/10 |
 
 
@@ -70,8 +70,8 @@
 | Planejar a avaliação do protótipo de papel | Mateus Levy | Pedro Muniz | 30/10 - 03/10 | 04/10 - 08/10 |
 | Planejar o relato dos resultados da avaliação do protótipo de papel | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 30/10 - 03/10 | 04/10 - 08/10 |
 | Atualizar GitPage | Leandro e Oscar | Equipe | 30/10 - 03/10 | 04/10 - 08/10 |
-| Gravação e edição da apresentação | Equipe | Equipe | 30/10 - 03/10 | 04/10 - 08/10 |
-| Revisão cronograma | Leandro | Oscar | 30/10 - 03/10 | 04/10 - 08/10 | 
+| Gravação e edição da apresentação | Leandro e Oscar | Equipe | 30/10 - 03/10 | 04/10 - 08/10 |
+| Revisão cronograma | Oscar | Leandro | 30/10 - 03/10 | 04/10 - 08/10 | 
 
 
 ### Ponto de controle 6
@@ -85,7 +85,7 @@
 | Verificação e Relato artefatos etapa 4 | Mateus Levy | Pedro Muniz | 08/10 - 11/10 | 12/10 - 15/10 |
 | Verificação e Relato artefatos etapa 5 | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 08/10 - 11/10 | 12/10 - 15/10 |
 |Atualizar o pages com as novas informações | Leandro | Oscar | 08/10 - 11/10 | 12/10 - 15/10 |
-|Gravação e edição da apresentação | Equipe | Equipe | 08/10 - 11/10 | 12/10 - 15/10 |
+|Gravação e edição da apresentação | Leandro e Oscar | Equipe | 08/10 - 11/10 | 12/10 - 15/10 |
 | Revisao cronograma | Oscar | Rodrigo | 08/10 - 11/10 | 12/10 - 15/10 |
 
 
@@ -100,7 +100,7 @@
 | Verificação e Relato artefatos etapa 4 | Rodrigo | Jefferson | 22/10 - 25/10 | 26/10 - 29/10 | 
 | Verificação e Relato artefatos etapa 5 | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 22/10 - 25/10 | 26/10 - 29/10 |
 | Atualizar o pages com as novas informações | Leandro | Oscar | 22/10 - 25/10 | 26/10 - 29/10 |
-| Gravação e edição da apresentação | Oscar | Equipe | 22/10 - 25/10 | 26/10 - 29/10 |
+| Gravação e edição da apresentação | Leandro e Oscar | Equipe | 22/10 - 25/10 | 26/10 - 29/10 |
 | Revisao cronograma | Pedro Muniz | Tiago | 22/10 - 25/10 | 26/10 - 29/10 | 
 
 ### Ponto de controle 7
@@ -112,7 +112,7 @@
 | Planejamento da avaliação do protótipo de alta de fidelidade | Jefferson | Tiago | 16/11 - 19/11 | 20/11 - 22/11 |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Pedro Muniz | Rodrigo | 16/11 - 19/11 | 20/11 - 22/11 |
 | Atualização do pages | Leandro | Oscar | 16/11 - 19/11| 20/11 - 22/11 |
-| Gravação da apresentação | Equipe | Equipe | 16/11 - 19/11 | 20/11 - 22/11 |
+| Gravação e edição da apresentação  | Leandro e Oscar | Equipe | 16/11 - 19/11 | 20/11 - 22/11 |
 | Cronograma executado | Pedro Muniz | Oscar | 16/11 - 19/11 | 20/11 - 22/11 |
 
 ### Ponto de controle 8
@@ -121,7 +121,7 @@
 | :----: | :--------: | :------------------: | :-----: | :-----------: |
 | Relatos dos resultados do protótipo de alta fidelidade | Rodrigo |  Pedro Muniz | 23/11 - 26/11 | 26/11 - 27/11 |
 Atualizar o pages com as novas informações| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 | 
-| Gravação e edição da apresentação | Equipe | Equipe | 27/11 - 27/11 | 28/11 - 28/11 |
+| Gravação e edição da apresentação | Leandro e Oscar | Equipe | 27/11 - 27/11 | 28/11 - 28/11 |
 | Revisão cronograma | Tiago | Pedro Muniz | 28/11 - 28/11 | 28/11-28/11 |
 
 
