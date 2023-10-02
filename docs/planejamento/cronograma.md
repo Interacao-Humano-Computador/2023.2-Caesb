@@ -30,7 +30,7 @@
 | Processo de design | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 02/10 - 08/10 | 09/10 - 15/10 |
 | Atualizar o pages com as novas informações | Oscar | Leandro |02/10 - 08/10 | 09/10 - 15/10 |
 | Gravação e edição da apresentação | Leandro e Oscar | Equipe | 15/10 - 16/10 | 16/10 - 16/10 |
-| Revisão cronograma | Rodrigo/Leandro| 15/10 - 08/10 | 17/10 - 15/10|
+| Revisão cronograma | Rodrigo e Leandro| Equipe | 15/10 - 08/10 | 17/10 - 15/10|
 
 
 ### Ponto de controle 3
