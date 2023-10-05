@@ -43,5 +43,6 @@
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 27/09/2023 | Adicionou as ferramentas do projeto| Pedro | Rodrigo  |
+| 1.1 | 04/10/2023 | Adicionando imagem das ferramentas e ajuste de referências | Tiago, Leadro e Oscar | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>

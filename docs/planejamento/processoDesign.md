@@ -112,6 +112,7 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 27/09/2023 | Adicionou as definições e o ciclo de vida escolhido| Pedro e Rodrigo | Mateus |
+| 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
 
 </center>
 
