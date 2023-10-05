@@ -1,7 +1,7 @@
 # Cronograma
 
 ## Introdução
-<p align="justify">Cronograma que descreve todas as atividades já realizadas, com suas datas e autores.</p>
+<p align="justify">&emsp;&emsp;Cronograma que descreve todas as atividades já realizadas, com suas datas e autores.</p>
 
 ## Cronograma 
 
@@ -23,7 +23,10 @@
 > SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.
 
 ## Histórico de versão
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionando ponto de controle | Oscar | Leandro |
+
+</center>

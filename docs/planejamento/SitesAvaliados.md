@@ -1,15 +1,15 @@
 # Sites Avaliados
 
 ## Introdução
-Na etapa inicial do projeto, os membros do grupo tiveram a oportunidade de selecionar individualmente sites pertencentes a uma comunidade ou ao governo que demonstrassem algum desafio em termos de usabilidade para os usuários. Durante essa etapa foi utilizado o framework DECIDE para executar a avaliação dos sites.
+<p align="justify">&emsp;&emsp;Na etapa inicial do projeto, os membros do grupo tiveram a oportunidade de selecionar individualmente sites pertencentes a uma comunidade ou ao governo que demonstrassem algum desafio em termos de usabilidade para os usuários. Durante essa etapa foi utilizado o framework DECIDE para executar a avaliação dos sites.</p>
 
 
 ## Objetivo
-O objetivo deste documento é unificar os links de avaliação dos sites avaliados pelos membros.
+<p align="justify">&emsp;&emsp;O objetivo deste documento é unificar os links de avaliação dos sites avaliados pelos membros.</p>
 
 
 ## Sites avaliados
-Na Tabela a seguir, é possível verificar o site escolhido de cada integrante:
+<p align="justify">&emsp;&emsp;Na Tabela a seguir, é possível verificar o site escolhido de cada integrante:</p>
 
 
 
@@ -31,8 +31,8 @@ Na Tabela a seguir, é possível verificar o site escolhido de cada integrante:
 </center>
 
 ## MPDFT
-O membro Jefferson Sena ficou responsável por avaliar o site MPDFT e identificou as seguites 
-heurísticas descumpridas:
+<p align="justify">&emsp;&emsp;O membro Jefferson Sena ficou responsável por avaliar o site MPDFT e identificou as seguites 
+heurísticas descumpridas:</p>
 
 
 - Status do sistema: Simples.
@@ -49,8 +49,8 @@ heurísticas descumpridas:
 
 ## Biblioteca Virtual em Saúde
 
-O membro Leandro Oliveira ficou responsável por avaliar o site Biblioteca Virtual em Saúde e identificou as seguites 
-heurísticas descumpridas:
+<p align="justify">&emsp;&emsp;O membro Leandro Oliveira ficou responsável por avaliar o site Biblioteca Virtual em Saúde e identificou as seguites 
+heurísticas descumpridas:</p>
 
 - Visibilidade do status do sistema: cosmético.
 
@@ -65,8 +65,8 @@ heurísticas descumpridas:
 
 
 ## CAESB
-O membro Mateus Boquady ficou responsável por avaliar o site CAESB e identificou as seguites 
-heurísticas descumpridas:
+<p align="justify">&emsp;&emsp;O membro Mateus Boquady ficou responsável por avaliar o site CAESB e identificou as seguites 
+heurísticas descumpridas:</p>
 
 - Estética e design minimalista: simples.
 
@@ -81,7 +81,7 @@ heurísticas descumpridas:
 
 
 ## Domínio Público
-O membro Pedro Muniz ficou responsável por avaliar o site Domínio Público e teve a seguinte conclusões:
+<p align="justify">&emsp;&emsp;O membro Pedro Muniz ficou responsável por avaliar o site Domínio Público e teve a seguinte conclusões:</p>
 
 
 - O usuário tem dificuldade em concluir as tarefas que o site disponibiliza.
@@ -94,7 +94,7 @@ O membro Pedro Muniz ficou responsável por avaliar o site Domínio Público e t
 
 
 ## Ministério da Educação
-O membro Tiago de lima ficou responsável por avaliar o site Ministério da Educação e identificou as seguites heurísticas descumpridas:
+<p align="justify">&emsp;&emsp;O membro Tiago de lima ficou responsável por avaliar o site Ministério da Educação e identificou as seguites heurísticas descumpridas:</p>
 
 
 - Consistência e padrões: cosmético.
@@ -104,7 +104,7 @@ O membro Tiago de lima ficou responsável por avaliar o site Ministério da Educ
 
 
 ## Portal GOV
-O membro Rodrigo Fonseca ficou responsável por avaliar o site Portal GOV e identificou as seguites heurísticas descumpridas:
+<p align="justify">&emsp;&emsp;O membro Rodrigo Fonseca ficou responsável por avaliar o site Portal GOV e identificou as seguites heurísticas descumpridas:</p>
 
 
 - Visibilidade e estatus do sistema: cosmético.
@@ -139,7 +139,7 @@ específicos, em vez de fornecer pistas ou sugestões contextuais durante a inte
 
 
 ## Câmara Municipal de Rio Branco
-O membro Oscar de Brito ficou responsável por avaliar o site Câmara Municipal de Rio Branco e identificou as seguites heurísticas descumpridas:
+<p align="justify">&emsp;&emsp;O membro Oscar de Brito ficou responsável por avaliar o site Câmara Municipal de Rio Branco e identificou as seguites heurísticas descumpridas:</p>
 
 
 - Estética e design minimalista: Grave.
@@ -156,7 +156,10 @@ O membro Oscar de Brito ficou responsável por avaliar o site Câmara Municipal 
 
 
 ## Histórico de Versões
+<center>
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
  1.0 | 29/09/2023 | Criação do documento | Mateus e Pedro | Rodrigo 
+ 
+</center>

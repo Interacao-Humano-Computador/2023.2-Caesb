@@ -1,7 +1,7 @@
 # Apresentações
 
 ## Introdução
-Este artefato contém todas as apresentações gravadas sobre cada entrega da disciplina.
+<p align="justify">&emsp;&emsp;Este artefato contém todas as apresentações gravadas sobre cada entrega da disciplina.</p>
 
 ## Entrega 1: 
 A apresentação da entrega 1, pode ser vista no [Vídeo 1](https://www.youtube.com/watch?v=pkAoLAPOnQk&ab_channel=oscarbrito).
@@ -21,7 +21,7 @@ A apresentação da entrega 1, pode ser vista no [Vídeo 1](https://www.youtube.
 
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 01/10/2023 | Adicionou video | Oscar | Equipe  |
+|  1.0   | 01/10/2023 | Adicionou video | Oscar | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 
 </center>

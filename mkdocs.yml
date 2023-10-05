@@ -45,9 +45,6 @@ nav:
       - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
   - Apresentações:
       - Entregas: apresentacoes/Entregas.md
-  - Apresentação Final:
-    - Entrega Final: entrega-final/entrega-final.md
-    - Etapa Final - 01/02/2023: entrega-final/etapafinal.md
   - Site selecionado:
     - Site escolhido: site-escolhido/siteEscolhido.md
 markdown_extensions:

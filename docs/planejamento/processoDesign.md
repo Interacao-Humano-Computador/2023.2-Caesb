@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Design é um processo que possui três atividades principais sendo elas:
+<p align="justify">&emsp;&emsp;Design é um processo que possui três atividades principais sendo elas:</p>
 
 
 * Análise da situação atual: Consiste em estudar e interpretar a situação atual;
@@ -10,13 +10,13 @@ Design é um processo que possui três atividades principais sendo elas:
 * Avaliação da nova situação: Consiste na análise dos efeitos da intervenção feita, comparando a situação analisada no primeiro tópico com a nova situação atingida por meio da intervenção proposta.
 
 
-<p align="justify">Para a realização dessas atividades existem os processos de design, que propõem métodos iterativos e ordenados para que se atenda o objetivo final de design que seria atender às necessidades dos usuários e outros envolvidos no sistema em análise. Para esse projeto foram analisados quatro principais processos de design sendo eles o ciclo de vida simples, o ciclo de vida em estrela, a engenharia de usabilidade de Nielsen e a engenharia de usabilidade de Mayhew. Esses processos serão definidos e analisados abaixo.</p>
+<p align="justify">&emsp;&emsp;Para a realização dessas atividades existem os processos de design, que propõem métodos iterativos e ordenados para que se atenda o objetivo final de design que seria atender às necessidades dos usuários e outros envolvidos no sistema em análise. Para esse projeto foram analisados quatro principais processos de design sendo eles o ciclo de vida simples, o ciclo de vida em estrela, a engenharia de usabilidade de Nielsen e a engenharia de usabilidade de Mayhew. Esses processos serão definidos e analisados abaixo.</p>
 
 
 ## Processos
 
 ### Ciclo de vida simples
-<p align="justify">Esse processo apresenta simplicidade em seu desenvolvimento e para ele não existe muita descrição para suas etapas, por isso é recomendado para projetos pequenos.</p>
+<p align="justify">&emsp;&emsp;Esse processo apresenta simplicidade em seu desenvolvimento e para ele não existe muita descrição para suas etapas, por isso é recomendado para projetos pequenos.</p>
 
 <center> <figcaption>Figura 1: Ciclo de vida simples  </figcaption> </center>
 
@@ -36,7 +36,7 @@ Design é um processo que possui três atividades principais sendo elas:
 - Muito simples para projetos maiores;
 
 ### Ciclo de vida em estrela
-<p align="justify">Esse ciclo de vida permite o início de sua execução por qualquer "ponta" da estrela e deve-se passar sempre pela avaliação após a realização das atividades. Esse ciclo de vida apresenta um pouco mais de detalhamento que o ciclo de vida simples.</p>
+<p align="justify">&emsp;&emsp;Esse ciclo de vida permite o início de sua execução por qualquer "ponta" da estrela e deve-se passar sempre pela avaliação após a realização das atividades. Esse ciclo de vida apresenta um pouco mais de detalhamento que o ciclo de vida simples.</p>
 
 <center> <figcaption>Figura 2: Ciclo de vida em estrela </figcaption> </center>
 
@@ -80,7 +80,7 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 - Falta de iteratividade entre as atividades propostas;
 
 ### Engenharia de usabilidade de Mayhew
-<p align="justify">Esse processo divide a análise em três fases a análise de requisitos que consiste em definir as metas de usabilidade utilizando o perfil do usuário, análise de tarefas entre outros. A segunda fase sendo a de design, avaliação e desenvolvimento da solução de IHC que atenda as metas definidas previamente, e por fim, a última fase de instalação que consiste na obtenção do feedback dos usuários para resolver questões e conseguir melhorias.</p>
+<p align="justify">&emsp;&emsp;Esse processo divide a análise em três fases a análise de requisitos que consiste em definir as metas de usabilidade utilizando o perfil do usuário, análise de tarefas entre outros. A segunda fase sendo a de design, avaliação e desenvolvimento da solução de IHC que atenda as metas definidas previamente, e por fim, a última fase de instalação que consiste na obtenção do feedback dos usuários para resolver questões e conseguir melhorias.</p>
 
 <center> <figcaption>Figura 3: Engenharia de usabilidade de Mayhew </figcaption> </center>
 
@@ -99,7 +99,7 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 - Maior complexidade para entender o processo;
 
 ## Ciclo de vida para o projeto
-<p align="justify">Para o projeto tendo em vista os pontos negativos e positivos de todos esses processos analisados ficou definido que será utilizado a engenharia de usabilidade de Mayhew, uma vez que seus passos são bem claros e iterativos, de forma a permitir designers menos experientes aplicá-los com sucesso em projetos mais complexos. </p>
+<p align="justify">&emsp;&emsp;Para o projeto tendo em vista os pontos negativos e positivos de todos esses processos analisados ficou definido que será utilizado a engenharia de usabilidade de Mayhew, uma vez que seus passos são bem claros e iterativos, de forma a permitir designers menos experientes aplicá-los com sucesso em projetos mais complexos. </p>
 
 
 ## Referências
@@ -107,9 +107,11 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de versão
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 27/09/2023 | Adicionou as definições e o ciclo de vida escolhido| Pedro e Rodrigo | Mateus |
 
+</center>
 

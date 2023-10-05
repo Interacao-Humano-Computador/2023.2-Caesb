@@ -35,6 +35,6 @@ Local: Online via Teams
 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0  | 27/09/2023 | Escrita da ata | Leandro | Todos                                            |
+| 1.0  | 27/09/2023 | Escrita da ata | Leandro | Rodrigo                                           |
 
 </center>

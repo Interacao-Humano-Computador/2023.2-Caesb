@@ -1,7 +1,7 @@
 # Cronograma
 
 ## Introdução
-<p align="justify">Para realizar um planejamento melhor para o projeto foi definido um cronograma preliminar, baseado no plano de ensino disponibilizado nos materias do aprender e em cronogramas realizados em projetos passados</p>
+<p align="justify">&emsp;&emsp;Para realizar um planejamento melhor para o projeto foi definido um cronograma preliminar, baseado no plano de ensino disponibilizado nos materias do aprender e em cronogramas realizados em projetos passados</p>
 
 ## Cronograma 
 
@@ -130,11 +130,13 @@ Atualizar o pages com as novas informações| Leandro | Oscar | 23/11 - 26/11 | 
 > SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.
 
 ## Histórico de versão
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 01/10/2023 | Adicionando cronograma definido| Pedro | Equipe |
+|  1.0   | 01/10/2023 | Adicionando cronograma definido| Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
+</center>
 
 
 
