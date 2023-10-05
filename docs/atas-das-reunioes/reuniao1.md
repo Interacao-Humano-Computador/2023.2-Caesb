@@ -12,6 +12,7 @@ Local: Online via Teams
 - [x] Oscar de Brito
 - [x] Rodrigo fonseca
 - [x] Tiago Albuquerque
+- [x] Pedro Henrique
 
 ## Discussão:
 
