@@ -13,25 +13,25 @@
 | Site selecionado |  Criar a página no pages  sobre o site selecionado  |Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 18/09 - 25/09 | 28/09 - 01/09 |   
 | Metodologia |   Criar a página no pages sobre a metodologia do projeto       |Jefferson | Tiago | 25/09 - 28/09 | 28/09 - 01/09 |   
 | Ferramentas |  Criar a página no pages sobre as ferramentas que serão usadas no projeto        |Pedro Muniz | Leandro | 25/09 - 28/09 | 28/09 - 01/09 |   
-| Processo de design | Criar a página no pages sobre o preocesso de design que será abordado não projeto  |Pedro Muniz e Rodrigo Fonseca | Mateus levy | 25/09 - 28/09 | 28/09 - 01/09 | 
+| Processo de design | Criar a página no pages sobre o preocesso de design que será abordado no projeto  |Pedro Muniz e Rodrigo Fonseca | Mateus levy | 25/09 - 28/09 | 28/09 - 01/09 | 
 | Criação pages |  Disponibilizar o GitHub Pages e subir o sistema    | Leandro | Oscar | 25/09 - 28/09 | 28/09 - 01/09 |   
 | Gravação e edição da apresentação |  Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina    |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/09 - 01/09 | 01/09 - 02/09 | 
 | revisão da entrega 01 |   Revisar e fazer as alterações feitas pelo doscente após a apresentação   |   Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/10 - 07/10 | 01/09 - 02/09 | 
-| Revisao cronograma |  revisar e realizar as alterações necessárias no  cronograma    |   Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/10 - 07/10 | 01/09 - 02/09 | 
+| Revisao cronograma |  Revisar e realizar as alterações necessárias no  cronograma    |   Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/10 - 07/10 | 01/09 - 02/09 | 
 
 
 ### Ponto de controle 2
 
 | Atividade | Detalhamento|  Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão | 
 | :----: | :--------: | :------------------: | :-----: | :-----------: |:-----------: |
-| Perfil do Usuário |         |Pedro Muniz | Mateus Levy | 02/10 - 08/10 |09/10 - 15/10 |
-| Aspectos Éticos de Pesquisas com Pessoas |    |Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 02/10 - 08/10 | 09/10 - 15/10 |
-| Análise de tarefas |       |Jefferson | Tiago | 02/10 - 08/10 | 09/10 - 15/10 |
-| Criação de Personas |      |Pedro Muniz | Mateus Levy | 02/10 - 08/10|09/10 - 15/10 |
-| Processo de design |       |Pedro Muniz e Rodrigo Fonseca | Mateus levy | 02/10 - 08/10 | 09/10 - 15/10 |
-| Atualizar o pages com as novas informações |        |Oscar | Leandro |02/10 - 08/10 | 09/10 - 15/10 |
-| Gravação e edição da apresentação |         |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 16/10 | 16/10 - 16/10 |
-| Revisão cronograma | revisar e realizar as alterações necessárias no  cronograma        |Rodrigo e Leandro| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 08/10 | 17/10 - 15/10|
+| Perfil do Usuário |     Definição dos atributos do Perfil do usuário     |Pedro Muniz | Mateus Levy | 02/10 - 08/10 |09/10 - 15/10 |
+| Aspectos Éticos de Pesquisas com Pessoas |  Documentação referente aos Aspectos Éticos de Pesquisas com Pessoas   |Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 02/10 - 08/10 | 09/10 - 15/10 |
+| Análise de tarefas |   Definição das técnicas a serem utilizadas para análise de tarefas    |Jefferson | Tiago | 02/10 - 08/10 | 09/10 - 15/10 |
+| Criação de Personas |    Criação de Personas baseados no dados levantados no perfil de usuário   |Pedro Muniz | Mateus Levy | 02/10 - 08/10|09/10 - 15/10 |
+| Processo de design |    Desenvolvimento do Processo de Design   |Pedro Muniz e Rodrigo Fonseca | Mateus levy | 02/10 - 08/10 | 09/10 - 15/10 |
+| Atualizar o GitPages  |    Atualizar o pages com as novas informações    |Oscar | Leandro |02/10 - 08/10 | 09/10 - 15/10 |
+| Gravação e edição da apresentação |    Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina     |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 16/10 | 16/10 - 16/10 |
+| Revisão cronograma | Revisar e realizar as alterações necessárias no  cronograma        |Rodrigo e Leandro| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 08/10 | 17/10 - 15/10|
 
 
 ### Ponto de controle 3
@@ -42,9 +42,9 @@
 | Determinar as metas de usabilidade |     | Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 | Criar o guia de estilos |     |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 | 
 | Determinar as características da plataforma para o projeto|    |Mateus Levy | Pedro Muniz | 17/10 - 20/10 | 21/10 - 24/10 |
-| Atualizar o pages com as novas informações |   | Mateus Levy | Tiago  | 17/10 - 20/10 | 21/10 - 24/10 | 
-| Gravação e edição da apresentação |   | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 |
-| Revisao cronograma |    |Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
+| Atualizar o GitPages | Atualizar o pages com as novas informações  | Mateus Levy | Tiago  | 17/10 - 20/10 | 21/10 - 24/10 | 
+| Gravação e edição da apresentação |  Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 |
+| Revisao cronograma |  Revisar e realizar as alterações necessárias no  cronograma  |Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 
 
 ### Ponto de controle 4
@@ -56,9 +56,9 @@
 |Planejamento da avaliação storyboard |   |Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago  | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
 | Planejamento do relato de resultados da avaliação da Análise de tarefas |   |Jefferson | Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
 | Planejamento da avaliação do protótipo de papel |    |Rodrigo | Pedro Muniz | 24/10 - 27/10 | 27/10 - 29/10 |
-| Atualização do pages |    |Leandro | Oscar | 24/10 - 27/10 | 27/10 - 29/10| 
-|Gravação e edição da apresentação |     |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 29/10 - 30/10 | 29/10 - 30/10 |
-| Revisão cronograma |    |Pedro Muniz   |Jefferson | 29/10 - 30/10 | 30/10 - 31/10 |
+| Atualizar o GitPages |  Atualizar o pages com as novas informações  |Leandro | Oscar | 24/10 - 27/10 | 27/10 - 29/10| 
+|Gravação e edição da apresentação |  Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina   |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 29/10 - 30/10 | 29/10 - 30/10 |
+| Revisão cronograma |  Revisar e realizar as alterações necessárias no  cronograma  |Pedro Muniz   |Jefferson | 29/10 - 30/10 | 30/10 - 31/10 |
 
 
 ### Ponto de controle 5
@@ -70,9 +70,9 @@
 | Relatar a análise de tarefas |       | Jefferson | Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
 | Planejar a avaliação do protótipo de papel |     | Mateus Levy | Pedro Muniz | 30/10 - 03/10 | 04/10 - 08/10 |
 | Planejar o relato dos resultados da avaliação do protótipo de papel |  | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 30/10 - 03/10 | 04/10 - 08/10 |
-| Atualizar GitPage |    | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
-| Gravação e edição da apresentação |     | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
-| Revisão cronograma |       | Oscar | Leandro | 30/10 - 03/10 | 04/10 - 08/10 | 
+| Atualizar o GitPages |  Atualizar o pages com as novas informações  | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
+| Gravação e edição da apresentação |  Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina   | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
+| Revisão cronograma |    Revisar e realizar as alterações necessárias no  cronograma   | Oscar | Leandro | 30/10 - 03/10 | 04/10 - 08/10 | 
 
 
 ### Ponto de controle 6
@@ -85,9 +85,9 @@
 | Verificação e Relato artefatos etapa 3 | | Jefferson | Tiago | 08/10 - 11/10 | 12/10 - 15/10 |
 | Verificação e Relato artefatos etapa 4 | | Mateus Levy | Pedro Muniz | 08/10 - 11/10 | 12/10 - 15/10 |
 | Verificação e Relato artefatos etapa 5 | | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 08/10 - 11/10 | 12/10 - 15/10 |
-|Atualizar o pages com as novas informações | | Leandro | Oscar | 08/10 - 11/10 | 12/10 - 15/10 |
-|Gravação e edição da apresentação | | Leandro e Oscar | Equipe | 08/10 - 11/10 | 12/10 - 15/10 |
-| Revisao cronograma | | Oscar | Rodrigo | 08/10 - 11/10 | 12/10 - 15/10 |
+|Atualizar o GitPages | Atualizar o pages com as novas informações | Leandro | Oscar | 08/10 - 11/10 | 12/10 - 15/10 |
+|Gravação e edição da apresentação | Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina | Leandro e Oscar | Equipe | 08/10 - 11/10 | 12/10 - 15/10 |
+| Revisao cronograma | Revisar e realizar as alterações necessárias no  cronograma | Oscar | Rodrigo | 08/10 - 11/10 | 12/10 - 15/10 |
 
 
 ### Ponto de controle 6.2
@@ -100,9 +100,9 @@
 | Verificação e Relato artefatos etapa 3 || Jefferson | Tiago | 22/10 - 25/10 | 26/10 - 29/10 | 
 | Verificação e Relato artefatos etapa 4 || Rodrigo | Jefferson | 22/10 - 25/10 | 26/10 - 29/10 | 
 | Verificação e Relato artefatos etapa 5 || Pedro Muniz e Rodrigo Fonseca | Mateus levy | 22/10 - 25/10 | 26/10 - 29/10 |
-| Atualizar o pages com as novas informações || Leandro | Oscar | 22/10 - 25/10 | 26/10 - 29/10 |
-| Gravação e edição da apresentação || Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 22/10 - 25/10 | 26/10 - 29/10 |
-| Revisao cronograma || Pedro Muniz | Tiago | 22/10 - 25/10 | 26/10 - 29/10 | 
+| Atualizar o GitPages | Atualizar o pages com as novas informações | Leandro | Oscar | 22/10 - 25/10 | 26/10 - 29/10 |
+| Gravação e edição da apresentação | Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 22/10 - 25/10 | 26/10 - 29/10 |
+| Revisao cronograma | Revisar e realizar as alterações necessárias no  cronograma | Pedro Muniz | Tiago | 22/10 - 25/10 | 26/10 - 29/10 | 
 
 ### Ponto de controle 7
 
@@ -112,16 +112,16 @@
 | Relato dos resultados e desenvolvimento do protótipo de papel| | Oscar | Leandro | 16/11 - 19/11 | 20/11 - 22/11 |
 | Planejamento da avaliação do protótipo de alta de fidelidade| | Jefferson | Tiago | 16/11 - 19/11 | 20/11 - 22/11 |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade| | Pedro Muniz | Rodrigo | 16/11 - 19/11 | 20/11 - 22/11 |
-| Atualização do pages || Leandro | Oscar | 16/11 - 19/11| 20/11 - 22/11 |
-| Gravação e edição da apresentação  || Leandro e Oscar | Equipe | 16/11 - 19/11 | 20/11 - 22/11 |
-| Cronograma executado || Pedro Muniz | Oscar | 16/11 - 19/11 | 20/11 - 22/11 |
+| Atualizar o GitPages | Atualizar o pages com as novas informações | Leandro | Oscar | 16/11 - 19/11| 20/11 - 22/11 |
+| Gravação e edição da apresentação  | Efetuar a gravação e a edição do vídeo da apresentação para o doscente da disciplina | Leandro e Oscar | Equipe | 16/11 - 19/11 | 20/11 - 22/11 |
+| Revisão Cronograma | Revisar e realizar as alterações necessárias no  cronograma | Pedro Muniz | Oscar | 16/11 - 19/11 | 20/11 - 22/11 |
 
 ### Ponto de controle 8
 
 | Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: | :--------: | :------------------: | :-----: | :-----------: |
 | Relatos dos resultados do protótipo de alta fidelidade | Rodrigo |  Pedro Muniz | 23/11 - 26/11 | 26/11 - 27/11 |
-Atualizar o pages com as novas informações| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 | 
+Atualizar o GitPages| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 | 
 | Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 27/11 - 27/11 | 28/11 - 28/11 |
 | Revisão cronograma | Tiago | Pedro Muniz | 28/11 - 28/11 | 28/11-28/11 |
 
@@ -136,7 +136,7 @@ Atualizar o pages com as novas informações| Leandro | Oscar | 23/11 - 26/11 | 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionando cronograma definido| Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
-| 1.1 | 04/10/2023 | Adicionando detalahemnte e corrige nome da equipe | Leadro, Oscar e Tiago  | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+| 1.1 | 04/10/2023 | Adicionando detalhamento e corrige nome da equipe | Leadro, Oscar, Tiago e Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
 
