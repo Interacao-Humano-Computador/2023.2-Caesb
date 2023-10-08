@@ -7,16 +7,17 @@
 
 ### Ponto de controle 1
 
-| Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
-| :----: | :--------: | :------------------: | :-----: | :-----------: |
-| Sites avaliados   | Leandro e Oscar| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/09 - 24/09 | 25/09 - 28/09 |  28/09 - 01/09 |
-| Site selecionado | Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 18/09 - 25/09 | 28/09 - 01/09 |
-| Metodologia | Jefferson | Tiago | 25/09 - 28/09 | 28/09 - 01/09 |
-| Ferramentas | Pedro Muniz | Leandro | 25/09 - 28/09 | 28/09 - 01/09 |
-| Processo de design | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 25/09 - 28/09 | 28/09 - 01/09 |
-| Criação pages | Leandro | Oscar | 26/09 - 28/09 | 28/09 - 01/09 |
-| Gravação e edição da apresentação | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/09 - 01/09 | 01/09 - 02/09 |
-| Revisao cronograma | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/09 - 01/09 | 01/09 - 02/09 |
+| Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento |Período planejado |Período de revisão |
+| :----: | :--------: | :------------------: | :-----: | :-----------: |:-----------: |
+| Sites avaliados   | Mateus e Pedro| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 29/09/2023 | 25/09 - 28/09 | 25/09 - 29/09  |
+| Site selecionado | Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/10/2023	| 18/09 - 25/09 |28/09 - 01/09|
+| Metodologia | Jefferson | Tiago | 29/09/2023 | 25/09 - 28/09  |28/09 - 01/09|
+| Ferramentas | Pedro Muniz | Leandro | 27/09/2023 | 25/09 - 28/09 |28/09 - 01/09|
+| Processo de design | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 27/09/2023	 |25/09 - 28/09 |28/09 - 01/09 |
+| Criação pages | Leandro | Oscar | 24/09/2023	| 25/09 - 28/09 |28/09 - 01/09 |
+| Gravação e edição da apresentação | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/09/2023 | 30/09 - 01/09 |01/09 - 02/09 |
+| revisão da entrega 01 |   Revisar e fazer as alterações feitas pelo doscente após a apresentação   |   Jefferson, Leandro, Oscar, Pedro, e Tiago | 01/10 - 07/10 | 01/10 - 07/10 | 07/10 - 09/10 | 
+| Revisao cronograma | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 08/10 - 12/10 | 01/10 - 07/10 |12/10 - 13/10|
 
 ## Referências
 
@@ -29,5 +30,6 @@
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionando ponto de controle | Oscar | Leandro |
 | 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
+| 1.2 | 08/10/2023 | Atualiza Cronograma | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
