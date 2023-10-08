@@ -1,7 +1,7 @@
 # Ferramentas
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Para execução do projeto está planejado o uso de diversas ferramentas computacionais para auxiliar e organizar os membros, entregas e artefatos do projeto. Essas ferramentas serão apresentadas na tabela a seguir. </p>
+<p align="justify">&emsp;&emsp;Para esse projeto visando uma maior organização e maior suporte no desenvolvimento das atividades, artefatos e reuniões, deverá ser  utilizadas algumas ferramentas, que serão definidas na tabela a seguir com base nas experiências prévias dos membros com outros projetos: </p>
 
 
 ## Tabela de ferramentas
@@ -44,5 +44,6 @@
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 27/09/2023 | Adicionou as ferramentas do projeto| Pedro | Rodrigo  |
 | 1.1 | 04/10/2023 | Adicionando imagem das ferramentas e ajuste de referências | Tiago, Leadro e Oscar | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+| 1.2 | 08/10/2023 | Atualiza ferramentas | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
