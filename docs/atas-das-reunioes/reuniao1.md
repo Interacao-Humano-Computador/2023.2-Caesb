@@ -28,7 +28,9 @@ Local: Online via Teams
 
 ## Link da gravação:
 
-<a href="https://unbbr.sharepoint.com/sites/IHCGrupo6/Documentos%20Compartilhados/General/Recordings/Nova%20reuni%C3%A3o%20do%20canal-20230926_201122-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1" target="_blank">Clique aqui para assistir</a>
+[link da Reunião 26/09/2023](https://youtu.be/QI2rutgskrM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QI2rutgskrM?si=w8Axn1UHFtf7kzua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Histórico de versão
 
@@ -36,6 +38,8 @@ Local: Online via Teams
 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0  | 27/09/2023 | Escrita da ata | Leandro | Rodrigo                                           |
+| 1.0  | 27/09/2023 | Escrita da ata | Leandro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago                                           |
+| 1.1 | 27/09/2023 | Insere links e video na pagina | Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago                                           |
+
 
 </center>

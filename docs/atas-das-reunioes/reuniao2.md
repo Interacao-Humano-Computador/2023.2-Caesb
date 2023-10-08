@@ -16,8 +16,19 @@ Local: Online via Teams
 
 ## Decisões:
 
-- Oscar, Leandro, Tiago e Jefferson atualizaram os GitHub Pages com as informações recomendadas pelo professo
-
+- Oscar, Leandro, Tiago e Jefferson atualizaram os GitHub Pages com as informações recomendadas pelo professor
 ## Link da gravação:
+[link da Reunião 04/10/2023](https://www.youtube.com/watch?v=s-D8CWH-5t4&ab_channel=oscarbrito)
 
-<a href="https://unbbr.sharepoint.com/sites/IHCGrupo6/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20231004_210511-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1" target="_blank">Clique aqui para assistir</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-D8CWH-5t4?si=LtPIpIQqkjyGxrUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Histórico de versão
+
+<center>
+
+| Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
+| ------ | ---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| 1.0 | 04/10/2023 | Escrita da ata | Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |                                       |
+| 1.1 | 08/10/2023 | Insere links e video na pagina | Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |   
+
+</center>

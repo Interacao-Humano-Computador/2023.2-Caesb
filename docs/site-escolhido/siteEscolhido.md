@@ -51,7 +51,7 @@ Imagem da página inicial do Website da CAESB. [Fonte: https://www.caesb.df.gov.
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Declaração do Site  | Oscar de Brito | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago  |
-| 1.2 | 08/10/2023 | Atualiza informações | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+| 1.1 | 08/10/2023 | Atualiza informações | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 
 
 </center>
