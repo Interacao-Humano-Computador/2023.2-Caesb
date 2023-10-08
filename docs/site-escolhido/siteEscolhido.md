@@ -26,30 +26,37 @@ Razões para avaliar o site da CAESB:
 
 5. **Suporte ao Cliente**: <p align="justify">&emsp;&emsp;A presença de informações de suporte, incluindo números de contato, FAQs (Perguntas Frequentes) e formulários de contato, é crucial para atender às necessidades dos clientes.</p>
 
+6. **Facilidade de contato com público-alvo**: <p align="justify">&emsp;&emsp; Tendo em vista que o site apresenta um bem presente em todas as residências, que é o acesso a água, se torna fácil ter acesso aos usuários do site tendo em vista que a grande maioria da população utiliza desse bem e com isso tem grandes chance de ter utilizado o site para alguma funcionalidade relacionada a isso, como checar contas, reportar problemas entre outros.</p>
+
 <p align="justify">&emsp;&emsp;  A avaliação da interação humano-computador no contexto desse site pode ajudar a identificar áreas para melhorias, garantindo que ele continue a servir efetivamente a comunidade, fornecendo informações e serviços essenciais de maneira acessível e eficaz.</p>
 
 ![Alt text](image.png)
 
 Imagem da página inicial do Website da CAESB. [Fonte: https://www.caesb.df.gov.br/](https://www.caesb.df.gov.br/)
 
-## Histórico de versão
 
-<center>
-
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 01/10/2023 | Declaração do Site  | Oscar de Brito | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago  |
-
-
-</center>
-
----
 
 ## Referências
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 > Site da Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 26 set. 2023.
+
+
+## Histórico de versão
+
+
+<center>
+
+| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 01/10/2023 | Declaração do Site  | Oscar de Brito | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago  |
+| 1.2 | 08/10/2023 | Atualiza informações | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+
+
+</center>
+
+
 
 <hr/>
 <p align="center"><b>Grupo 6</b></p>
