@@ -1,7 +1,7 @@
 # Sites Avaliados
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Na etapa inicial do projeto, os membros do grupo tiveram a oportunidade de selecionar individualmente sites pertencentes a uma comunidade ou ao governo que demonstrassem algum desafio em termos de usabilidade para os usuários. Durante essa etapa foi utilizado o framework DECIDE para executar a avaliação dos sites.</p>
+<p align="justify">&emsp;&emsp;Na etapa inicial do projeto, os membros do grupo tiveram a oportunidade de selecionar individualmente sites pertencentes a uma comunidade ou ao governo que demonstrassem algum desafio em termos de usabilidade para os usuários. Durante essa etapa foi utilizado o framework DECIDE<a href="#8"><sup> 8</sup></a> para executar a avaliação dos sites.</p>
 
 
 ## Objetivo
@@ -18,13 +18,13 @@
 
 | Nome | Site avaliado | Avaliação |
 | :---------------------------------------------: | :----------------------: | :-------------------------:|
-| [Jefferson Sena](https://github.com/JeffersonSenaa) | [MPDFT](https://www.mpdft.mp.br/portal/) |[Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoMPDFT.pdf) |
-| [Leandro Oliveira](https://github.com/leomitx10) | [Biblioteca Virtual em Saúde](https://bvsms.saude.gov.br/) | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoBibliotecaVirtualEmSaude.pdf) |
-| [Mateus Boquady](https://github.com/mateus9levy) | [CAESB](https://www.caesb.df.gov.br/) | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoCAESB.pdf) |
-| [Pedro Muniz](https://github.com/Muniz2811) | [Domínio Público](http://www.dominiopublico.gov.br/) |   [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoDominioPublico.pdf) | 
-| [Tiago de Lima](https://github.com/Tiago1604) | [Ministério da Educação](http://portal.mec.gov.br/) |   [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoMinisterioEducacao.pdf)  | 
-|[Rodrigo Fonseca](https://github.com/rodfon3301)| [ Portal GOV ](https://www.gov.br/pt-br )| [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoPortalGov.pdf)  |
-|[Oscar de Brito](https://github.com/OscarDeBrito)| [Câmara Municipal de Rio Branco](https://www.riobranco.ac.leg.br/) | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoCamaraRioBranco.pdf) |
+| [Jefferson Sena](https://github.com/JeffersonSenaa) | [MPDFT](https://www.mpdft.mp.br/portal/) <a href="#MPDFT"><sup>1</sup></a> |[Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoMPDFT.pdf) |
+| [Leandro Oliveira](https://github.com/leomitx10) | [Biblioteca Virtual em Saúde](https://bvsms.saude.gov.br/) <a href="#biblioteca"><sup>2</sup></a> | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoBibliotecaVirtualEmSaude.pdf) |
+| [Mateus Boquady](https://github.com/mateus9levy) | [CAESB](https://www.caesb.df.gov.br/) <a href="#3"><sup>3</sup></a> | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoCAESB.pdf) |
+| [Pedro Muniz](https://github.com/Muniz2811) | [Domínio Público](http://www.dominiopublico.gov.br/) <a href="#4"><sup>4</sup></a> |   [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoDominioPublico.pdf) | 
+| [Tiago de Lima](https://github.com/Tiago1604) | [Ministério da Educação](http://portal.mec.gov.br/) <a href="#5"><sup>5</sup></a>|   [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoMinisterioEducacao.pdf)  | 
+|[Rodrigo Fonseca](https://github.com/rodfon3301)| [ Portal GOV ](https://www.gov.br/pt-br ) <a href="#6"><sup>6</sup></a> | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoPortalGov.pdf)  |
+|[Oscar de Brito](https://github.com/OscarDeBrito)| [Câmara Municipal de Rio Branco](https://www.riobranco.ac.leg.br/) <a href="#7"><sup>7</sup></a> | [Link da avaliação aqui](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/assets/avaliacoes/avaliacaoCamaraRioBranco.pdf) |
 
 
 
@@ -153,14 +153,31 @@ específicos, em vez de fornecer pistas ou sugestões contextuais durante a inte
 
 - Consistência e padrões: Simples.
 
+## Referências
 
+> <p id="MPDFT">1. MPDFT. Disponível em: <https://www.mpdft.mp.br/portal/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="biblioteca">2. Biblioteca Virtual em Saúde. Disponível em: <https://bvsms.saude.gov.br/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="3">3. Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="4">4. Domínio Público. Disponível em: <http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp>. Acesso em: 27 set. 2023.</p>
+
+> <p id="5">5. Ministério da Educação. Disponível em: <http://portal.mec.gov.br/institucional>. Acesso em: 27 set. 2023.</p>
+
+> <p id="6">6. Portal GOV. Disponível em: <https://www.gov.br/pt-br>. Acesso em: 27 set. 2023.</p>
+
+> <p id="7">7. Câmara Municipal de Rio Branco. Disponível em: <https://www.riobranco.ac.leg.br/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="8">8. BARBOSA, Simone; DINIZ, Bruno. <b>Interação Humano-Computador</b>, Editora Elsevier, Rio de Janeiro, 2010.</p>
 
 ## Histórico de Versões
 <center>
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
- 1.0 | 29/09/2023 | Criação do documento | Mateus e Pedro | Rodrigo 
- 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago 
+:---------: | :------: | :------: | :----------: | :----------:
+ 1.0 | 29/09/2023 | Criação do documento | Mateus e Pedro | Rodrigo |
+ 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
+ 1.2 | 08/10/2023 | Adiciona referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
  
 </center>

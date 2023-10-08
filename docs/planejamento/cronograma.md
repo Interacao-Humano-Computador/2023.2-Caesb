@@ -136,7 +136,7 @@ Atualizar o GitPages| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 |
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionando cronograma definido| Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
-| 1.1 | 04/10/2023 | Adicionando detalhamento e corrige nome da equipe | Leadro, Oscar, Tiago e Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+| 1.1 | 04/10/2023 | Adicionando detalhamento e corrige nome da equipe | Leandro, Oscar, Tiago e Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
 
