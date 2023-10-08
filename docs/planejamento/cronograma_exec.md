@@ -1,7 +1,7 @@
 # Cronograma
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Cronograma que descreve todas as atividades já realizadas, com suas datas e autores.</p>
+<p align="justify">&emsp;&emsp;O cronograma descreve todas as atividades já realizadas, com suas datas e autores de acordo com o que foi disponibilizado pelo professor na plataforma aprender 3<a href="#1"><sup>1</sup></a>.</p>
 
 ## Cronograma 
 
@@ -21,7 +21,7 @@
 
 ## Referências
 
-> SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.
+> <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>
 
 ## Histórico de versão
 <center>
@@ -31,5 +31,6 @@
 |  1.0   | 01/10/2023 | Adicionando ponto de controle | Oscar | Leandro |
 | 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
 | 1.2 | 08/10/2023 | Atualiza Cronograma | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+| 1.3 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>

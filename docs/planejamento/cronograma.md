@@ -1,7 +1,7 @@
 # Cronograma
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Para realizar um planejamento melhor para o projeto foi definido um cronograma preliminar, baseado no plano de ensino disponibilizado nos materias do aprender e em cronogramas realizados em projetos passados</p>
+<p align="justify">&emsp;&emsp;Para realizar um planejamento melhor para o projeto foi definido um cronograma preliminar, baseado no plano de ensino disponibilizado nos materias do aprender<a href="#1"><sup>1</sup></a> e em cronogramas realizados em projetos passados<a href="#2"><sup>2</sup></a>.</p>
 
 ## Cronograma 
 
@@ -128,7 +128,10 @@ Atualizar o GitPages| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 |
 
 ## Referências
 
-> SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.
+> <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>
+
+> <p id="2">2. Banco Central. Disponível em: <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/">https://interacao-humano-computador.github.io/2023.1-BancoCentral/</a>. Acesso em 8 de outubro de 2023.</p>
+
 
 ## Histórico de versão
 <center>
@@ -137,6 +140,7 @@ Atualizar o GitPages| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionando cronograma definido| Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.1 | 04/10/2023 | Adicionando detalhamento e corrige nome da equipe | Leandro, Oscar, Tiago e Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+| 1.2 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
 

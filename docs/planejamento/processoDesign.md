@@ -10,7 +10,7 @@
 * Avaliação da nova situação: Consiste na análise dos efeitos da intervenção feita, comparando a situação analisada no primeiro tópico com a nova situação atingida por meio da intervenção proposta.
 
 
-<p align="justify">&emsp;&emsp;Para a realização dessas atividades existem os processos de design, que propõem métodos iterativos e ordenados para que se atenda o objetivo final de design que seria atender às necessidades dos usuários e outros envolvidos no sistema em análise. Para esse projeto foram analisados quatro principais processos de design sendo eles o ciclo de vida simples, o ciclo de vida em estrela, a engenharia de usabilidade de Nielsen e a engenharia de usabilidade de Mayhew. Esses processos serão definidos e analisados abaixo.</p>
+<p align="justify">&emsp;&emsp;Para a realização dessas atividades existem os processos de design, que propõem métodos iterativos e ordenados para que se atenda o objetivo final de design que seria atender às necessidades dos usuários e outros envolvidos no sistema em análise. Para esse projeto foram analisados quatro principais processos de design sendo eles o ciclo de vida simples, o ciclo de vida em estrela, a engenharia de usabilidade de Nielsen e a engenharia de usabilidade de Mayhew<a href="#1"><sup>1</sup></a>. Esses processos serão definidos e analisados abaixo.</p>
 
 
 ## Processos
@@ -104,7 +104,7 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 
 ## Referências
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <p id="1"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p>
 
 ## Histórico de versão
 <center>
@@ -113,6 +113,7 @@ Propões uma série de atividades para se fazer a análise, sendo elas:
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 27/09/2023 | Adicionou as definições e o ciclo de vida escolhido| Pedro e Rodrigo | Mateus |
 | 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
+| 1.2 | 08/10/2023 | Arruma referências | Leandro, Oscar e Pedro | Mateus |
 
 </center>
 
