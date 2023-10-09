@@ -29,7 +29,7 @@
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionando ponto de controle | Oscar | Leandro |
-| 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
+| 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Tiago |
 | 1.2 | 08/10/2023 | Atualiza Cronograma | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 | 1.3 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 

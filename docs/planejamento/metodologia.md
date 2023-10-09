@@ -44,7 +44,7 @@ Onde tipo diz respeito ao tipo de issue: feat (funcionalidade), refac (refatora�
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 29/09/2023 | Descrição da Metodologia | Jefferson e Tiago | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago  |
-| 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
+| 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Tiago |
 | 1.2 | 08/10/2023 | Arruma referências | Leandro, Oscar e Pedro | Jefferson |
 
 </center>

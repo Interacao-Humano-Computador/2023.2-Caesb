@@ -177,7 +177,7 @@ específicos, em vez de fornecer pistas ou sugestões contextuais durante a inte
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 :---------: | :------: | :------: | :----------: | :----------:
  1.0 | 29/09/2023 | Criação do documento | Mateus e Pedro | Rodrigo |
- 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Thiago |
+ 1.1 | 04/10/2023 | Arruma formatação | Leandro e Oscar | Tiago |
  1.2 | 08/10/2023 | Adiciona referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
  
 </center>
