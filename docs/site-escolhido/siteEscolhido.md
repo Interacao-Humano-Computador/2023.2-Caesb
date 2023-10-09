@@ -1,7 +1,7 @@
 # Site escolhido
 
 ## Introdução
-<p align="justify">&emsp;&emsp; Na fase inicial do projeto de Interação Humano-Computador, os estudantes individualmente selecionaram websites governamentais ou de comunidades de software livre e realizaram avaliações de usabilidade com base no framework DECIDE. Em seguida, em grupos, discutiram e escolheram o website que apresentava os desafios mais significativos em usabilidade, trabalhando para propor melhorias práticas e aplicar seus conhecimentos teóricos em um contexto real.</p>
+<p align="justify">&emsp;&emsp; Na fase inicial do projeto de Interação Humano-Computador, os estudantes individualmente selecionaram websites governamentais ou de comunidades de software livre e realizaram avaliações de usabilidade com base no framework DECIDE<a href="#1"><sup>1</sup></a>. Em seguida, em grupos, discutiram e escolheram o website que apresentava os desafios mais significativos em usabilidade, trabalhando para propor melhorias práticas e aplicar seus conhecimentos teóricos em um contexto real.</p>
 
 ## Website escolhido pela equipe
 <p align="justify">&emsp;&emsp;Após a seleção individual, o grupo discutiu as sugestões, levando em consideração os seguintes critérios:</p>
@@ -12,7 +12,7 @@
 
 ## CAESB - COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL
 
-<p align="justify">&emsp;&emsp; A Companhia de Saneamento Ambiental do Distrito Federal, conhecida como CAESB, é uma empresa pública responsável pelo abastecimento de água e tratamento de esgoto na região do Distrito Federal, Brasil. Com a missão de fornecer serviços essenciais para a população, a CAESB mantém um compromisso contínuo com a qualidade e eficiência de seus serviços, e isso inclui a interação com seus clientes por meio de seu site oficial.</p>
+<p align="justify">&emsp;&emsp; A Companhia de Saneamento Ambiental do Distrito Federal, conhecida como CAESB<a href="#2"><sup>2</sup></a>, é uma empresa pública responsável pelo abastecimento de água e tratamento de esgoto na região do Distrito Federal, Brasil. Com a missão de fornecer serviços essenciais para a população, a CAESB mantém um compromisso contínuo com a qualidade e eficiência de seus serviços, e isso inclui a interação com seus clientes por meio de seu site oficial.</p>
 
 Razões para avaliar o site da CAESB:
 
@@ -38,9 +38,9 @@ Imagem da página inicial do Website da CAESB. [Fonte: https://www.caesb.df.gov.
 
 ## Referências
 
-> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+> <p id="1">1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.</p>
 
-> Site da Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 26 set. 2023.
+> <p id="2">2. Site da Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 26 set. 2023.</p>
 
 
 ## Histórico de versão
@@ -52,6 +52,7 @@ Imagem da página inicial do Website da CAESB. [Fonte: https://www.caesb.df.gov.
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Declaração do Site  | Oscar de Brito | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago  |
 | 1.1 | 08/10/2023 | Atualiza informações | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+| 1.2 | 08/10/2023 | Arruma as referências | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 
 
 </center>

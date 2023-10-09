@@ -19,7 +19,10 @@ Local: Online via Teams
 
 ## Link da gravação:
 [link da Reunião 08/10/2023](https://www.youtube.com/watch?v=idujpsHvNtI&ab_channel=oscarbrito)
+
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idujpsHvNtI?si=trw9GK1H-ifx8zYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 <center>
 

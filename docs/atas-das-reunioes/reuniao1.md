@@ -29,8 +29,10 @@ Local: Online via Teams
 ## Link da gravação:
 
 [link da Reunião 26/09/2023](https://youtu.be/QI2rutgskrM)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QI2rutgskrM?si=w8Axn1UHFtf7kzua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QI2rutgskrM?si=w8Axn1UHFtf7kzua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 ## Histórico de versão
 

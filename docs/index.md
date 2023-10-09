@@ -17,7 +17,7 @@
 
 ## Sobre o site
 
-<p align="justify">&emsp;&emsp;O site da CAESB é uma plataforma online onde os clientes e cidadãos podem obter informações sobre os serviços prestados pela empresa, consultar contas de água e esgoto, obter informações sobre projetos de saneamento, entre outras informações relevantes. Além disso, o site também pode fornecer informações sobre como solicitar serviços, relatar problemas ou entrar em contato com a empresa.</p>
+<p align="justify">&emsp;&emsp;O site da CAESB<a href="#1"><sup>1</sup></a> é uma plataforma online onde os clientes e cidadãos podem obter informações sobre os serviços prestados pela empresa, consultar contas de água e esgoto, obter informações sobre projetos de saneamento, entre outras informações relevantes. Além disso, o site também pode fornecer informações sobre como solicitar serviços, relatar problemas ou entrar em contato com a empresa.</p>
 
 ---
 
@@ -46,6 +46,7 @@
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 26/09/2023 | Adicionou descrições e contribuidores | Leandro | Oscar  |
+| 1.1 | 08/10/2023 | Arruma as referências | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 
 
 </center>
@@ -54,7 +55,7 @@
 
 ## Referências
 
-> Site da Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 26 set. 2023.
+> <p id="1">1. Site da Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 26 set. 2023.</p>
 
 <hr/>
 <p align="center"><b>Grupo 6</b></p>
