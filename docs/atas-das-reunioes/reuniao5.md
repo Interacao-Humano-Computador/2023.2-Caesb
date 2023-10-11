@@ -21,9 +21,10 @@ Local: Online via Teams
 - Durante a reunião, todos os participantes colaboraram ativamente na elaboração do formulário e concluímos o processo de criação. Cada membro da equipe contribuiu para a confecção do formulário, oferecendo suas ideias e sugestões. 
 
 ## Link da gravação:
+[link da Reunião 11/10/2023](https://www.youtube.com/watch?v=CNPsRKFfBn8)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXGT8CqI7wI?si=9SjNpVUUNJMSIoiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNPsRKFfBn8?si=pqRQmnPdPrGhDii-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <center>
@@ -31,5 +32,6 @@ Local: Online via Teams
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ |---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | 1.0 | 09/10/2023 | Escrita da ata  | Mateus | Leandro |                                       
+| 1.1 | 11/10/2023 | Adicionando o vídeo  | Leandro | Oscar |      
 
 </center>
