@@ -43,12 +43,3 @@ Termo de Consentimento
 
 
 
-## Histórico de versão
-<center>
-
-| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
-| :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 13/10/2023 | Adiciona aspectos éticos | Mateus e Rodrigo | Leandro |
-
-</center>
-
