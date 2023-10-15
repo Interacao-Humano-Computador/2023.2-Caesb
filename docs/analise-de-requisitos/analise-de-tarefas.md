@@ -11,8 +11,32 @@
 
 ## Consultar Contas Pagas
 
+## Consultar falta de água
 
+<p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consulta a falta de água e acessar informações a respeito da falta de água em um área de uma região administrativa do DF. A figura 3 e a tabela 2 apresentam, respectivamente, o diagrama HTA da tarefa e o HTA em tabela</p>
 
+<figure markdown>
+<font size="3"><b>Figura 3</b> - Diagrama HTA de consulta a falta d'água.</font>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark.png#only-dark){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a></p></font>
+
+</figure>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - HTA de consulta a falta d'água.</p></font>
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0. consultar falta de água   |                                                                                                                                                                                                         |
+|      1. Acessar página de consulta a partir da tela inicial|**feedback**: usuário é redirecionado para a página de consulta.<br> **plano**: clicar no botão do menu da tela incial. |
+|     1.1 Selecionar o botão no menu inicial | **input**: No botão "água" do menu, escolher a opção "Consultar Falta de água."<br>**feedback**: página de consultas a falta de água é carregada.|
+|       2. Consultar falta de água em uma área da região| **feedback**: a página de consultas a falta de água é carregada.<br>**plano**: inserir a informações de consulta. <br>|
+| 2.1 Selecionar a região na barra de pesquisa  | **input**: inserir a região a ser consultada barra de pesquisa "RA".<br>**feedback**: A região é mostrada se houver falta de água.<br>|
+| 2.2 Selecionar a área na barra de pesquisa  | **input**: inserir a área a ser consultada barra de pesquisa "Área Afetada".<br>**feedback**: A área da região escolhida é mostrada se houver falta de água<br>|
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a></p></font>
 </br>
 </br>
 ## Referências 
@@ -27,5 +51,5 @@
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 14/10/2023 | Adicionando Análise de Tarefas | Jefferson | Tiago |
-
+|  1.1   | 15/10/2023 | Adicionando Análise de Tarefas | Tiago | Jefferson |
 </center>
