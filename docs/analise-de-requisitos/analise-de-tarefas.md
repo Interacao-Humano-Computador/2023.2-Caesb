@@ -6,7 +6,17 @@
 
 ## Análise Hierárquica de Tarefas
 
-<p align="justify">&emsp;&emsp;A análise hierárquica de tarefas - HTA, tem o intuito de analisar e avaliar tarefas complexas por meio da decomposição em objetivos, subobjetivos e operações, seguindo um desdobramento hierárquico. Essa abordagem, pode ser representada por meio de tabelas ou diagramas, como apresentado na figura 1, e proporciona uma visão mais clara e organizada das atividades realizadas por um usuário sendo possível identificar pontos problemáticos e de aprimoramento.  Utilizando este método, foi selecionado as tarefas que serão analisadas, são elas: consultar contas pagas e consultar serviços relacionados a água e saneamento.  </p>
+<p align="justify">&emsp;&emsp;A análise hierárquica de tarefas - HTA, tem o intuito de analisar e avaliar tarefas complexas por meio da decomposição em objetivos, subobjetivos e operações, seguindo um desdobramento hierárquico. Essa abordagem, pode ser representada por meio de tabelas ou diagramas, como apresentado na figura 1, e proporciona uma visão mais clara e organizada das atividades realizadas por um usuário sendo possível identificar pontos problemáticos e de aprimoramento. </p>
+
+<figure markdown>
+<font size="3"><b>Figura 1</b> - Notação dos elementos de um diagrama HTA.</font>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_elementos.png#only-light){width: 500}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_elementos.png#only-dark){width: 500}
+
+<font size="3"><p style="text-align: center"> Fonte: BARBOSA e SILVA, 2010.</p></font>
+
+</figure>
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
@@ -20,17 +30,7 @@
 
 4. **Regras de Seleção (Selection rules):** <p align="justify">&emsp;&emsp;Quando existem várias maneiras de alcançar o mesmo objetivo, são necessárias regras de seleção. Estas representam as decisões tomadas pelo usuário sobre qual método usar em uma determinada situação.</p>
 
-<p align="justify">&emsp;&emsp;Em resumo, o GOMS fornece uma estrutura para representar o conhecimento procedimental de uma pessoa ao realizar tarefas em um dispositivo específico.</p>
-
-<figure markdown>
-<font size="3"><b>Figura 1</b> - Notação dos elementos de um diagrama HTA.</font>
-
-![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_elementos.png#only-light){width: 500}
-![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_elementos.png#only-dark){width: 500}
-
-<font size="3"><p style="text-align: center"> Fonte: BARBOSA e SILVA, 2010.</p></font>
-
-</figure>
+<p align="justify">&emsp;&emsp;Em resumo, o GOMS fornece uma estrutura para representar o conhecimento procedimental de uma pessoa ao realizar tarefas em um dispositivo específico. Utilizando estes métodos, foi selecionado as tarefas que serão analisadas, são elas: consultar contas pagas, consultar falta de água, emitir segunda via de conta, informar vazamento na rua, revisão de conta e consultar qualidade da água. </p>
 
 ## Consultar Contas Pagas
 
@@ -46,6 +46,9 @@
 
 </figure>
 
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de consulta a contas pagas.</p></font>
+
+
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  0. consultar contas pagas   |                                                                                                                                                                                                         |
@@ -60,7 +63,7 @@
 <p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
 
 <center>
-<font size="3"><b>Figura </b> - Método GOMS de consulta a Contas Pagas.</font>
+<font size="3"><b>Figura 3</b> - Método GOMS de consulta a Contas Pagas.</font>
 
 ![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_contas_pagas.png){width=500px}
 
@@ -74,7 +77,7 @@
 <p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consulta a falta de água e acessar informações a respeito da falta de água em um área de uma região administrativa do DF. A figura 3 e a tabela 2 apresentam, respectivamente, o diagrama HTA da tarefa e o HTA em tabela</p>
 
 <figure markdown>
-<font size="3"><b>Figura 3</b> - Diagrama HTA de consulta a falta d'água.</font>
+<font size="3"><b>Figura 4</b> - Diagrama HTA de consulta a falta d'água.</font>
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight.png#only-light){width=500px}
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark.png#only-dark){width=500px}
@@ -94,25 +97,12 @@
 | 2.1 Selecionar a região na barra de pesquisa  | **input**: inserir a região a ser consultada barra de pesquisa "RA".<br>**feedback**: A região é mostrada se houver falta de água.<br>|
 | 2.2 Selecionar a área na barra de pesquisa  | **input**: inserir a área a ser consultada barra de pesquisa "Área Afetada".<br>**feedback**: A área da região escolhida é mostrada se houver falta de água<br>|
 
-
-<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
-
-<center>
-<font size="3"><b>Figura 5</b> - Método GOMS de consulta a Contas Pagas.</font>
-
-![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_consulta.png){width=800px}
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a></p></font>
-
-</center>
-</br>
-
 ## Emitir segunda via da conta
 
 <p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de segunda via da conta, realizar login e acessar as informações a respeito da conta. A figura 4 e a tabela 3 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
 
 <figure markdown>
-<font size="3"><b>Figura 4</b> - Diagrama HTA de consulta a falta d'água.</font>
+<font size="3"><b>Figura 6</b> - Diagrama HTA de emissão de segunda via.</font>
 
 <center>
 
@@ -122,6 +112,8 @@
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a></p></font>
+
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - HTA de emitir segunda via da conta.</p></font>
 
@@ -136,21 +128,27 @@
 | 4.1 Clique em código de barras  | **feedback**: o download de um PDF contendo um código de barras irá começar.<br>|
 | 4.2 Clique em download  | **feedback**: o download da segunda via em formato de PDF irá começar. <br>|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a></p></font>
+
 
 <p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
 
 <center>
+<font size="3"><b>Figura 7</b> - Método GOMS de consulta a Contas Pagas.</font>
 
 ![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_emitir.png){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a></p></font>
 
 </center>
 
 
 ## Informar vazamento na rua
+
 <p align="justify">&emsp;&emsp;Para essa tarefa o objetivo do usuário seria informar à CAESB um vazamento de água ou esgoto no endereço em questão. A figura 5 e a tabela 4 abaixo apresenta o diagrama e a tabela HTA dessa tarefa.</p>
 
 
-<font size="3"><b>Figura 5</b> - Diagrama HTA para informar vazamento na rua.</font>
+<font size="3"><b>Figura 8</b> - Diagrama HTA para informar vazamento na rua.</font>
 
 <center>
 
@@ -173,11 +171,17 @@
 |3. Preencher formulário com endereço do vazamento. | **Input**: Dados do endereço com vazamento e dados da pessoa que está reportando o problema.<br> **Plano** : Fornecer o endereço do vazamento e confirmar o envio para a CAESB.|
 |4. Enviar o formulário.| **Input**: Selecionar o botão informar vazamento na rua.<br> **Feedback**: Confirmação do envio ou indicação de algum dado obrigatório que falta no formulário.|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a></p></font>
+
 <p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
 
 <center>
 
+<font size="3"><b>Figura 9</b> - Método GOMS de consulta a Contas Pagas.</font>
+
 ![Notação em GOMS](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/GOMSVazamento.png){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a></p></font>
 
 </center>
 
@@ -185,7 +189,7 @@
 <p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira fazer a revisão das suas contas, onde ele precisa acessar o site da caesb, acessar a pagina revisão de conta, fazer o login, selecionar a residência onde queira fazer a revisão, selecionar a conta a ser revisada e por fim clicar no botão "Selecionar revisão".</p>
 
 <figure markdown>
-<font size="3"><b>Figura 5</b> - Diagrama HTA da Revisão de contas.</font>
+<font size="3"><b>Figura 10</b> - Diagrama HTA da Revisão de contas.</font>
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_Revisão.png#only-light){width=500px}
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_Revisão.png#only-dark){width=500px}
@@ -205,12 +209,14 @@
 | 2.1 Selecionar a conta a ser revisada  | *plano*: o usuário escolhe qual conta que ele quer revisar.<br>|
 | 2.2 Clique no botão Solicitar Revisão  | *feedback*: o usuário solicita a revisão, onde ela vai ser revisada pela caesb onde alvaliará se é procedente a sua ação.<br>|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a></p></font>
+
 
 ## Consultar Qualidade da Água  
 <p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira consultar a qualidade da água em sua região administrativa. No qual ele precisa acessar o site da caesb, acessar o menu "Água", acessar o submenu "Controle de Qualidade", selecionar "Análises e Resultados", por fim clicar em  "Resultados na Rede de Distribuição - Síntese por Sistemas de Abastecimento" ou  "Qualidade da Água Distribuída" ou "Relatório Anual da Qualidade da Água". Caso selecionado "Relatório Anual da Qualidade da Água", clicar no ano desejado. </p>
 
 <figure markdown>
-<font size="3"><b>Figura 5</b> - Diagrama HTA Qualidade.</font>
+<font size="3"><b>Figura 12</b> - Diagrama HTA Qualidade.</font>
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_qualidade.png#only-light){width=500px}
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_qualidade.png#only-dark){width=500px}
@@ -231,38 +237,6 @@
 | 3.2 Qualidade da Água Distribuída  | *feedback*: o usuário será redirecionado para um pdf contendo uma análise mensal detalhada por sistema de abastecimento. <br>|
 | 3.3 Relatório Anual da Qualidade da Água | *feedback*: o usuário será redirecionado para uma página contendo os relatórios anuis <br>|
 | 3.3.1 Selecionar o ano desejado| *plano*: o usuário deverá escolher  relatório do ano que deseja <br>|
-
-## Situação de débitos
-
-<p align="justify">&emsp;&e msp;Nessa tarefa o usuário precisa acessar a área de autoatendimento, clicar em situação de débito, efetuar o login e  verificar a situação de suas respectivas contas. A figura 5 e a tabela 4 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
-
-
-<font size="3"><b>Figura 5</b> - Diagrama HTA de Situação de débitos.</font>
-
-<center>
-
-![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram.png#only-light){width=500px}
-![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram.png#only-dark){width=500px}
-
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a></p></font>
-
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - HTA de situação de débito.</p></font>
-
-
-|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
-| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0. Acessar o site da Caesb   |                                                                                                                                                                                                         |
-| 1. Clique em portal de serviço de atendimento |**feedback**: usuário é redirecionado para a página de atendimentos.<br>|
-| 2. Clique no botão situação de débitos | **feedback** : usuário e redirecionado para a paǵina de efetuar login|
-| 3. Faça login |**input**: Dados de login.<br>**feedback**: o usuário é redirecionada para a página de situações de débitos.|
-| 3. Clique em pesquisar | **feedback**: o usuário será redirecionado para uma página com todos os débitos.<br>|
-| 4. Localize as conta  | **plano**: o usuário deve achar a conta desejada.<br>|
-| 4.1 Clique para visualizar as situações da conta  | **feedback**: irá aparecer as situações dos débitos do usuário<br>|
-| 4.2 faça o download  | **feedback**: o download da conta em PDF irá começar. <br>|
-
-
 
 ## Referências 
 
@@ -285,4 +259,3 @@
 |  1.3   | 15/10/2023 | Adicionando emição da segunda via | Leandro | Oscar |
 |  1.4   | 16/10/2023 | Adicionando Revisão de contas | Rodrigo | Leandro |
 |  1.5   | 16/10/2023 | Adicionando Qualidade da Água | Mateus | Leandro |
-|  1.6  | 15/10/2023 | Adicionando analise de situação de débitos  | Oscar | Leandro |
