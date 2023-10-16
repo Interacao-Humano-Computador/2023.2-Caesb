@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;A análise de tarefas é utilizada para entender como é o trabalho dos usuários em um sistema descrevendo e detalhando as atividades realizadas para atingir determinados objetivos. Neste projeto, será utilizado a Análise Hierárquica de Tarefas - HTA, como método de análise das funcionalidades do sistema avaliado. </p>
+<p align="justify">&emsp;&emsp;A análise de tarefas é utilizada para entender como é o trabalho dos usuários em um sistema descrevendo e detalhando as atividades realizadas para atingir determinados objetivos. Neste projeto, será utilizado a Análise Hierárquica de Tarefas - HTA, como método de análise das funcionalidades do sistema avaliados. </p>
 
 ## Análise Hierárquica de Tarefas
 
