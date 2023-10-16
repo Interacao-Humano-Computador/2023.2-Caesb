@@ -6,7 +6,7 @@
 
 ## Metodologia 
 
-<p align="justify">&emsp;&emsp;Para criar as personas desse projeto foi utilizado principalmente os dados obtidos no perfil de usuário, ou seja, através das respostas dos questionários foram elaborados os perfis que se supõe que sejam os usuários “típicos” do site da CAESB. Além disso para esse projeto serão utilizadas quatro personas, essa escolha foi orientada pelo intervalo recomendado por Courage e Baxter(2005) de 3 a 12 personas² e serão definidas duas personas primárias, uma persona secundária e por fim, uma antipersona.
+<p align="justify">&emsp;&emsp;Para criar as personas desse projeto foi utilizado principalmente os dados obtidos no perfil de usuário, ou seja, através das respostas dos questionários foram elaborados os perfis que se supõe que sejam os usuários “típicos” do site da CAESB. Além disso para esse projeto serão utilizadas quatro personas, essa escolha foi orientada pelo intervalo recomendado por Courage e Baxter(2005) de 3 a 12 personas<a href="#2"><sup>2</sup></a> e serão definidas duas personas primárias, uma persona secundária e por fim, uma antipersona.
 </p>
 
 <p align="justify">&emsp;&emsp;As tabelas de 1 a 4 apresentam o elenco de personas.
@@ -27,7 +27,7 @@
 | **Objetivo**: Sempre melhorar como profissional e buscar informações e serviços para sempre contribuir com sua comunidade.|
 | **Expectativa**: Consultar as contas com agilidade, ter opções de pagamento e simular valores de conta com clareza com relação ao consumo. |
 | **Requisitos**: Retirar segunda via de contas, consultar débitos e simular conta |
-|
+
 
 <b>Tabela 2</b> - <a id="anchor_PRH" style="visibility: hidden"></a>Persona Primária Carla Mendes.
 
@@ -42,7 +42,7 @@
 | **Objetivo**: Sempre melhorar seu atendimento e sua loja, atraindo mais clientes e fortalecer as amizades com outros colegas lojistas.|
 | **Expectativa**: Realizar rapidamente essas consultas e conseguir reportar algum problema de sua comunidade de lojistas com agilidade e sem complicações.|
 | **Requisitos**: Consultar e reportar problemas com fornecimento de água, furto de hidrômetro, vazamentos entre outros. |
-|
+
 
 
 
@@ -59,7 +59,7 @@
 | **Objetivo**: Se formar uma boa profissional veterinária e manter um vínculo com seus amigos da faculdade.|
 | **Expectativa**: Não identificados. |
 | **Requisitos**: Não identificados pela falta de interesse com relação ao fornecimento de água de sua região. Seus pais ficam responsáveis por essas questões.|
-|
+
 
 <b>Tabela 4</b> - <a id="anchor_PRH" style="visibility: hidden"></a>Persona secundária Pamela Azevedo.
 
@@ -74,7 +74,6 @@
 | **Objetivo**: Pamela deseja evoluir profissionalmente e conseguir sempre ajudar seus colegas da empresa.|
 | **Expectativa**: Fazer essa consulta rapidamente e obter uma previsão do retorno do serviço com clareza. |
 | **Requisitos**: Verificar o status da ocorrência da falta de água em sua casa bem ocasionalmente.|
-|
 
 
 
