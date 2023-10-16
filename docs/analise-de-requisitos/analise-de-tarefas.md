@@ -252,6 +252,36 @@
 | 3.3 Relatório Anual da Qualidade da Água | *feedback*: o usuário será redirecionado para uma página contendo os relatórios anuis <br>|
 | 3.3.1 Selecionar o ano desejado| *plano*: o usuário deverá escolher  relatório do ano que deseja <br>|
 
+## Situação de débitos
+
+<p align="justify">&emsp;&e msp;Nessa tarefa o usuário precisa acessar a área de autoatendimento, clicar em situação de débito, efetuar o login e  verificar a situação de suas respectivas contas. A figura 5 e a tabela 4 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
+
+
+<font size="3"><b>Figura 5</b> - Diagrama HTA de Situação de débitos.</font>
+
+<center>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram.png#only-dark){width=500px}
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a></p></font>
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - HTA de situação de débito.</p></font>
+
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0. Acessar o site da Caesb   |                                                                                                                                                                                                         |
+| 1. Clique em portal de serviço de atendimento |**feedback**: usuário é redirecionado para a página de atendimentos.<br>|
+| 2. Clique no botão situação de débitos | **feedback** : usuário e redirecionado para a paǵina de efetuar login|
+| 3. Faça login |**input**: Dados de login.<br>**feedback**: o usuário é redirecionada para a página de situações de débitos.|
+| 3. Clique em pesquisar | **feedback**: o usuário será redirecionado para uma página com todos os débitos.<br>|
+| 4. Localize as conta  | **plano**: o usuário deve achar a conta desejada.<br>|
+| 4.1 Clique para visualizar as situações da conta  | **feedback**: irá aparecer as situações dos débitos do usuário<br>|
+| 4.2 faça o download  | **feedback**: o download da conta em PDF irá começar. <br>|
+
 ## Referências 
 
 > <p id="1" align="justify"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p>
