@@ -97,6 +97,20 @@
 | 2.1 Selecionar a região na barra de pesquisa  | **input**: inserir a região a ser consultada barra de pesquisa "RA".<br>**feedback**: A região é mostrada se houver falta de água.<br>|
 | 2.2 Selecionar a área na barra de pesquisa  | **input**: inserir a área a ser consultada barra de pesquisa "Área Afetada".<br>**feedback**: A área da região escolhida é mostrada se houver falta de água<br>|
 
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a></p></font>
+
+<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
+
+<center>
+<font size="3"><b>Figura 5</b> - Método GOMS de consulta a Contas Pagas.</font>
+
+![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_consulta.png){width=800px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a></p></font>
+
+</center>
+</br>
+
 ## Emitir segunda via da conta
 
 <p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de segunda via da conta, realizar login e acessar as informações a respeito da conta. A figura 4 e a tabela 3 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
