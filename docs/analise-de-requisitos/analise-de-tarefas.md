@@ -6,8 +6,17 @@
 
 ## Análise Hierárquica de Tarefas
 
-<p align="justify">&emsp;&emsp;A análise hierárquica de tarefas - HTA, tem o intuito de analisar e avaliar tarefas complexas por meio da decomposição em objetivos, subobjetivos e operações, seguindo um desdobramento hierárquico. Essa abordagem, pode ser representada por meio de tabelas ou diagramas e proporciona uma visão mais clara e organizada das atividades realizadas por um usuário sendo possível identificar pontos problemáticos e de aprimoramento.  Utilizando este método, foi selecionado as tarefas que serão analisadas, são elas: consultar contas pagas e consultar serviços relacionados a água e saneamento.</p>
+<p align="justify">&emsp;&emsp;A análise hierárquica de tarefas - HTA, tem o intuito de analisar e avaliar tarefas complexas por meio da decomposição em objetivos, subobjetivos e operações, seguindo um desdobramento hierárquico. Essa abordagem, pode ser representada por meio de tabelas ou diagramas, como apresentado na fidura 1, e proporciona uma visão mais clara e organizada das atividades realizadas por um usuário sendo possível identificar pontos problemáticos e de aprimoramento.  Utilizando este método, foi selecionado as tarefas que serão analisadas, são elas: consultar contas pagas e consultar serviços relacionados a água e saneamento.  </p>
 
+<figure markdown>
+<font size="3"><b>Figura 1</b> - Notação dos elementos de um diagrama HTA.</font>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_elementos.png#only-light){width: 500}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_elementos.png#only-dark){width: 500}
+
+<font size="3"><p style="text-align: center"> Fonte: BARBOSA e SILVA, 2010.</p></font>
+
+</figure>
 
 ## Consultar Contas Pagas
 
@@ -32,17 +41,10 @@
 |     2.  Selecionar Contas Pagas | **feedback**: usuário é redirecionado para a página de login.  <br> **plano**: clicar no botão Contas Pagas. |
 |       3. Fazer Login  | **input**: Dados de login.<br>  **feedback**: usuário é redirecionado para a página de  inscrições. <br>**plano**: Acessar área de inscrições. <br>|
 | 3.1 Pesquisar com minha inscrição   | **feedback**: O usuário é redirecionado para uma página com uma lista de faturas pagas de acordo com o mês.<br>    **plano**: Clicar no botão pesquisar.|
-| 3.2 Pesquisar com outra inscrição  | **feedback**: O usuário é redirecionado para uma página para inserir a inscrição respectiva.  <br>    **plano**: Clicar na aba "Pesquisar outra inscrição".|
+| 3.2 Pesquisar com outra inscrição  | **input**: Inserir o número da inscrição que deseja ter acesso as contas.<br>   **feedback**: O usuário é redirecionado para uma página com uma lista de faturas pagas de acordo com o mês.  <br>    **plano**: Clicar na aba "Pesquisar outra inscrição".|
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a></p></font>
 </br>
-
-
-
-
-
-
-
 
 ## Consultar Falta de Água
 
