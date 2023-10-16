@@ -136,12 +136,12 @@
 ## Informar vazamento na rua
 <p align="justify">&emsp;&emsp;Para essa tarefa o objetivo do usuário seria informar à CAESB um vazamento de água ou esgoto no endereço em questão. A figura 5 e a tabela 4 abaixo apresenta o diagrama e a tabela HTA dessa tarefa.</p>
 
-figure markdown>
+
 <font size="3"><b>Figura 5</b> - Diagrama HTA para informar vazamento na rua.</font>
 
 <center>
 
-![Notação diagrama HTA](../../assets/analise_de_tarefas/../../docs/assets/analise_de_tarefas/HTAlight_Vazamento.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/HTAlight_Vazamento.png#only-light){width=500px}
 
 </center>
 
@@ -162,11 +162,11 @@ figure markdown>
 
 <center>
 
-![Notação em GOMS](../../assets/analise_de_tarefas/../../docs/assets/analise_de_tarefas/GOMSVazamento.png){width=500px}
+![Notação em GOMS](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/GOMSVazamento.png){width=500px}
 
 </center>
 
-## Reivsão de Conta 
+## Revisão de Conta 
 <p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira fazer a revisão das suas contas, onde ele precisa acessar o site da caesb, acessar a pagina revisão de conta, fazer o login, selecionar a residência onde queira fazer a revisão, selecionar a conta a ser revisada e por fim clicar no botão "Selecionar revisão".</p>
 
 <figure markdown>
