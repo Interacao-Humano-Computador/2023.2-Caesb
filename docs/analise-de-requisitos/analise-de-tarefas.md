@@ -6,7 +6,7 @@
 
 ## Análise Hierárquica de Tarefas
 
-<p align="justify">&emsp;&emsp;A análise hierárquica de tarefas - HTA, tem o intuito de analisar e avaliar tarefas complexas por meio da decomposição em objetivos, subobjetivos e operações, seguindo um desdobramento hierárquico. Essa abordagem, pode ser representada por meio de tabelas ou diagramas, como apresentado na fidura 1, e proporciona uma visão mais clara e organizada das atividades realizadas por um usuário sendo possível identificar pontos problemáticos e de aprimoramento.  Utilizando este método, foi selecionado as tarefas que serão analisadas, são elas: consultar contas pagas e consultar serviços relacionados a água e saneamento.  </p>
+<p align="justify">&emsp;&emsp;A análise hierárquica de tarefas - HTA, tem o intuito de analisar e avaliar tarefas complexas por meio da decomposição em objetivos, subobjetivos e operações, seguindo um desdobramento hierárquico. Essa abordagem, pode ser representada por meio de tabelas ou diagramas, como apresentado na figura 1, e proporciona uma visão mais clara e organizada das atividades realizadas por um usuário sendo possível identificar pontos problemáticos e de aprimoramento.  Utilizando este método, foi selecionado as tarefas que serão analisadas, são elas: consultar contas pagas e consultar serviços relacionados a água e saneamento.  </p>
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
@@ -34,7 +34,7 @@
 
 ## Consultar Contas Pagas
 
-<p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consultar contas pagas, realizar login e acessar informações a respeito das faturas pagas listadas com base no mês. A figura 2 e a tabela 1 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
+<p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consultar contas pagas, realizar login e acessar informações a respeito das faturas pagas listadas com base no mês. A figura 2 e a tabela 1 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa. Logo abaixo, segue a figura da análise utilizando o método GOMS.</p>
 
 <figure markdown>
 <font size="3"><b>Figura 2</b> - Diagrama HTA de consulta a Contas Pagas.</font>
@@ -56,6 +56,17 @@
 | 3.2 Pesquisar com outra inscrição  | **input**: Inserir o número da inscrição que deseja ter acesso as contas.<br>   **feedback**: O usuário é redirecionado para uma página com uma lista de faturas pagas de acordo com o mês.  <br>    **plano**: Clicar na aba "Pesquisar outra inscrição".|
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a></p></font>
+
+<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
+
+<center>
+<font size="3"><b>Figura </b> - Método GOMS de consulta a Contas Pagas.</font>
+
+![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_contas_pagas.png){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a></p></font>
+
+</center>
 </br>
 
 ## Consultar Falta de Água
