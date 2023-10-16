@@ -32,7 +32,9 @@
 
 </figure>
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de consulta a Contas Pagas.</p></font>
+
+
+
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,20 +73,50 @@
 | 2.1 Selecionar a região na barra de pesquisa  | **input**: inserir a região a ser consultada barra de pesquisa "RA".<br>**feedback**: A região é mostrada se houver falta de água.<br>|
 | 2.2 Selecionar a área na barra de pesquisa  | **input**: inserir a área a ser consultada barra de pesquisa "Área Afetada".<br>**feedback**: A área da região escolhida é mostrada se houver falta de água<br>|
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a></p></font>
-</br>
-</br>
+## Emitir segunda via da conta
+
+<p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de segunda via da conta, realizar login e acessar as informações a respeito da conta. A figura 4 e a tabela 3 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
+
+<figure markdown>
+<font size="3"><b>Figura 4</b> - Diagrama HTA de consulta a falta d'água.</font>
+
+<center>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_segunda.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_segunda.png#only-dark){width=500px}
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a></p></font>
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - HTA de emitir segunda via da conta.</p></font>
+
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0. Acessar o site da Caesb   |                                                                                                                                                                                                         |
+| 1. Clique no botão segunda via da conta |**feedback**: usuário é redirecionado para a página de autenticação.<br>|
+| 2. Faça login | **input**: Dados de login.<br>**feedback**: o usuário é redirecionada para a página de segunda via.|
+| 3. Clique em pesquisar | **feedback**: o usuário será redirecionado para uma página com todas as suas contas.<br>|
+| 4. Localize a conta  | **plano**: o usuário deve achar a conta desejada.<br>|
+| 4.1 Clique em código de barras  | **feedback**: o download de um PDF contendo um código de barras irá começar.<br>|
+| 4.2 Clique em download  | **feedback**: o download da segunda via em formato de PDF irá começar. <br>|
+
+
+
 ## Referências 
+
 > <p id="1"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p>
 
-> <p id="3">3. Bilheteria Digital. Disnível em> <a href="https://interacao-huma no-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/">https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/</a>. Acesso em 14 de outubro de 2023.</p>
+> <p id="3">2. Bilheteria Digital. Disponível em> <a href="https://interacao-huma no-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/">https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/</a>. Acesso em 14 de outubro de 2023.</p>
 
 
 ## Histórico de versão
-<center>
+
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 14/10/2023 | Adicionando Análise de Tarefas | Jefferson | Tiago |
 |  1.1   | 15/10/2023 | Adicionando Análise de Tarefas | Tiago | Jefferson |
-|  1.2   | 15/10/2023 | Adicionando Análise da consulta a contas pagas | Jefferson | Tiago |</center>
+|  1.2   | 15/10/2023 | Adicionando Análise da consulta a contas pagas | Jefferson | Tiago |
+|  1.3   | 15/10/2023 | Adicionando emição de segunda | Leandro | Oscar |
