@@ -11,7 +11,40 @@
 
 ## Consultar Contas Pagas
 
-## Consultar falta de água
+<p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consultar contas pagas, realizar login e acessar informações a respeito das faturas pagas listadas com base no mês. A figura 2 e a tabela 1 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
+
+<figure markdown>
+<font size="3"><b>Figura 2</b> - Diagrama HTA de consulta a Contas Pagas.</font>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_fatura_paga.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_fatura_paga.png#only-dark){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a></p></font>
+
+</figure>
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - HTA de consulta a Contas Pagas.</p></font>
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0. consultar contas pagas   |                                                                                                                                                                                                         |
+|      1.   Acessar a aba Portal de Serviços |**feedback**: usuário é redirecionado para a página Portal de Serviços.<br> **plano**: clicar na imagem portal de serviços - autoatendimento. |
+|     2.  Selecionar Contas Pagas | **feedback**: usuário é redirecionado para a página de login.  <br> **plano**: clicar no botão Contas Pagas. |
+|       3. Fazer Login  | **input**: Dados de login.<br>  **feedback**: usuário é redirecionado para a página de  inscrições. <br>**plano**: Acessar área de inscrições. <br>|
+| 3.1 Pesquisar com minha inscrição   | **feedback**: O usuário é redirecionado para uma página com uma lista de faturas pagas de acordo com o mês.<br>    **plano**: Clicar no botão pesquisar.|
+| 3.2 Pesquisar com outra inscrição  | **feedback**: O usuário é redirecionado para uma página para inserir a inscrição respectiva.  <br>    **plano**: Clicar na aba "Pesquisar outra inscrição".|
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a></p></font>
+</br>
+
+
+
+
+
+
+
+
+## Consultar Falta de Água
 
 <p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consulta a falta de água e acessar informações a respeito da falta de água em um área de uma região administrativa do DF. A figura 3 e a tabela 2 apresentam, respectivamente, o diagrama HTA da tarefa e o HTA em tabela</p>
 
@@ -42,7 +75,7 @@
 ## Referências 
 > <p id="1"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p>
 
-> <p id="3">3. Bilheteria Digital. Disnível em> <a href="https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/">https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/</a>. Acesso em 14 de outubro de 2023.</p>
+> <p id="3">3. Bilheteria Digital. Disnível em> <a href="https://interacao-huma no-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/">https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/</a>. Acesso em 14 de outubro de 2023.</p>
 
 
 ## Histórico de versão
@@ -52,4 +85,4 @@
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 14/10/2023 | Adicionando Análise de Tarefas | Jefferson | Tiago |
 |  1.1   | 15/10/2023 | Adicionando Análise de Tarefas | Tiago | Jefferson |
-</center>
+|  1.2   | 15/10/2023 | Adicionando Análise da consulta a contas pagas | Jefferson | Tiago |</center>
