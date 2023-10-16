@@ -132,6 +132,40 @@
 
 </center>
 
+
+## Informar vazamento na rua
+<p align="justify">&emsp;&emsp;Para essa tarefa o objetivo do usuário seria informar à CAESB um vazamento de água ou esgoto no endereço em questão. A figura 5 e a tabela 4 abaixo apresenta o diagrama e a tabela HTA dessa tarefa.</p>
+
+figure markdown>
+<font size="3"><b>Figura 5</b> - Diagrama HTA para informar vazamento na rua.</font>
+
+<center>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/../../docs/assets/analise_de_tarefas/HTAlight_Vazamento.png#only-light){width=500px}
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a></p></font>
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - HTA para informar vazamento na rua.</p></font>
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|0.Informar vazamento na rua.| | 
+|1.Acessar o portal de serviços.| **input** : Selecionar na tela inicial a opção de portal de serviços.<br> **feedback**:  Redirecionado para a tela de portal de serviços.<br> **Plano** : Acessar o portal de serviços para informar o vazamento na rua.|
+|1.1. Realizar login.| **Input**: Dados para login.<br>**Feedback**:Redirecionado para o portal de serviços.<br>**Plano**: Realizar o login e prosseguir para a área de portal de serviços.|
+|2. Selecionar a opção de informar vazamento.| **Input**: Apertar o botão “Informar vazamento na rua”.<br> **Feedback**: Redirecionamento para o formulário para informar vazamento.<br> **Plano**: Obter um formulário para preencher o endereço do vazamento.|
+|3. Preencher formulário com endereço do vazamento. | **Input**: Dados do endereço com vazamento e dados da pessoa que está reportando o problema.<br> **Plano** : Fornecer o endereço do vazamento e confirmar o envio para a CAESB.|
+|4. Enviar o formulário.| **Input**: Selecionar o botão informar vazamento na rua.<br> **Feedback**: Confirmação do envio ou indicação de algum dado obrigatório que falta no formulário.|
+
+<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
+
+<center>
+
+![Notação em GOMS](../../assets/analise_de_tarefas/../../docs/assets/analise_de_tarefas/GOMSVazamento.png){width=500px}
+
+</center>
+
 ## Referências 
 
 > <p id="1" align="justify"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p>
