@@ -8,6 +8,16 @@
 
 <p align="justify">&emsp;&emsp;Para estabelecer o perfil de usuário, o método de questionários foi utilizado. Foi elaborado um formulário on-line que foi divulgado em grupos e sites para que os usuários do site da CAESB pudessem responder. A escolha desse método se deu principalmente por permitir que um grande número de pessoas respondesse e que ele fosse respondido do conforto do lar ou local de trabalho. O questionário teve foco em questões fechadas para privilegiar o preenchimento rápido dos participantes e, posteriormente, uma análise mais rápida das respostas.</p>
 
+<p align="justify">&emsp;&emsp;Também foi utilizada uma plataforma de análise de dados chamada <a href="https://www.similarweb.com/pt/" target="_blanck">SimilarWeb</a>, que fornece informações relevantes sobre o tráfego na web e o desempenho online de sites e aplicativos móveis. Além disso, essa plataforma disponibiliza dados sobre a origem do tráfego, informações demográficas dos usuários e outros dados importantes.</p>
+
+## Resultados da análise de dados (SimilarWeb)
+
+<p align="justify">&emsp;&emsp;A maioria dos usuários são do sexo masculino e possuem idades entre 25 e 34 anos. Suas principais áreas de interesse são Informática, Eletrônica e Tecnologia. As figuras abaixo demonstram esses dados.</p>
+
+![](../assets/questionario/idade_caesb.png)
+
+![](../assets/questionario/interesse_caesb.png)
+
 ## Resultados do questionário
 
 <p align="justify">&emsp;&emsp;Os resultados do questionário foram bem variados, levando em consideração a diferença tanto de idade quanto de ocupação dos participantes. Também evidenciou-se as diferenças do uso desse site conforme o perfil do usuário.</p>
