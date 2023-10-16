@@ -142,6 +142,8 @@
 <center>
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/HTAlight_Vazamento.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/diagrama hta darkP.png#only-dark){width=500px}
+
 
 </center>
 

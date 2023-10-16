@@ -2,11 +2,11 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;Para entender melhor as necessidades e quem são os usuários do site de análise do projeto será traçado um perfil genérico deles chamado de perfil de usuário. Essa técnica consiste em estabelecer uma descrição das características dos usuários cujos objetivos devem ser apoiados pelo sistema que está se analisando, para isso será identificado as características de interesse e conduzido um estudo para coletar os dados dos usuários<a href="#1"><sup>1</sup></a>.</p>
+<p align="justify">&emsp;&emsp;Para entender melhor as necessidades e identificar quem são os usuários do site de análise do projeto, traçou-se um perfil genérico deles, denominado "perfil de usuário". Essa técnica consistiu em estabelecer uma descrição das características dos usuários cujos objetivos deveriam ser apoiados pelo sistema em análise. Para isso, foram identificadas as características de interesse e conduzido um estudo para coletar os dados dos usuários.<a href="#1"><sup>1</sup></a>.</p>
 
 ## Metodologia 
 
-<p align="justify">&emsp;&emsp;Para estabelecer o perfil de usuário será utilizado o método de questionários, elaborando um formulário on-line que será divulgado em grupos e sites para que os usuários do site da CAESB respondam. A escolha desse método se deu principalmente por permitir que um grande número de pessoas responda e que ele seja respondido do conforto do lar ou local de trabalho. O questionário terá foco em questões fechadas para privilegiar o preenchimento rápido dos participantes e, posteriormente, uma análise mais rápida das respostas.</p>
+<p align="justify">&emsp;&emsp;Para estabelecer o perfil de usuário, o método de questionários foi utilizado. Foi elaborado um formulário on-line que foi divulgado em grupos e sites para que os usuários do site da CAESB pudessem responder. A escolha desse método se deu principalmente por permitir que um grande número de pessoas respondesse e que ele fosse respondido do conforto do lar ou local de trabalho. O questionário teve foco em questões fechadas para privilegiar o preenchimento rápido dos participantes e, posteriormente, uma análise mais rápida das respostas.</p>
 
 ## Resultados do questionário
 
