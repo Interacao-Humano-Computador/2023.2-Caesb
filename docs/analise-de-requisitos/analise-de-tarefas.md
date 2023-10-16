@@ -188,7 +188,34 @@
 | 1.2 Faça login | *input: Dados de login.<br>feedback*: o usuário é redirecionada para a página de selecionar a residencia a ser revisada via.|
 | 2. Selecionar a residência desejada | *feedback*: o usuário escolhe a residência a ser revisada.<br>|
 | 2.1 Selecionar a conta a ser revisada  | *plano*: o usuário escolhe qual conta que ele quer revisar.<br>|
-| 2.2 Clique no botão Solicitar Revisão  | *feedback*: o usuário solicita a revisão, onde ela vai ser revisada pela caesb onde alvaliara se é procedente a sua ação.<br>|
+| 2.2 Clique no botão Solicitar Revisão  | *feedback*: o usuário solicita a revisão, onde ela vai ser revisada pela caesb onde alvaliará se é procedente a sua ação.<br>|
+
+
+## Consultar Qualidade da Água  
+<p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira consultar a qualidade da água em sua região administrativa. No qual ele precisa acessar o site da caesb, acessar o menu "Água", acessar o submenu "Controle de Qualidade", selecionar "Análises e Resultados", por fim clicar em  "Resultados na Rede de Distribuição - Síntese por Sistemas de Abastecimento" ou  "Qualidade da Água Distribuída" ou "Relatório Anual da Qualidade da Água". Caso selecionado "Relatório Anual da Qualidade da Água", clicar no ano desejado. </p>
+
+<figure markdown>
+<font size="3"><b>Figura 5</b> - Diagrama HTA Qualidade.</font>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_qualidade.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_qualidade.png#only-dark){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a></p></font>
+
+</figure>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - HTA da Qualidade da Água.</p></font>
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0. Consultar qualidade da água  |                                                                                                                                                                                                         |
+| 1. Acessar a aba Água |*plano*: usuário é deve acessar o submenu Controle de Qualidade.<br>|
+| 2. Selecionar submenu Controle de Qualidade | *feedback*: Abrirá um submenu chamando "Analises e Resultados" |
+| 3. Selecionar Análise e Resultados | *feedback*: o usuário será redirecionado para a página de Analises e Resultados.<br>|
+| 3.1 Resultados na Rede de Distribuição - Síntese por Sistemas de Abastecimento  | *feedback*: o usuário será redirecionado para um pdf contendo uma análise mensal detalhada por sistema de abastecimento.<br>|
+| 3.2 Qualidade da Água Distribuída  | *feedback*: o usuário será redirecionado para um pdf contendo uma análise mensal detalhada por sistema de abastecimento. <br>|
+| 3.3 Relatório Anual da Qualidade da Água | *feedback*: o usuário será redirecionado para uma página contendo os relatórios anuis <br>|
+| 3.3.1 Selecionar o ano desejado| *plano*: o usuário deverá escolher  relatório do ano que deseja <br>|
 
 ## Referências 
 
@@ -210,3 +237,4 @@
 |  1.2   | 15/10/2023 | Adicionando Análise da consulta a contas pagas | Jefferson | Tiago |
 |  1.3   | 15/10/2023 | Adicionando emição da segunda via | Leandro | Oscar |
 |  1.4   | 16/10/2023 | Adicionando Revisão de contas | Rodrigo | Leandro |
+|  1.5   | 16/10/2023 | Adicionando Qualidade da Água | Mateus | Leandro |
