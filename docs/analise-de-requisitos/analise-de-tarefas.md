@@ -166,6 +166,30 @@ figure markdown>
 
 </center>
 
+## Reivsão de Conta 
+<p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira fazer a revisão das suas contas, onde ele precisa acessar o site da caesb, acessar a pagina revisão de conta, fazer o login, selecionar a residência onde queira fazer a revisão, selecionar a conta a ser revisada e por fim clicar no botão "Selecionar revisão".</p>
+
+<figure markdown>
+<font size="3"><b>Figura 5</b> - Diagrama HTA da Revisão de contas.</font>
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAlight_Revisão.png#only-light){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/HTAdark_Revisão.png#only-dark){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a></p></font>
+
+</figure>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - HTA da Revisão de Conta.</p></font>
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1. Acessar o site da Caesb   |                                                                                                                                                                                                         |
+| 1.1 Acessar pagina de Revisão de Conta |*feedback*: usuário é redirecionado para a página de Revisão de conta.<br>|
+| 1.2 Faça login | *input: Dados de login.<br>feedback*: o usuário é redirecionada para a página de selecionar a residencia a ser revisada via.|
+| 2. Selecionar a residência desejada | *feedback*: o usuário escolhe a residência a ser revisada.<br>|
+| 2.1 Selecionar a conta a ser revisada  | *plano*: o usuário escolhe qual conta que ele quer revisar.<br>|
+| 2.2 Clique no botão Solicitar Revisão  | *feedback*: o usuário solicita a revisão, onde ela vai ser revisada pela caesb onde alvaliara se é procedente a sua ação.<br>|
+
 ## Referências 
 
 > <p id="1" align="justify"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p>
@@ -185,3 +209,4 @@ figure markdown>
 |  1.1   | 15/10/2023 | Adicionando Análise de Tarefas | Tiago | Jefferson |
 |  1.2   | 15/10/2023 | Adicionando Análise da consulta a contas pagas | Jefferson | Tiago |
 |  1.3   | 15/10/2023 | Adicionando emição da segunda via | Leandro | Oscar |
+|  1.4   | 16/10/2023 | Adicionando Revisão de contas | Rodrigo | Leandro |
