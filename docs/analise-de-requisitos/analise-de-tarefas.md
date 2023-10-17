@@ -274,7 +274,7 @@
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram .png#only-light){width=500px}
 
-![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram .png#only-dark){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/Blank diagram(black).png#only-dark){width=500px}
 
 </center>
 
