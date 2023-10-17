@@ -263,6 +263,19 @@
 | 3.3 Relatório Anual da Qualidade da Água | *feedback*: o usuário será redirecionado para uma página contendo os relatórios anuis <br>|
 | 3.3.1 Selecionar o ano desejado| *plano*: o usuário deverá escolher  relatório do ano que deseja <br>|
 
+font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a></p></font>
+
+<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
+
+<center>
+
+![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_Qualidade.png){width=800px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a></p></font>
+
+</center>
+
+
 ## Situação de débitos
 
 <p align="justify">&emsp;&e msp;Nessa tarefa o usuário precisa acessar a área de autoatendimento, clicar em situação de débito, efetuar o login e  verificar a situação de suas respectivas contas. A figura 5 e a tabela 4 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
@@ -326,3 +339,4 @@
 |  1.3   | 15/10/2023 | Adicionando emição da segunda via | Leandro | Oscar |
 |  1.4   | 16/10/2023 | Adicionando Revisão de contas | Rodrigo | Leandro |
 |  1.5   | 16/10/2023 | Adicionando Qualidade da Água | Mateus | Leandro |
+|  1.6   | 16/10/2023 | Adicionando GOMS qualidade de agua | Mateus | Leandro |
