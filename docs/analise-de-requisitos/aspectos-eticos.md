@@ -52,5 +52,5 @@ Termo de Consentimento
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 13/10/2023 | Adiciona aspectos éticos | Mateus e Rodrigo | Leandro |
 |  2.0   | 13/10/2023 | Adiciona termo de consentimento | Mateus e Rodrigo | Leandro |
-|  2.1   | 13/10/2023 | Adicionando parágrafo | Mateus | Jefferson |
+|  2.1   | 16/10/2023 | Adicionando parágrafo | Mateus | Jefferson |
 </center>
