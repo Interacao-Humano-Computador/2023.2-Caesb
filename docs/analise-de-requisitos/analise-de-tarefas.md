@@ -229,7 +229,9 @@
 
 <center>
 
-![Notação em GOMS](../../assets/analise_de_tarefas/../../docs/assets/analise_de_tarefas/GOMS_Revisão.png){width=500px}
+![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_Revisão.png){width=800px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a></p></font>
 
 </center>
 
