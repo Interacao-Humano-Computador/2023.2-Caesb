@@ -162,9 +162,10 @@
 <p align="justify">&emsp;&emsp;Para essa tarefa o objetivo do usuário seria informar à CAESB um vazamento de água ou esgoto no endereço em questão. A figura 5 e a tabela 4 abaixo apresenta o diagrama e a tabela HTA dessa tarefa.</p>
 
 
+<center>
+  
 <font size="3"><b>Figura 8</b> - Diagrama HTA para informar vazamento na rua.</font>
 
-<center>
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/HTAlight_Vazamento.png#only-light){width=500px}
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/diagrama hta darkP.png#only-dark){width=500px}
@@ -212,7 +213,7 @@
 
 </figure>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - HTA da Revisão de Conta.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - HTA da Revisão de Conta.</p></font>
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -229,7 +230,10 @@
 
 <center>
 
-![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_Revisão.png){width=800px}
+<font size="3"><b>Figura 11</b> - Método GOMS de consulta a Contas Pagas.</font>
+
+
+![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_Revisão.png){width=500px}
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a></p></font>
 
@@ -250,7 +254,7 @@
 
 </figure>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - HTA da Qualidade da Água.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - HTA da Qualidade da Água.</p></font>
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -263,11 +267,13 @@
 | 3.3 Relatório Anual da Qualidade da Água | *feedback*: o usuário será redirecionado para uma página contendo os relatórios anuis <br>|
 | 3.3.1 Selecionar o ano desejado| *plano*: o usuário deverá escolher  relatório do ano que deseja <br>|
 
-font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a></p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a></p></font>
 
 <p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
 
 <center>
+
+<font size="3"><b>Figura 13</b> - Método GOMS de consulta a Contas Pagas.</font>
 
 ![Notação em GOMS](../../assets/analise_de_tarefas/GOMS_Qualidade.png){width=800px}
 
@@ -280,10 +286,11 @@ font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/m
 
 <p align="justify">&emsp;&e msp;Nessa tarefa o usuário precisa acessar a área de autoatendimento, clicar em situação de débito, efetuar o login e  verificar a situação de suas respectivas contas. A figura 5 e a tabela 4 apresentam, respectivamente, o diagrama e a tabela HTA da tarefa.</p>
 
-
-<font size="3"><b>Figura 5</b> - Diagrama HTA de Situação de débitos.</font>
-
 <center>
+
+<font size="3"><b>Figura 14</b> - Diagrama HTA de Situação de débitos.</font>
+
+
 
 ![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram .png#only-light){width=500px}
 
@@ -293,7 +300,7 @@ font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/m
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a></p></font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - HTA de situação de débito.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - HTA de situação de débito.</p></font>
 
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
@@ -310,7 +317,7 @@ font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/m
 <p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
 
 <center>
-<font size="3"><b>Figura 7</b> - Método GOMS de situação de débitos.</font>
+<font size="3"><b>Figura 15</b> - Método GOMS de situação de débitos.</font>
 
 ![Notação em GOMS](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/GOMOSCAR.jpeg){width=500px}
 
