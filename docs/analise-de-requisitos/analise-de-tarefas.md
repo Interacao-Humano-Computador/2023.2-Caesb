@@ -225,6 +225,14 @@
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a></p></font>
 
+<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
+
+<center>
+
+![Notação em GOMS](../../assets/analise_de_tarefas/../../docs/assets/analise_de_tarefas/GOMS_Revisão.png){width=500px}
+
+</center>
+
 
 ## Consultar Qualidade da Água  
 <p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira consultar a qualidade da água em sua região administrativa. No qual ele precisa acessar o site da caesb, acessar o menu "Água", acessar o submenu "Controle de Qualidade", selecionar "Análises e Resultados", por fim clicar em  "Resultados na Rede de Distribuição - Síntese por Sistemas de Abastecimento" ou  "Qualidade da Água Distribuída" ou "Relatório Anual da Qualidade da Água". Caso selecionado "Relatório Anual da Qualidade da Água", clicar no ano desejado. </p>
