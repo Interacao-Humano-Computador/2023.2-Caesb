@@ -40,8 +40,7 @@
 | Perfil do Usuário |    Pedro Muniz | Mateus Levy | 02/10 - 08/10 |09/10 - 15/10 |
 | Aspectos Éticos de Pesquisas com Pessoas |  Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 02/10 - 08/10 | 09/10 - 15/10 |
 | Análise de tarefas |   Jefferson | Tiago | 02/10 - 08/10 | 09/10 - 15/10 |
-| Criação de Personas |    Pedro Muniz | Mateus Levy | 02/10 - 08/10|09/10 - 15/10 |
-| Processo de design |     Mateus levy | 02/10 - 08/10 | 09/10 - 15/10 |
+| Criação de Personas |    Pedro Muniz | Mateus Levy | 02/10 - 08/10|09/10 - 15/10  | 
 | Atualizar o GitPages  |   Oscar | Leandro |02/10 - 08/10 | 09/10 - 15/10 |
 | Gravação e edição da apresentação |    Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 16/10 | 16/10 - 16/10 |
 | Revisão cronograma | Rodrigo e Leandro| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 08/10 | 17/10 - 15/10|
