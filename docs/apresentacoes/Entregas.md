@@ -11,6 +11,14 @@ A apresentação da entrega 1, pode ser vista no [YouTube](https://www.youtube.c
 </center>
 <b>Vídeo 1</b>: Entrega 1 (Fonte: Grupo 06. 2023). </p>
 
+## Entrega 2: 
+A apresentação da entrega 2, pode ser vista no [YouTube]().
+
+<center>
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+<b>Vídeo 2</b>: Entrega 2 (Fonte: Grupo 06. 2023). </p>
+
 ## Referências
 
 > <p id="1">1. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
@@ -24,6 +32,7 @@ A apresentação da entrega 1, pode ser vista no [YouTube](https://www.youtube.c
 | Versão |    Data    |      Descrição       |  Autor  | Revisor |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 01/10/2023 | Adicionou video | Oscar | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+|  2.0   | 16/10/2023 | Adicionou Entrega 2 | Mateus | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 
 </center>
