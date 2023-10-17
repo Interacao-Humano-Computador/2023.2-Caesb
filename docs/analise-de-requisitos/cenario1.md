@@ -2,11 +2,11 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;A criação de um cenário de análise começa com o desenvolvimento de uma narrativa envolvendo indivíduos realizando uma atividade específica. Essa narrativa pode ser textual ou visual, deve incluir um contexto detalhado. O cenário descreve como uma aplicação é utilizada, incluindo usuários, processos e dados relevantes. Em nossa disciplina, o principal objetivo de criar cenários é avalizar a satisfação do usuário com o produto e facilitar a compreensão da atividade em questão.</p>
+<p align="justify">&emsp;&emsp;A criação de um cenário de análise começa com o desenvolvimento de uma narrativa envolvendo indivíduos realizando uma atividade específica<a href="#1"><sup>1</sup></a>. Essa narrativa pode ser textual ou visual, deve incluir um contexto detalhado. O cenário descreve como uma aplicação é utilizada, incluindo usuários, processos e dados relevantes<a href="#2"><sup>2</sup></a>. Em nossa disciplina, o principal objetivo de criar cenários é avalizar a satisfação do usuário com o produto e facilitar a compreensão da atividade em questão.</p>
 
 ## Cenários
 
-<p align="justify">&emsp;&emsp;Em todos os cenários criados é essencial incluir os elementos característicos de um cenário que são: contextos,  atores, objetivos, planejamento, ações, eventos e avaliação. Os atores representados nas narativas serãoas personas desenvolvidas para o projeto.</p>
+<p align="justify">&emsp;&emsp;Em todos os cenários criados é essencial incluir os elementos característicos de um cenário que são: contextos,  atores, objetivos, planejamento, ações, eventos e avaliação. Os atores representados nas narativas serãoas personas desenvolvidas para o projeto.<a href="#3"><sup>3</sup></a></p>
 
 ### Consultar Contas Pagas
    <p align="justify">&emsp;&emsp;Daniel Paulo Nunes, um professor de matemática do ensino médio com 40 anos de idade, residente em Brasília, é um cidadão comum que precisa acessar o site da Caesb para consultar suas contas pagas. Num dia ensolarado de domingo, depois de aproveitar seu café da manhã com sua esposa e filhos, Daniel decide lidar com sua papelada e verificar o histórico de contas pagas em seu laptop. Ele tem um conhecimento sólido na área da matemática, mas quando se trata de tecnologia, especialmente computadores, ele geralmente pede ajuda para seus filhos.</p>
@@ -32,7 +32,7 @@
 
 <p align="justify">&emsp;&emsp;Achando informações relevantes, Carla relata os problemas imediatamente, contribuindo para a comunidade de lojistas e fortalecendo ainda mais seus laços com eles. Ela percebe que, além de cuidar de sua loja e clientes, também pode ser uma voz ativa na resolução de problemas que afetam sua comunidade, algo que está alinhado com seu objetivo de melhorar sua loja e manter relacionamentos positivos com outros lojistas. Como Daniel, ela busca não apenas resolver suas questões pessoais, mas também contribuir positivamente para sua comunidade.</p>
 
-### Consultar Falta de Água
+### Consultar Segunda via da conta
 
 <p align="justify">&emsp;&emsp;Carla Mendes, a empreendedora de 32 anos que administra uma loja de perfumes no Gama, tem agora uma nova tarefa em mãos: emitir a segunda via da conta da Caesb. Carla, sempre em busca de melhorias para sua loja e atenta às necessidades de sua comunidade, sabe que a agilidade é essencial para manter seu negócio funcionando sem problemas.</p>
 
@@ -71,11 +71,11 @@
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
+> <a id="1" href="#anchor_1">1.</a> ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
 
-> <a id="REF2" href="#anchor_2">2.</a> COOPER, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing, 1999.
+> <a id="2" href="#anchor_2">2.</a> COOPER, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing, 1999.
 
-> <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Bibliografia
