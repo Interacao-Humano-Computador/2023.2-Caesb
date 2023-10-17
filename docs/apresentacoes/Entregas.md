@@ -12,7 +12,7 @@ A apresentação da entrega 1, pode ser vista no [YouTube](https://www.youtube.c
 <b>Vídeo 1</b>: Entrega 1 (Fonte: Grupo 06. 2023). </p>
 
 ## Entrega 2: 
-A apresentação da entrega 2, pode ser vista no [YouTube](https://studio.youtube.com/video/m_p23vwHqM8/edit).
+A apresentação da entrega 2, pode ser vista no [YouTube](https://www.youtube.com/watch?v=m_p23vwHqM8&ab_channel=oscarbrito).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_p23vwHqM8?si=NVZZq2JZ00qEpIU6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
