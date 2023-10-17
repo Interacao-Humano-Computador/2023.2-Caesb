@@ -87,4 +87,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 16/10/2023 | Adicionando cenários ao pages | Oscar | Pedro |
+|  1.0   | 16/10/2023 | Adicionando cenários ao pages | Oscar | Leandro |
