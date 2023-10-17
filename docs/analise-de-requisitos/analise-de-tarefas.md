@@ -235,6 +235,7 @@
 
 
 ## Consultar Qualidade da Água  
+
 <p align="justify">&emsp;&emsp; Nessa tarefa, o usuario ira consultar a qualidade da água em sua região administrativa. No qual ele precisa acessar o site da caesb, acessar o menu "Água", acessar o submenu "Controle de Qualidade", selecionar "Análises e Resultados", por fim clicar em  "Resultados na Rede de Distribuição - Síntese por Sistemas de Abastecimento" ou  "Qualidade da Água Distribuída" ou "Relatório Anual da Qualidade da Água". Caso selecionado "Relatório Anual da Qualidade da Água", clicar no ano desejado. </p>
 
 <figure markdown>
@@ -269,8 +270,9 @@
 
 <center>
 
-![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram.png#only-light){width=500px}
-![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram.png#only-dark){width=500px}
+![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram .png#only-light){width=500px}
+
+![Notação diagrama HTA](../../assets/analise_de_tarefas/Blankdiagram .png#only-dark){width=500px}
 
 </center>
 
@@ -289,6 +291,17 @@
 | 4. Localize as conta  | **plano**: o usuário deve achar a conta desejada.<br>|
 | 4.1 Clique para visualizar as situações da conta  | **feedback**: irá aparecer as situações dos débitos do usuário<br>|
 | 4.2 faça o download  | **feedback**: o download da conta em PDF irá começar. <br>|
+
+<p align= "left">GOMS (Goals, Operators, Methods and Selection Rules)</p>
+
+<center>
+<font size="3"><b>Figura 7</b> - Método GOMS de situação de débitos.</font>
+
+![Notação em GOMS](../../assets/analise_de_tarefas/../../assets/analise_de_tarefas/GOMOSCAR.jpeg){width=500px}
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a></p></font>
+
+</center>
 
 ## Referências 
 
