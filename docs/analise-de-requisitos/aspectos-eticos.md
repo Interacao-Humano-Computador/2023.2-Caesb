@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na Resolução nº 466/2012 do Conselho Nacional de Saúde no Brasil.
+<p align="justify">&emsp;&emsp;A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na Resolução nº 466/2012 do Conselho Nacional de Saúde no Brasil.
 
 - princípios  da autonomia: que diz respeito à necessidade de obter o consentimento voluntário e plenamente informado das pessoas que participam da pesquisa. Além disso, esse princípio se estende à proteção de grupos vulneráveis e indivíduos legalmente incapazes, como menores de idade, estudantes ou subordinados. Isso implica que qualquer estudo envolvendo seres humanos deve tratar os participantes com respeito, levando em consideração sua capacidade de tomar decisões e cuidando especialmente daqueles que se encontram em situações de fragilidade.
 
@@ -15,7 +15,7 @@ A pesquisa que envolve a participação de seres humanos desempenha um papel cru
 
 ## Termo de consentimento
 
-O termo de consentimento abaixo apresenta um padrão a ser utilizado durante as atividades envolvendo seres humanos, o membro do grupo que estiver aplicando a atividade deverá preencher os dados de acordo com a atividade desenvolvida.
+<p align="justify">&emsp;&emsp;O termo de consentimento abaixo apresenta um padrão a ser utilizado durante as atividades envolvendo seres humanos, o membro do grupo que estiver aplicando a atividade deverá preencher os dados de acordo com a atividade desenvolvida.
 
 <div style="text-align: center">
 <h3>
@@ -52,4 +52,5 @@ Termo de Consentimento
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 13/10/2023 | Adiciona aspectos éticos | Mateus e Rodrigo | Leandro |
 |  2.0   | 13/10/2023 | Adiciona termo de consentimento | Mateus e Rodrigo | Leandro |
+|  2.1   | 13/10/2023 | Adicionando parágrafo | Mateus | Jefferson |
 </center>
