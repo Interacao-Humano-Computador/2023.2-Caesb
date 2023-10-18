@@ -17,17 +17,18 @@ Local: Online via Teams
 - Durante a reunião, Tiago e Jefferson realizaram a criação da página para o método GOMS com as as analises realizadas por cada integrante. 
 
 ## Link da gravação:
-[link da Reunião 17/10/2023](https://www.youtube.com/watch?v=CNPsRKFfBn8)
+[link da Reunião 17/10/2023](https://youtu.be/DpeXCXZs_gU)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CNPsRKFfBn8?si=pqRQmnPdPrGhDii-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/DpeXCXZs_gU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <center>
 
 | Versão | Data       | Descrição                | Autor                                       | Revisor                                      |
 | ------ |---------- | ------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0 | 17/10/2023 | Escrita da ata  | Tiago | Jefferson |                                       
+| 1.0 | 17/10/2023 | Escrita da ata  | Tiago | Jefferson | 
+| 1.1 | 17/10/2023 | Adição do Video  | Jefferson | Tiago |                                      
 
 
 </center>
