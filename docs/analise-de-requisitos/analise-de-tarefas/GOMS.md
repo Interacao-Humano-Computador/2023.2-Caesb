@@ -14,6 +14,12 @@
 
 <p align="justify">&emsp;&emsp;Em resumo, o GOMS fornece uma estrutura para representar o conhecimento procedimental de uma pessoa ao realizar tarefas em um dispositivo específico. </p>
 
+## CMN-GOMS
+<p align="justify">&emsp;&emsp; Será utilizado a abordagem CMN-GOMS como modelo da análise de tarefas, pois com essa técnica há uma hierarquia estrita de objetivos e com ela os operadores são
+executados estritamente em ordem sequencial, tendo os métodos como representações em uma
+notação semelhante a um pseudocódigo, que inclui submétodos e condicionais. </p>
+
+
 ## Consultar Contas Pagas
 
 <p align="justify">&emsp;&emsp;Nessa tarefa, o usuário precisa acessar a página de consultar contas pagas, realizar login e acessar informações a respeito das faturas pagas listadas com base no mês. Logo abaixo, segue a figura da análise utilizando o método GOMS.</p>
