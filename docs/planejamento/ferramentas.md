@@ -36,7 +36,7 @@
 
 > <p id="8"> 8. Youtube. Disponível em: <https://www.youtube.com/>. Acesso em: 27 set. 2023.</p>
 
-> <p id="9"> 9. Youtube. Disponível em: <https://www.youtube.com/>. Acesso em: 18 out. 2023.</p>
+> <p id="9"> 9. Simularweb. Disponível em: <https://www.similarweb.com/pt/>. Acesso em: 18 out. 2023.</p>
 
 
 ## Histórico de versão
