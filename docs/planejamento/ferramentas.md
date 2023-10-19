@@ -16,6 +16,7 @@
 | <img src="https://cdnstorage.sendbig.com/unreal/female.webp" width=50> |This person does not exist <a href="#6"><sup>6</sup></a>| Criação de imagens de pessoas que não existem para as personas do projeto.  | 
 | <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" width=50> |VSCode <a href="#7"><sup>7</sup></a>| Edição de arquivos de documentação. | 
 | <img src="https://mailmeteor.com/logos/assets/PNG/Google_Docs_Logo_512px.png" width=35> |Google Docs <a href="#8"><sup>8</sup></a>| Criação de arquivos e documentos preliminares.  | 
+| <img src="https://cdn.worldvectorlogo.com/logos/similarweb.svg" width = 180 > | Similarweb<a href="#9"><sup>9</sup></a> | Ferramenta de análise de tráfego web. |  
 
 ## Referências
 
@@ -35,6 +36,7 @@
 
 > <p id="8"> 8. Youtube. Disponível em: <https://www.youtube.com/>. Acesso em: 27 set. 2023.</p>
 
+> <p id="9"> 9. Youtube. Disponível em: <https://www.youtube.com/>. Acesso em: 18 out. 2023.</p>
 
 
 ## Histórico de versão
@@ -46,5 +48,6 @@
 | 1.1 | 04/10/2023 | Adicionando imagem das ferramentas e ajuste de referências | Tiago, Leadro e Oscar | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.2 | 08/10/2023 | Atualiza ferramentas | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 | 1.3 | 08/10/2023 | Arruma as referências | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+| 1.4 | 08/10/2023 | Atualiza ferramentas | Leandro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
