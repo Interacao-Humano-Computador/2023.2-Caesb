@@ -77,3 +77,51 @@ O site da Caesb apresenta uma interface com uma paleta de cores uniforme e eleme
 Não foram encontradas teclas de atalho.
 
 
+## Elementos de Interface
+Os elementos sobre disposição  grid, tipografia, cores, botões e ícones e logos estao representados na figura 1.
+
+**Figura 1 - Elementos da Interface**
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FyXLMftcBcGPxHxsNvnbHZL%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DlwOY0FAS3t7uLLKY-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a> e  <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</p></a></font>
+
+## Elementos de Ação
+
+### Preenchimento de Campos
+<p align="justify">&emsp;&emsp;Este documento estabelece diretrizes essenciais para o preenchimento de campos em interfaces de sistemas, visando assegurar a consistência e clareza na coleta de informações dos usuários. Os elementos que um usuário pode preencher, são campos presentes na interface do sistema, demandam que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Exemplos de tais campos incluem a barra de pesquisa e as barras para efetuar o login.</p>
+
+### Seleção
+   <p align="justify">&emsp;&emsp;Há vários elementos de seleção, como, por exemplo, botões, menus, dropdowns, links, campos de pesquisa e outros. Esses elementos têm como objetivo facilitar a interação do usuário com o site, tornando a experiência mais agradável e intuitiva.</p>
+
+### Ativação
+<p align="justify">&emsp;&emsp;Incluem botões, ícones, links, imagens e outros elementos clicáveis. Foram encontrados opções de efetuar o donwload para pdf, botões para acessar outras páginas e links para notícias.</p>
+
+## Vocabulários e padrões
+
+### Terminologia
+<p align="justify">&emsp;&emsp;A Caesb segue convenções e padrões comuns a sites institucionais e de serviços públicos, são mais formais do que informais. O vocabulário e as terminologias usados no site geralmente refletem os termos e conceitos específicos relacionados ao setor e aos serviços oferecidos pela organização. Isso ocorre por algumas razões como:
+Profissionalismo, Clareza e maior precisão, respeito ao público e universabilidade.</p>
+
+
+### Tipos de Tela
+<p align="justify">&emsp;&emsp;O site da CAESB adota um padrão de design coeso e uma identidade visual consistente em suas diversas telas. A interface segue uma abordagem de design sólido e funcional, mantendo a coerência em todos os elementos. Essa uniformidade de estilo torna a experiência do usuário mais intuitiva e orientada para a eficiência, garantindo que os usuários possam navegar facilmente por todas as seções do site, que abrangem desde informações gerais até serviços específicos e recursos e recursos de atendimento ao cliente.</p>
+
+### Sequência de Diálogos
+<p align="justify">&emsp;&emsp;As sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes, mesmo quando estão em páginas diferentes, e são de fácil visualização.</p>
+
+## Bibliografia
+
+> <p id="1"> 1. Teste.</p>
+
+## Referências
+
+> <p id="1"> 1. Teste.</p>
+
+## Histórico de versão
+<center>
+
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 21/10/2023 | Adiciona guia de estilo | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+</center>
