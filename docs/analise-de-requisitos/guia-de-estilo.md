@@ -123,5 +123,7 @@ Profissionalismo, Clareza e maior precisão, respeito ao público e universabili
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 21/10/2023 | Adiciona guia de estilo | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+|  1.0   | 20/10/2023 | Adiciona guia de estilo | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+|  1.1   | 21/10/2023 | Acrescenta tópicos no guia de estilo | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
+</center>
 </center>
