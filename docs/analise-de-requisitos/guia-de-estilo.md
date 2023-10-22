@@ -76,6 +76,11 @@ Neste site, os usuários têm à disposição diversas maneiras de interagir atr
 ### Aceleradores (Teclas de Atalho) 
 <p align="justify">&emsp;&emsp;Não foram encontradas teclas de atalho.</p>
 
+## Resultados da análise
+
+<p align="justify">&emsp;&emsp;A maioria dos usuários acessa o site da Caesb através de celulares por isso é essencial que o site seja adaptado para dispositivos móveis devido à crescente tendência de uso de smartphones para acessar informações online.</p> 
+
+<p align="justify">&emsp;&emsp;Além disso, a otimização do acesso às funcionalidades do site da Caesb em dispositivos móveis é crucial para atender às necessidades dos usuários que buscam realizar ações específicas, como consultar faturas, relatar problemas, ou obter informações sobre serviços.</p>
 
 ## Elementos de Interface
 <p align="justify">&emsp;&emsp;Os elementos sobre disposição  grid, tipografia, cores, botões e ícones e logos estao representados na figura 1.</p>
