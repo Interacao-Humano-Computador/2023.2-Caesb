@@ -4,21 +4,21 @@
 as ações alternativas e os resultados das ações; avaliar o estado corrente do sistema e seguir mapeamentos naturais entre as intenções e as ações requeridas, entre as ações e o efeito resultante, e entre a informação que está visível e a interpretação do estado do sistema.</p>
 Para isso, os princípios e diretrizes abordam os tópicos: <br>
 
-- Correspondência com as expectativas dos usuários; X 
+- Correspondência com as expectativas dos usuários; 
 - Simplicidade nas estruturas das tarefas;
-- Equilíbrio entre controle e liberdade do usuário; X
-- Consistência e padronização; X 
-- Promovendo a eficiência do usuário; X 
+- Equilíbrio entre controle e liberdade do usuário; 
+- Consistência e padronização; 
+- Promovendo a eficiência do usuário;  
 - Antecipação;
-- Visibilidade e reconhecimento; X 
-- Conteúdo relevante e expressão adequada; X
+- Visibilidade e reconhecimento;  
+- Conteúdo relevante e expressão adequada; 
 - Projeto para erros; 
 
 ## Objetivo
 <p>Temos por objetivo avaliar, de acordo com os princípios de desing, se o site da  <a href="https://www.caesb.df.gov.br/" target="_blank">Caesb</a>
 viola algum desses objetivos. Este artefato foi realizado por <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>.</p>
 
-## Correspondência com as expectativas dos usuários
+## Correspondência com as expectativas dos usuários (Não violado)
 <p align="justify">&emsp;&emsp; Deve existir uma
 correspondência entre as variáveis do mundo real e do sistema projetado. Se
 um sistema projetado é uma versão de algo que já existe no mundo real, esse
@@ -29,7 +29,7 @@ efeitos no sistema; entre o estado real do sistema e o que é percebido pela
 visão, audição ou tato; entre o estado percebido do sistema e as
 necessidades, intenções e expectativas do usuário.</p>
 
-## Simplicidade nas estruturas das tarefas
+## Simplicidade nas estruturas das tarefas (Não violado)
 <p align="justify">&emsp;&emsp;Norman (1988) recomenda
 simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e
 resolução de problemas que elas requerem. Tarefas que são
@@ -37,7 +37,7 @@ desnecessariamente complexas devem ser reestruturadas, utilizando
 inovações tecnológicas. </p>
 
 
-## Equilíbrio entre controle e liberdade do usuário
+## Equilíbrio entre controle e liberdade do usuário (Violado)
 <p align="justify">&emsp;&emsp;É importante manter o
 usuário no controle durante o design de IHC. O usuário deve se sentir no
 comando, ter o controle sobre o computador, a interface e o ambiente de
@@ -46,6 +46,10 @@ precisa tomar constantemente. Os usuários não devem ser presos a um único
 caminho de interação. Usuário experientes devem ser possibilitados de
 iniciarem ações e controlar o sistema. Oferecer a capacidade dos usuários de
 desfazer ações.</p>
+
+### Violação
+<p align="justify">&emsp;&emsp; Esta violação está presente em diversas consultas do site. Trata-se da página que é aberta após o usuário selecionar a inscrição. O  conteúdo aberto, como consulta a 2° Via não é relevante no momento, mas sim o botão de pesquisar por outra inscrição, pois só por meio dele o usuário retorna a página de inscrições coadastradas não sendo possível retornar com o retorno do navegador, mesmo que seja a sequência padrão de páginas do site. Sendo assim, o usuário só consegue de fato voltar a inscrição quando aperta o botão, pois se apertar o botão de retornar (destacado pela seta) o site realiza o logoff do usuário.</p>
+
 
 <center>
 <figure markdown>
@@ -59,7 +63,7 @@ desfazer ações.</p>
 
 </figure>
 
-## Consistência e Padronização
+## Consistência e Padronização (Violado)
 <p align="justify">&emsp;&emsp;Norman (1988) recomenda assegurar a
 consistência da interface com o modelo conceitual embutido no sistema, para
 facilitar o aprendizado e o uso. Isso significa que todos os aspectos do
@@ -74,9 +78,25 @@ devem permanecer consistentes em todo o sistema. Por outro lado,
 elementos que têm comportamentos diferentes devem ter aparências
 distintas para evitar confusão.</p>
 
+### Violação
+
+<p align="justify">&emsp;&emsp; Nesta violação, a opação "Clientes Especiais" não possui o cadeado identificando que é uma área reservada para usuários cadastrados e que necessita de login para acessar. Porém, quando acessa a aba é direcionado para uma área de login em que é necessário inserir os dados cadastros. </p>
+
 <center>
 <figure markdown>
 <font size="3"><b>Figura 2</b> - Consistência e Padronização</font>
+
+![Visibilidade e Reconhecimento](../../assets/principios_gerais/consistencia_padronizacao2.jpg){width: 500}
+
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.caesb.df.gov.br/" target="_blank">Caesb</a>.</p></font>
+</center>
+
+</figure>
+
+<center>
+<figure markdown>
+<font size="3"><b>Figura 3</b> - Consistência e Padronização</font>
 
 ![Visibilidade e Reconhecimento](../../assets/principios_gerais/consistencia_padronizacao.jpg){width: 500}
 
@@ -86,19 +106,22 @@ distintas para evitar confusão.</p>
 
 </figure>
 
-## Promovendo a eficiência do usuário
+## Promovendo a eficiência do usuário (Não violado)
 <p align="justify">&emsp;&emsp;O usuário deve ser mantido ocupado,
 processamento demorados não devem impedi-lo de realizar outras atividades
 no sistema. O sistema deve salvar coisas já feitas pelo usuário, evitando a
 perda de trabalho. O sistema deve fornecer atalhos e aceleradores, como
 teclas de atalho e botões na barra de ferramenta.</p>
 
-## Antecipação
+## Antecipação (Violado)
 <p align="justify">&emsp;&emsp;Consiste em tentar prever o que o usuário quer e precisa, tomando iniciativas e fornecendo informações adicionais que podem ser úteis antes mesmo que o usuário pergunte por elas.</p>
+
+### Violação    
+<p align="justify">&emsp;&emsp; Nesta violação, o site não informa a descrição dos parâmetros ao usuário dificultando assim a execução da funcionalidade, uma vez que nem todos os usuários têm conhecimentos dos parâmetros.</p>
 
 <center>
 <figure markdown>
-<font size="3"><b>Figura 3</b> - Violação: Antecipação</font>
+<font size="3"><b>Figura 4</b> - Violação: Antecipação</font>
 
 ![Visibilidade e Reconhecimento](../../assets/principios_gerais/antecipacao.jpg){width: 500}
 
@@ -107,7 +130,7 @@ teclas de atalho e botões na barra de ferramenta.</p>
 </figure>
 </center>
 
-## Visibilidade e reconhecimento
+## Visibilidade e reconhecimento (Violado)
 <p align="justify">&emsp;&emsp;Visibilidade e Reconhecimento: O estado do sistema, os objetos, as ações e
 as opções devem estar atualizados e facilmente perceptíveis. O usuário deve
 reconhecer as partes da aplicação. O sistema deve fornecer feedbacks a
@@ -116,9 +139,12 @@ frequentes, informações de status podem ser sutis, mas par ações
 infrequentes e com grandes consequências, a resposta deve ser mais
 substancial. </p>
 
+### Violação
+ <p align="justify">&emsp;&emsp;A figura em destaque não é reconhecida por parte dos usuários como um caminho para a página "Portal de Serviços" pois aparenta ser somente uma imagem, fazendo não ser facialmente perceptível, violando o princípio de <b>Visibilidade e Reconhecimento</b>.g</p>
+
 <center>
 <figure markdown>
-<font size="3"><b>Figura 4</b> - Violação: Visibilidade e Reconhecimento</font>
+<font size="3"><b>Figura 5</b> - Violação: Visibilidade e Reconhecimento</font>
 
 ![Visibilidade e Reconhecimento](../../assets/principios_gerais/visibilidade_rec.jpg){width: 500}
 
@@ -129,15 +155,18 @@ substancial. </p>
 </figure>
 
 
-## Conteúdo relevante e expressão adequada
+## Conteúdo relevante e expressão adequada (Violado)
  <p align="justify">&emsp;&emsp;Projeto estético e minimalista.
 Mensagens de instrução e ajuda devem ser concisas e informativas sobre
 problemas que ocorrerem. Rótulos de menus e botões devem ser claros e
 livres de ambiguidade e o texto deve ser legível. </p>
 
+### Violação
+ <p align="justify">&emsp;&emsp;Na figura o.termo "home" presente no menu, pode não ser suficientemente claro para todos os usuários, principalmente para aqueles que não estão acostumado com a expressão "home". É preferível optar por "página inical" ou "início" no local de "home"</p>
+
 <center>
 <figure markdown>
-<font size="3"><b>Figura 5</b> - Violação: Conteúdo relevante e expressão adequada</font>
+<font size="3"><b>Figura 6</b> - Violação: Conteúdo relevante e expressão adequada</font>
 
 ![Visibilidade e Reconhecimento](../../assets/principios_gerais/conteudo_expressao.jpg){width: 500}
 
@@ -146,16 +175,17 @@ livres de ambiguidade e o texto deve ser legível. </p>
 </figure>
 </center>
 
-## Projeto para erros
+## Projeto para erros (Violado)
  <p align="justify">&emsp;&emsp;Deve ser fácil reverter as operações e difícil realizar
 ações irreversíveis. Os usuários devem ser auxiliados quanto a
 reconhecerem, diagnosticarem e se recuperarem de erros. Controle de
 funções utilizadas frequentemente não devem ficar ao lado de outros
 controles que são considerados perigosos ou que raramente são usados. </p>
 
-<center>
+### Violação
+ <p align="justify">&emsp;&emsp;Essa função tem por objetivo simular uma conta, basaeado nos campos "consumo", "unidade de consumo" e "Categoria". Ela viola o princípio de <b>Projeto para erros</b> pois permite que o usuário insira valores negativos nos campos "consumo" e "unidade de consumo" e faz a impressão da conta com valores negativos, o que é impossível de acontecer e é um erro.</p>enter>
 <figure markdown>
-<font size="3"><b>Figura 6</b> - Violação: Projeto para Erros</font>
+<font size="3"><b>Figura 7</b> - Violação: Projeto para Erros</font>
 
 ![Visibilidade e Reconhecimento](../../assets/principios_gerais/projeto_para_erros.jpg){width: 500}
 
@@ -171,5 +201,6 @@ controles que são considerados perigosos ou que raramente são usados. </p>
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 19/10/2023 | Adiciona Princípios Gerais do projeto | Jefferson e Tiago | Leandro e Pedro |
+|  1.1   | 22/10/2023 | Adição de algumas imagens e descrição das violações | Jefferson e Tiago | Leandro e Pedro |
 
 </center>
