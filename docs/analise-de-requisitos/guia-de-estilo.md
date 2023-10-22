@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;O guia de estilo é um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Servem como uma ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento.</p>
+<p align="justify">&emsp;&emsp;O guia de estilo é um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final<a href="#1"><sup>1</sup></a>. Servem como uma ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento.</p>
 
 <p align="justify">&emsp;&emsp;Um guia de estilo deve incorporar decisões de design que abranjam os principais elementos e considerações da interface de design. Os elementos a seguir devem ser levados em consideração.</p>
 
@@ -34,7 +34,7 @@
 
 ## Organização e conteúdo do guia de estilo
 
-<p align="justify">&emsp;&emsp;O guia de estilo seguirá a estrutura proposta por Marcus e Mayhew, a qual é dividida em: introdução, resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulário e padrões. Este artefato tem como objetivo padronizar a interação do site e a aparência, garantindo uma melhor experiência para o usuário.</p>
+<p align="justify">&emsp;&emsp;O guia de estilo seguirá a estrutura proposta por Marcus<a href="#3"><sup>3</sup></a> e Mayhew<a href="#2"><sup>2</sup></a>, a qual é dividida em: introdução, resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulário e padrões. Este artefato tem como objetivo padronizar a interação do site e a aparência, garantindo uma melhor experiência para o usuário.</p>
 
 ## Público-alvo do guia de estilos 
 
@@ -71,14 +71,14 @@ Neste site, os usuários têm à disposição diversas maneiras de interagir atr
 
 ### Seleção de Estilos
 
-O site da Caesb apresenta uma interface com uma paleta de cores uniforme e elementos consistentes. O site é dedicado a fornecer informações sobre os serviços oferecidos pela Caesb, com foco especial em consultas relacionadas à água e verificação de contas.
+<p align="justify">&emsp;&emsp;O site da Caesb apresenta uma interface com uma paleta de cores uniforme e elementos consistentes. O site é dedicado a fornecer informações sobre os serviços oferecidos pela Caesb, com foco especial em consultas relacionadas à água e verificação de contas.</p>
 
 ### Aceleradores (Teclas de Atalho) 
-Não foram encontradas teclas de atalho.
+<p align="justify">&emsp;&emsp;Não foram encontradas teclas de atalho.</p>
 
 
 ## Elementos de Interface
-Os elementos sobre disposição  grid, tipografia, cores, botões e ícones e logos estao representados na figura 1.
+<p align="justify">&emsp;&emsp;Os elementos sobre disposição  grid, tipografia, cores, botões e ícones e logos estao representados na figura 1.</p>
 
 **Figura 1 - Elementos da Interface**
 
@@ -110,13 +110,19 @@ Profissionalismo, Clareza e maior precisão, respeito ao público e universabili
 ### Sequência de Diálogos
 <p align="justify">&emsp;&emsp;As sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes, mesmo quando estão em páginas diferentes, e são de fácil visualização.</p>
 
-## Bibliografia
-
-> <p id="1"> 1. Teste.</p>
-
 ## Referências
 
-> <p id="1"> 1. Teste.</p>
+> <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+
+> <p id="2" align="justify">2. Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface design. San Francisco, CA: Morgan Kaufmann, 1999.</p>
+
+> <p id="3" align="justify">3. Marcus, A. Graphic Design for Electronic Documents and User Interfaces. New York, NY: Th e ACM Press, 1992.</p>
+
+## Bibliografia
+
+> <p align="justify">1. Bilheteria Digital. Guia de estilo. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/. Acesso em: 21 de out. 2023.</p>
+
+> <p align="justify">2. BancoCentral. Guia de estilo. Repositório do Grupo BancoCentral da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo. Acesso em: 21 de out. 2023.</p>
 
 ## Histórico de versão
 <center>
@@ -125,5 +131,5 @@ Profissionalismo, Clareza e maior precisão, respeito ao público e universabili
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 20/10/2023 | Adiciona guia de estilo | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 |  1.1   | 21/10/2023 | Acrescenta tópicos no guia de estilo | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
-</center>
+
 </center>
