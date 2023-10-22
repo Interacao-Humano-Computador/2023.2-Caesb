@@ -23,9 +23,13 @@ Local: Online via Teams
 
 ## Link da gravação:
 
+[link da Reunião 21/10/2023](https://youtu.be/IP-_l0y882s)
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IP-_l0y882s?si=6f17gcrUk9XyxlEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 
-## Histórico de versão
 
 <center>
 
