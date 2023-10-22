@@ -48,7 +48,7 @@ iniciarem ações e controlar o sistema. Oferecer a capacidade dos usuários de
 desfazer ações.</p>
 
 ### Violação
-<p align="justify">&emsp;&emsp; Esta violação está presente em diversas consultas do site. Trata-se da página que é aberta após o usuário selecionar a inscrição. O  conteúdo aberto, como consulta a 2° Via não é relevante no momento, mas sim o botão de pesquisar por outra inscrição, pois só por meio dele o usuário retorna a página de inscrições coadastradas não sendo possível retornar com o retorno do navegador, mesmo que seja a sequência padrão de páginas do site. Sendo assim, o usuário só consegue de fato voltar a inscrição quando aperta o botão, pois se apertar o botão de retornar (destacado pela seta) o site realiza o logoff do usuário.</p>
+<p align="justify">&emsp;&emsp; Esta violação está presente em diversas consultas do site. Trata-se da página que é aberta após o usuário selecionar a inscrição. O  conteúdo aberto, como consulta a 2° Via não é relevante no momento, mas sim o botão de pesquisar por outra inscrição, pois só por meio dele o usuário retorna a página de inscrições cadastradas não sendo possível retornar com o retorno do navegador, mesmo que seja a sequência padrão de páginas do site. Sendo assim, o usuário só consegue de fato voltar a inscrição quando aperta o botão, pois se apertar o botão de retornar (destacado pela seta) o site realiza o logoff do usuário.</p>
 
 
 <center>
@@ -80,7 +80,7 @@ distintas para evitar confusão.</p>
 
 ### Violação
 
-<p align="justify">&emsp;&emsp; Nesta violação, a opação "Clientes Especiais" não possui o cadeado identificando que é uma área reservada para usuários cadastrados e que necessita de login para acessar. Porém, quando acessa a aba é direcionado para uma área de login em que é necessário inserir os dados cadastros. </p>
+<p align="justify">&emsp;&emsp; Nesta violação, a opção "Clientes Especiais" não possui o cadeado identificando que é uma área reservada para usuários cadastrados e que necessita de login para acessar. Porém, quando acessa a aba é direcionado para uma área de login em que é necessário inserir os dados cadastros. </p>
 
 <center>
 <figure markdown>
@@ -140,7 +140,7 @@ infrequentes e com grandes consequências, a resposta deve ser mais
 substancial. </p>
 
 ### Violação
- <p align="justify">&emsp;&emsp;A figura em destaque não é reconhecida por parte dos usuários como um caminho para a página "Portal de Serviços" pois aparenta ser somente uma imagem, fazendo não ser facialmente perceptível, violando o princípio de <b>Visibilidade e Reconhecimento</b>.g</p>
+ <p align="justify">&emsp;&emsp;A figura em destaque não é reconhecida por parte dos usuários como um caminho para a página "Portal de Serviços" pois aparenta ser somente uma imagem, fazendo não ser facialmente perceptível, violando o princípio de <b>Visibilidade e Reconhecimento</b>.</p>
 
 <center>
 <figure markdown>
@@ -162,7 +162,7 @@ problemas que ocorrerem. Rótulos de menus e botões devem ser claros e
 livres de ambiguidade e o texto deve ser legível. </p>
 
 ### Violação
- <p align="justify">&emsp;&emsp;Na figura o.termo "home" presente no menu, pode não ser suficientemente claro para todos os usuários, principalmente para aqueles que não estão acostumado com a expressão "home". É preferível optar por "página inical" ou "início" no local de "home"</p>
+ <p align="justify">&emsp;&emsp;Na figura o termo "home" presente no menu, pode não ser suficientemente claro para todos os usuários, principalmente para aqueles que não estão acostumado com a expressão "home". É preferível optar por "página inical" ou "início" no local de "home"</p>
 
 <center>
 <figure markdown>
@@ -183,7 +183,9 @@ funções utilizadas frequentemente não devem ficar ao lado de outros
 controles que são considerados perigosos ou que raramente são usados. </p>
 
 ### Violação
- <p align="justify">&emsp;&emsp;Essa função tem por objetivo simular uma conta, basaeado nos campos "consumo", "unidade de consumo" e "Categoria". Ela viola o princípio de <b>Projeto para erros</b> pois permite que o usuário insira valores negativos nos campos "consumo" e "unidade de consumo" e faz a impressão da conta com valores negativos, o que é impossível de acontecer e é um erro.</p>enter>
+ <p align="justify">&emsp;&emsp;Essa função tem por objetivo simular uma conta, baseado nos campos "consumo", "unidade de consumo" e "Categoria". Ela viola o princípio de <b>Projeto para erros</b> pois permite que o usuário insira valores negativos nos campos "consumo" e "unidade de consumo" e faz a impressão da conta com valores negativos, o que é impossível de acontecer e é um erro.</p>
+
+ <center>
 <figure markdown>
 <font size="3"><b>Figura 7</b> - Violação: Projeto para Erros</font>
 
