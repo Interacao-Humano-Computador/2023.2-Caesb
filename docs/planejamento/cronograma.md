@@ -54,7 +54,7 @@
 | Determinar as metas de usabilidade      | Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 | Criar o guia de estilos      |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 | 
 | Determinar as características da plataforma para o projeto    |Mateus Levy | Pedro Muniz | 17/10 - 20/10 | 21/10 - 24/10 |
-| Atualizar o GitPages | A Mateus Levy | Tiago  | 17/10 - 20/10 | 21/10 - 24/10 | 
+| Atualizar o GitPages |  Mateus Levy | Tiago  | 17/10 - 20/10 | 21/10 - 24/10 | 
 | Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 |
 | Revisao cronograma |  Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 
