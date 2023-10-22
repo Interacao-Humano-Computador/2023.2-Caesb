@@ -4,7 +4,7 @@
 ## Objetivo
 <p align="justify">&emsp;&emsp;O propósito deste documento é identificar e descrever as características da plataforma com base nas metas de usabilidade. Essas metas de usabilidade têm o intuito de oferecer ao designer de interação um método de avaliação dos aspectos da experiência do usuário em relação a um produto interativo.</p>
 
-##Metodologia
+## Metodologia
 <p align="justify">&emsp;&emsp;Para identificar as  características da plataforma e analisar as metas de usabilidade do site da CAESB, será percorrido o site a partir da perspectiva das características levantadas no perfil de usuário, dessa forma se analisando os aspectos de eficácia, eficiência, segurança, utilidade, aprendizado e memorização.</p>
 
 
@@ -83,6 +83,6 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 19/10/2023 | Adicionando as Metas de Usabilidade | Pedro e Rodrigo| Pedro |
-| 1.1| 20/10/2023 | Finalizando as metas de Usabilidade | Pedro e Rodrigo | Rodrigo |
+|  1.0   | 19/10/2023 | Adicionando as Metas de Usabilidade | Pedro e Rodrigo| Oscar |
+| 1.1| 20/10/2023 | Finalizando as metas de Usabilidade | Pedro e Rodrigo | Oscar |
 </center>
