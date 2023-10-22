@@ -47,8 +47,8 @@
 ### 3. Segurança:
 
 - **Pergunta:** O site da CAESB protege os usuários de situações perigosas ou erros graves? Há medidas de segurança para evitar que os usuários cometam erros?
-- **No sistema:** O site consegue proteger bem o usuário de cometer erros e acessar áreas indesejadas com relação às funcionalidades, indicando visualmente com alguns ícones as funcionalidades que são protegidas por login, as que dependem de Atualização Cadastral e os serviços que utilizam o novo Peticionamento Web (GDOC), porém o uso da  alternativa de acessibilidade aumentar a fonte, quebra a formatação do sistema caso seja utilizada algumas vezes, e não há nenhum aviso ou limitação quanto a isso.  Por isso o site da CAESB atende parcialmente a meta de segurança, faltando corrigir esse erro limitando a quantidade de vezes que o usuário pode interagir com a opção de aumentar a fonte.
-- 
+
+- **No sistema:** Existem mecanismo de proteção no site como indicações visuais em funcionalidades que são protegidas por login, as que dependem de Atualização Cadastral e os serviços que utilizam o novo Peticionamento Web (GDOC). Porém existem vários campos dentro das funcionalidades que permitem os mais diversos erros por parte dos usuários, como entrar com valores negativos em unidades de medidas, não preencher campos obrigatórios, entre outros. Além disso o uso da  alternativa de acessibilidade aumentar a fonte, quebra a formatação do sistema caso seja utilizada algumas vezes, e não há nenhum aviso ou limitação quanto a isso. Por isso o site da CAESB não atende a meta de segurança, necessitando corrigir diversos erros para auxiliar e proteger os usuários do site de forma melhor.
 
 <font size="3"><p style="text-align: center"><b>Imagem 1</b> - formatação quebrada pelo aumento da fonte</p></font>
 ![](../assets/fonteVazando.png)
