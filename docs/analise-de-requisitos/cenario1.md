@@ -4,6 +4,9 @@
 
 <p align="justify">&emsp;&emsp;A criação de um cenário de análise começa com o desenvolvimento de uma narrativa envolvendo indivíduos realizando uma atividade específica<a href="#1"><sup>1</sup></a>. Essa narrativa pode ser textual ou visual, deve incluir um contexto detalhado. O cenário descreve como uma aplicação é utilizada, incluindo usuários, processos e dados relevantes<a href="#2"><sup>2</sup></a>. Em nossa disciplina, o principal objetivo de criar cenários é avalizar a satisfação do usuário com o produto e facilitar a compreensão da atividade em questão.</p>
 
+## Metodologia
+<p align="justify">&emsp;&emsp;Para a criação e melhor identificação dos cenários foram utilizados como atores as personas levantadas no tópico de análise de requisitos desse projeto. Dessa forma usando como base suas personalidades e ações para criar um cenário que mais se aproxime de um caso de uso real do site da CAESB e permita uma melhor avaliação e aproximação da realidade nesse projeto.</p>
+
 ## Cenários
 
 <p align="justify">&emsp;&emsp;Em todos os cenários criados é essencial incluir os elementos característicos de um cenário que são: contextos,  atores, objetivos, planejamento, ações, eventos e avaliação. Os atores representados nas narativas serãoas personas desenvolvidas para o projeto.<a href="#3"><sup>3</sup></a></p>
