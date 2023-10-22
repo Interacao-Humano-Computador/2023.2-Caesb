@@ -47,6 +47,7 @@ nav:
       - Personas: analise-de-requisitos/Personas.md
       - Cenários: analise-de-requisitos/cenario1.md
       - Guia de estilo: analise-de-requisitos/guia-de-estilo.md
+      - Caracteristicas: analise-de-requisitos/caracteristicas.md
       - Análise de Tarefas: 
           - Análise Hierarquica de Tarefas: analise-de-requisitos/analise-de-tarefas/HTA.md
           - GOMS: analise-de-requisitos/analise-de-tarefas/GOMS.md
