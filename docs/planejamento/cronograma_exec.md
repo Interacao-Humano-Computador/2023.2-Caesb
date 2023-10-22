@@ -29,7 +29,19 @@
 | Criação de Personas |    Oscar e Pedro | Leandro | 15/10 | 02/10 -08/10 | 16/10 |       
 | Atualizar o GitPages  |   Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 05/10 - 16/10 | 02/10 -08/10 |16/10 |
 | Gravação e edição da apresentação |    Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 16/10 | 15/10 - 16/10 |16/10 |
-| Revisão cronograma | Tiago e Jefferson| Rodrigo e Mateus | 16/10 | 15/10 - 16/10  | 16/10 |
+| Revisão cronograma | Jefferson e Tiago | Rodrigo e Mateus | 16/10 | 15/10 - 16/10  | 16/10 |
+
+### Ponto de controle 3 - Princípios Gerais do Projeto
+
+| Atividade  | Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
+| :----: | :--------: | :------------------: | :-----: |:-----------: | :-----------: |
+| Definir os princípios gerais do projeto |  Jefferson e Tiago  | Leandro e Pedro | 19/10 - 22/10 | 17/10 - 20/10 |23/10 - 24/10 |
+| Determinar as metas de usabilidade      | Pedro Muniz e Rodrigo | Mateus Levy | 19/10 - 20/10 | 17/10 - 20/10 | 21/10 - 24/10 |
+| Criar o guia de estilos      |Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 20/10 - 21/10 | 17/10 - 20/10 | 22/10 - 24/10 | 
+| Determinar as características da plataforma para o projeto    |Mateus Levy e pedro Muniz | Rodrigo | 20/10 | 17/10 - 20/10| 21/10 - 24/10 |
+| Atualizar o GitPages | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Tiago  | 22/10 | 17/10 - 20/10  | 23/10 - 24/10 | 
+| Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 22/10 |17/10 - 20/10 | 23/10 - 24/10 |
+| Revisao cronograma |  Jefferson e Tiago | Rodrigo | 22/10 |17/10 - 20/10 | 21/10 - 24/10 |
 
 ## Referências
 
@@ -45,5 +57,6 @@
 | 1.2 | 08/10/2023 | Atualiza Cronograma | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
 | 1.3 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.4 | 16/10/2023 | Adicionando Ponto de Controle 2 | Jefferson e Tiago | Oscar |
+| 1.5 | 22/10/2023 | Adicionando Ponto de Controle 3 | Jefferson e Tiago | Oscar |
 
 </center>
