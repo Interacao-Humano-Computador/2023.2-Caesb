@@ -20,10 +20,10 @@ A apresentação da entrega 2, pode ser vista no [YouTube](https://www.youtube.c
 <b>Vídeo 2</b>: Entrega 2 (Fonte: Grupo 06. 2023). </p>
 
 ## Entrega 3: 
-A apresentação da entrega 3, pode ser vista no [YouTube]().
+A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.com/embed/VKEvtGgIwdY?si=2eTwYfq0fc9DDbTu).
 
 <center>
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKEvtGgIwdY?si=2eTwYfq0fc9DDbTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 <b>Vídeo 3</b>: Entrega 3 (Fonte: Grupo 06. 2023). </p>
 
