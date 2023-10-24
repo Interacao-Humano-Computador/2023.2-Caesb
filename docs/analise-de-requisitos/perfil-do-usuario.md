@@ -14,11 +14,26 @@
 
 <p align="justify">&emsp;&emsp;A maioria dos usuários são do sexo masculino e possuem idades entre 25 e 34 anos. Suas principais áreas de interesse são Informática, Eletrônica e Tecnologia. As figuras abaixo demonstram esses dados.</p>
 
+<center>
+
+<font size="3"><b>Figura 1</b> - Faixa etária e sexo dos usuários da Caesb</font>
+
 ![](../assets/questionario/idade_caesb.png)
+
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.similarweb.com/pt/" target="_blank">SimilarWeb</a></p></font>
+
+
+<font size="3"><b>Figura 2</b> - Principais interesses dos usuários da Caesb</font>
 
 ![](../assets/questionario/interesse_caesb.png)
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.similarweb.com/pt/" target="_blank">SimilarWeb</a></p></font>
+
+</center>
+
 ## Perguntas do questionário
+
 <p align="justify"> O número referenciado ao final de cada pergunta levará até a resposta obtida no questionário.</p>
 
 #### Questão 1
