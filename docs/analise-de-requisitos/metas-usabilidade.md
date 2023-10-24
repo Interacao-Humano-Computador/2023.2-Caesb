@@ -6,25 +6,25 @@
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para identificar as  características da plataforma e analisar as metas de usabilidade do site da CAESB, será percorrido o site a partir da perspectiva das características levantadas no perfil de usuário, dessa forma se analisando os aspectos de eficácia, eficiência, segurança, utilidade, aprendizado e memorização.</p>
-
+<p align="justify">&emsp;&emsp;A escolha da metodologia que incorpora as metas de usabilidade definidas por Jakob Nielsen é fundamental na criação de produtos e sistemas interativos. Essas metas representam diretrizes essenciais para o desenvolvimento, pois colocam o foco na experiência do usuário. No geral, a adoção dessas metas de usabilidade resulta em produtos mais eficazes, eficientes e seguros, proporcionando uma experiência mais satisfatória para os usuários. </p>
 
 ## Definição da Metas de Usabilidade:
-### *1. Eficácia:*
+### **1. Eficácia:**
 <p align="justify">&emsp;&emsp;Uma regra geral que visa avaliar o desempenho de um sistema em relação à sua capacidade de atender às expectativas dos usuários, permitindo que eles aprendam facilmente a usá-lo, realizem suas tarefas de forma eficaz, acessem as informações que precisam e executem outros serviços de maneira satisfatória. O sistema deve fazer o que se espera dele.</p>
 
-### *2. Eficiência:*
+### **2. Eficiência:**
 <p align="justify">&emsp;&emsp;A eficiência diz respeito à rapidez com que os usuários podem concluir suas tarefas. Um sistema eficiente permite que as tarefas sejam realizadas de forma rápida, economizando tempo e esforço.</p>
 
-### *3. Segurança:*
+### **3. Segurança:**
 <p align="justify">&emsp;&emsp;A segurança visa proteger os usuários de ações indesejadas ou erros graves. Isso inclui a prevenção de situações perigosas e a capacidade de recuperação em caso de erros, garantindo que o usuário não cause danos significativos acidentalmente.</p>
 
-### *4. Utilidade:* 
+### **4. Utilidade:**
 <p align="justify">&emsp;&emsp;A utilidade se concentra na capacidade do sistema de atender às necessidades dos usuários e fornecer valor real. Um sistema útil é aquele oferecem funcionalidades e recursos relevantes e significativos para o usuário.</p>
 
-### *5. Aprendizagem:* 
+### **5. Aprendizagem:** 
 <p align="justify">&emsp;&emsp;Refere-se à facilidade com que os usuários podem aprender a usar o sistema. Um sistema com boa usabilidade deve permitir que os usuários se familiarizem com ele de forma rápida e intuitiva, com um mínimo de esforço.</p>
 
-### *6. Memorização:*
+### **6. Memorização:**
 <p align="justify">&emsp;&emsp;A memorização envolve a capacidade dos usuários de lembrar como usar o sistema após um período de inatividade. Um sistema de alta usabilidade permite que os usuários recuperem facilmente seu conhecimento sobre como executar tarefas, mesmo após algum tempo sem utilizá-lo.</p>
 
 
