@@ -12,23 +12,23 @@
 
 ## Resultados da análise de dados (SimilarWeb)
 
-<p align="justify">&emsp;&emsp;A maioria dos usuários são do sexo masculino e possuem idades entre 25 e 34 anos. Suas principais áreas de interesse são Informática, Eletrônica e Tecnologia. As figuras abaixo demonstram esses dados.</p>
+<p align="justify">&emsp;&emsp;A maioria dos usuários são do sexo masculino e possuem idades entre 25 e 34 anos. Suas principais áreas de interesse são Informática, Eletrônica e Tecnologia. As figuras 1 e 2 demonstram esses dados.</p>
 
 <center>
 
-<font size="3"><b>Figura 1</b> - Faixa etária e sexo dos usuários da Caesb</font>
+<font size="3">Figura 1 - Faixa etária e sexo dos usuários da Caesb</font>
 
 ![](../assets/questionario/idade_caesb.png)
 
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.similarweb.com/pt/" target="_blank">SimilarWeb</a></p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.similarweb.com/pt/" target="_blank">SimilarWeb</a>. Acesso em: 16 de out. 2023 </p></font>
 
 
-<font size="3"><b>Figura 2</b> - Principais interesses dos usuários da Caesb</font>
+<font size="3">Figura 2 - Principais interesses dos usuários da Caesb</font>
 
 ![](../assets/questionario/interesse_caesb.png)
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.similarweb.com/pt/" target="_blank">SimilarWeb</a></p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://www.similarweb.com/pt/" target="_blank">SimilarWeb</a>. Acesso em: 16 de out. 2023</p></font>
 
 </center>
 
@@ -90,32 +90,68 @@ O quão fácil é para você encontrar as informações no site da CAESB? <a hre
 
 ## Resultados do questionário
 
-<p align="justify">&emsp;&emsp;Os resultados do questionário foram bem variados, levando em consideração a diferença tanto de idade quanto de ocupação dos participantes. Também evidenciou-se as diferenças do uso desse site conforme o perfil do usuário.</p>
+<p align="justify">&emsp;&emsp;Os resultados do questionário apresentaram uma grande variedade, o que se esperava, considerando a diferença tanto na idade quanto na ocupação dos participantes. Além disso, ficaram evidentes as disparidades no uso deste site, dependendo do perfil do usuário. As informações obtidas foram ilustradas nas figuras de 3 a 15.</p>
 
 ## Questão 1
 <p id="2"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 3 - Respostas da pergunta 1</font>
+
+</center>
+
+
+
 ![](../assets/questionario/q1.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
 ## Questão 2
 <p id="3"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 4 - Respostas da pergunta 2</font>
+
+</center>
+
 ![](../assets/questionario/q2.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
 ## Questão 3
 <p id="4"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 5 - Respostas da pergunta 3</font>
+
+</center>
+
 ![](../assets/questionario/q3.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
 ## Questão 4
 <p id="5"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 6 - Respostas da pergunta 4</font>
+
+</center>
+
 ![](../assets/questionario/q4.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
 ## Questão 5
 <p id="6"> Resultados: </p>
 
 <center>
+
+<font size="3"><p style="text-align: center">Tabela 1: Regiões que os usuários moram</p></font>
 
 |Em qual região do DF você mora?|Quantidade de pessoas|
 |:---------:|:-------:|
@@ -128,12 +164,16 @@ O quão fácil é para você encontrar as informações no site da CAESB? <a hre
 |Taguatinga|1|
 |Outro|3|
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+
 </center>
 
 ## Questão 6
 <p id="7"> Resultados: </p>
 
 <center>
+
+<font size="3"><p style="text-align: center">Tabela 2: Ocupações dos usuários</p></font>
 
 |Qual a sua ocupação?|Quantidade de pessoas|
 |:---------:|:-------:|
@@ -144,10 +184,18 @@ O quão fácil é para você encontrar as informações no site da CAESB? <a hre
 |Segurança|1|
 |Outro|4|
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+
 </center>
 
 ## Questão 7
 <p id="8"> Resultados: </p>
+
+<center>
+
+<font size="3"><p style="text-align: center">Tabela 3: Tarefa que necessita de mais apoio</p></font>
+
+</center>
 
 |Existe alguma tarefa na qual você acredita que necessita de um apoio maior na execução? Se sim, qual seria essa tarefa?|Quantidade de pessoas|
 |:---------:|:-------:|
@@ -158,57 +206,134 @@ O quão fácil é para você encontrar as informações no site da CAESB? <a hre
 |Segurança|1|
 |Outro|4|
 
+<center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+
+</center>
+
 ## Questão 8
 <p id="9"> Resultados: </p>
 
 <p align="justify">&emsp;&emsp;0 - Pouca experiência</p>
 <p align="justify">&emsp;&emsp;5 - Muita experiência</p>
 
+<center>
+
+<font size="3">Figura 7 - Respostas da pergunta 5</font>
+
+</center>
+
 ![](../assets/questionario/q5.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
 ## Questão 9
 <p id="10"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 8 - Respostas da pergunta 6</font>
+
+</center>
+
 ![](../assets/questionario/q6.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
 ## Questão 10
 <p id="11"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 9 - Respostas da pergunta 7</font>
+
+</center>
+
 ![](../assets/questionario/q7.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Questão 11
 <p id="12"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 10 - Respostas da pergunta 8</font>
+
+</center>
+
 ![](../assets/questionario/q8.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Questão 12
 <p id="13"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 11 - Respostas da pergunta 9</font>
+
+</center>
+
 ![](../assets/questionario/q9.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Questão 13
 <p id="14"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 12 - Respostas da pergunta 10</font>
+
+</center>
+
 ![](../assets/questionario/q10.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Questão 14
 <p id="15"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 13 - Respostas da pergunta 11</font>
+
+</center>
+
 ![](../assets/questionario/q11.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Questão 15
 <p id="16"> Resultados: </p>
 
+<center>
+
+<font size="3">Figura 14 - Respostas da pergunta 12</font>
+
+</center>
+
 ![](../assets/questionario/q12.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Questão 16
 <p id="17"> Resultados: </p>
 
-
 <p align="justify">&emsp;&emsp;0 - Fácil</p>
 <p align="justify">&emsp;&emsp;5 - Difícil</p>
 
+<center>
+
+<font size="3">Figura 15 - Respostas da pergunta 13</font>
+
+</center>
+
 ![](../assets/questionario/q13.png)
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
 ## Conclusão
 
@@ -228,6 +353,7 @@ O quão fácil é para você encontrar as informações no site da CAESB? <a hre
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 13/10/2023 | Adiciona Perfil do Usuário | Pedro e Leandro | Oscar |
+|  1.1   | 26/10/2023 | Arruma fonte das imagens |   Pedro e Leandro  |  Oscar |
 
 </center>
 
