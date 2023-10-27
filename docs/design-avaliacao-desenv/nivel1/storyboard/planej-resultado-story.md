@@ -1,4 +1,4 @@
-#Planejamento do relato dos resultados do Storyboard
+# Planejamento do relato dos resultados do Storyboard
 
 ## Introdução
 <p align="justify">&emsp;&emsp;Nessa parte do projeto será definido como funcionará o relato dos resultados da avaliação do storyboard, a fim de padronizar e auxiliar o grupo quando se tiver em mãos os resultados definitivos dessa avaliação. Não é responsabilidade dessa parte relatar os resultados, será criada uma outra parte dedicada a isso, a finalidade desse documento mais uma vez é focar no planejamento do relato dos resultados da avaliação do storyboard
