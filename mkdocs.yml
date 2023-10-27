@@ -50,6 +50,8 @@ nav:
           - Análise Hierarquica de Tarefas: analise-de-requisitos/analise-de-tarefas/HTA.md
           - GOMS: analise-de-requisitos/analise-de-tarefas/GOMS.md
       - Princípios Gerais do Projeto: analise-de-requisitos/principios_gerais.md
+  - Desing, Avaliação e Desenvolvimento:
+      - Planejamento do relato dos resultados da avaliação da análise de tarefas: des-aval-des/plan-rel-res.md
   - Atas das Reuniões:
       - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 04/10/2023: atas-das-reunioes/reuniao2.md
