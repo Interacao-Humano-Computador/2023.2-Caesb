@@ -20,7 +20,7 @@
 |Consultar Qualidade da Água|
 |Situação de débitos|
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023</p></font>
 
 </center>
 
@@ -59,10 +59,68 @@
 
 | Ordem | Objetivo relacionado | Pergunta| Resposta possível | Tipo de pergunta |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|   1°  |   -   | Qual seu nome completo? | Discursiva | Fechada |
-|           |           |         |         |         |
-|           |           |         |         |         |
+|   1°  |   -   | Qual seu nome completo? | Discursiva | Aberta |
+|   2°  |   -   | Qual é a sua idade?| Discursiva | Aberta |
+|   3°  |   -   | Qual é a sua ocupação?|  Discursiva| Aberta|
+|   4°  |   -   | Qual é o seu nível de experiência com tecnologias?| Pouca Média Muita | Fechada |
+|   5°  |   -   | Você já utilizou o site da CAESB? | Sim Não  |  Fechada |       
+|   6°  |   -   | Qual plataforma você utiliza para acessar o site?  |  Computador Celular Outro | Fechada |
+|   7°  |   -   | Quais são as principais funções que você utiliza no site da CAESB?	 | Consultar Contas Pagas, Consultar Falta de Água, Emitir segunda via da conta, Informar vazamento na rua, Revisão de Conta, Consultar Qualidade da Água e Situação de débitos  |   Fechada      |
+|   8°  |   -   | Das funcionalidades que você identificou como mais usadas, qual delas considera mais importante para você?|  Discursiva       |   Aberta      |
+|   9°  |   -   | Identificou algum problema ao tentar usar essa funcionalidade, quais?|    Discursiva     |    Aberta     |
+|   10°  |   -   | Você consegue operar o sistema da CAESB com facilidade?|   Discursiva      |   Aberta      |
+|   11°  |   -   | Acredita que as informações são facilmente identificadas quando visita o site? |   Sim Não      |   Fechada      |
+|   12°  |   -   | Considera que o site da CAESB possui muitas informações? |  Discursiva       | Aberta
+|   13°  |   -   | Sente-se desconfortável ao utilizar o site da CAESB? Se sim, o que acredita que ajudaria a mitigar esse desconforto? | Discursiva | Aberta        |
+|   14°  |   -   | Teria alguma sugestão de melhoria para o site?|    Discursiva | Aberta        |
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023</p></font>
+
+</center>
+
+## C - Escolher os métodos de avaliação
+<p align="justify">&emsp;&emsp;O método escolhido foi o das entrevistas, no qual utilizamos um questionário contendo perguntas relacionadas ao sistema e às tarefas executadas pelo usuário nele. Optamos por este método, uma vez que ele nos permite obter informações sobre o sistema sob a perspectiva do usuário. As entrevistas foram gravadas, e todos os usuários concordaram em participar delas..</p>
+
+## I - Identificar e administrar as questões práticas da avaliação
+
+Interditado
+
+## D - Decidir como lidar com as questões éticas
+
+<p align="justify">&emsp;&emsp;Será empregado o termo de consentimento elaborado na seção de <a href="../analise-de-requisitos/aspectos-eticos.md" target="_blank">aspectos éticos</a>, com o propósito de obter a autorização dos participantes, garantindo que sejam devidamente respeitados durante e após a atividade.</p>
+
+## E - Avaliar (Evaluate), interpretar e apresentar os dados
+
+<p align="justify">&emsp;&emsp;Após a conclusão da avaliação, a equipe analisará os dados com o objetivo de avaliar o grau de confiabilidade dos resultados obtidos e verificar se podem ser generalizados além da amostra analisada.</p>
+
+<p align="justify">&emsp;&emsp;Depois de verificar os dados coletados durante as entrevistas, as informações serão analisadas para que possam contribuir com o aprimoramento do sistema.</p>
+
+### Planejamento do teste piloto
+<p align="justify">&emsp;&emsp;Os procedimentos para a Realização do Teste Piloto tem como finalidade avaliar o próprio planejamento e analisar se a avaliação, conforme planejada, é capaz de produzir os dados necessários para responder às questões e objetivos do estudo. Durante o teste piloto, os avaliadores devem conduzir a avaliação como se fosse uma sessão normal. Isso permite verificar a clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos, bem como determinar se esses materiais contêm informações adequadas e suficientes para guiar os participantes durante a avaliação.</p>
+ 
+ <p align="justify">&emsp;&emsp;O teste será realizado no dia 28/10/2023, contando com a presença dos alunos <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito.</a>. </p>
+
+
+
+ ## Referências
+
+> <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+
+colocar decide
+
+## Bibliografia
+
+> <p align="justify">1. Bilheteria Digital. Guia de estilo. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/. Acesso em: 28 de out. 2023.</p>
+
+> <p align="justify">2. Lichess. Guia de estilo. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/. Acesso em: 28 de out. 2023.</p>
+
+## Histórico de versão
+<center>
+
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 28/10/2023 | Adiciona Planejamento da Avaliação | Leandro e Oscar | Jefferson |
+
 
 </center>
