@@ -99,22 +99,28 @@ Interditado
 ### Planejamento do teste piloto
 <p align="justify">&emsp;&emsp;Os procedimentos para a Realização do Teste Piloto tem como finalidade avaliar o próprio planejamento e analisar se a avaliação, conforme planejada, é capaz de produzir os dados necessários para responder às questões e objetivos do estudo. Durante o teste piloto, os avaliadores devem conduzir a avaliação como se fosse uma sessão normal. Isso permite verificar a clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos, bem como determinar se esses materiais contêm informações adequadas e suficientes para guiar os participantes durante a avaliação.</p>
  
- <p align="justify">&emsp;&emsp;O teste será realizado no dia 28/10/2023, contando com a presença dos alunos <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito.</a>. </p>
+ <p align="justify">&emsp;&emsp;O teste será realizado no dia 28/10/2023, contando com a presença dos alunos <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>. </p>
 
+
+ 
+ apresentação do teste piloto pode ser vista no [YouTube](https://www.youtube.com/watch?v=bXFbuGeiBk0&ab_channel=leandroAlmeida).
+
+<center>
  Video 1 - Teste piloto
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXFbuGeiBk0?si=RNUedXztFH3BP3tt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+</center>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023</p></font>
 
 
 
- ## Referências
+## Referências
 
 > <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
 
+> <p id="1">1. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
+
+> <p id="2">2. Teams. Disponível em: [Teams](https://teams.microsoft.com).</p> 
 colocar decide
 
 ## Bibliografia
