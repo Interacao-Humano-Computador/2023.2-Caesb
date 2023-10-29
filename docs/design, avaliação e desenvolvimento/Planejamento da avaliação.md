@@ -172,6 +172,8 @@ colocar decide
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 28/10/2023 | Adiciona Planejamento da Avaliação | Leandro e Oscar | Jefferson |
+|  1.1   | 29/10/2023 | Adicina etepa I do decide e Vídeo do teste piloto | Leandro e Oscar | Jefferson |
+
 
 
 </center>
