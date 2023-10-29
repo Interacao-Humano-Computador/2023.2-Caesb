@@ -84,7 +84,39 @@
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
-Interditado
+<p align="justify">&emsp;&emsp;O recrutamento dos usuários que participarão da avaliação será realizado por meio de convites a usuários da plataforma. Serão avaliados cinco usuários, o que está dentro da quantidade determinada por Dumas e Redish. A entrevista será conduzida por dois membros do grupo de IHC, de forma que um deles conduzirá a entrevista e o outro registrará as informações relevantes. Optamos pelo uso da plataforma Discord<a href="#1"><sup>1</sup></a>, pois é gratuita e de livre acesso. O cronograma a ser seguido pode ser observado nas tabelas de 4 a 8.</p>
+
+
+<font size="3"><p style="text-align: center"> Tabela 4:  Entrevista 1</p> </font>
+
+| Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+
+<font size="3"><p style="text-align: center">Tabela 5:  Entrevista 2</p></font>
+
+| Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+
+<font size="3"><p style="text-align: center">Tabela 6:  Entrevista 3</p></font>
+
+|Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+
+<font size="3"><p style="text-align: center">Tabela 7:  Entrevista 4</p></font>
+
+| Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+
+<font size="3"><p style="text-align: center">Tabela 8:  Entrevista 5</p></font>
+
+| Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+
 
 ## D - Decidir como lidar com as questões éticas
 
@@ -99,11 +131,11 @@ Interditado
 ### Planejamento do teste piloto
 <p align="justify">&emsp;&emsp;Os procedimentos para a Realização do Teste Piloto tem como finalidade avaliar o próprio planejamento e analisar se a avaliação, conforme planejada, é capaz de produzir os dados necessários para responder às questões e objetivos do estudo. Durante o teste piloto, os avaliadores devem conduzir a avaliação como se fosse uma sessão normal. Isso permite verificar a clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos, bem como determinar se esses materiais contêm informações adequadas e suficientes para guiar os participantes durante a avaliação.</p>
  
- <p align="justify">&emsp;&emsp;O teste será realizado no dia 28/10/2023, contando com a presença dos alunos <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>. </p>
+ <p align="justify">&emsp;&emsp;O teste será realizado no dia 29/10/2023, contando com a presença dos alunos <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>. </p>
 
 
  
- apresentação do teste piloto pode ser vista no [YouTube](https://www.youtube.com/watch?v=bXFbuGeiBk0&ab_channel=leandroAlmeida).
+ apresentação do teste piloto pode ser vista no [YouTube](https://www.youtube.com/watch?v=bXFbuGeiBk0&ab_channel=leandroAlmeida).<a href="#2"><sup>2</sup></a>
 
 <center>
  Video 1 - Teste piloto
@@ -116,11 +148,12 @@ Interditado
 
 ## Referências
 
-> <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+> <p id="1">1. Discord. Disponível em: [Discord](https://discord.com/).</p> 
 
-> <p id="1">1. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
+> <p id="2">2. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
 
-> <p id="2">2. Teams. Disponível em: [Teams](https://teams.microsoft.com).</p> 
+
+
 colocar decide
 
 ## Bibliografia
@@ -128,6 +161,10 @@ colocar decide
 > <p align="justify">1. Bilheteria Digital. Guia de estilo. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/. Acesso em: 28 de out. 2023.</p>
 
 > <p align="justify">2. Lichess. Guia de estilo. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/. Acesso em: 28 de out. 2023.</p>
+
+> <p id="1" align="justify">3. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+
+
 
 ## Histórico de versão
 <center>
