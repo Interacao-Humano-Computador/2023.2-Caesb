@@ -5,7 +5,6 @@
 <p align="justify">&emsp;&emsp;O Planejamento da Avaliação do Storyboard é o processo de preparação e organização para a avaliação de um storyboard, que é uma sequência de quadros ou ilustrações que descrevem visualmente uma história ou narrativa. A avaliação do storyboard é importante para garantir que a história seja comunicada de forma eficaz e que os elementos visuais estejam alinhados com os objetivos do projeto.</p>
 
 
-
 ## Metodologia
 
 <center>
@@ -105,7 +104,14 @@
 <p align="justify">&emsp;&emsp;Os procedimentos para a realização do teste piloto têm como propósito avaliar o planejamento em si e verificar se a avaliação, conforme planejada, é capaz de gerar os dados necessários para abordar as questões e objetivos do estudo. Durante o teste piloto, os avaliadores devem conduzir a avaliação como se fosse uma sessão normal. Isso permite avaliar a clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos, além de determinar se esses materiais contêm informações adequadas e suficientes para orientar os participantes ao longo da avaliação.</p>
 
 
+### Conclusão
 
+Com todo esse planejamento, nossa expectativa é de que sejamos capazes de identificar todos os aspectos que necessitam de aprimoramento, bem como aqueles que já se encontram em um estágio satisfatório, nos possibilitando avançar para as fases seguintes do processo de design.
+
+
+## Referências
+
+> <p id="1"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p>
 
 
 ## Histórico de versão
