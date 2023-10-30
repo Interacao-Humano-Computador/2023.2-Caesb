@@ -63,16 +63,16 @@
 |   2°  |   -   | Qual é a sua idade?| Discursiva | Aberta |
 |   3°  |   -   | Qual é a sua ocupação?|  Discursiva| Aberta|
 |   4°  |   -   | Qual é o seu nível de experiência com tecnologias?| Pouca Média Muita | Fechada |
-|   5°  |   -   | Você já utilizou o site da CAESB? | Sim Não  |  Fechada |       
-|   6°  |   -   | Qual plataforma você utiliza para acessar o site?  |  Computador Celular Outro | Fechada |
-|   7°  |   -   | Quais são as principais funções que você utiliza no site da CAESB?	 | Consultar Contas Pagas, Consultar Falta de Água, Emitir segunda via da conta, Informar vazamento na rua, Revisão de Conta, Consultar Qualidade da Água e Situação de débitos  |   Fechada      |
-|   8°  |   -   | Das funcionalidades que você identificou como mais usadas, qual delas considera mais importante para você?|  Discursiva       |   Aberta      |
-|   9°  |   -   | Identificou algum problema ao tentar usar essa funcionalidade, quais?|    Discursiva     |    Aberta     |
-|   10°  |   -   | Você consegue operar o sistema da CAESB com facilidade?|   Discursiva      |   Aberta      |
-|   11°  |   -   | Acredita que as informações são facilmente identificadas quando visita o site? |   Sim Não      |   Fechada      |
-|   12°  |   -   | Considera que o site da CAESB possui muitas informações? |  Discursiva       | Aberta
-|   13°  |   -   | Sente-se desconfortável ao utilizar o site da CAESB? Se sim, o que acredita que ajudaria a mitigar esse desconforto? | Discursiva | Aberta        |
-|   14°  |   -   | Teria alguma sugestão de melhoria para o site?|    Discursiva | Aberta        |
+|   5°  |   1   | Você já utilizou o site da CAESB? | Sim Não  |  Fechada |       
+|   6°  |   1   | Qual plataforma você utiliza para acessar o site?  |  Computador Celular Outro | Fechada |
+|   7°  |   1   | Quais são as principais funções que você utiliza no site da CAESB?	 | Consultar Contas Pagas, Consultar Falta de Água, Emitir segunda via da conta, Informar vazamento na rua, Revisão de Conta, Consultar Qualidade da Água e Situação de débitos  |   Fechada      |
+|   8°  |   1   | Das funcionalidades que você identificou como mais usadas, qual delas considera mais importante para você?|  Discursiva       |   Aberta      |
+|   9°  |   2   | Identificou algum problema ao tentar usar essa funcionalidade, quais?|    Discursiva     |    Aberta     |
+|   10°  |   1   | Você consegue operar o sistema da CAESB com facilidade?|   Discursiva      |   Aberta      |
+|   11°  |   2   | Acredita que as informações são facilmente identificadas quando visita o site? |   Sim Não      |   Fechada      |
+|   12°  |   2   | Considera que o site da CAESB possui muitas informações? |  Discursiva       | Aberta
+|   13°  |   2   | Sente-se desconfortável ao utilizar o site da CAESB? Se sim, o que acredita que ajudaria a mitigar esse desconforto? | Discursiva | Aberta        |
+|   14°  |   2   | Teria alguma sugestão de melhoria para o site?|    Discursiva | Aberta        |
 
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023</p></font>
@@ -135,11 +135,11 @@
 
 
  
- apresentação do teste piloto pode ser vista no [YouTube](https://www.youtube.com/watch?v=bXFbuGeiBk0&ab_channel=leandroAlmeida).<a href="#2"><sup>2</sup></a>
+ apresentação do teste piloto pode ser vista no [YouTube](https://www.youtube.com/watch?v=qaQzXv5_cZE).<a href="#2"><sup>2</sup></a>
 
 <center>
  Video 1 - Teste piloto
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXFbuGeiBk0?si=RNUedXztFH3BP3tt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qaQzXv5_cZE?si=RQHHESzvh8TYXObi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023</p></font>
