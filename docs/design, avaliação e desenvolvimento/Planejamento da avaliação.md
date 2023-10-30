@@ -120,7 +120,7 @@
 
 ## D - Decidir como lidar com as questões éticas
 
-<p align="justify">&emsp;&emsp;Será empregado o termo de consentimento elaborado na seção de <a href="../analise-de-requisitos/aspectos-eticos.md" target="_blank">aspectos éticos</a>, com o propósito de obter a autorização dos participantes, garantindo que sejam devidamente respeitados durante e após a atividade.</p>
+<p align="justify">&emsp;&emsp;Será empregado o termo de consentimento elaborado na seção de <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/aspectos-eticos/" target="_blank">aspectos éticos</a>, com o propósito de obter a autorização dos participantes, garantindo que sejam devidamente respeitados durante e após a atividade.</p>
 
 ## E - Avaliar (Evaluate), interpretar e apresentar os dados
 
