@@ -196,6 +196,9 @@ controles que são considerados perigosos ou que raramente são usados. </p>
 </figure>
 </center>
 
+## Referências
+
+> <p id="1"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p>
 
 ## Histórico de versão
 <center>
