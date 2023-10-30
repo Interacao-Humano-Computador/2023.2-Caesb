@@ -46,12 +46,16 @@ nav:
       - Perfil do Usuário: analise-de-requisitos/perfil-do-usuario.md
       - Personas: analise-de-requisitos/Personas.md
       - Cenários: analise-de-requisitos/cenario1.md
+      - Guia de estilo: analise-de-requisitos/guia-de-estilo.md
+      - Caracteristicas: analise-de-requisitos/caracteristicas.md
       - Análise de Tarefas: 
           - Análise Hierarquica de Tarefas: analise-de-requisitos/analise-de-tarefas/HTA.md
           - GOMS: analise-de-requisitos/analise-de-tarefas/GOMS.md
       - Princípios Gerais do Projeto: analise-de-requisitos/principios_gerais.md
   - Desing, Avaliação e Desenvolvimento:
       - Planejamento do relato dos resultados da avaliação da análise de tarefas: des-aval-des/plan-rel-res.md
+  - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
+
   - Atas das Reuniões:
       - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 04/10/2023: atas-das-reunioes/reuniao2.md
@@ -59,6 +63,7 @@ nav:
       - Reunião 4 - 09/10/2023: atas-das-reunioes/reuniao4.md
       - Reunião 5 - 11/10/2023: atas-das-reunioes/reuniao5.md
       - Reunião 6 - 17/10/2023: atas-das-reunioes/reuniao6.md
+      - Reunião 7 - 21/10/2023: atas-das-reunioes/reuniao7.md
   - Apresentações:
       - Entregas: apresentacoes/Entregas.md
   - Site selecionado:

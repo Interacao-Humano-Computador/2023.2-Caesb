@@ -4,13 +4,13 @@
 
 <p align="justify">&emsp;&emsp;A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na Resolução nº 466/2012 do Conselho Nacional de Saúde no Brasil.</p>
 
-- princípios  da autonomia: que diz respeito à necessidade de obter o consentimento voluntário e plenamente informado das pessoas que participam da pesquisa. Além disso, esse princípio se estende à proteção de grupos vulneráveis e indivíduos legalmente incapazes, como menores de idade, estudantes ou subordinados. Isso implica que qualquer estudo envolvendo seres humanos deve tratar os participantes com respeito, levando em consideração sua capacidade de tomar decisões e cuidando especialmente daqueles que se encontram em situações de fragilidade.
+<p align="justify">&emsp;&emsp; - Princípios  da autonomia: que diz respeito à necessidade de obter o consentimento voluntário e plenamente informado das pessoas que participam da pesquisa. Além disso, esse princípio se estende à proteção de grupos vulneráveis e indivíduos legalmente incapazes, como menores de idade, estudantes ou subordinados. Isso implica que qualquer estudo envolvendo seres humanos deve tratar os participantes com respeito, levando em consideração sua capacidade de tomar decisões e cuidando especialmente daqueles que se encontram em situações de fragilidade. </p>
 
-- princípioda beneficência: que requer uma avaliação equilibrada dos riscos e benefícios associados à pesquisa, tanto no presente quanto no futuro, tanto para os indivíduos quanto para grupos. O objetivo é maximizar os benefícios da pesquisa e minimizar quaisquer danos ou riscos potenciais que possam surgir, seja em termos físicos, psicológicos, morais, intelectuais, sociais, culturais ou espirituais, durante qualquer fase da pesquisa ou após a sua conclusão.
+<p align="justify">&emsp;&emsp;- Princípio da beneficência: que requer uma avaliação equilibrada dos riscos e benefícios associados à pesquisa, tanto no presente quanto no futuro, tanto para os indivíduos quanto para grupos. O objetivo é maximizar os benefícios da pesquisa e minimizar quaisquer danos ou riscos potenciais que possam surgir, seja em termos físicos, psicológicos, morais, intelectuais, sociais, culturais ou espirituais, durante qualquer fase da pesquisa ou após a sua conclusão.</p>
 
-- princípio da não maleficência é fundamental e implica a obrigação de evitar danos previsíveis relacionados à pesquisa, sejam eles imediatos ou futuros.
+<p align="justify">&emsp;&emsp;- Princípio da não maleficência: é fundamental e implica a obrigação de evitar danos previsíveis relacionados à pesquisa, sejam eles imediatos ou futuros. </p>
 
- - princípio da justiça e equidade: está relacionado à relevância social da pesquisa, destacando a importância de priorizar benefícios significativos para os participantes da pesquisa e ao mesmo tempo minimizar quaisquer ônus impostos a grupos vulneráveis. Isso garante uma consideração justa de todos os interesses envolvidos e mantém o caráter humanitário e social da pesquisa em primeiro plano.
+ <p align="justify">&emsp;&emsp; - Princípio da justiça e equidade: está relacionado à relevância social da pesquisa, destacando a importância de priorizar benefícios significativos para os participantes da pesquisa e ao mesmo tempo minimizar quaisquer ônus impostos a grupos vulneráveis. Isso garante uma consideração justa de todos os interesses envolvidos e mantém o caráter humanitário e social da pesquisa em primeiro plano.</p>
 
 
 ## Termo de consentimento
@@ -24,16 +24,33 @@ Termo de Consentimento
 </h3>
 </div>
 
-<p align="justify">&emsp;&emsp;Convidamos você a participar da pesquisa universitária da matéria de Interação Humano Computador da Universidade de Brasília. O objetivo desta pesquisa é nos aproximarmos mais das pessoas que utilizam o site da Caesb.</p>
 
-<p align="justify">&emsp;&emsp;Sua participação é voluntária com esses resultados obtidos serão utilizados para uma pesquisa e podendo ser publicados em artigos ou apresentações, podendo o participante ser identificado com nome, voz e imagem, Dependendo da atividade realizada.</p>
 
-<p align="justify">&emsp;&emsp;Concordando em participar desta pesquisa, você dará o seu consentimento para a utilização das suas respostas para fins acadêmicos. Essas repostas que estão sendo coletados serão analisadas e tratados em favor de conclusões para melhorias do projeto de nosso grupo.</p>
+<p align="justify">&emsp;&emsp;Você está sendo convidado a participar de uma pesquisa acadêmica na área de Interação Humano Computador, conduzida pela Universidade de Brasília. O nosso objetivo é avaliar o site Caesb, que é uma aplicação que fornece informações sobre os serviços prestados pela empresa. A etapa atual do projeto consiste em [DESCRIÇÃO DA ETAPA].</p>
 
-<p align="justify">&emsp;&emsp;Se você decidir em participar, por favor, leia e concorde com este termo de consentimento, indicando que você está ciente dos procedimentos da pesquisa e concorda em participar.</p>
+Para a realização desta etapa, desejamos solicitar o seu consentimento para participar de uma atividade [DESCRIÇÃO DA ATIVIDADE] que terá duração de [TEMPO DE DURAÇÃO].Para isso é importante que você entenda certas informações sobre esta pesquisa:
 
-<p align="justify">&emsp;&emsp;Participando dessa pesquisa, você estará mostrando que leu e compreendeu as informações que estão descritas acima e concorda em participar do questionário. Compreendendo que sua participação é voluntária e que podendo desistir a qualquer momento, sem qualquer penalidade. Compreendendo também que as informações coletadas serão usadas apenas para fins acadêmicos.</p>
+- Sua participação nesta pesquisa é voluntária. 
+- Os resultados obtidos serão utilizados exclusivamente para fins de pesquisa e podem ser publicados em artigos ou apresentações acadêmicas. 
+- Os dados para realização da atividade como seu nome, voz e imagem serão preservados.
+- Ao concordar em participar desta pesquisa, você estará dando seu consentimento para que suas respostas sejam usadas para fins acadêmicos. 
+- As informações coletadas serão analisadas e tratadas com o propósito de obter conclusões que possam contribuir para melhorias no do site da Caesb.
+- Ao decidir participar, pedimos que leia atentamente e concorde com este termo de consentimento, indicando que você está ciente dos procedimentos da pesquisa e concorda em participar.
+<p align="justify">&emsp;&emsp;Participando desta pesquisa, você demonstra que leu e compreendeu as informações descritas acima e concorda em responder ao questionário. Lembre-se de que sua participação é voluntária, e você pode desistir a qualquer momento, sem qualquer penalidade. Além disso, é importante salientar que as informações coletadas serão usadas exclusivamente para fins acadêmicos.
+Ao prosseguir com a pesquisa, você está demonstrando sua concordância com os termos e condições mencionados neste documento. Se concorda assinale:</p>
 
+- ( ) Sim
+- ( ) Não
+
+
+
+**Nome do Participante:** ____________________________
+
+**Assinatura do Participante:** ____________________________
+
+**Assinatura do entrevistador:** ____________________________
+
+**Data:** _________________
 
 -----
 
@@ -55,4 +72,5 @@ Termo de Consentimento
 |  2.0   | 13/10/2023 | Adiciona termo de consentimento | Mateus e Rodrigo | Leandro |
 |  2.1   | 16/10/2023 | Adicionando parágrafo | Mateus | Jefferson |
 |  2.2   | 16/10/2023 | Corrige paragrafo | Mateus | Jefferson |
+|  2.3   | 16/10/2023 | Corrige termo consentimento | Mateus | Jefferson |
 </center>
