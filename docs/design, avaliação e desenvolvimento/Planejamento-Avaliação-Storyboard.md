@@ -120,5 +120,8 @@ Com todo esse planejamento, nossa expectativa é de que sejamos capazes de ident
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 30/10/2023 | planejamento da Avaliação do Storyboard | Rodrigo | Leandro |
+|  1.1  | 30/10/2023 | Adiciona referencias | Mateus | Leandro |
+
+
 
 </center>
