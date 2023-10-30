@@ -52,9 +52,9 @@ nav:
           - Análise Hierarquica de Tarefas: analise-de-requisitos/analise-de-tarefas/HTA.md
           - GOMS: analise-de-requisitos/analise-de-tarefas/GOMS.md
       - Princípios Gerais do Projeto: analise-de-requisitos/principios_gerais.md
+      - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
   - Desing, Avaliação e Desenvolvimento:
       - Planejamento do relato dos resultados da avaliação da análise de tarefas: des-aval-des/plan-rel-res.md
-  - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
 
   - Atas das Reuniões:
       - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
