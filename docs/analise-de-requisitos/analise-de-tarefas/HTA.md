@@ -241,7 +241,6 @@
 
 > <p id="1" align="justify"> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p>
 
-> <p id="3" align="justify">2. Bilheteria Digital. Disponível em> <a href="https://interacao-huma no-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/">https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/</a>. Acesso em 14 de outubro de 2023.</p>
 
 ## Bibliografia
 
