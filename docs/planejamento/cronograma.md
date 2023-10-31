@@ -56,7 +56,7 @@
 | Determinar as características da plataforma para o projeto    |Mateus Levy | Pedro Muniz | 17/10 - 20/10 | 21/10 - 24/10 |
 | Atualizar o GitPages |  Mateus Levy | Tiago  | 17/10 - 20/10 | 21/10 - 24/10 | 
 | Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 |
-| Revisao cronograma |  Pedro Muniz | Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
+| Revisao cronograma |  Tiago e Jefferson | Leandro, Mateus, Oscar, Pedro, Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 
 
 ### Ponto de controle 4 - Planejamento do relato dos resultados do storyboard
@@ -64,12 +64,13 @@
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão | 
 | :----: |  :------------------: | :-----: | :-----------: |:-----------: |
+|Planejamento da avaliação storyboard    | Rodrigo e Mateus Levy | Jefferson, Leandro, Oscar, Pedro e Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
 | Planejamento do relato de resultados do storyboard |  Pedro Muniz | Mateus Levy | 24/10 - 27/10 | 27/10 - 29/10 |
-|Planejamento da avaliação storyboard    |Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago  | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
-| Planejamento do relato de resultados da avaliação da Análise de tarefas    |Jefferson | Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
+| Planejamento da avaliação da análise de tarefas    |Leandro e Oscar | Tiago | 24/10 - 27/10 | 27/10 - 29/10 |
+| Planejamento do relato de resultados da avaliação da Análise de tarefas    |Jefferson e Tiago | Rodrigo | 24/10 - 27/10 | 27/10 - 29/10 |
 | Atualizar o GitPages |  Leandro | Oscar | 24/10 - 27/10 | 27/10 - 29/10| 
 |Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 29/10 - 30/10 | 29/10 - 30/10 |
-| Revisão cronograma |  Pedro Muniz   |Jefferson | 29/10 - 30/10 | 30/10 - 31/10 |
+| Revisão cronograma |  Tiago e Jefferson   |  Leandro, Mateus, Oscar, Pedro, Rodrigo | 29/10 - 30/10 | 30/10 - 31/10 |
 
 
 ### Ponto de controle 5 - Relato dos resultados

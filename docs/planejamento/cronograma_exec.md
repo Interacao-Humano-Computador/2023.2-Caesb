@@ -43,6 +43,19 @@
 | Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 22/10 |17/10 - 20/10 | 23/10 - 24/10 |
 | Revisao cronograma |  Jefferson e Tiago | Rodrigo | 22/10 |17/10 - 20/10 | 21/10 - 24/10 |
 
+### Ponto de controle 4 - Planejamento do relato dos resultados do storyboard
+
+
+| Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período Planejado |Período de revisão | 
+| :----: |  :------------------: | :-----: | :-----: |  :-----------: |:-----------: |
+|Planejamento da avaliação storyboard    | Rodrigo e Mateus Levy | Leandro | 30/10 | 24/10 - 27/10 | 27/10 - 29/10 |
+| Planejamento do relato de resultados do storyboard |  Pedro Muniz | Mateus Levy | 27/10 | 24/10 - 27/10 |  27/10 - 29/10 |
+| Planejamento da avaliação da análise de tarefas    |Leandro e Oscar | Tiago | 28/10 - 29/10 | 24/10 - 27/10  | 29/10 - 30/10 |
+| Planejamento do relato de resultados da avaliação da Análise de tarefas    |Jefferson e Tiago | Rodrigo | 26/10 - 29/10 | 24/10 - 27/10 |  29/10 - 30/10 |
+| Atualizar o GitPages |  Leandro | Oscar | 26/10 - 30/10 | 24/10 - 27/10 |  27/10 - 29/10| 
+|Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10| 29/10 - 30/10 |  29/10 - 30/10 |
+| Revisão cronograma |  Jefferson e Tiago   |  Leandro, Mateus, Oscar, Pedro, Rodrigo | 30/10 | 29/10 - 30/10 |  30/10 - 31/10 |
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>
@@ -58,5 +71,6 @@
 | 1.3 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.4 | 16/10/2023 | Adicionando Ponto de Controle 2 | Jefferson e Tiago | Oscar |
 | 1.5 | 22/10/2023 | Adicionando Ponto de Controle 3 | Jefferson e Tiago | Oscar |
+| 1.6 | 22/10/2023 | Adicionando Ponto de Controle 4 | Jefferson e Tiago | Oscar |
 
 </center>
