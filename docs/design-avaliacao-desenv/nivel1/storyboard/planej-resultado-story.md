@@ -5,7 +5,7 @@
 </p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp; Para realizar o planejamento do relato da avaliação do storyboard os aspectos que devem ser incluídos no relato de resultados exemplificado por Barbosa e Silva (2011), dessa forma facilitando a busca por recorrências nos resultados de acordo com o método selecionado <a href="#1"><sup>1</sup></a>. O relato dos resultados alinhado com esse conceito e as especificações de nosso projeto deverá conter:
+<p align="justify">&emsp;&emsp; Para realizar o planejamento do relato da avaliação do storyboard os aspectos que devem ser incluídos no relato de resultados exemplificado por Barbosa e Silva (2011), dessa forma facilitando a busca por recorrências nos resultados de acordo com o método selecionado <a href="#1"><sup>1</sup></a>. O relato dos resultados alinhado com esse conceito e as especificações de nosso projeto deverá conter: </p>
 
 - Os objetivos e escopo da avaliação;
   
@@ -24,7 +24,6 @@
 - Planejamento de reprojeto do sistema;
 
 Ou seja, os relatos dos resultados deverão conter a seguinte formatação:
-</p>
 
 ### Objetivos e escopo da avaliação:
 <p align="justify">&emsp;&emsp;Deverá ser explicado por cada membro do grupo que realizou a avaliação o motivo da realização dessa avaliação relacionando isso com os objetivos que se visa alcançar com os storyboards. Passando por contextualização, importância, expectativas, entre outros aspectos para explicitar de forma clara os objetivos e escopo dessa avaliação do storyboard.</p>
