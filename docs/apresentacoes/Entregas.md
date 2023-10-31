@@ -29,9 +29,9 @@ A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.c
 
 
 ## Entrega 4:
- apresentação da entrega 4, pode ser vista no [YouTube]().
+ apresentação da entrega 4, pode ser vista no [YouTube](https://www.youtube.com/watch?v=2jWX2IAyT4A).
  <center>
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jWX2IAyT4A?si=2VwZDTPeDsu2mN3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 <b>Vídeo 4</b>: Entrega 4 (Fonte: Grupo 06. 2023). </p>
 
