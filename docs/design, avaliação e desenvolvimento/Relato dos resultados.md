@@ -11,6 +11,8 @@
 
 ## Emitir Segunda Via da Conta 
 
+<p align="justify">&emsp;&emsp;A finalidade dessa entrevista foi verificar se a tarefa de Emitir Segunda Via da Conta estava de acordo com a necessidade do usuário do site da Caesb e também indentificar pontos que poderiam ser melhorados.</p>
+
 <center>
 
 Video 1 - Entrevista 1
