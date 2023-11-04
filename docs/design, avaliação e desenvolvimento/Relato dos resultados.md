@@ -64,6 +64,14 @@ Video 2 - Entrevista 2
 
 </center>
 
+### Problemas e dificuldades encontradas
+
+<p align="justify">&emsp;&emsp;A página inicial do site é muito poluída com diversas informações o que atrapalha encontrar a funcionalidade desejada, além disso alguns elementos importantes não tem indicação visual para mostrar que são clicáveis, e com isso também atrapalha a navegação no site.</p>
+
+### Sugestões de melhoria
+
+<p align="justify">&emsp;&emsp;Deixar as informações mais claras e destacadas, podendo agrupá las em algum espaço na tela dessa forma limpando a poluição e mistura das informações na tela inicial, deixar destacado também todos os ícones que são clicáveis na tela inicial para facilitar a navegação e além disso, adequar o site a totalidade do espaço do navegador, aumentando a familiaridade com o sistema pelos usuários.</p>
+
 ## Histórico de versão
 
 <center>
