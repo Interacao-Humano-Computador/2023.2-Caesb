@@ -20,8 +20,6 @@
 - O feedback dos usuários que participaram da avaliação;
   
 - Interpretação e análise dos dados;
-  
-- Planejamento de reprojeto do sistema;
 
 Ou seja, os relatos dos resultados deverão conter a seguinte formatação:
 
@@ -59,22 +57,6 @@ Ou seja, os relatos dos resultados deverão conter a seguinte formatação:
 
 ### Interpretação e análise dos dados
 <p align="justify">&emsp;&emsp;Nessa parte o entrevistador deverá analisar e compreender os dados que foram coletados com a entrevista, definindo cuidadosamente padrões e percepções com base nos resultados para se obter conclusões significativas. Deve-se também alinhar essas informações com os objetivos da avaliação e identificar os impactos dos resultados nos diversos  aspectos analisados do sistema, de forma a obter um documento detalhado e conciso.</p>
-
-
-### Planejamento de reprojeto do sistema
-<p align="justify">&emsp;&emsp;Por último, o entrevistador deve se basear em todos os outros tópicos do documento levantado para analisar critérios de reprojeto, ou seja, elicitar as mudanças sugeridas e os problemas identificados ao longo do relato dos resultados do storyboard para a realização de um reprojeto. A tabela abaixo explicita os horários e datas planejadas por cada entrevistador desse projeto para realizar o possível reprojeto.</p>
-
-<font size="3"><p style="text-align: center">Tabela 2: Cronograma planejado para o reprojeto</p></font>
-
-<center>
-
-| Quem executará o reprojeto |    Hora de Início    |     Hora de Fim  |  Data|  
-| :----: | :--------: | :------------------: | :-----: | 
-|  Pedro Henrique | 18:00 | 19:00 | 04/11/2023 |  
- 
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: Grupo 06. 2023</p></font>
 
 
 ## Referências
