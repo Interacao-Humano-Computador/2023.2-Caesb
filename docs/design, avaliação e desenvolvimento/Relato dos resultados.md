@@ -41,6 +41,29 @@ Video 1 - Entrevista 1
 
 <p align="justify">&emsp;&emsp;Agrupar melhor as informações no menu, ao invés de deixar todas elas já disponíveis na tela inicial. Os ícones das funções mais utilizadas deveriam ficar mais destacados e não escondidas na parte de baixo do site.</p>
 
+## Informar vazamento na rua
+<p align="justify">&emsp;&emsp;A finalidade dessa entrevista foi verificar a funcionalidade de informar vazamento na rua e validar se ela está de acordo com as necessidades e expectativas do usuário do site da CAESB e além disso, validar o diagrama HTA feito para essa atividade. Dessa maneira possibilitando identificar problemas e melhorias para o sistema da CAESB.</p>
+
+<center>
+
+Video 2 - Entrevista 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bp5p5VJre7M?si=DgvmAgOUC3gFYXGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center"> Tabela 2:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Pedro Henrique|Lucas Ambrosio|  04/11/2023 | 14:40 até 14:50 | Discord|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
+
+</center>
+
 ## Histórico de versão
 
 <center>
@@ -48,5 +71,6 @@ Video 1 - Entrevista 1
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 02/11/2023 | Adiciona relato dos resultados | Leandro e Oscar | Mateus |
+|  1.1   | 04/11/2023 | Adiciona relato Informar vazamento | Pedro Henrique | Leandro |
 
 </center>
