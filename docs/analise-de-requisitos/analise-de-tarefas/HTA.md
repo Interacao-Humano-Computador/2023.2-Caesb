@@ -229,9 +229,9 @@
 | 2. Clique no botão situação de débitos | **feedback** : usuário e redirecionado para a paǵina de efetuar login|
 | 3. Faça login |**input**: Dados de login.<br>**feedback**: o usuário é redirecionada para a página de situações de débitos.|
 | 3. Clique em pesquisar | **feedback**: o usuário será redirecionado para uma página com todos os débitos.<br>|
-| 4. Localize as conta  | **plano**: o usuário deve achar a conta desejada.<br>|
-| 4.1 Clique para visualizar as situações da conta  | **feedback**: irá aparecer as situações dos débitos do usuário<br>|
-| 4.2 faça o download  | **feedback**: o download da conta em PDF irá começar. <br>|
+| 4. O download do arquivo com os débitos será executado automatimente  | **feedback**: o download dos débitos em PDF irá começar e o usuário será redirecionado para a página de download de débitos.<br>|
+| 4.1. O download do arquivo com débito não será executado automaticamente  | **feedback**: O usuário será redirecionado para a página de download de débitos <br>|
+| 5. Clique no botão de download  | **feedback**: o download dos débitos em PDF irá começar. <br>|
 
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a></p></font>
