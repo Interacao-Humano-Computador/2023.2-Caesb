@@ -227,8 +227,7 @@
 |  0. Acessar o site da Caesb   |                                                                                                                                                                                                         |
 | 1. Clique em portal de serviço de atendimento |**feedback**: usuário é redirecionado para a página de atendimentos.<br>|
 | 2. Clique no botão situação de débitos | **feedback** : usuário e redirecionado para a paǵina de efetuar login|
-| 3. Faça login |**input**: Dados de login.<br>**feedback**: o usuário é redirecionada para a página de situações de débitos.|
-| 3. Clique em pesquisar | **feedback**: o usuário será redirecionado para uma página com todos os débitos.<br>|
+| 3. Faça login |**input**: Dados de login.<br>|
 | 4. O download do arquivo com os débitos será executado automatimente  | **feedback**: o download dos débitos em PDF irá começar e o usuário será redirecionado para a página de download de débitos.<br>|
 | 4.1. O download do arquivo com débito não será executado automaticamente  | **feedback**: O usuário será redirecionado para a página de download de débitos <br>|
 | 5. Clique no botão de download  | **feedback**: o download dos débitos em PDF irá começar. <br>|
