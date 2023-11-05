@@ -257,5 +257,5 @@
 |  1.3   | 15/10/2023 | Adicionando emição da segunda via | Leandro | Oscar |
 |  1.4   | 16/10/2023 | Adicionando Revisão de contas | Rodrigo | Leandro |
 |  1.5   | 16/10/2023 | Adicionando Qualidade da Água | Mateus | Leandro |
-|  1.6   | 16/10/2023 | Adicionando qualidade de agua | Mateus | Leandro |
+|  1.6   | 16/10/2023 | Adicionando Situação de débito | Oscar | Leandro |
 |  1.7   | 17/10/2023 | Correção da Análise de Tarefas | Jefferson e Tiago | Rodrigo e Mateus |
