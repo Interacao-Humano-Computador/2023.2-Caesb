@@ -11,7 +11,11 @@
 
 ## Emitir Segunda Via da Conta 
 
-<p align="justify">&emsp;&emsp;A finalidade dessa entrevista foi verificar se a tarefa de Emitir Segunda Via da Conta estava de acordo com a necessidade do usuário do site da Caesb e também indentificar pontos que poderiam ser melhorados.</p>
+### Objetivos e escopo da avaliação
+<p align="justify">&emsp;&emsp;Verificar se essa tarefa representa de maneira correta as ações realizadas pelos usuários do site da Caesb quando utilizam a função emitir segunda via da conta e coletar informações para melhorar o projeto.</p>
+
+### Seleção dos participantes
+<p align="justify">&emsp;&emsp;O participante se encaixa no perfil do usuário pois tem 21 anos, possui experiência com tecnologias e já utilizou a função emitir segunda via da conta no site da Caesb.</p>
 
 <center>
 
@@ -33,13 +37,15 @@ Video 1 - Entrevista 1
 
 </center>
 
-### Problemas e dificuldades encontradas
 
-<p align="justify">&emsp;&emsp;O site possui muitas informações, e elas não estão bem organizadas, o que dificulta a utilização do site.</p>
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Podemos concluir, com base na entrevista, que a função de emissão da segunda via da conta atende às necessidades dos usuários do site da Caesb. No entanto, a grande quantidade de informações no site pode dificultar a localização dessa função. Para melhorar a experiência do usuário, as informações do site deveriam ser organizadas de uma forma que não poluisse a tela, e a função de emissão da segunda via da conta deveria ser destacada na página inicial, juntamente com outras funções, para facilitar sua localização e economizar tempo do usuário.</p>
 
-### Sugestões de melhoria
+### Princípais resultados
 
-<p align="justify">&emsp;&emsp;Agrupar melhor as informações no menu, ao invés de deixar todas elas já disponíveis na tela inicial. Os ícones das funções mais utilizadas deveriam ficar mais destacados e não escondidas na parte de baixo do site.</p>
+- O usuário encontrou dificuldade em localizar a função emitir segunda via da conta.
+- O fluxo de tarefas de emitir segunda via da conta está alinhado com a forma como os usuários utilizam essa função na vida real.
+- As informações do site confundem o usuário pois são muitas e estão desorganizadas.
 
 ## Informar vazamento na rua
 <p align="justify">&emsp;&emsp;A finalidade dessa entrevista foi verificar a funcionalidade de informar vazamento na rua e validar se ela está de acordo com as necessidades e expectativas do usuário do site da CAESB e além disso, validar o diagrama HTA feito para essa atividade. Dessa maneira possibilitando identificar problemas e melhorias para o sistema da CAESB.</p>

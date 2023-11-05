@@ -11,12 +11,10 @@
 - os objetivos e escopo da avaliação;
 - a forma como a avaliação foi realizada (método de avaliação empregado);
 - Seleção dos participantes;
-- Sumário dos Dados Coletado;
-- um relato da interpretação e análise dos dados;
+- um relato da interpretação e análise dos dados;
 - Princípais resultados;
 
 </p>
-
 
 
 ## Objetivo e Escopo da Avaliação
@@ -28,8 +26,6 @@
 ## Seleção dos Participantes
 <p align="justify">&emsp;&emsp; Para a seleção dos participantes do método de avaliação, após ser verificado se o participante se encaixa no <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/perfil-do-usuario/#metodologia">Perfil de Usuário</a> definido no projeto e verificado se o entrevistador não possui qualquer tipo de vínculo com o entrevistado, para não haver qualquer influência ou contaminação dos dados coletados, deverá ser registrado a identificação do(s) usuário(s) selecionado(s).  </p>
 
-## Sumário dos Dados Coletados  
-<p align="justify">&emsp;&emsp; A partir do desenvolvimento da entrevista, o entrevistador deverá listar os problemas e dificuldades que foram explicitados pelo entrevistado. Estes dados, deverão ser registrados de forma clara e objetiva. </p>
 
 ## Interpretação e análise de dados
 <p align="justify">&emsp;&emsp; O avaliador deve avaliar, interpretar e apresentar os dados coletados durante a avaliação da análise de tarefas. É necesário examinar cuidadosamente os resultados para que não haja equívocos na interpretação e que o relato seja fidedigno, ou seja, condiza com os dados coletados.  Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos.</p>
