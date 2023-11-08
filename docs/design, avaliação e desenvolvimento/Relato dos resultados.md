@@ -78,6 +78,48 @@ Video 2 - Entrevista 2
 
 <p align="justify">&emsp;&emsp;Deixar as informações mais claras e destacadas, podendo agrupá las em algum espaço na tela dessa forma limpando a poluição e mistura das informações na tela inicial, deixar destacado também todos os ícones que são clicáveis na tela inicial para facilitar a navegação e além disso, adequar o site a totalidade do espaço do navegador, aumentando a familiaridade com o sistema pelos usuários.</p>
 
+## Situação de débito
+
+### Objetivos e escopo da avaliação
+<p align="justify">&emsp;&emsp;A tarefa em questão está sendo usada para verificar se as ações dos usuários do site da Caesb, especificamente quando eles gerenciam seus débitos, estão sendo representadas com precisão. Além disso, a tarefa também envolve a coleta de informações para melhorar o projeto.</p>
+
+### Seleção dos participantes
+<p align="justify">&emsp;&emsp;O indivíduo em questão se enquadra perfeitamente no perfil do usuário, tendo 22 anos de idade, experiência com tecnologias e já tendo utilizado a funcionalidade de gerenciamento de débitos no site da Caesb para si e sua família.</p>
+
+<center>
+
+Video 3 - Entrevista 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbJVUDCWurE?si=G9i92XkFDi-1BEwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center"> Tabela 3:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Oscar de Brito|Laura Coutinho|  04/11/2023 | 20:30 até 20:40 | Teams|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+</center>
+
+
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Podemos concluir, com base na entrevista, que a função de emissão da segunda via da conta atende às necessidades dos usuários do site da Caesb. No entanto, a grande quantidade de informações no site pode dificultar a localização dessa função. Para melhorar a experiência do usuário, as informações do site deveriam ser organizadas de uma forma que não poluisse a tela, e a função de emissão da segunda via da conta deveria ser destacada na página inicial, juntamente com outras funções, para facilitar sua localização e economizar tempo do usuário.</p>
+
+### Princípais resultados
+
+- O usuário encontrou dificuldade em localizar a função emitir segunda via da conta.
+- O fluxo de tarefas de emitir segunda via da conta está alinhado com a forma como os usuários utilizam essa função na vida real.
+- As informações do site confundem o usuário pois são muitas e estão desorganizadas.
+
+
+
+
+
 ## Histórico de versão
 
 <center>
@@ -86,5 +128,6 @@ Video 2 - Entrevista 2
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 02/11/2023 | Adiciona relato dos resultados | Leandro e Oscar | Mateus |
 |  1.1   | 04/11/2023 | Adiciona relato Informar vazamento | Pedro Henrique | Leandro |
+|  1.2   | 08/11/2023 | Adiciona relato dos resultado  da situação de débito | Oscar de Brito | Jefferson |
 
 </center>
