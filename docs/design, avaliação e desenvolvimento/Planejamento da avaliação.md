@@ -153,9 +153,6 @@
 > <p id="2">2. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
 
 
-
-colocar decide
-
 ## Bibliografia
 
 > <p align="justify">1. Bilheteria Digital. Guia de estilo. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/. Acesso em: 28 de out. 2023.</p>
