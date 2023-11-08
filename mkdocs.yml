@@ -54,13 +54,16 @@ nav:
       - Princípios Gerais do Projeto: analise-de-requisitos/principios_gerais.md
       - Metas de Usabilidade: analise-de-requisitos/metas-usabilidade.md
   - Design, Avaliação e Desenvolvimento:
-      - Nivel1:
+      - Nivel 1:
           - Analise de tarefas: 
               - Planejamento da avaliação da analise de tarefas: design, avaliação e desenvolvimento/Planejamento da avaliação.md
               - Planejamento do relato dos resultados da avaliação da análise de tarefas: des-aval-des/plan-rel-res.md
           - Storyboard: 
               - Planejamento da Avaliação do Storyboard: design, avaliação e desenvolvimento/Planejamento-Avaliação-Storyboard.md
               - Planejamento do relato dos resultados do storyboard: design-avaliacao-desenv/nivel1/storyboard/planej-resultado-story.md
+      - Nivel 2:
+          - protótipo de Papel:
+              - Planejamento da Avaliação do Protótipo de Papel: design, avaliação e desenvolvimento/planejamento-prototipo-papel.md
   - Atas das Reuniões:
       - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 04/10/2023: atas-das-reunioes/reuniao2.md
