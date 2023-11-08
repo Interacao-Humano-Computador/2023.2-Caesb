@@ -232,6 +232,66 @@ Video 4 - Entrevista 4
 
 <p align="justify">&emsp;&emsp;Por fim, como ficou evidenciado pelos dados obtidos, o usuário concorda com os passos apresentados para se consultar a falta de água por meio da funcionalidade no site da CAESB, demonstrando que o storyboard está condizente com a realidade e foi explicado claramente para o usuário.</p>
 
+## Revisão de Conta 
+
+### Objetivo e escopo da avaliação
+
+<p align="justify">&emsp;&emsp;E essa avaliação tem como objetivo identificar se o StoryBoard esta devidamente relacionado com a funcionalidade de revisão de contas no site da caesb.</p>
+
+<center>
+
+<font size="3"><p style="text-align: center"> Tabela 9:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Rodrigo Fonseca |Carlos Guilherme|  08/11/2023 | 13:00 até 13:10 | Discord|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+</center>
+
+### Perfil do usuário
+
+<p align="justify">&emsp;&emsp;O usuário que foi escolhido  para participar da entrevista se adequa nos padrões estabelecidos no perfil de usuário, possuindo conhecimento com tecnologia e com o sistema da CAESB.
+</p>
+
+### Sumário dos dados coletados
+
+<font size="3"><p style="text-align: center">Tabela 10: Roteiro de Perguntas</p></font>
+
+<center>
+
+|  Ordem   | Enunciado | Respostas Possíveis|
+|--------|-----------|----------|
+| 1º | Você acha que a história apresentada no storyboard é clara e fácil de entender? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei |
+| 2º | Você acredita que o storyboard seja apropriado para o público-alvo pretendido? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 3º| Os usuários envolvidos no storyboard condizem com a realidade? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 4º | Você percebe uma sequência lógica de eventos no storyboard?  | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 5º | O storyboard possui uma composição visual com o seguinte itens (personagem, objetos, cenários) identificáveis? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+
+Video 5 - Entrevista 5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HxHCW2OqPFU?si=NT9y0oXQJQc_fsJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+</center>
+
+### Problemas encontrados pela avaliação
+
+<p align="justify">&emsp;&emsp;Não  foram encontrados problemas durante a avaliação do storyboard.</p>
+
+### Feedback dos usuários
+
+<p align="justify">&emsp;&emsp;O usuário teve dificuldade em entender os dois ultimos quadrinho do StoryBoard.</p>
+
+### Interpretação e análise dos dados
+
+<p align="justify">&emsp;&emsp;O storyboard apresenta uma proposta adequada a funcionalidade, podendo ter problemas quanto o entedimento mas mesmo assim coneguuindo transmitir uma historia da forma certa.</p>
+
 ## Histórico de versão
 
 <center>
@@ -243,6 +303,6 @@ Video 4 - Entrevista 4
 |  1.2   | 05/11/2023 | Adicionando relato storyboard emitir segunda via | Leandro | Pedro | 
 |  1.3   | 08/11/2023 | Adicionando relato storyboard consultar a falta de água | Tiago | Jefferson | 
 |  1.4   | 08/11/2023 | Adicionando relato storyboard consultar contas pagas | Jefferson | Oscar | 
-
+|  1.5   | 08/11/2023 | Adicionando relato storyboard Revisão de Contas | Rodrigo | Thiago | 
 
 </center>
