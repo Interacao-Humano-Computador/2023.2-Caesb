@@ -119,6 +119,45 @@ Video 3 - Entrevista 3
 - A fonte usada é pequena e torna a leitura difícil.
 
 
+## Consultar falta de água
+
+### Objetivos e escopo da avaliação
+<p align="justify">&emsp;&emsp;A entrevista realizada teve o objetivo de verificar se essa tarefa representa de maneira correta as ações realizadas pelos usuários do site da Caesb quando utilizam a função consultar falta de água e coletar informações para melhorar o projeto.</p>
+
+
+### Seleção dos participantes
+<p align="justify">&emsp;&emsp;O participante se encaixa no perfil do usuário pois tem 21 anos, possui experiência com tecnologias e já utilizou a função consultar falta de água no site da Caesb. </p>
+
+<center>
+
+Video 4 - Entrevista 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbJVUDCWurE?si=G9i92XkFDi-1BEwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center"> Tabela 4:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Tiago Albuquerque|João Lucas|  08/11/2023 | 18:40 até 18:50 | Teams<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
+</center>
+
+
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Com base na entrevista realizada, pode-se concluir que a funcionalidade de consultar falta de água supre as necessidades dos usuários, em uma análise anterior foi identificada como a função mais utilizada. Contudo, o site da CAESB, logo ao abrir, é apresentado com muitas informações, as quais tornam mais desafiador encontrar qualquer funcionalidade, inclusive a de consulta a falta de água, apesar de o usuário considerar simples o fluxo de execução da tarefa. </p>
+
+### Princípais resultados
+
+- O usuário considera simples o fluxo de execução;
+- A quantidade de informação na página inicial torna difícil a visualização da tarefa;
+- O site como um todo é tido como "operável", porém fica claro que melhorias de usabilidade são necessárias;
+
 ## Referências
 
 > <p id="1">1. Discord. Disponível em: [Discord](https://discord.com/).</p> 
@@ -139,5 +178,6 @@ Video 3 - Entrevista 3
 |  1.0   | 02/11/2023 | Adiciona relato dos resultados | Leandro e Oscar | Mateus |
 |  1.1   | 04/11/2023 | Adiciona relato Informar vazamento | Pedro Henrique | Leandro |
 |  1.2   | 08/11/2023 | Adiciona relato dos resultado  da situação de débito | Oscar de Brito | Jefferson |
+|  1.3   | 08/11/2023 | Adiciona relato dos resultado da consulta a falta de água | Tiago  | Oscar |
 
 </center>
