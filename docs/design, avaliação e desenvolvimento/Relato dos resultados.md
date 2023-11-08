@@ -4,7 +4,7 @@
 
 <p align="justify">&emsp;&emsp;O relato dos resultados tem como objetivo documentar as informações obtidas durante a análise de tarefas para que o grupo possa compreender melhor as diferentes tarefas que os usuários realizam ao interagir com o site. Com base nessa análise podemos fornecer informações que guiem todos os envolvidos no projeto sobre problemas de design, feedback dos usuários e oportunidades para melhorar o sistema.</p>
 
-## Metodologia
+## Metodo de avaliação empregado
 
 <p align="justify">&emsp;&emsp;A metodologia utilizada para a avaliação foi a investigativa utilizando entrevistas como já citado anteriormente no <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Planejamento%20da%20avalia%C3%A7%C3%A3o/" traget="_blanck">Planejamento da avaliação da Análise de tarefas</a>. Cada membro do grupo realizou uma entrevista sobre a tarefa do site a qual ele ficou responsável.</p>
 <p align="justify">&emsp;&emsp;Na entrevista foram apresentadas uma introdução sobre o projeto, as políticas de termos e consentimento e o questionário que está disponível no planejamento da análise da avaliação de tarefas.</p>  
