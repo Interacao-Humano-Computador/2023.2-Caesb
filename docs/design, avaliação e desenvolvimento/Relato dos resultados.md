@@ -81,10 +81,10 @@ Video 2 - Entrevista 2
 ## Situação de débito
 
 ### Objetivos e escopo da avaliação
-<p align="justify">&emsp;&emsp;A tarefa em questão está sendo usada para verificar se as ações dos usuários do site da Caesb, especificamente quando eles gerenciam seus débitos, estão sendo representadas com precisão. Além disso, a tarefa também envolve a coleta de informações para melhorar o projeto.</p>
+<p align="justify">&emsp;&emsp;A tarefa em questão está sendo usada para verificar se as ações dos usuários do site da Caesb, especificamente quando eles gerenciam seus débitos, estão sendo representadas com precisão. Além disso, a tarefa também envolve a coleta de informações para melhorar o projeto. A entrevista foi realizada via Teams<a href="#2"><sup>2</sup></a>  e disponibilizada no youtube.<a href="#3"><sup>3</sup></a> </p>
 
 ### Seleção dos participantes
-<p align="justify">&emsp;&emsp;O indivíduo em questão se enquadra perfeitamente no perfil do usuário, tendo 22 anos de idade, experiência com tecnologias e já tendo utilizado a funcionalidade de gerenciamento de débitos no site da Caesb para si e sua família.</p>
+<p align="justify">&emsp;&emsp;O indivíduo em questão se enquadra perfeitamente no perfil do usuário, tendo 22 anos de idade, experiência com tecnologias e já tendo utilizado a funcionalidade de gerenciamento de débitos no site da Caesb para si e sua família. </p>
 
 <center>
 
@@ -100,7 +100,7 @@ Video 3 - Entrevista 3
 
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Oscar de Brito|Laura Coutinho|  04/11/2023 | 20:30 até 20:40 | Teams|
+|Oscar de Brito|Laura Coutinho|  04/11/2023 | 20:30 até 20:40 | Teams<a href="#2"><sup>2</sup></a>|
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
 
@@ -108,14 +108,24 @@ Video 3 - Entrevista 3
 
 
 ### Relato da interpretação e análise dos dados
-<p align="justify">&emsp;&emsp;Podemos concluir, com base na entrevista, que a função de emissão da segunda via da conta atende às necessidades dos usuários do site da Caesb. No entanto, a grande quantidade de informações no site pode dificultar a localização dessa função. Para melhorar a experiência do usuário, as informações do site deveriam ser organizadas de uma forma que não poluisse a tela, e a função de emissão da segunda via da conta deveria ser destacada na página inicial, juntamente com outras funções, para facilitar sua localização e economizar tempo do usuário.</p>
+<p align="justify">&emsp;&emsp;Com base na entrevista realizada, pode-se concluir que a funcionalidade de situação de débitos do site da Caesb satisfaz as necessidades dos usuários. No entanto, a grande quantidade de informações disponíveis no site pode tornar a localização dessa funcionalidade um pouco desafiadora. Para aprimorar a experiência do usuário, as informações do site poderiam ser organizadas de uma maneira que não sobrecarregasse a tela. A funcionalidade de situação de débitos poderia ser destacada na página inicial, juntamente com outras funcionalidades, para facilitar sua localização e economizar tempo para o usuário.</p>
 
 ### Princípais resultados
 
-- O usuário encontrou dificuldade em localizar a função emitir segunda via da conta.
-- O fluxo de tarefas de emitir segunda via da conta está alinhado com a forma como os usuários utilizam essa função na vida real.
-- As informações do site confundem o usuário pois são muitas e estão desorganizadas.
+- O usuário teve problemas para localizar a funcionalidade de gerenciamento de débitos.
+- O fluxo de tarefas de gerenciamento de débitos corresponde à maneira como os usuários interagem com essa funcionalidade na vida real.
+- O design do site não é atraente.
+- As informações do site sobrecarregam o usuário, pois são abundantes e não estão organizadas de forma eficiente.
+- A fonte usada é pequena e torna a leitura difícil.
 
+
+## Referências
+
+> <p id="1">1. Discord. Disponível em: [Discord](https://discord.com/).</p> 
+
+> <p id="2">2. Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software?ms.url=teamscom&rtc=1).</p> 
+
+> <p id="3">3. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
 
 
 
