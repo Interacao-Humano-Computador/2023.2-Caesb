@@ -48,7 +48,12 @@ Video 1 - Entrevista 1
 - As informações do site confundem o usuário pois são muitas e estão desorganizadas.
 
 ## Informar vazamento na rua
+
+### Objetivos e escopo da avaliação
 <p align="justify">&emsp;&emsp;A finalidade dessa entrevista foi verificar a funcionalidade de informar vazamento na rua e validar se ela está de acordo com as necessidades e expectativas do usuário do site da CAESB e além disso, validar o diagrama HTA feito para essa atividade. Dessa maneira possibilitando identificar problemas e melhorias para o sistema da CAESB.</p>
+
+### Seleção dos participantes
+<p align="justify">&emsp;&emsp;O participante da entrevista se encaixa no perfil de usuário definido neste projeto, uma vez que possui 24 anos se adequando a faixa etária do perfil de usuário e além disso possui afinidade com tecnologia e já utilizou a funcionalidade analisada.</p>
 
 <center>
 
@@ -70,13 +75,17 @@ Video 2 - Entrevista 2
 
 </center>
 
-### Problemas e dificuldades encontradas
 
-<p align="justify">&emsp;&emsp;A página inicial do site é muito poluída com diversas informações o que atrapalha encontrar a funcionalidade desejada, além disso alguns elementos importantes não tem indicação visual para mostrar que são clicáveis, e com isso também atrapalha a navegação no site.</p>
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Pode-se concluir com os dados coletados que a funcionalidade de informar vazamento satisfaz as necessidades dos usuários de forma geral, porém existem alguns pontos levantados pelo usuário que são importantes destacar nesse tópico, como a página inicial do site ser muito poluída com diversas informações o que atrapalha encontrar a funcionalidade desejada de informar vazamento,  alguns elementos importantes também não tem indicação visual para mostrar que são clicáveis, e com isso atrapalham a navegação no site. Além disso foram sugeridas algumas melhorias que seriam: Deixar as informações mais claras e destacadas, podendo agrupá las em algum espaço na tela dessa forma limpando a poluição e mistura das informações na tela inicial, deixar destacado também todos os ícones que são clicáveis na tela inicial para facilitar a navegação, dessa maneira tornando mais simples encontrar a funcionalidade desejada e aumentando a familiaridade com o sistema pelos usuários.</p>
 
-### Sugestões de melhoria
+### Princípais resultados
 
-<p align="justify">&emsp;&emsp;Deixar as informações mais claras e destacadas, podendo agrupá las em algum espaço na tela dessa forma limpando a poluição e mistura das informações na tela inicial, deixar destacado também todos os ícones que são clicáveis na tela inicial para facilitar a navegação e além disso, adequar o site a totalidade do espaço do navegador, aumentando a familiaridade com o sistema pelos usuários.</p>
+- O usuário validou o fluxo de tarefas do diagrama como sendo condizente ao fluxo realizado por um usuário real do sistema na funcionalidade de informar vazamento.
+- O usuário relata dificuldade em encontrar a funcionalidade de informar vazamento por conta da falta de sinalização na tela inicial.
+- O usuário acha a tela inicial muito poluída o que atrapalha sua navegação.
+- O site atende as necessidades de seus usuários porém precisa de melhorias para facilitar a localização das funcionalidades e tornar a navegação mais fácil e agradável.
+
 
 ## Situação de débito
 
