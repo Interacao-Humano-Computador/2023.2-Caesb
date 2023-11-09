@@ -84,38 +84,38 @@
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
-<p align="justify">&emsp;&emsp;O recrutamento dos usuários que participarão da avaliação será realizado por meio de convites a usuários da plataforma. Serão avaliados cinco usuários, o que está dentro da quantidade determinada por Dumas e Redish. A entrevista será conduzida por dois membros do grupo de IHC, de forma que um deles conduzirá a entrevista e o outro registrará as informações relevantes. Optamos pelo uso da plataforma Discord<a href="#1"><sup>1</sup></a>, pois é gratuita e de livre acesso. O cronograma a ser seguido pode ser observado nas tabelas de 4 a 8.</p>
+<p align="justify">&emsp;&emsp;O recrutamento dos usuários que participarão da avaliação será realizado por meio de convites a usuários da plataforma. Serão avaliados cinco usuários, o que está dentro da quantidade determinada por Dumas e Redish. Cada membro do grupo irá escolher uma funcionalidade e fazer uma entrevista sobre ela. Optamos pelo uso da plataforma Discord<a href="#1"><sup>1</sup></a>, pois é gratuita e de livre acesso. O cronograma a ser seguido pode ser observado nas tabelas de 4 a 8.</p>
 
 
 <font size="3"><p style="text-align: center"> Tabela 4:  Entrevista 1</p> </font>
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+| Leandro de Almeida | Danilo Félix | 02/11/2023 | 16:50 até 17:05 | Discord |
 
 <font size="3"><p style="text-align: center">Tabela 5:  Entrevista 2</p></font>
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+|nome aqui|      |   |   | Discord|
 
 <font size="3"><p style="text-align: center">Tabela 6:  Entrevista 3</p></font>
 
 |Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+|nome aqui|      |   |   | Discord|
 
 <font size="3"><p style="text-align: center">Tabela 7:  Entrevista 4</p></font>
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+|nome aqui|      |   |   | Discord|
 
 <font size="3"><p style="text-align: center">Tabela 8:  Entrevista 5</p></font>
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Leandro de Almeira e Oscar de Brito|      |   |   | Discord|
+|nome aqui|      |   |   | Discord|
 
 
 ## D - Decidir como lidar com as questões éticas
