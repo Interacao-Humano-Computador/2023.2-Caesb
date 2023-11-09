@@ -261,7 +261,7 @@ Video 6 - Entrevista 6
 
 Video 7 - Entrevista 7
 
-<iframe width="560" height="315" src="https://youtu.be/l53wxzzv5Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l53wxzzv5Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
 
@@ -315,4 +315,5 @@ Video 7 - Entrevista 7
 |  1.4   | 08/11/2023 | Adiciona relato dos resultado da Revisão de contas | Rodrigo  | Thiago |
 |  1.5   | 08/11/2023 | Adiciona relato dos resultado da Consulta a Contas Pagas | Jefferson  | Mateus |
 |  1.6   | 08/11/2023 | Adiciona relato dos resultado da Consultar Qualidade da água | Mateus  | Thiago |
+|  1.7   | 08/11/2023 | corrige link do youtube | Mateus  | Thiago |
 </center>
