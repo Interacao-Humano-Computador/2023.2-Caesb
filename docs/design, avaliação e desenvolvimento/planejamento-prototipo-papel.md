@@ -81,7 +81,7 @@ Objetivo: <b>Identificar problemas na interação e interface</b> (considerando 
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Leandro de Almeira|      |   |   | Discord|
+|Leandro de Almeida| Gustavo Freitas | 11/11/2023  | 17:00 até 17:20  | Discord|
 
 <font size="3"><p style="text-align: center">Tabela 4:  Entrevista 2</p></font>
 

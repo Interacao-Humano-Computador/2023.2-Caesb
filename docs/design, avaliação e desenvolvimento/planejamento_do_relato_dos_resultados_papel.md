@@ -69,7 +69,8 @@ Caso os resultados sejam insatisfatórios e o protótipo de papel não estiver c
 | Entrevistador |       Hora de Início     |  Hora de Fim | Data |
 | :----: | :--------: |  :-----: | :-----: | 
 |  Pedro Henrique | 15:00  | 16:00 | 12/11/2023 |
-|  Oscar de Brito |   |  |  |  | Leandro de Almeida |   |  |  |  |  
+|  Leandro de Almeida | 17:00  | 18:00 | 13/11/2023 |  
+|  Oscar de Brito |   |  |  |  | 
 |  Jefferson |   |  |  |  |  
 |  Tiago |   |  |  |  |  
 |  Mateus |   |  |  |  |  
