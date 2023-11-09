@@ -362,6 +362,74 @@ Video 6 - Entrevista 6
 
 <p align="justify">&emsp;&emsp;O esboço visual propõe uma abordagem funcional, embora possa  apresentar desafios de compreensão, ainda consegue transmitir o sentido do história de forma coerente.</p>
 
+
+
+
+## Consultar Qualidade da Água
+
+### Objetivo e escopo da avaliação
+
+<p align="justify">&emsp;&emsp;Essa avaliação tem como objetivo identificar se o StoryBoard esta devidamente relacionado com a funcionalidade de situação de débito</p>
+
+<center>
+
+<font size="3"><p style="text-align: center"> Tabela 13:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Mateus Levy |Pedro Luiz|  08/11/2023 | 18:40 até 18:42 | discord|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
+</center>
+
+### Perfil do usuário
+
+<p align="justify">&emsp;&emsp;O participante escolhido para a entrevista atende aos critérios definidos no perfil do usuário, pois possui conhecimento em tecnologia e familiaridade com o sistema da CAESB. Além disso, é relevante destacar que o entrevistado já enfrentou uma situação semelhante àquela representada no storyboard.
+</p>
+
+### Sumário dos dados coletados
+
+<font size="3"><p style="text-align: center">Tabela 14: Roteiro de Perguntas</p></font>
+
+<center>
+
+|  Ordem   | Enunciado | Respostas Possíveis|
+|--------|-----------|----------|
+| 1º | Você acha que a história apresentada no storyboard é clara e fácil de entender? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei |
+| 2º | Você acredita que o storyboard seja apropriado para o público-alvo pretendido? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 3º| Os usuários envolvidos no storyboard condizem com a realidade? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 4º | Você percebe uma sequência lógica de eventos no storyboard?  | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 5º | O storyboard possui uma composição visual com o seguinte itens (personagem, objetos, cenários) identificáveis? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Mateuslevy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
+
+Video 7 - Entrevista 7
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-6L4y8yXaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
+</center>
+
+### Problemas encontrados pela avaliação
+
+<p align="justify">&emsp;&emsp;Não  foram encontrados problemas durante a avaliação do storyboard.</p>
+
+### Feedback dos usuários
+
+<p align="justify">&emsp;&emsp;O usuário enfrentou dificuldades ao visualizar o storyboard devido à qualidade da imagem, que ficou um tanto desfocada após a digitalização. </p>
+
+### Interpretação e análise dos dados
+
+<p align="justify">&emsp;&emsp;Em resumo, com base na análise dos dados coletados, é possível afirmar que o usuário concorda com os procedimentos delineados para acessar as contas pagas. Portanto, podemos concluir que o storyboard é adequado à realidade e foi comunicado de maneira compreensível para o usuário.</p>
+
+
+
+
+
+
 ## Histórico de versão
 
 <center>
@@ -375,5 +443,6 @@ Video 6 - Entrevista 6
 |  1.4   | 08/11/2023 | Adicionando relato storyboard consultar contas pagas | Jefferson | Oscar | 
 |  1.5   | 08/11/2023 | Adicionando relato storyboard Revisão de Contas | Rodrigo | Thiago | 
 |  1.6   | 08/11/2023 | Adicionando relato storyboard situação de débito | Oscar | Leandro | 
+|  1.7   | 08/11/2023 | Adicionando relato storyboard consultar qualidade da água | Mateus | Pedro | 
 
 </center>
