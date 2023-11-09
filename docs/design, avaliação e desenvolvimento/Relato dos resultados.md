@@ -242,6 +242,55 @@ Video 6 - Entrevista 6
 - O site como um todo é considerado funcional, no entanto, fica evidente que precisa de melhorias .
 - O site foi dito como velho baseado com a atualidade, e que não visa o bem estar do usuário 
 
+
+
+
+
+
+
+## Consultar Qualidade da Água
+
+### Objetivos e escopo da avaliação
+<p align="justify">&emsp;&emsp;A entrevista teve como objetivo a avaliação da exatidão da função de revisão de contas no website da Caesb em relação às ações dos utilizadores, bem como a obtenção de informações que possam ser úteis para melhorar o projeto.</p>
+
+
+### Seleção dos participantes
+<p align="justify">&emsp;&emsp;O participante se encaixa no perfil do usuário pois tem 23 anos, possui experiência com tecnologia. </p>
+
+<center>
+
+Video 7 - Entrevista 7
+
+<iframe width="560" height="315" src="https://youtu.be/l53wxzzv5Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center"> Tabela 7:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Mateus Levy |Pedro Luiz|  08/11/2023 | 18:30 até 18:35 | Discord<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
+</center>
+
+
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Nesta entrevista com um usuário do site da CAESB, ficaram evidentes alguns pontos cruciais. Primeiramente, a função de "Emitir segunda via" foi destacada como a mais importante, mostrando a necessidade de facilitar o acesso a essa funcionalidade. Além disso, a capacidade de "Consultar contas pagas" é uma função frequentemente usada, ressaltando a importância de manter um histórico acessível para os usuários. O usuário descaou que achou o site simple de usar , entretanto considerou a possibilidade de simplificar a tela inicial do site e tornar as funcionalidades mais diretas revela a necessidade de uma experiência mais amigável e eficaz para os usuários, refletindo sua busca por simplicidade e praticidade na interação com a plataforma. </p>
+
+### Princípais resultados
+
+- O usuário considera simples usar o site;
+- Muitas informações na pagina inicial torna a ação dificil;
+- Mesmo com a interface um pouco confusa, o usuário consegue realizar o uso de suas funcionaliades. 
+- O usuário constatou que o site poderia ter um design mais simplificado ou minimalista.
+
+
+
+
 ## Referências
 
 > <p id="1">1. Discord. Disponível em: [Discord](https://discord.com/).</p> 
@@ -265,5 +314,5 @@ Video 6 - Entrevista 6
 |  1.3   | 08/11/2023 | Adiciona relato dos resultado da consulta a falta de água | Tiago  | Oscar |
 |  1.4   | 08/11/2023 | Adiciona relato dos resultado da Revisão de contas | Rodrigo  | Thiago |
 |  1.5   | 08/11/2023 | Adiciona relato dos resultado da Consulta a Contas Pagas | Jefferson  | Mateus |
+|  1.6   | 08/11/2023 | Adiciona relato dos resultado da Consultar Qualidade da água | Mateus  | Thiago |
 </center>
-
