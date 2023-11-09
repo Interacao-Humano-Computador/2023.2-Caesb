@@ -32,11 +32,15 @@ Ou seja, os relatos dos resultados deverão conter a seguinte formatação:
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma planejado para as entrevista</p></font>
 
 
-
 | Entrevistador |    Entrevistado   |      Hora de Início     |  Hora de Fim | Data | Local |
 | :----: | :--------: | :------------------: | :-----: | :-----: | :-------: |
-|  Pedro Henrique | Lucas Ambrosio| 19:00 | 19:30 | 03/11/2023 | Discord | 
-
+|  Pedro Henrique | Lucas Ambrosio | 19:00 | 19:30 | 03/11/2023 |  Discord | 
+|  Oscar de Brito |   |  |  |  |  | 
+| Leandro de Almeida |   |  |  |  |  | 
+|  Jefferson |   |  |  |  |  | 
+|  Tiago |   |  |  |  |  | 
+|  Mateus |   |  |  |  |  | 
+|  Rodrigo |   |  |  |  |  | 
 <font size="3"><p style="text-align: center">Fonte: Grupo 06. 2023</p></font>
 
 
