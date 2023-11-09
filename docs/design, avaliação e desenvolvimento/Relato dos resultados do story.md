@@ -292,6 +292,76 @@ Video 5 - Entrevista 5
 
 <p align="justify">&emsp;&emsp;O storyboard apresenta uma proposta adequada a funcionalidade, podendo ter problemas quanto o entedimento mas mesmo assim coneguuindo transmitir uma historia da forma certa.</p>
 
+
+
+
+
+
+
+
+
+
+
+## Situação de débito
+
+### Objetivo e escopo da avaliação
+
+<p align="justify">&emsp;&emsp;Essa avaliação tem como objetivo identificar se o StoryBoard esta devidamente relacionado com a funcionalidade de situação de débito</p>
+
+<center>
+
+<font size="3"><p style="text-align: center"> Tabela 11:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Oscar de Brito |Marco Couto|  07/11/2023 | 20:00 até 20:15 | teams|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+</center>
+
+### Perfil do usuário
+
+<p align="justify">&emsp;&emsp;O usuário que foi escolhido  para participar da entrevista se adequa nos padrões estabelecidos no perfil de usuário, possuindo conhecimento com tecnologia e com o sistema da CAESB. Cmm um adendo de que  em  que o mesmo ja passou por situação semelhante da representada no storyboard.
+</p>
+
+### Sumário dos dados coletados
+
+<font size="3"><p style="text-align: center">Tabela 12: Roteiro de Perguntas</p></font>
+
+<center>
+
+|  Ordem   | Enunciado | Respostas Possíveis|
+|--------|-----------|----------|
+| 1º | Você acha que a história apresentada no storyboard é clara e fácil de entender? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei |
+| 2º | Você acredita que o storyboard seja apropriado para o público-alvo pretendido? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 3º| Os usuários envolvidos no storyboard condizem com a realidade? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 4º | Você percebe uma sequência lógica de eventos no storyboard?  | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+| 5º | O storyboard possui uma composição visual com o seguinte itens (personagem, objetos, cenários) identificáveis? | (X) SIM <br> (&emsp;) NÃO <br>  (&emsp;) Não Sei|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+
+Video 6 - Entrevista 6
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EnAp5zC-n9A?si=WZm8SiiuZ5HkeLer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+</center>
+
+### Problemas encontrados pela avaliação
+
+<p align="justify">&emsp;&emsp;Não  foram encontrados problemas durante a avaliação do storyboard.</p>
+
+### Feedback dos usuários
+
+<p align="justify">&emsp;&emsp;O usuário sentiu dificuldade em visualizar o storyboard, a imagem ficou um pouco clara demais quando foi escaneado</p>
+
+### Interpretação e análise dos dados
+
+<p align="justify">&emsp;&emsp;O esboço visual propõe uma abordagem funcional, embora possa  apresentar desafios de compreensão, ainda consegue transmitir o sentido do história de forma coerente.</p>
+
 ## Histórico de versão
 
 <center>
@@ -304,5 +374,6 @@ Video 5 - Entrevista 5
 |  1.3   | 08/11/2023 | Adicionando relato storyboard consultar a falta de água | Tiago | Jefferson | 
 |  1.4   | 08/11/2023 | Adicionando relato storyboard consultar contas pagas | Jefferson | Oscar | 
 |  1.5   | 08/11/2023 | Adicionando relato storyboard Revisão de Contas | Rodrigo | Thiago | 
+|  1.6   | 08/11/2023 | Adicionando relato storyboard situação de débito | Oscar | Leandro | 
 
 </center>
