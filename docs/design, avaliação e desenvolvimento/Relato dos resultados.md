@@ -157,6 +157,49 @@ Video 4 - Entrevista 4
 - O usuário considera simples o fluxo de execução;
 - A quantidade de informação na página inicial torna difícil a visualização da tarefa;
 - O site como um todo é tido como "operável", porém fica claro que melhorias de usabilidade são necessárias;
+</br>
+
+
+
+
+## Consultar Contas Pagas
+
+### Objetivos e escopo da Avaliação
+<p align="justify">&emsp;&emsp; Esta entrevista, tem o intuito de verificar a precisão da tarefa representada. Sendo assim, o usuário analisa se as ações necessárias para consultar contas pagas estão de acordo com o apresentado.   </p>
+
+### Seleção dos Participantes
+<p align="justify">&emsp; &emsp;  O entrevistado tem 21 anos, é usuário do site da Caesb e possui expriência com tecnologias. Com isso, possui as características necessárias que o enquadram no Perfil de Usuário. </p>
+</br>
+
+<center>
+
+Video 5 - Entrevista 5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pOSwd8FQ0Eo?si=9KjKbzo7IFwe_L-W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a>, 2023</p></font>
+
+</br>
+
+<font size="3"><p style="text-align: center"> Tabela 5:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Jefferson Sena|José André|  08/11/2023 | 18:00 até 18:10 | Teams<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a>, 2023</p></font>
+
+</center>
+
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp; &emsp;  Com base nos dados coletados, a funcionalidade de consultar contas pagas supre a necessidade dos usuários. Porém, a poluição de informações no site prejudica a realização da tarefa, pois torna díficil encontrar a informação. Contudo, na página incial do site não é evidenciado de forma clara o acesso para funcionalidades que necessitam de login, como a consultar contas pagas, o que aumenta a dificuldade para concluir determinadas tarefas. </p>
+
+### Principais resultados
+- Segundo o usuário, o fluxo consultar contas pagas está de acordo com o fluxo real para execução da funcionalidade.
+- O excesso de informações na página inicial do site prejudica a execução da tarefa
+- A falta de clareza para acessar determinadas funcionalidades prejudica a realização da tarefa
+- O design do site dificulta a vizualização
+
 
 
 ## Revisão de Contas
@@ -170,7 +213,7 @@ Video 4 - Entrevista 4
 
 <center>
 
-Video 5 - Entrevista 5
+Video 6 - Entrevista 6
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jYtF95r4Qc?si=Jx9A0Q3ui3hrW-qx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -178,7 +221,7 @@ Video 5 - Entrevista 5
 
 <br>
 
-<font size="3"><p style="text-align: center"> Tabela 5:  Cronograma da entrevista</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 6:  Cronograma da entrevista</p> </font>
 
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
@@ -221,4 +264,5 @@ Video 5 - Entrevista 5
 |  1.2   | 08/11/2023 | Adiciona relato dos resultado  da situação de débito | Oscar de Brito | Jefferson |
 |  1.3   | 08/11/2023 | Adiciona relato dos resultado da consulta a falta de água | Tiago  | Oscar |
 |  1.4   | 08/11/2023 | Adiciona relato dos resultado da Revisão de contas | Rodrigo  | Thiago |
+|  1.5   | 08/11/2023 | Adiciona relato dos resultado da Consulta a Contas Pagas | Jefferson  | Mateus |
 </center>
