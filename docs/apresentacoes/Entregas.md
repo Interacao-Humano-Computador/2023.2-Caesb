@@ -35,6 +35,13 @@ A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.c
 </center>
 <b>Vídeo 4</b>: Entrega 4 (Fonte: Grupo 06. 2023). </p>
 
+## Entrega 5:
+A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.com/watch?v=X7CcZs-ZbJ8).
+ <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7CcZs-ZbJ8?si=qMwswIV2AFrVwopF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+<b>Vídeo 4</b>: Entrega 5 (Fonte: Grupo 06. 2023). </p>
+
 ## Referências
 
 > <p id="1">1. YouTube. Disponível em: [YouTube](https://www.youtube.com).</p> 
@@ -50,6 +57,7 @@ A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.c
 |  1.0   | 01/10/2023 | Adicionou video | Oscar | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  2.0   | 16/10/2023 | Adicionou Entrega 2 | Mateus | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  3.0   | 22/10/2023 | Adicionou Entrega 3 | Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+|  4.0   | 08/11/2023 | Adicionou Entrega 5 | Leandro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 
 </center>
