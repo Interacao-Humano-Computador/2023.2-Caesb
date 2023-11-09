@@ -158,6 +158,47 @@ Video 4 - Entrevista 4
 - A quantidade de informação na página inicial torna difícil a visualização da tarefa;
 - O site como um todo é tido como "operável", porém fica claro que melhorias de usabilidade são necessárias;
 
+
+## Revisão de Contas
+
+### Objetivos e escopo da avaliação
+<p align="justify">&emsp;&emsp;A entrevista foi conduzida com o propósito de avaliar a precisão com que a função de revisão de contas no site da Caesb reflete as ações dos usuários, bem como para coletar informações que possam contribuir para aprimorar o projeto.</p>
+
+
+### Seleção dos participantes
+<p align="justify">&emsp;&emsp;O participante se encaixa no perfil do usuário pois tem 21 anos, possui experiência com tecnologias. </p>
+
+<center>
+
+Video 5 - Entrevista 5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3jYtF95r4Qc?si=Jx9A0Q3ui3hrW-qx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center"> Tabela 5:  Cronograma da entrevista</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Rodrigo Fonseca |Carlos Guilherme|  08/11/2023 | 13:30 até 13:40 | Discord<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+</center>
+
+
+### Relato da interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Com base na entrevista conduzida, pode-se concluir que a funcionalidade de revisão de contas satisfaz as necessidades dos usuários. No entanto, o site da CAESB, ao ser aberto, apresenta uma grande quantidade de informações, o que torna desafiador encontrar qualquer funcionalidade, incluindo a consulta de falta de água, embora os usuários considerem simples o processo de execução dessa tarefa. </p>
+
+### Princípais resultados
+
+- O usuário considera simples usar o site;
+- Muitas informações na pagina inicial torna a ação dificil ;
+- O site como um todo é considerado funcional, no entanto, fica evidente que precisa de melhorias .
+- O site foi dito como velho baseado com a atualidade, e que não visa o bem estar do usuário 
+
 ## Referências
 
 > <p id="1">1. Discord. Disponível em: [Discord](https://discord.com/).</p> 
@@ -179,5 +220,5 @@ Video 4 - Entrevista 4
 |  1.1   | 04/11/2023 | Adiciona relato Informar vazamento | Pedro Henrique | Leandro |
 |  1.2   | 08/11/2023 | Adiciona relato dos resultado  da situação de débito | Oscar de Brito | Jefferson |
 |  1.3   | 08/11/2023 | Adiciona relato dos resultado da consulta a falta de água | Tiago  | Oscar |
-
+|  1.4   | 08/11/2023 | Adiciona relato dos resultado da Revisão de contas | Rodrigo  | Thiago |
 </center>
