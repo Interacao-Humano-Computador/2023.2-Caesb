@@ -77,14 +77,14 @@
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----------: |
-| Correção dos artefatos Ponto de Controle       |  Pedro Muniz | Mateus Levy | 30/10 - 03/10 | 04/10 - 08/10 |
-| Relatar os resultados do Storyboard        | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
-| Relatar a análise de tarefas        | Jefferson | Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
-| Planejar a avaliação do protótipo de papel      | Mateus Levy | Pedro Muniz | 30/10 - 03/10 | 04/10 - 08/10 |
-| Planejar o relato dos resultados da avaliação do protótipo de papel   | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 30/10 - 03/10 | 04/10 - 08/10 |
-| Atualizar o GitPages |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
-| Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/10 | 04/10 - 08/10 |
-| Revisão cronograma |     Oscar | Leandro | 30/10 - 03/10 | 04/10 - 08/10 | 
+| Correção dos artefatos Ponto de Controle       |  Pedro Muniz | Mateus Levy | 30/10 - 03/11 | 04/11 - 08/11 |
+| Relatar os resultados do Storyboard        | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/11 | 04/11 - 08/11 |
+| Relatar a análise de tarefas        | Jefferson | Tiago | 30/10 - 03/11 | 04/11 - 08/11 |
+| Planejar a avaliação do protótipo de papel      | Mateus Levy | Pedro Muniz | 30/10 - 03/11 | 04/11 - 08/11 |
+| Planejar o relato dos resultados da avaliação do protótipo de papel   | Pedro Muniz e Rodrigo Fonseca | Mateus levy | 30/10 - 03/11 | 04/11 - 08/11 |
+| Atualizar o GitPages |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/11 | 04/11 - 08/11 |
+| Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/11 | 04/11 - 08/11 |
+| Revisão cronograma |     Oscar | Leandro | 30/10 - 03/11 | 04/11 - 08/11 | 
 
 
 ### Ponto de controle 6 - Correção e verificação dos artefatos

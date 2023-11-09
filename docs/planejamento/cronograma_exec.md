@@ -56,6 +56,20 @@
 |Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10| 29/10 - 30/10 |  29/10 - 30/10 |
 | Revisão cronograma |  Jefferson e Tiago   |  Leandro, Mateus, Oscar, Pedro, Rodrigo | 30/10 | 29/10 - 30/10 |  30/10 - 31/10 |
 
+
+### Ponto de controle 5 - Relato dos resultados
+
+| Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
+| :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
+| Correção dos artefatos Ponto de Controle       |  Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Mateus Levy | 02/11 - 08/11 |30/10 - 03/11 | 08/11 |
+| Relatar os resultados do Storyboard        | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 04/11 - 08/11 |30/10 - 03/11 | 08/11 |
+| Relatar a análise de tarefas        | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 02/11 - 08/11| 30/10 - 03/11| 08/11 |
+| Planejar a avaliação do protótipo de papel      | Jefferson e Tiago | Pedro Muniz | 08/11 |30/10 - 03/11 | 08/11 |
+| Planejar o relato dos resultados da avaliação do protótipo de papel   | Pedro Muniz, Leandro e Oscar | Mateus levy | 07/11 - 08/11 |30/10 - 03/10 | 08/11  |
+| Atualizar o GitPages |   Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 02/11 - 08/11|30/10 - 03/10 | 04/11 - 08/11 |
+| Gravação e edição da apresentação |   Leandro  | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 08/11 |30/10 - 03/11 |08/11 |
+| Revisão cronograma | Jefferson e Tiago | Leandro | 08/11  | 30/10 - 03/11 |08/11  | 
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>
