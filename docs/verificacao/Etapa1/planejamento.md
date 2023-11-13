@@ -126,14 +126,64 @@
 
 
 ### Checklist da lista dos sites avaliados
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 6, será definido os critérios esperados na verificação do artefato de lista dos sites avaliados.</p>
 
+<font size="3"><p style="text-align: center"> Tabela 6: Checklist dos sites avaliados</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 7 | Cada um dos integrantes realizou o planejamento da avaliação de um site ? | | 
+| 8 | Cada um dos integrantes realizou a execução da avaliação de um site(o mesmo site escolhido para o planejamento)? | | 
+| 9 | O documento do artefato aprensenta o site escolhido por cada um dos integrantes? | | 
+| 10 | Os problemas encontrados a partir da avaliação dos sites foram apresentados ? | | 
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
 
 
 ### Checklist do site escolhido
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 7, será definido os critérios esperados na verificação do artefato de site escolhido.</p>
+
+<font size="3"><p style="text-align: center"> Tabela 7: Checklist do site escolhido</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 7 | O site escolhido é algum dos sites que foram avaliados por cada um dos integrantes? | | 
+| 8 | Os critérios para a escolha do site foram apresentados ? | | 
+| 9 | As razões/motivações para escolha foram apresentadas ? | | 
+| 10 | A avaliação heurística do site escolhido mostra todos as heurísticas infringidas ? | | 
 
 
 
-### Checklist do processo de design 
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
+
+
+### Checklist do processo de design
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 8, será definido os critérios esperados na verificação do artefato de site escolhido.</p>
+
+<font size="3"><p style="text-align: center"> Tabela 8: Checklist do prcesso de design</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 7 | Os possíveis processos de design/ciclos de vida são explicados ? | | 
+| 8 | O ciclo de vida escolhido pela equipe foi apresentado ? | | 
+| 9 | A escolha do ciclo de vida foi justificada ? | | 
+| 10 | O ciclo de vida selecionado é condizente com o escopo do projeto? ? | | 
+
+
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
 
 
 
@@ -150,3 +200,4 @@
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 12/11/2023 | Adiciona planejamento, iniciando checklists | Pedro e Tiago | Leandro |
+|  1.1   | 13/11/2023 | Finalizando o planejamento da etapa 1 | Pedro e Tiago | Leandro |
