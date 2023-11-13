@@ -69,7 +69,7 @@
 ### Checklist de equipe
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de equipe.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 3: Checklist da equipe/p> </font>
+<font size="3"><p style="text-align: center"> Tabela 3: Checklist da equipe</p> </font>
 
 <center>
 
@@ -153,10 +153,9 @@
 
 | Número | Descrição | Avaliação | Observações |
 | :----: | :-------: | :-------: | :---------: |
-| 7 | O site escolhido é algum dos sites que foram avaliados por cada um dos integrantes? | | 
-| 8 | Os critérios para a escolha do site foram apresentados ? | | 
-| 9 | As razões/motivações para escolha foram apresentadas ? | | 
-| 10 | A avaliação heurística do site escolhido mostra todos as heurísticas infringidas ? | | 
+| 7 | Os critérios para a escolha do site foram apresentados ? | | 
+| 8 | As razões/motivações para escolha foram apresentadas ? | | 
+| 9 | A avaliação heurística do site escolhido mostra todos as heurísticas infringidas ? | | 
 
 
 
