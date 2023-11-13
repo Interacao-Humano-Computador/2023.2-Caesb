@@ -68,7 +68,14 @@ nav:
           - protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: design, avaliação e desenvolvimento/planejamento-prototipo-papel.md
               - Planejamento do Relato dos Resultados do Protótipo de papel: design, avaliação e desenvolvimento/planejamento_do_relato_dos_resultados_papel.md
-
+  - Verificação:
+      Etapa 1:
+        - Planejamento: verificacao/Etapa1/planejamento.md
+        - Verificação Equipe: verificacao/Etapa1/equipe.md
+        - Verificação de Ferramentas: verificacao/Etapa1/ferramentas.md
+        - Verificação do Cronograma: verificacao/Etapa1/cronograma.md
+      Etapa 2:
+        - Planejamento: verificacao/Etapa2/planejamento.md
              
 
   - Atas das Reuniões:
