@@ -74,13 +74,13 @@
 
 | Número | Descrição | Avaliação | Observações |
 | :----: | :-------: | :-------: | :---------: |
-| 1 | Há termo de consentimento? | | |
-| 2 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 3 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 4 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 5 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 6 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 7 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 7 | Há termo de consentimento? | | |
+| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
+| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
+| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
+| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
+| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
+| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
 
 </center>
 
@@ -95,18 +95,65 @@
 
 | Número | Descrição | Avaliação | Observações |
 | :----: | :-------: | :-------: | :---------: |
-| 1 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | | |
-| 2 | Identifica o cargo que o usuário ocupa? | | |  
-| 3 | Identifica o grau de escolaridade do usuário? | | |
-| 4 | Identifica se o usuário possui ou não experiência com computadores? | | |
-| 5 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | | |
-| 6 | Identifica a plataforma utilizada pelo usuário? | | |
-| 7 | Identifica a faixa etária do usuário? | | |
-| 8 | Foram utilizadas duas técnicas para coletar dados do usuário? | | |
-| 9 | Identifica as principais funções realizadas pelo usuário? | | |
-| 10 | Identifica o nível de conhecimento do usuário sobre o domínio?| | |
-| 11 | Identifica o o quanto o usuário valoriza treinamento?| | |
+| 7 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | | |
+| 8 | Identifica o cargo que o usuário ocupa? | | |  
+| 9 | Identifica o grau de escolaridade do usuário? | | |
+| 10 | Identifica se o usuário possui ou não experiência com computadores? | | |
+| 11 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | | |
+| 12 | Identifica a plataforma utilizada pelo usuário? | | |
+| 13 | Identifica a faixa etária do usuário? | | |
+| 14 | Foram utilizadas duas técnicas para coletar dados do usuário? | | |
+| 15 | Identifica as principais funções realizadas pelo usuário? | | |
+| 16 | Identifica o nível de conhecimento do usuário sobre o domínio?| | |
+| 17 | Identifica o quanto o usuário valoriza o treinamento?| | |
 
 </center>
 
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
+
+### Checklist de Cenários
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de Cenários.</p>
+
+<font size="3"><p style="text-align: center"> Tabela 3: Checklist de Cenários</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 7 | O documento possui a metodologia utilizada? | | |
+| 8 | Os cenários abragem as principais funcionalidades do sistema? | | |  
+| 9 | Os atores são as personas feitas para o projeto?	 | | |  
+| 10 | Os cenários descrevem o comportamento e as experiências dos atores?	 | | |  
+| 11 | Os cenários possuem planejamento, ações e eventos? | | | 
+| 12 | Os cenários são descritos de maneira clara, fornecendo informações suficientes para compreender o contexto, a ação e o resultado esperado?| | | 
+
+</center>
+
+<font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
+
+### Checklist de Personas
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de Personas.</p>
+
+<font size="3"><p style="text-align: center"> Tabela 3: Checklist de Personas</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 7 | As personas possuem os principais dados demográficos como idade, nome e ocupação? | | |
+| 8 | A persona possui identidade, status, objetivos e tarefas?  | | |
+| 9 | As personas foram criadas a partir do perfil de usuário? | | |
+| 10 | O artefato classifica as personas em primária, secundária ou anti-persona? | | |
+| 11 | Há alguma justificativa para o número escolhido de personas? | | |
+
+</center>
+
+<font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
+
+
+## Histórico de versões
+
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 13/11/2023 | Adiciona planejamento, iniciando checklists | Leandro e Oscar | Pedro |
+
