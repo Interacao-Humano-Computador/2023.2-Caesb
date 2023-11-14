@@ -50,14 +50,14 @@
 
 <center>
 
-| Número | Descrição | Avaliação | 
-| :----: | :-------: | :-------: |
-| 1 | O artefato possui introdução ?| | 
-| 2 | O artefato define a metodologia que será utilizada? | | 
-| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada) ?| |
-| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | 
-| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | 
-| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | 
+| Número | Descrição | Avaliação | Observações | 
+| :----: | :-------: | :-------: | :--------: | 
+| 1 | O artefato possui introdução ?| |  |
+| 2 | O artefato define a metodologia que será utilizada? | | |
+| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada) ?| | |
+| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
+| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
+| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
 
 
 </center>
@@ -74,12 +74,39 @@
 
 | Número | Descrição | Avaliação | Observações |
 | :----: | :-------: | :-------: | :---------: |
-| 7 | --- | | |
-| 8 | ---| | |  
-| 9 | --- | | |
-| 10 | --- | | | 
-| 11 | --- | | | 
+| 1 | Há termo de consentimento? | | |
+| 2 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
+| 3 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
+| 4 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
+| 5 | Há local para o entrevistado e o entrevistador assinar? | | | 
+| 6 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
+| 7 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
 
 </center>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique, 2023</a> </p> </font>
+<font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
+
+### Checklist de Perfil de Usuário
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de Perfil de Usuário.</p>
+
+<font size="3"><p style="text-align: center"> Tabela 3: Checklist de Perfil de Usuário</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 1 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | | |
+| 2 | Identifica o cargo que o usuário ocupa? | | |  
+| 3 | Identifica o grau de escolaridade do usuário? | | |
+| 4 | Identifica se o usuário possui ou não experiência com computadores? | | |
+| 5 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | | |
+| 6 | Identifica a plataforma utilizada pelo usuário? | | |
+| 7 | Identifica a faixa etária do usuário? | | |
+| 8 | Foram utilizadas duas técnicas para coletar dados do usuário? | | |
+| 9 | Identifica as principais funções realizadas pelo usuário? | | |
+| 10 | Identifica o nível de conhecimento do usuário sobre o domínio?| | |
+| 11 | Identifica o o quanto o usuário valoriza treinamento?| | |
+
+</center>
+
+<font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
