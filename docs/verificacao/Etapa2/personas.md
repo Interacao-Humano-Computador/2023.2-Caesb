@@ -1,12 +1,12 @@
-# Verificação do artefato de Aspectos Éticos
+# Verificação do artefato de Personas
 
 ## Introdução 
-<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do artefato de aspectos éticos produzido pelo grupo 07, que tem seu projeto voltado para o Online Judge.</p>
+<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do artefato de personas produzido pelo grupo 07, que tem seu projeto voltado para o Online Judge.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para essa verificação serão utilizadas as perguntas definidas no documento de planejamento dessa etapa, sendo 6 das perguntas referentes a padronização e as outras referentes ao que se espera do conteúdo desse artefato. Abaixo, na tabela 1, serão retomadas as perguntas com base na verificação:</p>
 
-<font size="3"><p style="text-align: center"> Tabela 1: Perguntas sobre os aspectos éticos</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 1: Perguntas sobre Personas</p> </font>
 
 <center>
 
@@ -18,13 +18,11 @@
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Há termo de consentimento? | | |
-| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 7 | As personas possuem os principais dados demográficos como idade, nome e ocupação? | | |
+| 8 | A persona possui identidade, status, objetivos e tarefas?  | | |
+| 9 | As personas foram criadas a partir do perfil de usuário? | | |
+| 10 | O artefato classifica as personas em primária, secundária ou anti-persona? | | |
+| 11 | Há alguma justificativa para o número escolhido de personas? | | |
 
 </center>
 
@@ -47,14 +45,11 @@
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Há termo de consentimento? | | |
-| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
-
+| 7 | As personas possuem os principais dados demográficos como idade, nome e ocupação? | | |
+| 8 | A persona possui identidade, status, objetivos e tarefas?  | | |
+| 9 | As personas foram criadas a partir do perfil de usuário? | | |
+| 10 | O artefato classifica as personas em primária, secundária ou anti-persona? | | |
+| 11 | Há alguma justificativa para o número escolhido de personas? | | |
 
 </center>
 

@@ -1,12 +1,12 @@
-# Verificação do artefato de Aspectos Éticos
+# Verificação do artefato de Cenários
 
 ## Introdução 
-<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do artefato de aspectos éticos produzido pelo grupo 07, que tem seu projeto voltado para o Online Judge.</p>
+<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do artefato de cenários produzido pelo grupo 07, que tem seu projeto voltado para o Online Judge.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para essa verificação serão utilizadas as perguntas definidas no documento de planejamento dessa etapa, sendo 6 das perguntas referentes a padronização e as outras referentes ao que se espera do conteúdo desse artefato. Abaixo, na tabela 1, serão retomadas as perguntas com base na verificação:</p>
 
-<font size="3"><p style="text-align: center"> Tabela 1: Perguntas sobre os aspectos éticos</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 1: Perguntas sobre os cenários</p> </font>
 
 <center>
 
@@ -18,13 +18,12 @@
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Há termo de consentimento? | | |
-| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 7 | O documento possui a metodologia utilizada? | | |
+| 8 | Os cenários abragem as principais funcionalidades do sistema? | | |  
+| 9 | Os atores são as personas feitas para o projeto?	 | | |  
+| 10 | Os cenários descrevem o comportamento e as experiências dos atores?	 | | |  
+| 11 | Os cenários possuem planejamento, ações e eventos? | | | 
+| 12 | Os cenários são descritos de maneira clara, fornecendo informações suficientes para compreender o contexto, a ação e o resultado esperado?| | | 
 
 </center>
 
@@ -47,14 +46,12 @@
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Há termo de consentimento? | | |
-| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
-
+| 7 | O documento possui a metodologia utilizada? | | |
+| 8 | Os cenários abragem as principais funcionalidades do sistema? | | |  
+| 9 | Os atores são as personas feitas para o projeto?	 | | |  
+| 10 | Os cenários descrevem o comportamento e as experiências dos atores?	 | | |  
+| 11 | Os cenários possuem planejamento, ações e eventos? | | | 
+| 12 | Os cenários são descritos de maneira clara, fornecendo informações suficientes para compreender o contexto, a ação e o resultado esperado?| | | 
 
 </center>
 
@@ -62,9 +59,7 @@
 
 ## Problemas encontrados
 
-
 ## Sugestões
-
 
 ## Histórico de versões
 
