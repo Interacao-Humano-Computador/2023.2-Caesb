@@ -18,13 +18,17 @@
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Há termo de consentimento? | | |
-| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 7 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | | |
+| 8 | Identifica o cargo que o usuário ocupa? | | |  
+| 9 | Identifica o grau de escolaridade do usuário? | | |
+| 10 | Identifica se o usuário possui ou não experiência com computadores? | | |
+| 11 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | | |
+| 12 | Identifica a plataforma utilizada pelo usuário? | | |
+| 13 | Identifica a faixa etária do usuário? | | |
+| 14 | Foram utilizadas duas técnicas para coletar dados do usuário? | | |
+| 15 | Identifica as principais funções realizadas pelo usuário? | | |
+| 16 | Identifica o nível de conhecimento do usuário sobre o domínio?| | |
+| 17 | Identifica o quanto o usuário valoriza o treinamento?| | |
 
 
 </center>
@@ -47,13 +51,17 @@
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Há termo de consentimento? | | |
-| 8 | É seguido os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? | | |
-| 9 | O documento menciona se será solicitada permissão para gravar a voz ou imagem de qualquer pessoa antes de iniciar a gravação? | | |  
-| 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
-| 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
-| 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 7 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | | |
+| 8 | Identifica o cargo que o usuário ocupa? | | |  
+| 9 | Identifica o grau de escolaridade do usuário? | | |
+| 10 | Identifica se o usuário possui ou não experiência com computadores? | | |
+| 11 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | | |
+| 12 | Identifica a plataforma utilizada pelo usuário? | | |
+| 13 | Identifica a faixa etária do usuário? | | |
+| 14 | Foram utilizadas duas técnicas para coletar dados do usuário? | | |
+| 15 | Identifica as principais funções realizadas pelo usuário? | | |
+| 16 | Identifica o nível de conhecimento do usuário sobre o domínio?| | |
+| 17 | Identifica o quanto o usuário valoriza o treinamento?| | |
 
 
 </center>

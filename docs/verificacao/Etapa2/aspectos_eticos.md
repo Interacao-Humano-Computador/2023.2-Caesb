@@ -24,7 +24,7 @@
 | 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
 | 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
 | 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 13 | O documento informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
 
 </center>
 
@@ -53,7 +53,7 @@
 | 10 | O documento contém uma explicação sobre a metodologia da pesquisa e seus objetivos? | | |
 | 11 | Há local para o entrevistado e o entrevistador assinar? | | | 
 | 12 | O documento informa que o entrevistado pode desistir a qualquer momento sem sofrer penalidades?| | | 
-| 13 | O documenta informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
+| 13 | O documento informa que os dados do entrevistado serão armazenados e usados para fins acadêmicos? | | | 
 
 
 </center>

@@ -87,9 +87,9 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
 ### Checklist de Perfil de Usuário
-<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de Perfil de Usuário.</p>
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 4, será definido os critérios esperados na verificação para o artefato de Perfil de Usuário.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 3: Checklist de Perfil de Usuário</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 4: Checklist de Perfil de Usuário</p> </font>
 
 <center>
 
@@ -112,9 +112,9 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
 ### Checklist de Cenários
-<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de Cenários.</p>
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 5, será definido os critérios esperados na verificação para o artefato de Cenários.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 3: Checklist de Cenários</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 5: Checklist de Cenários</p> </font>
 
 <center>
 
@@ -132,9 +132,9 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
 ### Checklist de Personas
-<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para o artefato de Personas.</p>
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 6, será definido os critérios esperados na verificação para o artefato de Personas.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 3: Checklist de Personas</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 6: Checklist de Personas</p> </font>
 
 <center>
 
@@ -151,10 +151,10 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
 
-## Checklist da analise de tarefas
-<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para a analise de tarefa.</p>
+### Checklist da analise de tarefas
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 7, será definido os critérios esperados na verificação para a analise de tarefa.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 3: Checklist da analise da tarefa</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 7: Checklist da analise da tarefa</p> </font>
 
 <center>
 
@@ -169,13 +169,6 @@
 </center>
 
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
-
-
-
-
-
-
-
 
 ## Histórico de versões
 
