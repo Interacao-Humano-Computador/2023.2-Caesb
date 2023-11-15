@@ -45,23 +45,22 @@
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução ?| |  |
-| 2 | O artefato define a metodologia que será utilizada? | | |
-| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada) ?| | |
-| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
-| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
-| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | | |
-| 8 | Identifica o cargo que o usuário ocupa? | | |  
-| 9 | Identifica o grau de escolaridade do usuário? | | |
-| 10 | Identifica se o usuário possui ou não experiência com computadores? | | |
-| 11 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | | |
-| 12 | Identifica a plataforma utilizada pelo usuário? | | |
-| 13 | Identifica a faixa etária do usuário? | | |
-| 14 | Foram utilizadas duas técnicas para coletar dados do usuário? | | |
-| 15 | Identifica as principais funções realizadas pelo usuário? | | |
-| 16 | Identifica o nível de conhecimento do usuário sobre o domínio?| | |
-| 17 | Identifica o quanto o usuário valoriza o treinamento?| | |
+| 1 | O artefato possui introdução ?| Sim |  |
+| 2 | O artefato define a metodologia que será utilizada? | Sim | |
+| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada) ?| Sim | Possui erro de formatação |
+| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim | |
+| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | Não | |
+| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim| |
+| 7 | Identifica dados demográficos como idade, sexo e condição socioeconômica? | Sim | |
+| 8 | Identifica o cargo que o usuário ocupa? | Não | |  
+| 9 | Identifica o grau de escolaridade do usuário? | Sim | |
+| 10 | Identifica se o usuário possui ou não experiência com tecnologia? | Sim | |
+| 11 | Identifica se o usuário possui experiência com um produto específico ou ferramentas semelhantes? | Sim | |
+| 12 | Identifica a plataforma utilizada pelo usuário? | Não | |
+| 13 | Foram utilizadas duas técnicas para coletar dados do usuário? | Sim | |
+| 14 | Identifica as principais funções realizadas pelo usuário? | Sim | |
+| 15 | Identifica o nível de conhecimento do usuário?| Sim | |
+| 16 | Identifica o quanto o usuário valoriza o treinamento?| Não | |
 
 
 </center>
@@ -69,13 +68,21 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
 ## Problemas encontrados
-
+### Número 3 - O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada) ?
+<p align="justify">&emsp;&emsp;Na introdução o número da referência não está formatado corretamente.</p>
 
 ## Sugestões
-
+- Para o item <b>número 8</b> identificar a profissão dos usuários.</p>
+- Para o item <b>número 12</b> identificar a plataforma que os usuários mais utilizam.</p>
 
 ## Histórico de versão
+
+
+<center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 13/11/2023 | iniciando avaliação | Leandro e Oscar | Pedro |
+
+
+</center>

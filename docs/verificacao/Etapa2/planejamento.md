@@ -170,9 +170,17 @@
 
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
+
+## Bibliografia
+
+> De Melo, Arthur. Planejamento da verificação da etapa 1. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/> 
+
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula023 - Verificação e Validação. 2023. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1109167. Acesso em: 11 nov. 2023.
+
 ## Histórico de versões
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 13/11/2023 | Adiciona planejamento, iniciando checklists | Leandro e Oscar | Pedro |
+|  1.1   | 14/11/2023 | Iniciando checklists | Leandro e Oscar | Pedro |
 
