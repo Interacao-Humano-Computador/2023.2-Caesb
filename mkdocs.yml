@@ -69,41 +69,35 @@ nav:
               - Planejamento da Avaliação do Protótipo de Papel: design, avaliação e desenvolvimento/planejamento-prototipo-papel.md
               - Planejamento do Relato dos Resultados do Protótipo de papel: design, avaliação e desenvolvimento/planejamento_do_relato_dos_resultados_papel.md
   - Verificação:
-      Etapa 1:
-        - Planejamento: verificacao/Etapa1/planejamento.md
-        - Verificação Equipe: verificacao/Etapa1/equipe.md
-        - Verificação de Ferramentas: verificacao/Etapa1/ferramentas.md
-        - Verificação do Cronograma: verificacao/Etapa1/cronograma.md
-        - Verificação dos sites avaliados: verificacao/Etapa1/sites-avaliados.md
-        - Verificação do site escolhido: verificacao/Etapa1/site-escolhido.md
-        - Verificação do Processo de design: verificacao/Etapa1/processo-design.md 
-      Etapa 2:
-        - Planejamento: verificacao/Etapa2/planejamento.md
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        - Aspectos Éticos: verificacao/Etapa2/aspectos_eticos.md
-        - Perfil de Usuário: verificacao/Etapa2/perfil_de_usuario.md
-        - Cenários: verificacao/Etapa2/cenarios.md
-        - Personas: verificacao/Etapa2/personas.md
-        - Análise de Tarefas: verificacao/Etapa2/analise_de_tarefas.md
-=======
-      Etapa 5:
-        - Planejamento: verificacao/Etapa5/planejamento.md
-        - Verificação do relato dos resultados da analise de tarefas: verificacao/Etapa5/relato-tarefas.md
-        - Verificação do relato dos resultados do storyboard: verificacao/Etapa5/relato-story.md
-        - Verificação do planejamento do protótipo de papel: verificacao/Etapa5/planej-prototipo-papel.md
-        - Verificação do planejamento do relato dos resultados do protótipo de papel: verificacao/Etapa5/planej-relato-resultados-prototipo-papel.md
->>>>>>> Stashed changes
-=======
-      Etapa 3:
-        - Planejamento: verificacao/Etapa3/planejamento.md
-        - Verificação Princípios Gerais: verificacao/Etapa3/principios-gerais.md
-        - Verificação Metas de Usabilidade: verificacao/Etapa3/metas-usabilidade.md
-        - Verificação Guia de Estilo: verificacao/Etapa3/guia-estilo.md
-        - Verificação Característica da Plataforma: verificacao/Etapa3/caracteristica-plataforma.md
->>>>>>> Stashed changes
-             
-
+      - Grupo 07:
+        - Etapa 1:
+              - Planejamento: verificacao/Etapa1/planejamento.md
+              - Verificação Equipe: verificacao/Etapa1/equipe.md
+              - Verificação de Ferramentas: verificacao/Etapa1/ferramentas.md
+              - Verificação do Cronograma: verificacao/Etapa1/cronograma.md
+              - Verificação dos sites avaliados: verificacao/Etapa1/sites-avaliados.md
+              - Verificação do site escolhido: verificacao/Etapa1/site-escolhido.md
+              - Verificação do Processo de design: verificacao/Etapa1/processo-design.md 
+        - Etapa 2:
+              - Verificação do Planejamento: verificacao/Etapa2/planejamento.md
+              - Verificação dos Aspectos Éticos: verificacao/Etapa2/aspectos_eticos.md
+              - Verificação do Perfil de Usuário: verificacao/Etapa2/perfil_de_usuario.md
+              - Verificação dos Cenários: verificacao/Etapa2/cenarios.md
+              - Verificação das Personas: verificacao/Etapa2/personas.md
+              - Verificação da Análise de Tarefas: verificacao/Etapa2/analise_de_tarefas.md
+        - Etapa 3:
+              - Planejamento: verificacao/Etapa3/planejamento.md
+              - Verificação Princípios Gerais: verificacao/Etapa3/principios-gerais.md
+              - Verificação Metas de Usabilidade: verificacao/Etapa3/metas-usabilidade.md
+              - Verificação Guia de Estilo: verificacao/Etapa3/guia-estilo.md
+              - Verificação Característica da Plataforma: verificacao/Etapa3/caracteristica-plataforma.md
+        - Etapa 5:
+              - Planejamento: verificacao/Etapa5/planejamento.md
+              - Verificação do relato dos resultados da analise de tarefas: verificacao/Etapa5/relato-tarefas.md
+              - Verificação do relato dos resultados do storyboard: verificacao/Etapa5/relato-story.md
+              - Verificação do planejamento do protótipo de papel: verificacao/Etapa5/planej-prototipo-papel.md
+              - Verificação do planejamento do relato dos resultados do protótipo de papel: verificacao/Etapa5/planej-relato-resultados-prototipo-papel.md
+        
   - Atas das Reuniões:
       - Reunião 1 - 26/09/2023: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 04/10/2023: atas-das-reunioes/reuniao2.md
