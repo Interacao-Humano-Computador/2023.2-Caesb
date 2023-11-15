@@ -55,7 +55,7 @@
 | :----: | :-------: | :-------: | :--------: | 
 | 1 | O artefato possui introdução ?| |  |
 | 2 | O artefato define a metodologia que será utilizada? | | |
-| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refer\ência é utilizada) ?| | |
+| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada) ?| | |
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
@@ -81,13 +81,12 @@
 | 11 | Foi indicado  um documento de consentimento no que diz respeito aos aspectos éticos? | | |  
 | 12 | Foi estabelecido um cronograma que especifica as datas e horários para conduzir a Avaliação da Análise de Tarefas no artefato? | | |  
 | 13| O artefato detalha a abordagem das questões éticas? | | |  
-| 14 | Foi delineado no documento quais são as questões que devem ser respondidas por meio da avaliação? | | |  
-| 15 | Foi delineado no documento quais são as questões que devem ser respondidas por meio da avaliação? | | |  
-| 16 | O documento indica quais informações devem ser coletadas e fornece orientações sobre a interpretação desses dados? | | |
-| 17 | No documento, está descrito o papel atribuído a cada participante?| | |
-| 18 | Possui uma gravação do teste piloto? | | |
-| 19 | No documento, há uma parte dedicada ao teste piloto que inclui informações sobre sua definição, participantes, local, e detalhes quanto à data e horário de sua execução? | | |
-| 20 | No artefato, está claro qual é o custo requerido para a realização da Avaliação da Análise de Tarefas?  | | |
+| 14 | Foi delineado no documento quais são as questões que devem ser respondidas por meio da avaliação? | | |   
+| 15 | O documento indica quais informações devem ser coletadas e fornece orientações sobre a interpretação desses dados? | | |
+| 16 | No documento, está descrito o papel atribuído a cada participante?| | |
+| 17 | Possui uma gravação do teste piloto? | | |
+| 18 | No documento, há uma parte dedicada ao teste piloto que inclui informações sobre sua definição, participantes, local, e detalhes quanto à data e horário de sua execução? | | |
+| 19 | No artefato, está claro qual é o custo requerido para a realização da Avaliação da Análise de Tarefas?  | | |
 
 </center>
 
@@ -156,7 +155,7 @@
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy, 2023</a> </p> </font>
 
 
-### Checklist do Planejamento do Relato dos Resultados
+### Checklist do Planejamento do Relato dos Resultados StoryBoard
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 6, será definido os critérios esperados na verificação do artefato Planejamento do Relato dos Resultados</p>
 
 <font size="3"><p style="text-align: center"> Tabela 6: Checklist do Planejamento do Relato dos Resultados</p> </font>

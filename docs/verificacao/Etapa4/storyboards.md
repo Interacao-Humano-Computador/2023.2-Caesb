@@ -43,42 +43,37 @@
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução? | |  |
-| 2 | O artefato define a metodologia que será utilizada? | | |
-| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refer\ência é utilizada)?| | |
-| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis? | | |
-| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? | | |
-| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | | |
-| 7 | No artefato storyboard, são identificados os autores envolvidos? | | |
-| 8 | O contexto e o ambiente estão descritos e têm uma base na realidade? | | |
-| 9 | Cada storyboard abrange pelo menos uma atividade principal e os processos associados? | | |
-| 10 | As ações executadas estão em conformidade com o contexto e seguem uma sequência lógica? | | |
-| 11 | No contexto fornecido, a motivação do ator principal é explicitada e está em sintonia com o que a atividade proporciona? | | |
-| 12 | Ao concluir a atividade, o storyboard reflete a satisfação do usuário? | | |
-| 13 | O storyboard foi elaborado com base em um dos cenários concebidos para o projeto? | | |
-| 14 | A legibilidade é garantida para todos os storyboards? | | |
+| 1 | O artefato possui introdução? | sim |  |
+| 2 | O artefato define a metodologia que será utilizada? | sim | |
+| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refer\ência é utilizada)?| sim | |
+| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis? | sim | |
+| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação? | sim | |
+| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | sim | |
+| 7 | No artefato storyboard, são identificados os autores envolvidos? | sim | |
+| 8 | O contexto e o ambiente estão descritos e têm uma base na realidade? | sim | |
+| 9 | Cada storyboard abrange pelo menos uma atividade principal e os processos associados? | sim | |
+| 10 | As ações executadas estão em conformidade com o contexto e seguem uma sequência lógica? | sim | |
+| 11 | No contexto fornecido, a motivação do ator principal é explicitada e está em sintonia com o que a atividade proporciona? | sim | |
+| 12 | Ao concluir a atividade, o storyboard reflete a satisfação do usuário? | sim | |
+| 13 | O storyboard foi elaborado com base em um dos cenários concebidos para o projeto? | sim | |
+| 14 | A legibilidade é garantida para todos os storyboards? | não  | artefato 4 parcialmente legível |
 
 </center>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy, 2023</a> </p> </font>
 
 ## Problemas encontrados
-### Número 3 - O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada) ?
-<p align="justify">&emsp;&emsp;O artefato não apresenta referência nem de literatura ou de trabalhos anterior na disciplina ou qualquer material de apoio utilizado para a construção do artefato.</p>
-
-### Número 9 - As tecnologias Utilizadas na plataforma foram apresentadas ?
-<p align="justify">&emsp;&emsp;Não foram informadas as tecnologias utilizadas no site do "OnlineJudge" que é uma das características gerais. </p>
+### Número 14 - A legibilidade é garantida para todos os storyboards?
+<p align="justify">&emsp;&emsp;Os storyboards 4  exibe uma fonte de tamanho reduzido, o que pode dificultar a visualização e compreensão.</p>
 
 ## Sugestões
 <p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
 
- - No item <b>número 3</b>, adicionar as referências de grupos anteriores que foram utilizados como material de apoio, a fim de ajudar próximos grupos da disciplina
-
- - No item <b>número 9</b>, adicionar quais são as tecnologias utilizadas para o desenvolvimento do site do projeto.
+ - No item <b>número 14</b>, aumetar tamanho da imagem para garantir fácil vizualização.
 
 
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 14/11/2023 | Verificação artefato de característica da plataforma | Tiago |Jefferson |
+|  1.0   | 15/11/2023 | Verificação artefato storyboards | Mateus | Rodrigo |
