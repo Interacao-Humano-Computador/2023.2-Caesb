@@ -220,4 +220,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 15/11/2023 | Criação do documento de planejamento da verificação da etapa 3 | Mateus e Rodrigo | Pedro |
+|  1.0   | 15/11/2023 | Criação do documento de planejamento da verificação da etapa 4 | Mateus e Rodrigo | Pedro |
