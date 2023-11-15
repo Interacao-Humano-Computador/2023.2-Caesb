@@ -22,7 +22,7 @@
 | 8| O artefato possui um cronograma de entrevistas? | | |
 | 9 | O artefato apresenta um cronograma contendo a data, horário e local da realização da avaliação? | | |
 | 10| O artefato possui o topico que análisa a interpretação dos resultados? | | |
-| 11| Oartefato apresenta o protótipo de papel? | Sim| |
+| 11| Oartefato apresenta o protótipo de papel? | | |
 | 12| O artefato apresenta a metodos de avaliação que vai ser empregados? | | |
 
 
@@ -65,9 +65,9 @@
 </center>
 
 
-## Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?
+## Item 6 - Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?
 
-<p align="justify">&emsp;&emsp;A tabela apresentada não apresenta fonte. </p>
+<p align="justify">&emsp;&emsp;A tabela apresentada não apresenta legenda. </p>
  
 
 
