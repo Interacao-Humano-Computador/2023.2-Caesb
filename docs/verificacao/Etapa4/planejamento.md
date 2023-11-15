@@ -1,4 +1,4 @@
-# Planejamento da verificação da etapa 3 do grupo 07
+# Planejamento da verificação da etapa 4 do grupo 07
 
 ## Introdução
 <p align="justify">&emsp;&emsp;Nesta fase do projeto, iremos realizar a verificação dos artefatos desenvolvidos pelo Grupo 07. Essa etapa é crucial, pois proporciona a oportunidade de aprender a conduzir uma verificação e, ao mesmo tempo, oferecer feedback sobre os artefatos produzidos pelo outro grupo até o momento. Este documento tem como propósito detalhar o planejamento para essa verificação, abrangendo a metodologia a ser empregada, os participantes envolvidos na análise, os artefatos que serão alvo da verificação, o cronograma a ser seguido e, por último, os checklists que serão aplicados para cada artefato.</p> 
