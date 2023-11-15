@@ -151,6 +151,32 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
 
 
+## Checklist da analise de tarefas
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 3, será definido os critérios esperados na verificação para a analise de tarefa.</p>
+
+<font size="3"><p style="text-align: center"> Tabela 3: Checklist da analise da tarefa</p> </font>
+
+<center>
+
+| Número | Descrição | Avaliação | Observações |
+| :----: | :-------: | :-------: | :---------: |
+| 1 | Foram utilizadas ao menos duas técnicas para especificar as tarefas (HTA, GOMS)? | | |
+| 2 | Está o fluxo das tarefas avaliadas alinhado com as atividades executadas pelos usuários na prática? | | |
+| 3 | As tarefas são apresentadas em tabelas? | | |
+| 4 | A escolha das tarefas analisadas está de acordo com o perfil de usuário? | | |
+| 5 | As análises com o GOMS são realizadas a partir das tarefas da HTA? | | |
+
+</center>
+
+<font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023.</p></font>
+
+
+
+
+
+
+
+
 ## Histórico de versões
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
