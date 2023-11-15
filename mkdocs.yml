@@ -91,6 +91,13 @@ nav:
               - Verificação Metas de Usabilidade: verificacao/Etapa3/metas-usabilidade.md
               - Verificação Guia de Estilo: verificacao/Etapa3/guia-estilo.md
               - Verificação Característica da Plataforma: verificacao/Etapa3/caracteristica-plataforma.md
+        - Etapa 4:
+              - Planejamento: verificacao/Etapa4/planejamento.md
+              - Verificacao do Planejamento de Storyboard: verificacao/Etapa4/planej-avalia-storyboard.md
+              - Verificacao do Relato dos Resultados do Storyboard: verificacao/Etapa4/planej-relato-resultados-storyboard.md
+              - Verificação do Storyboard: verificacao/Etapa4/storyboards.md
+              - Verificação do Planejamento da Análise de Tarefas: verificacao/Etapa4/planej-avalia-analise-tarefas.md
+              - Verificação da Relato dos Resultados da Análise de Tarefas: verificacao/Etapa4/planej-relato-resultados-analise-tarefas.md
         - Etapa 5:
               - Planejamento: verificacao/Etapa5/planejamento.md
               - Verificação do relato dos resultados da analise de tarefas: verificacao/Etapa5/relato-tarefas.md
