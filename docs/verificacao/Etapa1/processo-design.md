@@ -60,7 +60,7 @@
 ## Sugestões
 <p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
 
- - O ciclo de vida escolhido é apresentado juntamente com sua expliação, porém poderia conter um tópico que indicasse isso isoladamente, como por exemplo "Ciclo de vida escolhido" ao final do documento.
+ - O ciclo de vida escolhido é apresentado juntamente com sua explicação, porém poderia conter um tópico que indicasse isso isoladamente, como por exemplo "Ciclo de vida escolhido" ao final do documento.
 
 
 ## Histórico de versão

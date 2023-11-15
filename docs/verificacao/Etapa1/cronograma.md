@@ -6,7 +6,7 @@
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para essa verificação serão utilizadas as perguntas definidas no documento de planejamento dessa etapa, sendo 6 das perguntas referentes a padronização e as outras referentes ao que se espera do conteúdo desse artefato. Abaixo, na tabela 1, serão retomadas as perguntas com base na verificação:</p>
 
-<font size="3"><p style="text-align: center"> Tabela 1: Perguntas do cronograma</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 1: Checklist de verificação</p> </font>
 
 <center>
 
@@ -22,8 +22,8 @@
 | 8 | As atividades do cronograma estão condizentes com as ativididades presentes no plano de ensino ? | | 
 | 9 | Existe um outro cronograma executado para sendo atualizado conforme as entregas são feitas? | | 
 | 10 | NO cronograma executado tem-se quem realizou cada artefato com as datas de início e fim da realização ? | | 
-| 10 | No cronograma existem revisores para os artefatos produzidos e esses são diferentes dos autores ? | | 
-| 11 | Alguma atividade está duplicada no cronograma ? | | 
+| 11 | No cronograma existem revisores para os artefatos produzidos e esses são diferentes dos autores ? | | 
+| 12 | Alguma atividade está duplicada no cronograma ? | | 
 
 
 </center>
@@ -35,7 +35,7 @@
 <p align="justify">&emsp;&emsp;Na tabela 2 abaixo será feita a análise do artefato respondendo as perguntas estabelecidas</p>
 
 
-<font size="3"><p style="text-align: center"> Tabela 2: Checklist de verificação </p> </font>
+<font size="3"><p style="text-align: center"> Tabela 2: Checklist de verificação preenchido</p> </font>
 
 <center>
 
@@ -48,11 +48,11 @@
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | Sim | |
 | 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
 | 7 | Todos os integrantes do grupo estão distribuidos entre as atividades ? | Sim | |
-| 8 | As atividades do cronograma estão condizentes com as ativididades presentes no plano de ensino ? | Parcialmente | 1.0  |
+| 8 | As atividades do cronograma estão condizentes com as ativididades presentes no plano de ensino ? | Parcialmente | não foi definido periodo para a definição do heatmap do projeto |
 | 9 | Existe um outro cronograma executado para sendo atualizado conforme as entregas são feitas? | Sim | 
-| 10 | NO cronograma executado tem-se quem realizou cada artefato com as datas de início e fim da realização ? | Parcialmente | 2.0 |
-| 10 | No cronograma existem revisores para os artefatos produzidos e esses são diferentes dos autores ? | Sim  | 
-| 11 | Alguma atividade está duplicada no cronograma ? | Não | 
+| 10 | No cronograma executado tem-se quem realizou cada artefato com as datas de início e fim da realização ? | Parcialmente | No cronograma executado não há quem de fato realizou as tarefas |
+| 11 | No cronograma existem revisores para os artefatos produzidos e esses são diferentes dos autores ? | Sim  | 
+| 12 | Alguma atividade está duplicada no cronograma ? | Não | 
 
 
 </center>
@@ -60,11 +60,17 @@
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique, 2023</a> </p> </font>
 
 ## Problemas encontrados
-- 1.0 No cronograma planejado não foi definido periodo para a definição do heatmap do projeto, objeto de entrega da etapa de planejamento.
-- 2.0 No cronograma executado não há quem de fato realizou as tarefas. 
+### Número 8 - As atividades do cronograma estão condizentes com as ativididades presentes no plano de ensino ? 
+<p align="justify">&emsp;&emsp;Na primeira etapa do cronograma não ficou definido pela equipe o periódo para realização do heatmap, que é um objeto da primeira entrega</p>
+
+### Número 10 - No cronograma executado tem-se quem realizou cada artefato com as datas de início e fim da realização ? 
+<p align="justify">&emsp;&emsp;Na aba criada para exibir o cronograma executado de fato, não apresenta quem de fato realizou a tarefa.</p>
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;Disponibilizar na página o heatmap do projeto, e alterar o cronograma executado para que ele defina quem de fato realizou o artefato, para poder-se comparar com o cronograma planjeado</p>
+<p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
+
+- Para o item <b>número 8</b> apresentar no cronograma quando o heatmap do projeto foi realizado e disponibilizar na página do projeto o heatmap de fato.
+- Para o item <b>número 10</b> alterar o cronograma executado para que ele defina quem de fato realizou o artefato, para poder-se comparar com o cronograma planejado</p>
 
 ## Histórico de versão
 

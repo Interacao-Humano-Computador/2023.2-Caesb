@@ -6,7 +6,7 @@
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para essa verificação serão utilizadas as perguntas definidas no documento de planejamento dessa etapa, sendo 6 das perguntas referentes a padronização e as outras referentes ao que se espera do conteúdo desse artefato. Abaixo, na tabela 1, serão retomadas as perguntas com base na verificação:</p>
 
-<font size="3"><p style="text-align: center"> Tabela 1: Perguntas de ferramentas </p> </font>
+<font size="3"><p style="text-align: center"> Tabela 1: Checklist de verificação</p> </font>
 
 <center>
 
@@ -32,7 +32,7 @@
 ## Análise
 <p align="justify">&emsp;&emsp;Na tabela 2 abaixo será feita a análise do artefato respondendo as perguntas estabelecidas</p>
 
-<font size="3"><p style="text-align: center"> Tabela 2: Checklist de verificação </p> </font>
+<font size="3"><p style="text-align: center"> Tabela 2: Checklist de verificação preenchido</p> </font>
 
 <center>
 
@@ -59,7 +59,8 @@
 <p align="justify">&emsp;&emsp;Para este artefato não foram encontrados problemas</p>
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;Uma sugestão seria retirar o elemento ¨^¨ presente antes e depois de todos os números que chamam as referências bibliográficas, deixando apenas o número de fato.</p>
+<p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
+- Retirar o elemento ¨^¨ presente antes e depois de todos os números que chamam as referências bibliográficas, deixando apenas o número de fato.
 
 ## Histórico de versão
 

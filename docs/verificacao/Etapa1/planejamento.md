@@ -30,7 +30,7 @@
 
 | Data | Artefato analisado | Responsável |
 | :--: | :----------------: | :---------: |
-| 12/11/2023 | Verificação de quipe | <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> |  
+| 12/11/2023 | Verificação de equipe | <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> |  
 | 12/11/2023 | Verificação das ferramentas | <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> |
 | 12/11/2023 | Verificação do cronograma | <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> | 
 | 12/11/2023 | Verificação da lista dos sites avaliados | <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>  |
@@ -193,6 +193,7 @@
 > ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>. Acesso em: 30 maio 2023.
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula023 - Verificação e Validação. 2023. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1109167. Acesso em: 11 nov. 2023.
+
 
 ## Histórico de versões
 
