@@ -80,6 +80,7 @@ nav:
       Etapa 2:
         - Planejamento: verificacao/Etapa2/planejamento.md
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         - Aspectos Éticos: verificacao/Etapa2/aspectos_eticos.md
         - Perfil de Usuário: verificacao/Etapa2/perfil_de_usuario.md
         - Cenários: verificacao/Etapa2/cenarios.md
@@ -92,6 +93,14 @@ nav:
         - Verificação do relato dos resultados do storyboard: verificacao/Etapa5/relato-story.md
         - Verificação do planejamento do protótipo de papel: verificacao/Etapa5/planej-prototipo-papel.md
         - Verificação do planejamento do relato dos resultados do protótipo de papel: verificacao/Etapa5/planej-relato-resultados-prototipo-papel.md
+>>>>>>> Stashed changes
+=======
+      Etapa 3:
+        - Planejamento: verificacao/Etapa3/planejamento.md
+        - Verificação Princípios Gerais: verificacao/Etapa3/principios-gerais.md
+        - Verificação Metas de Usabilidade: verificacao/Etapa3/metas-usabilidade.md
+        - Verificação Guia de Estilo: verificacao/Etapa3/guia-estilo.md
+        - Verificação Característica da Plataforma: verificacao/Etapa3/caracteristica-plataforma.md
 >>>>>>> Stashed changes
              
 
