@@ -43,9 +43,11 @@ A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.c
 <b>Vídeo 4</b>: Entrega 5 (Fonte: Grupo 06. 2023). </p>
 
 ## Entrega 6.1:
-A apresentação da entrega 6.1, pode ser vista no [YouTube]( ).
+A apresentação da entrega 6.1, pode ser vista no [YouTube](https://www.youtube.com/watch?v=yOMy-nME8DE).
  <center>
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOMy-nME8DE?si=ADzH4-8ne-Zfr409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </center>
 <b>Vídeo 5</b>: Entrega 6.1 (Fonte: Grupo 06. 2023). </p>
 
