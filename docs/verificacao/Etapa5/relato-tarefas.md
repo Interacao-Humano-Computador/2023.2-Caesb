@@ -74,7 +74,7 @@
 <p align="justify">&emsp;&emsp;As tabelas e imagens do artefato estão de acordo, porém os videos para mostrar as entrevistas não apresentam legenda nem fonte.</p>
 
 ### Número 13 - Todas as perguntas planejadas foram respondidas no sumário dos dados coletados?
-<p align="justify">&emsp;&emsp;Nos tópicos 6 e 7 referentes as tarefas de Acessar o "Forgot Login?" - Recuperação de login e Busca por uma página específica respectivamente, a parte do sumário dos dados coletados está em formato de texto, destoando da padronização do artefato.
+<p align="justify">&emsp;&emsp;Nos tópicos 6 e 7 referentes as tarefas de Acessar o "Forgot Login?" - Recuperação de login e Busca por uma página específica respectivamente, a parte do sumário dos dados coletados está em formato de texto, destoando da padronização do artefato.</p>
 
 ### Número 14 - Todos os relatos dos resultados apresentam um vídeo anexado na aba de sumário dos dados coletados mostrando a gravação da entrevista?
 <p align="justify">&emsp;&emsp;Nos tópicos 6 e 7 do relato dos resultados dos resultados da análise de tarefas, os vídeos estão anexado em outro tópico que não o de sumário dos dados coletados, fugindo da padronização do artefato.</p>

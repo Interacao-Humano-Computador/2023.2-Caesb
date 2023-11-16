@@ -70,6 +70,20 @@
 | Gravação e edição da apresentação |   Leandro  | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 08/11 |30/10 - 03/11 |08/11 |
 | Revisão cronograma | Jefferson e Tiago | Leandro | 08/11  | 30/10 - 03/11 |08/11  | 
 
+### Ponto de controle 6.1 - Verificação dos Artefatos
+
+| Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
+| :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
+|Correção dos artefatos Ponto de Controle 5 |    Mateus Levy | Jefferson | 08/11 - 11/11 |08/11 - 11/11 |12/11 - 15/11 |
+| Verificação e Relato artefatos etapa 1 |  Pedro Muniz e Tiago |Jefferson |12/11 -13/11 | 08/11 - 11/11 | 12/11 - 15/11 |
+| Verificação e Relato artefatos etapa 2 |  Leandro e Oscar | Mateus Levy | 13/11 - 14/11 | 08/11 - 11/11|14/11 - 15/11 | 
+| Verificação e Relato artefatos etapa 3 |  Jefferson e Tiago | Rodrigo | 14/11 | 08/11 - 11/11|14/11 - 15/11 |
+| Verificação e Relato artefatos etapa 4 |  Mateus Levy e Rodrigo | Pedro Muniz |  15/11 | 08/11 - 11/11|  15/11 |
+| Verificação e Relato artefatos etapa 5 |  Pedro Muniz e Rodrigo Fonseca | Mateus levy | 12/11 - 14/11 | 08/11 - 11/11 |14/11 - 15/11 |
+|Atualizar o GitPages  | Leandro, Oscar, Jefferson, Tiago, Rodrigo e Mate | Oscar | 12/11 - 15/11 | 08/11 - 11/11 | 15/11 |
+|Gravação e edição da apresentação  | Leandro e Oscar | Equipe |15/11 | 08/11 - 11/11 | 15/11 |
+| Revisao cronograma  | Jefferson e Tiago | Rodrigo | 15/11 | 08/11 - 11/11 | 15/11 |
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>
@@ -85,6 +99,8 @@
 | 1.3 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.4 | 16/10/2023 | Adicionando Ponto de Controle 2 | Jefferson e Tiago | Oscar |
 | 1.5 | 22/10/2023 | Adicionando Ponto de Controle 3 | Jefferson e Tiago | Oscar |
-| 1.6 | 22/10/2023 | Adicionando Ponto de Controle 4 | Jefferson e Tiago | Oscar |
+| 1.6 | 30/10/2023 | Adicionando Ponto de Controle 4 | Jefferson e Tiago | Oscar |
+| 1.7 |08/11/2023 | Adicionando Ponto de Controle 5 | Jefferson e Tiago | Oscar |
+| 1.8 |15/11/2023 | Adicionando Ponto de Controle 6.1 | Jefferson e Tiago | Oscar |
 
 </center>

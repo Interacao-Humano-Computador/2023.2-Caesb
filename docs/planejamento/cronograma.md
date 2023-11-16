@@ -91,15 +91,15 @@
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----------: |
-|Correção dos artefatos Ponto de Controle 4 |    Mateus Levy | Jefferson | 08/10 - 11/10 | 12/10 - 15/10 |
-| Verificação e Relato artefatos etapa 1 |  Pedro Muniz | Tiago | 08/10 - 11/10 | 12/10 - 15/10 |
-| Verificação e Relato artefatos etapa 2 |  Leandro e Oscar | Equipe | 08/10 - 11/10 | 12/10 - 15/10 | 
-| Verificação e Relato artefatos etapa 3 |  Jefferson | Tiago | 08/10 - 11/10 | 12/10 - 15/10 |
-| Verificação e Relato artefatos etapa 4 |  Mateus Levy | Pedro Muniz | 08/10 - 11/10 | 12/10 - 15/10 |
-| Verificação e Relato artefatos etapa 5 |  Pedro Muniz e Rodrigo Fonseca | Mateus levy | 08/10 - 11/10 | 12/10 - 15/10 |
-|Atualizar o GitPages  | Leandro | Oscar | 08/10 - 11/10 | 12/10 - 15/10 |
-|Gravação e edição da apresentação  | Leandro e Oscar | Equipe | 08/10 - 11/10 | 12/10 - 15/10 |
-| Revisao cronograma  | Oscar | Rodrigo | 08/10 - 11/10 | 12/10 - 15/10 |
+|Correção dos artefatos Ponto de Controle 4 |    Mateus Levy | Jefferson | 08/11 - 11/11 | 12/11 - 15/11 |
+| Verificação e Relato artefatos etapa 1 |  Pedro Muniz | Tiago | 08/11 - 11/11 | 12/11 - 15/11 |
+| Verificação e Relato artefatos etapa 2 |  Leandro e Oscar | Equipe | 08/11 - 11/11 | 12/11 - 15/11 | 
+| Verificação e Relato artefatos etapa 3 |  Jefferson | Tiago | 08/10 - 11/11 | 12/11 - 15/11 |
+| Verificação e Relato artefatos etapa 4 |  Mateus Levy | Pedro Muniz | 08/11 - 11/11 | 12/11 - 15/11 |
+| Verificação e Relato artefatos etapa 5 |  Pedro Muniz e Rodrigo Fonseca | Mateus levy | 08/11 - 11/11 | 12/11 - 15/11 |
+|Atualizar o GitPages  | Leandro | Oscar | 08/11 - 11/11 | 12/11 - 15/11 |
+|Gravação e edição da apresentação  | Leandro e Oscar | Equipe | 08/11 - 11/11 | 12/11 - 15/11 |
+| Revisao cronograma  | Oscar | Rodrigo | 08/11 - 11/11 | 12/11 - 15/11 |
 
 
 ### Ponto de controle 6.2 - Correção e verificação dos artefatos
