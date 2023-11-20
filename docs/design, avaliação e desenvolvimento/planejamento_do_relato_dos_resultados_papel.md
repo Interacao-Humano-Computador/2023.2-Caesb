@@ -34,7 +34,7 @@ o usuário realizou a interação com o protótipo de papel. Abaixo ficará defi
 | Entrevistador |    Entrevistado   |      Hora de Início     |  Hora de Fim | Data | Local |
 | :----: | :--------: | :------------------: | :-----: | :-----: | :-------: |
 |  Pedro Henrique | Lucas Ambrosio | 19:00 | 19:30 | 11/11/2023 |  Residência do entrevistado | 
-|  Oscar de Brito | Marco Couto |  12:00|  12:30|  13/11/2023|  Universidade de Brasília - FGA| 
+|  Oscar de Brito | Marcela Teixeira |  12:00|  12:30|  18/11/2023|  Residência do entrevistado| 
 | Leandro de Almeida | Gustavo Freitas | 17:00  | 17:20 | 11/11/2023 | Residência do entrevistado | 
 |  Jefferson |   |  |  |  |  | 
 |  Tiago |   |  |  |  |  | 
