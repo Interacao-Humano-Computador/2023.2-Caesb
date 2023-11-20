@@ -97,7 +97,7 @@
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|nome aqui|      |   |   | Discord|
+|Oscar de Brito| Laura Coutinho      |  02/11/2023 | 20:30 até 20:40  | Teams|
 
 <font size="3"><p style="text-align: center">Tabela 6:  Entrevista 3</p></font>
 
