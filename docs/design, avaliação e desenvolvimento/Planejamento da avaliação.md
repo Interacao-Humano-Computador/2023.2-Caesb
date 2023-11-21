@@ -97,8 +97,7 @@
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|nome aqui|      |   |   | Discord|
-
+|Pedro Henrique |  Lucas Ambrósio |  04/11/2023 |  14:40 até 14:50 | Discord|
 <font size="3"><p style="text-align: center">Tabela 6:  Entrevista 3</p></font>
 
 |Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
