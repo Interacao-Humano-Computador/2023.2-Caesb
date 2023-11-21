@@ -85,5 +85,6 @@ Video 1 - Entrevista 1
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 19/11/2023 | Adiciona Relato | Leandro e Oscar | Mateus |
+|  2.0   | 21/11/2023 | Adicionando relato informar vazamento | Pedro Henrique | Leandro |
 
 </center>
