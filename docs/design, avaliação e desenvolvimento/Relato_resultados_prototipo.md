@@ -287,6 +287,63 @@ Video 4 - Entrevista 4
 #### Problemas Encontrados
 <p align="justify">&emsp;&emsp; O maior problema relatado pelo usuário foi o nome do botão para imprimir ou baixar a segunda via da conta.</p>
 
+
+### Situação de débitos
+
+#### Metodologia
+ <p align="justify">&emsp;&emsp; Para realização da avaliação, a metologia de investigação foi utilizada por meio de entrevistas com usuários. A escolha do participante, por sua vez, seguiu os critérios intitulados no perfil de usuário definido no projeto. Com base nisso, a entrevista dessa funcionalidade utilizou os mecanismos de gravação tendo como ambiente de gravação a universidade (FGA). O integrante Oscar de Brito conduziu a entrevista, enquanto Leandro de Almeida gravou tudo e anotou as respostas às perguntas.</p>
+
+
+#### Perfil dos Participantes
+<p align="justify">&emsp;&emsp;O usuário escolhido possui 23 anos, mora em brasília e utiliza regularmente o site da Caesb o que demonstra que ele se enquadra no perfil de usuário definido nesse projeto.</p>
+
+#### Sumário dos dados coletados
+<font size="3"><p style="text-align: center">Tabela 4: Roteiro de Perguntas</p></font>
+
+<center>
+
+| Ordem | Pergunta | Resposta | 
+| :---: | :------: | :------: |
+| 1º | Atraveś do protótipo de papel foi possível identificar alternativas de design? Qual delas é a mais eficiente? | sim, a mudança na tela inicial foi muito significativa, segundo o usuário otimizou o tempo e até mesmo permite que agora use a tela princiapl do site | 
+| 2º | Qual delas os usuários preferem? Por quê? | O usuário prefere a opção de um botão na tela inicial, com um design mais limpo e minimalista. Pela facilidade de acesso as funcionalidades de forma mais clara|
+| 3º | Foi possível, através do protótipo de papel, identificar problemas de usabilidade previamente? | sim, na tela de efetuar o download dos débitos, foi recomendado que não acontece de forma automática ou se acontecesse, que tivesse alguma viso prévio ou confirmação.  |
+| 4º | O usuário, através da simulação via protótipo papel, consegue operar o sistema? | Sim, o usuário consegue executar a tarefa sem grandes dificuldades. |
+| 5º | Que parte da interface e da interação o deixa insatisfeito? | O download executar sozinho, deixando confuso causando por muitas vezes repetição de download |
+| 6º | O usuário entende o que significa e para que serve cada elemento de interface? | Sim, pois ele considera os elementos bem intuitivos |
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+<center>
+
+Video 5 - Entrevista 5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWUjNbCHmgE?si=q82JhiCdmnvI7_aK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
+
+</center>
+
+#### Interpretação e Análise dos Dados
+<p align="justify">&emsp;&emsp; Com base nos dados coletados durante a avaliação do protótipo de papel, observou-se que um design com menos elementos na tela, priorizando as funções essenciais do site, contribuiu para melhorar a experiência do usuário.</p>
+
+- Foi identificado algum problema durante a execução das tarefas?
+<p align="justify">&emsp;&emsp; Não </p>
+
+- Foi identificado alguma oportunidade para melhorar o design de alguma interface?
+<p align="justify">&emsp;&emsp; sim, na tela de efetuar o download dos débitos, foi recomendado que não acontece de forma automática ou se acontecesse, que tivesse alguma viso prévio ou confirmação.</p>
+
+- Foi possível obter algum feedback do usuário?
+<p align="justify">&emsp;&emsp; 
+Foi sugerido que a ocorrência não ocorresse automaticamente, ou, caso ocorresse, que houvesse algum aviso prévio ou confirmação.</p>
+
+#### Problemas Encontrados
+<p align="justify">&emsp;&emsp; 
+O download não ocorresse automaticamente, ou, caso ocorresse, que houvesse algum aviso prévio ou confirmação.</p>
+
+
+
 ## Bibliografia
 
 > <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
@@ -303,5 +360,6 @@ Video 4 - Entrevista 4
 |  4.0   | 22/11/2023 | Adicionando relato consultar falta de água | Tiago | Pedro Henrique |
 |  5.0   | 22/11/2023 | Adicionando relato consultar Revisão de Conta | Rodrigo | Oscar |
 |  6.0   | 22/11/2023 | Adicionando relato Emitir Segunda Via da Conta | Leandro | Rodrigo |
+|  7.0   | 22/11/2023 | Adicionando situação de débito | Oscar | Pedro |
 
 </center>
