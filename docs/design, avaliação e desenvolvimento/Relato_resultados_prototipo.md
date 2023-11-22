@@ -72,7 +72,58 @@ Video 1 - Entrevista 1
 
 #### Problemas encontrados
 <p align="justify">&emsp;&emsp;Novamente retomando os pontos ja exibidos nesse relato dos resultados, foram identificados obstáculos na tela inicial, obstáculos esses relacionados à visibilidade e indicação de clicabilidade, que atrapalham a usabilidade e familiaridade dos usuários com o site da Caesb, esses problemas foram evidenciados e devem ser corrigidos de forma a garantir que o site possa servir à seus propósitos plenamente.</p>
+</br>
 
+### Consultar Contas Pagas
+#### Metodologia
+ <p align="justify">&emsp;&emsp; Para realização da avaliação, a metologia de investigação foi utilizada por meio de entrevistas com usuários. A escolha do participante, por sua vez, seguiu os critérios intitulados no perfil de usuário definido no projeto. Com base nisso, a entrevista dessa funcionalidade utilizou os mecanismos de gravação tendo como ambiente de gravação a residência do participante.</p>
+
+
+#### Perfil dos Participantes
+<p align="justify">&emsp;&emsp;O usuário escolhido possui o enquadramento necessário para o perfil de usuário definido nesse projeto, se encaixando na faixa etária que representa a maioria dos usuários do site da caesb, possuindo familiaridade com tecnologia e já tendo utilizado a funcionalidade.</p>
+
+#### Sumário dos dados coletados
+<font size="3"><p style="text-align: center">Tabela 2: Roteiro de Perguntas</p></font>
+
+<center>
+
+| Ordem | Pergunta | Resposta | 
+| :---: | :------: | :------: |
+| 1º | Atraveś do protótipo de papel foi possível identificar alternativas de design? Qual delas é a mais eficiente? | Sim, disponibilizar as funções mais utilizadas na tela de início torna a usabilidade mais intuitiva e eficiente.  | 
+| 2º | Qual delas os usuários preferem? Por quê? | A tela inicial demonstrou ser simples para encontrar a funcionalidade |
+| 3º | Foi possível, através do protótipo de papel, identificar problemas de usabilidade previamente? | Sim, o usuário é redirecionado a várias páginas até chegar ao objetivo da tarefa.  |
+| 4º | O usuário, através da simulação via protótipo papel, consegue operar o sistema? | Sim, o usuário consegue executar a tarefa sem grandes dificuldades. |
+| 5º | Que parte da interface e da interação o deixa insatisfeito? | A tela de inscrições, pois poderia conter as informações que busca sem que precise ir a uma página apenas para seleciona sua inscrição. E, caso precise, um campo para pesquisa com outra inscrição  |
+| 6º | O usuário entende o que significa e para que serve cada elemento de interface? | Sim, o usuário consegue sem dificuldade encontrar as funcionalidades que precisa. |
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a>, 2023</p></font>
+
+<center>
+
+Video 2 - Entrevista 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KzgGAb5jBIE?si=-6JWkZ8n1hEApEVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a>, 2023</p></font>
+
+</center>
+
+#### Interpretação e Análise dos Dados
+<p align="justify">&emsp;&emsp; O design alternativo do protótipo de papel torna a usabilidade mais intuitiva facilitando o usuário encontrar determinadas funcionalidades. A partir disso, o usuário consegue entrar no site e encontrar a funcionalidade que busca sem a necessidade de ir à outras páginas, o que pode causar redundância pelo excesso de etapas para concluir o objetivo da tarefa. </p>
+
+- Foi identificado algum problema durante a execução das tarefas?
+<p align="justify">&emsp;&emsp; Não foram identificados problemas críticos que dificultou o usuário realizar sua tarefa. </p>
+
+- Foi identificado alguma oportunidade para melhorar o design de alguma interface?
+<p align="justify">&emsp;&emsp; Ao realizar login o usuário poderia ser redirecionado diretamente aos dados de sua inscrição.</p>
+
+- Foi possível obter algum feedback do usuário?
+<p align="justify">&emsp;&emsp; Segundo o feedback do usuário, a execução da tarefa pode ser realizada sem grandes dificuldades, contudo, há oportunidade de melhoria quanto ao número de etapas necessárias até o cumprimento do objetivo da tarefa. </p>
+
+#### Problemas Encontrados
+<p align="justify">&emsp;&emsp; Dentre os problemas encontrados, ressalto a quantidade de redirecionamentos que é feito entre páginas até o usuário cumprir a tarefa. Tal fato, prejudica a usabilidade do sistema pois dificulta e aumenta as operações realizadas na execução da funcionalidade.    </p>
 
 ## Bibliografia
 
@@ -86,5 +137,6 @@ Video 1 - Entrevista 1
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 19/11/2023 | Adiciona Relato | Leandro e Oscar | Mateus |
 |  2.0   | 21/11/2023 | Adicionando relato informar vazamento | Pedro Henrique | Leandro |
+|  3.0   | 21/11/2023 | Adicionando relato consultar contas pagas | Jefferson Sena | Rodrigo |
 
 </center>
