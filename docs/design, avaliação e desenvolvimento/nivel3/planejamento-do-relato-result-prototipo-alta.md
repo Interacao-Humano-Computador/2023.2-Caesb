@@ -7,10 +7,19 @@
 <p align="justify">&emsp;&emsp;Como metodologia do relato de resultados será utilizada a abordagem dos principais tópicos que devem estar presentes em um relato de resultados de acordo com barbosa e silva<a href="#1"><sup>1</sup></a>, tópicos esses que serão descritos abaixo:</p>
 
 ### Objetivos da avaliação
-<p align="justify">&emsp;&emsp;Primeiramente nesse tópico o autor deverá  explicitar os objetivos da avaliação do protótipo de alta fidelidade, passando pela contextualização e relacionando com o que foi definido no planejamento da avaliação do protótipo de alta fidelidade. Além disso deverá ser explicado se esses objetivos foram atingidos após a avaliação.</p>
+<p align="justify">&emsp;&emsp;Primeiramente nesse tópico o autor deverá  explicitar os objetivos da avaliação do protótipo de alta fidelidade, passando pela contextualização e relacionando com o que foi definido no planejamento da avaliação do protótipo de alta fidelidade respondendo as seguintes perguntas:</p>
+
+- Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?
+- Foi possível identificar problemas de usabilidade preliminares?
+- O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?
+- Os termos na interface seguem convenções estabelecidas no domínio?A interface segue o padrão do sistema operacional?
+- Foi observado alguma sugestão de melhoria para o protótipo proposto?
+- Foi possível identificar ideias principais de design?
+  
+ Além disso deverá ser explicado se esses objetivos foram atingidos ou não após a avaliação.
 
 ### Método de avaliação
-<p align="justify">&emsp;&emsp;Aqui o avaliador deverá explicar o método utilizado para essa avaliação, que nesse projeto ficou definido como o método da investigação por meio de entrevistas e observaçoes presenciais da interação dos entrevistados com o protótipo de alta fidelidade. Aqui também deverá ser explicitado os detalhes do ambiente e das ferramentas que foram utilizadas durante a entrevista. Abaixo, na tabela 1, está definido um cronograma preliminar para a realização das entrevistas:</p>
+<p align="justify">&emsp;&emsp;Aqui o avaliador deverá explicar o método utilizado para essa avaliação, que nesse projeto ficou definido como teste de usabilidade, para avaliar a usabilidade do sistema  a partir de experiências de uso dos seus usuários-alvo, utilizando o método da investigação por meio de entrevistas e observaçoes presenciais da interação dos entrevistados com o protótipo de alta fidelidade. Aqui também deverá ser explicitado os detalhes do ambiente e das ferramentas que foram utilizadas durante a entrevista. Abaixo, na tabela 1, está definido um cronograma preliminar para a realização das entrevistas:</p>
 
 <center>
 
@@ -28,7 +37,7 @@
 <p align="justify">&emsp;&emsp;Nesse tópico deverão ser apresentados os partipantes das entrevistas, e é esperado que esses guardem semelhanças e compartilhem características com o perfil de usuário definido nesse projeto, ou seja, estejam na faixa entre 21 e 45 anos, que é o perfil majoritário dos usuários do site da Caesb. Além disso deverá ficar explicito a motivação da escolha do número de participantes.</p>
 
 ### Sumário dos dados coletados
-<p align="justify">&emsp;&emsp;Aqui o redator do documento deve exibir um resumo dos dados que foram obtidos com a realização da avaliação do protótipo de alta fidelidade, descrevendo de uma forma geral se houve sucesso ou não na avaliação com relação aos objetivos definidos no planejamento. Nesse tópico também deverá estar contido o vídeo da entrevista realizada.</p>
+<p align="justify">&emsp;&emsp;Aqui o redator do documento deve exibir um resumo dos dados que foram obtidos com a realização da avaliação do protótipo de alta fidelidade, descrevendo de uma forma geral se houve sucesso ou não na avaliação com relação aos objetivos definidos no planejamento. Nesse tópico também deverá estar contido as respostas coletadas para as perguntas definidas no planejamento e o vídeo da entrevista realizada.</p>
 
 ### Interpretação e análise de dados
 <p align="justify">&emsp;&emsp;O avaliador deverá realizar uma análise dos dados obtidos com a entrevista, passando por problemas e padrões identificados e essa análise deve estar relacionada com os objetivos definidos anteriormente no planejamento. Tudo isso deve ser feito para garantir a padronização e efetividade da avaliação, permitindo uma análise e interpretação satisfatória dos dados coletados.</p>
