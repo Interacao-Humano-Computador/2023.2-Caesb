@@ -33,7 +33,7 @@ o usuário realizou a interação com o protótipo de papel. Abaixo ficará defi
 
 | Entrevistador |    Entrevistado   |      Hora de Início     |  Hora de Fim | Data | Local |
 | :----: | :--------: | :------------------: | :-----: | :-----: | :-------: |
-|  Pedro Henrique | Lucas Ambrosio | 19:00 | 19:30 | 11/11/2023 |  Residência do entrevistado | 
+|  Pedro Henrique | Lucas natanael | 19:00 | 19:30 | 11/11/2023 |  Residência do entrevistado | 
 |  Oscar de Brito | Flávio Melo |  12:00|  12:30|  13/11/2023|  Universidade de Brasília - FGA| 
 | Leandro de Almeida | Gustavo Freitas | 17:00  | 17:20 | 11/11/2023 | Residência do entrevistado | 
 |  Jefferson |   |  |  |  |  | 
@@ -89,7 +89,7 @@ Caso os resultados sejam insatisfatórios e o protótipo de papel não estiver c
 
 > <p align="justify"> 1. Bilheteria Digital. Guia de estilo. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/. Acesso em: 28 de out. 2023.</p>
 
-> <p id="1" align="justify">3. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+> <p id="1" align="justify">2. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
 
 
 ## Histórico de versão
