@@ -295,7 +295,8 @@ Video 4 - Entrevista 4
 
 
 #### Perfil dos Participantes
-<p align="justify">&emsp;&emsp;O usuário escolhido possui 23 anos, mora em brasília e utiliza regularmente o site da Caesb o que demonstra que ele se enquadra no perfil de usuário definido nesse projeto.</p>
+<p align="justify">&emsp;&emsp;
+O usuário selecionado tem 23 anos, reside em Brasília e faz uso frequente do site da Caesb, indicando que ele se encaixa no perfil de usuário estabelecido neste projeto.</p>
 
 #### Sumário dos dados coletados
 <font size="3"><p style="text-align: center">Tabela 4: Roteiro de Perguntas</p></font>
@@ -336,11 +337,11 @@ Video 5 - Entrevista 5
 
 - Foi possível obter algum feedback do usuário?
 <p align="justify">&emsp;&emsp; 
-Foi sugerido que a ocorrência não ocorresse automaticamente, ou, caso ocorresse, que houvesse algum aviso prévio ou confirmação.</p>
+Foi sugerido que o download não ocorresse automaticamente, ou, caso ocorresse, que houvesse algum aviso prévio ou confirmação.</p>
 
 #### Problemas Encontrados
 <p align="justify">&emsp;&emsp; 
-O download não ocorresse automaticamente, ou, caso ocorresse, que houvesse algum aviso prévio ou confirmação.</p>
+O download não ocorrer automaticamente sem aviso prévio</p>
 
 
 
