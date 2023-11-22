@@ -124,6 +124,61 @@ Video 2 - Entrevista 2
 
 #### Problemas Encontrados
 <p align="justify">&emsp;&emsp; Dentre os problemas encontrados, ressalto a quantidade de redirecionamentos que é feito entre páginas até o usuário cumprir a tarefa. Tal fato, prejudica a usabilidade do sistema pois dificulta e aumenta as operações realizadas na execução da funcionalidade.    </p>
+</br>
+
+
+### Consultar Falta de água
+#### Metodologia
+ <p align="justify">&emsp;&emsp; Para realização da avaliação, a metologia de investigação foi utilizada por meio de entrevistas com usuários. A escolha do participante, por sua vez, seguiu os critérios intitulados no perfil de usuário definido no projeto. Com base nisso, a entrevista dessa funcionalidade utilizou os mecanismos de gravação tendo como ambiente de gravação a universidade (FGA).</p>
+
+
+#### Perfil dos Participantes
+<p align="justify">&emsp;&emsp;O usuário escolhido possui o enquadramento necessário para o perfil de usuário definido nesse projeto, se encaixando na faixa etária que representa a maioria dos usuários do site da caesb, possuindo familiaridade com tecnologia e já tendo utilizado a funcionalidade.</p>
+
+#### Sumário dos dados coletados
+<font size="3"><p style="text-align: center">Tabela 3: Roteiro de Perguntas</p></font>
+
+<center>
+
+| Ordem | Pergunta | Resposta | 
+| :---: | :------: | :------: |
+| 1º | Atraveś do protótipo de papel foi possível identificar alternativas de design? Qual delas é a mais eficiente? | Sim, a disponibilização de um botão "consultar falta de água" diretamente na tela inicial é mais eficiente do que a utilização de um botão no menu suspenso de "água"  | 
+| 2º | Qual delas os usuários preferem? Por quê? | O usuário prefere a opção de um botão na tela inicial, pois é a funcionalidade mais utilizada e requer maior destaque |
+| 3º | Foi possível, através do protótipo de papel, identificar problemas de usabilidade previamente? | Sim, o usuário relatou dificuldade no preenchimento de campos como "RA" na tela de busca por locais com falta de água, esses botões deveriam ser mais descritivos e não conter abreviações  |
+| 4º | O usuário, através da simulação via protótipo papel, consegue operar o sistema? | Sim, o usuário consegue executar a tarefa sem grandes dificuldades. |
+| 5º | Que parte da interface e da interação o deixa insatisfeito? | Campos de preenchimento não possuem explicação ou elementos que ajudem no seu preenchimento |
+| 6º | O usuário entende o que significa e para que serve cada elemento de interface? | Sim, porém a abreviação de alguns termos faz com que o usuário não entenda seu significado |
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
+<center>
+
+Video 3 - Entrevista 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0cTao6jsbfg?si=kHweU2Z5wW68cWlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
+</center>
+
+#### Interpretação e Análise dos Dados
+<p align="justify">&emsp;&emsp; Baseado nos dados coletados durante a avaliação do protótipo de papel, percebe-se que um design alternativo onde há a existência de botões de que priorizem funcionalidades que geralmente são mais utilizadas, facilitariam a chegada no objetivo do usuário. Além disso, termos que podem causar estranhesa aos usuários, devem conter elementos de auxílio. </p>
+
+
+
+- Foi identificado algum problema durante a execução das tarefas?
+<p align="justify">&emsp;&emsp; Sim, campos de preenchimento na tela de busca por locais com falta de água não são descritivos e estão abreviados, como "RA", que se refere a regiões admnistrativas. O usuário sentiu dificuldade nesse preenchimento. </p>
+
+- Foi identificado alguma oportunidade para melhorar o design de alguma interface?
+<p align="justify">&emsp;&emsp; Sim, conter mais elementos de ajuda/dicas no site.</p>
+
+- Foi possível obter algum feedback do usuário?
+<p align="justify">&emsp;&emsp; Segundo o feedback do usuário, a execução da tarefa que lhe foi designada é totalmente possível dentro do protótipo de papel, porém por ser uma tarefa muito utilizada é necessário uma forma de acesso diretamente pela tela inicial, fora do botão "Água". </p>
+
+#### Problemas Encontrados
+<p align="justify">&emsp;&emsp; O maior problema relatado pelo usuário diz a respeito de identificação de elementos e termos da interface, muitas vezes não conseguindo interpretar corretamento o que é apresentado.   </p>
 
 ## Bibliografia
 
@@ -138,5 +193,6 @@ Video 2 - Entrevista 2
 |  1.0   | 19/11/2023 | Adiciona Relato | Leandro e Oscar | Mateus |
 |  2.0   | 21/11/2023 | Adicionando relato informar vazamento | Pedro Henrique | Leandro |
 |  3.0   | 21/11/2023 | Adicionando relato consultar contas pagas | Jefferson Sena | Rodrigo |
+|  3.0   | 22/11/2023 | Adicionando relato consultar falta de água | Tiago | Pedro Henrique |
 
 </center>
