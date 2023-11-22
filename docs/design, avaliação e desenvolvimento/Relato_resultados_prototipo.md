@@ -180,6 +180,62 @@ Video 3 - Entrevista 3
 #### Problemas Encontrados
 <p align="justify">&emsp;&emsp; O maior problema relatado pelo usuário diz a respeito de identificação de elementos e termos da interface, muitas vezes não conseguindo interpretar corretamento o que é apresentado.   </p>
 
+
+
+### Revisão de Conta
+#### Metodologia
+ <p align="justify">&emsp;&emsp; Para realização da avaliação, a metologia de investigação foi utilizada por meio de entrevistas com usuários. A escolha do participante, por sua vez, seguiu os critérios intitulados no perfil de usuário definido no projeto. Com base nisso, a entrevista dessa funcionalidade utilizou os mecanismos de gravação tendo como ambiente de gravação a universidade (FGA).</p>
+
+
+#### Perfil dos Participantes
+<p align="justify">&emsp;&emsp;O usuário escolhido possui o enquadramento necessário para o perfil de usuário definido nesse projeto, se encaixando na faixa etária que representa a maioria dos usuários do site da caesb, possuindo familiaridade com tecnologia e já tendo utilizado a funcionalidade.</p>
+
+#### Sumário dos dados coletados
+<font size="3"><p style="text-align: center">Tabela 4: Roteiro de Perguntas</p></font>
+
+<center>
+
+| Ordem | Pergunta | Resposta | 
+| :---: | :------: | :------: |
+| 1º | Atraveś do protótipo de papel foi possível identificar alternativas de design? Qual delas é a mais eficiente? | Sim, a disponibilidade de um botão de revisão de conta, onde o usuário precisa passar por varias etapas para cehgar no objetivo.  | 
+| 2º | Qual delas os usuários preferem? Por quê? | O usuário identificou que um botão na tela inicial tornaria muito mais facil a atividade. |
+| 3º | Foi possível, através do protótipo de papel, identificar problemas de usabilidade previamente? | Sim, o usuário teve algumas dificuldades.  |
+| 4º | O usuário, através da simulação via protótipo papel, consegue operar o sistema? | Sim, o usuário consegue executar a tarefa sem grandes dificuldades. |
+| 5º | Que parte da interface e da interação o deixa insatisfeito? | A ultima tela tem muitas informações, e poderia ser mais claras e deixar mais facil pro usuário|
+| 6º | O usuário entende o que significa e para que serve cada elemento de interface? | Sim, o usuário identificou todos os elementos da interface|
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+<center>
+
+Video 4 - Entrevista 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGnMcy09jh4?si=9x0BTczlcElpLLk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo</a>, 2023</p></font>
+
+</center>
+
+#### Interpretação e Análise dos Dados
+<p align="justify">&emsp;&emsp; Baseado nos dados coletados durante a avaliação do protótipo de papel, podemos perceber que essa funcionalidade apresenta algumas dificuldades onde com algumas modificações simples poderia deixar as infomrçôes mais claras. </p>
+
+
+
+- Foi identificado algum problema durante a execução das tarefas?
+<p align="justify">&emsp;&emsp; Sim, na ultima tela onde colocamos as informações da conta e o motivo da revisão, onde deixa muito poluido deixando a atividade bem complicada pro ususario. </p>
+
+- Foi identificado alguma oportunidade para melhorar o design de alguma interface?
+<p align="justify">&emsp;&emsp; Sim, poderia colocar essa funcionalidades de uma forma mais fácil pro usuário .</p>
+
+- Foi possível obter algum feedback do usuário?
+<p align="justify">&emsp;&emsp; Segundo o feedback do usuário, a atividade pode ser muito bem feita diante o protótipo de papel onde a mesma ja tinha feita, porem quem nunca fez a atividade pode ter alguns problemas. </p>
+
+#### Problemas Encontrados
+<p align="justify">&emsp;&emsp; Segundo o usuário o maior problema foi em saber onde chegar na atividade desejada.</p>
+
+
 ## Bibliografia
 
 > <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
@@ -193,6 +249,7 @@ Video 3 - Entrevista 3
 |  1.0   | 19/11/2023 | Adiciona Relato | Leandro e Oscar | Mateus |
 |  2.0   | 21/11/2023 | Adicionando relato informar vazamento | Pedro Henrique | Leandro |
 |  3.0   | 21/11/2023 | Adicionando relato consultar contas pagas | Jefferson Sena | Rodrigo |
-|  3.0   | 22/11/2023 | Adicionando relato consultar falta de água | Tiago | Pedro Henrique |
+|  4.0   | 22/11/2023 | Adicionando relato consultar falta de água | Tiago | Pedro Henrique |
+|  5.0   | 22/11/2023 | Adicionando relato consultar Revisão de Conta | Rodrigo | Oscar |
 
 </center>
