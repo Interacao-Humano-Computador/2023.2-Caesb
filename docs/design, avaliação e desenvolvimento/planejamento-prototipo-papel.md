@@ -93,13 +93,13 @@ Objetivo: <b>Identificar problemas na interação e interface</b> (considerando 
 
 |Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Jefferson Sena|      |   |   | Discord|
+|Jefferson Sena|   Emanuel   |  21/11 | 14:00-14:08  | Residência do Usuário|
 
 <font size="3"><p style="text-align: center">Tabela 6:  Entrevista 4</p></font>
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|Tiago Albuquerque|      |   |   | Discord|
+|Tiago Albuquerque|  Maria Eduarda     |21/11   | 14:10-14:15  | FGA|
 
 <font size="3"><p style="text-align: center">Tabela 7:  Entrevista 5</p></font>
 
