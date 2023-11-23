@@ -30,7 +30,7 @@
 | ------------- | ------- | ---------- | ----------- | ------------------ |
 | Jeferson  | Emanuel  | 25/11 | 15:00-15:20 | Residência do usuário |
 | Tiago |     |  |  |  |
-| Leandro |      |  |  |  |
+| Leandro | Danilo | 25/11  | 15:00-15:20 | Residência do usuário |
 | Oscar |  |  |  |  |
 | Pedro | Gerson | 26/11 | 16:30 - 16:40 | Residência do usuário |
 
