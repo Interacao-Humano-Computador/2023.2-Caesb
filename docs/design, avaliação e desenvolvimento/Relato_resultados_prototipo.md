@@ -351,7 +351,7 @@ O download não ocorrer automaticamente sem aviso prévio.</p>
 ### Consultar Qualidade da Água
 
 #### Metodologia
- <p align="justify">&emsp;&emsp; Para realização da avaliação, a metologia de investigação foi utilizada por meio de entrevistas com usuários. A escolha do participante, por sua vez, seguiu os critérios intitulados no perfil de usuário definido no projeto. Com base nisso, a entrevista dessa funcionalidade utilizou os mecanismos de gravação tendo como ambiente de gravação a universidade (FGA). O integrante Oscar de Brito conduziu a entrevista, enquanto Leandro de Almeida gravou tudo e anotou as respostas às perguntas.</p>
+ <p align="justify">&emsp;&emsp; Para realização da avaliação, a metologia de investigação foi utilizada por meio de entrevistas com usuários. A escolha do participante, por sua vez, seguiu os critérios intitulados no perfil de usuário definido no projeto. Com base nisso, a entrevista dessa funcionalidade utilizou os mecanismos de gravação tendo como ambiente de gravação o domicílio do usuário. O integrante Mateus Levy conduziu a entrevista.</p>
 
 
 #### Perfil dos Participantes
@@ -381,7 +381,7 @@ O indivíduo em questão possui 23 anos, vive em Brasília e utiliza regularment
 
 Video 7 - Entrevista 7
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lscFfJCDlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
 
@@ -391,7 +391,7 @@ Video 7 - Entrevista 7
 <p align="justify">&emsp;&emsp; Os dados obtidos durante a avaliação do protótipo de papel indicam que um design mais simplificado, com menos elementos na tela e foco nas funções essenciais do site, apresentaia um impacto positivo na experiência do usuário.</p>
 
 - Foi identificado algum problema durante a execução das tarefas?
-<p align="justify">&emsp;&emsp; Não </p>
+<p align="justify">&emsp;&emsp; Não foi identificado nenhum problema durante a execução das tarefas. </p>
 
 - Foi identificado alguma oportunidade para melhorar o design de alguma interface?
 <p align="justify">&emsp;&emsp; Sim, o elemento do submenu relacionado à água poderia apresentar um número reduzido de opções, visando facilitar a visualização e seleção das alternativas disponíveis.</p>
@@ -421,6 +421,7 @@ Diversas alternativas estão disponíveis no submenu relacionado à água.</p>
 |  5.0   | 22/11/2023 | Adicionando relato consultar Revisão de Conta | Rodrigo | Oscar |
 |  6.0   | 22/11/2023 | Adicionando relato Emitir Segunda Via da Conta | Leandro | Rodrigo |
 |  7.0   | 22/11/2023 | Adicionando situação de débito | Oscar | Pedro |
-|  8.0   | 22/11/2023 | Adicionando consultar qualidade de água | Mateus | Rodrigo |
+|  8.0 | 22/11/2023 | Adicionando consultar qualidade de água | Mateus | Rodrigo |
+|  8.1 | 22/11/2023 | Correções pontuais| Mateus | Rodrigo |
 
 </center>
