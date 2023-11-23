@@ -97,7 +97,9 @@
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
+|Oscar de Brito| Laura Coutinho      |  02/11/2023 | 20:30 até 20:40  | Teams|
 |Pedro Henrique |  Lucas Ambrósio |  04/11/2023 |  14:40 até 14:50 | Discord|
+
 <font size="3"><p style="text-align: center">Tabela 6:  Entrevista 3</p></font>
 
 |Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
