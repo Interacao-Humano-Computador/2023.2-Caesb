@@ -341,7 +341,7 @@ Foi sugerido que o download não ocorresse automaticamente, ou, caso ocorresse, 
 
 #### Problemas Encontrados
 <p align="justify">&emsp;&emsp; 
-O download não ocorrer automaticamente sem aviso prévio</p>
+O download não ocorrer automaticamente sem aviso prévio.</p>
 
 
 
