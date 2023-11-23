@@ -4,10 +4,6 @@
 
 <p align="justify">&emsp;&emsp;O relato dos resultados é uma maneira de detalhar a análise realizada durante uma atividade específica. Esse artefato tem como finalidade documentar os resultados da avaliação do protótipo de papel.</p>
 
-## Método de avaliação
-
-<p align="justify">&emsp;&emsp;Foram conduzidas sete entrevistas para coletar dados. No início de cada entrevista, o termo de consentimento foi apresentado ao entrevistado. Em todas as entrevistas, os usuários foram orientados sobre o que deveriam fazer pelo entrevistador, e todas foram realizadas presencialmente. Conforme descrito no planejamento, o método utilizado será o DECIDE.</p>
-
 ##  Objetivo
 <p align="justify">&emsp;&emsp;A avaliação buscou analisar a experiência de usuários reais para ajustar os fluxos e ações. A organização da página, disposição das tarefas disponíveis no site, foram analisados mesmo sem um protótipo detalhado. Os objetivos incluem identificar problemas na interação e na interface, simular interações e fluxos de usuário e identificar problemas de usabilidade no caminho  dos fluxos das tarefas.</p>
 
