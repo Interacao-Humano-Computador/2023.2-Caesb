@@ -84,6 +84,18 @@
 |Gravação e edição da apresentação  | Leandro e Oscar | Equipe |15/11 | 08/11 - 11/11 | 15/11 |
 | Revisao cronograma  | Jefferson e Tiago | Rodrigo | 15/11 | 08/11 - 11/11 | 15/11 |
 
+### Ponto de controle 7 - Relato dos resultados e desenvolvimento do protótipo de papel
+
+| Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
+| :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
+| Controle dos artefatos e Ponto de controle 6.1 | Pedro Muniz | Leandro |18/11-19/11| 16/11 - 19/11 | 	20/11 - 22/11 | 
+| Relato dos resultados e desenvolvimento do protótipo de papel | Oscar e Leandro | Mateus | 18/11-19/11 | 16/11 - 19/11| 20/11 - 22/11| 
+| Planejamento da avaliação do protótipo de alta de fidelidade | Jefferson e Tiago | Rodrigo | 22/11 | 16/11 - 19/11 | 20/11 - 22/11 |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Pedro Muniz e Rodrigo | Leandro | 21/11 | 16/11 - 19/11 |20/11 - 22/11|
+| Atualizar o GitPages | Leandro, Oscar, Jefferson, Tiago, Rodrigo e Mateus|	Oscar |17/11-22/11|	16/11 - 19/11 |	20/11 - 22/11|
+|Gravação e edição da apresentação |	Leandro e Oscar 	| Equipe 	| 22/11 | 16/11 - 19/11  | 20/11 - 22/11|
+| Revisão Cronograma |	Pedro Muniz e Oscar| Leandro | 22/11|  	16/11 - 19/11 |	20/11 - 22/11|
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>

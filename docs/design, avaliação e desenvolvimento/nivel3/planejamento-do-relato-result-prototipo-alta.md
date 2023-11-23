@@ -26,8 +26,13 @@
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma planejado para as entrevista</p></font>
 
 
-| Entrevistador |    Entrevistado   |      Hora de Início     |  Hora de Fim | Data | Local |
-| :----: | :--------: | :------------------: | :-----: | :-----: | :-------: |
+| Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
+| ------------- | ------- | ---------- | ----------- | ------------------ |
+| Jeferson  | Emanuel  | 25/11 | 15:00-15:20 | Residência do usuário |
+| Tiago |     |  |  |  |
+| Leandro |      |  |  |  |
+| Oscar |  |  |  |  |
+| Pedro | Gerson | 26/11 | 16:30 - 16:40 | Residência do usuário |
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 06. 2023</p></font>
 
