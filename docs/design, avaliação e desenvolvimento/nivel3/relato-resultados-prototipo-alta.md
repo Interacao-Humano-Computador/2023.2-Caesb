@@ -25,3 +25,15 @@
  - Foi possível identificar ideias principais de design?
 
 ## Funcionalidades a partir daqui
+
+
+
+## Histórico de versão
+
+<center>
+
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+| 1.0  | 28/11/2023 | Iniciando relato dos resultados do protótipo de alta fidelidade  | Pedro Henrique e Rodrigo Fonseca| Leandro |
+
+</center>
