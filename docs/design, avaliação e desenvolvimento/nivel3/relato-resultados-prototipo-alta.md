@@ -40,6 +40,7 @@
 | Tiago |   Juan  |  28/11 | 13:20-13:25 | Faculdade do Gama - FGA |
 | Rodrigo |   José  |  28/11 | 13:10-13:15 | Faculdade do Gama - FGA |
 | Leandro | Kelvin | 27/11  | 15:00-15:20 | Faculdade do Gama - FGA |
+| Mateus | Gabriel | 27/11  | 18:30-18:50 | Residência do usuário |
 | Oscar | Carolina |   27/11 | 15:50-16:00| Faculdade do Gama - FGA |
 | Pedro | Eric | 27/11 | 15:30-15:40| Faculdade do Gama - FGA |
 
@@ -87,6 +88,13 @@ Protótipo 6: Situação de Débitos
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
 
+Protótipo 7: Consultar Qualidade da Água
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAjtXbnAj6BFpbeuyNfDGoI%2FPrototipo-de-alta-IHC-(Copy)%3Ftype%3Ddesign%26node-id%3D1-2%26t%3D2t1WpGB4amL3g2qN-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: Mateus Levy <a href="https://github.com/mateus9levy" target="_blank"></a>, 2023</p></font>
+
+
 </center>
 
 
@@ -104,11 +112,11 @@ Protótipo 6: Situação de Débitos
 
 | Ordem | Pergunta | Entrevista 1  |  Entrevista 2 | Entrevista 3 | Entrevista 4 |Entrevista 5 | Entrevista 6 |Entrevista 7 |Entrevista 8 |Entrevista 9 | 
 | :---: | :-------: | :------: | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: | 
-| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | Sim  | Sim | Sim | | |
-| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | Sim | Sim | Sim | | | |
-| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| Não| Sim | Não| | | |
-| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | Não | Não | | | |
-| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | Não | Não | | | |
+| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | Sim  | Sim | Sim | Sim | |
+| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | Sim | Sim | Sim | Sim | | |
+| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| Não| Sim | Não| Sim | | |
+| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | Não | Não | Não | | |
+| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | Não | Não | Não | | |
 
 
 </center>
@@ -153,22 +161,7 @@ Video 1 - Entrevista 1
 
  Video 7 - Entrevista 7
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
-
- Video 8 - Entrevista 8
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
-
- Video 9 - Entrevista 9
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hLsRvPw2xI9?si=ZKcQaJ3yF8mMg7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 ## Consultar Contas Pagas
@@ -366,7 +359,41 @@ Video 1 - Entrevista 1
 ### Feedback dos usuários
 <p align="justify">&emsp;&emsp;Diante da realização efetiva das tarefas propostas aos usuários durante as entrevistas, foram foram fornecidos alguns feedbacks com relação ao design do protótipo, como o agrupamento dos elementos da tela inicial, onde foi proposto que esses estivessem mais espaçados, e além disso, a coloração dos botões que ao invés de cores gradientes deveria ser um cor sólida.</p>
 
-#### Proximas Funcionalidades e demais tópicos
+
+## Qualidade da Água
+
+### Interpretação e análise de dados
+<p align="justify">&emsp;&emsp;  Com base nos dados coletados dessa avaliação de protótipo de alta fidelidade, torna-se claros que os problemas encontrados no protótipo de baixa fidelidade, foram corrigidos e tornando assim a execução da tarefa do usuário mais simples e facíl de entender e executar.  </p>
+
+- **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
+<p align="justify">&emsp;&emsp; Bem, ao explorar o protótipo de alta fidelidade da CAESB foi percebido que a navegação não é tão intuitiva quanto o usuário gostaria, e o usuário pode achou difícil encontrar as opções desejadas para realizar a tarefa.</p>
+
+- **Foi possível identificar problemas de usabilidade preliminares?**
+<p align="justify">&emsp;&emsp; Sim, durante a interação com o protótipo de alta fidelidade da CAESB, foram identificado salguns problemas de usabilidade preliminares. Um dos principais problemas está relacionado à organização da informação na seção do submenu de Água. A estrutura de menus e a disposição dos elementos podem ser melhoradas para tornar a navegação mais intuitiva.  </p>
+
+- **O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?**
+<p align="justify">&emsp;&emsp; Sim, em geral, o protótipo de alta fidelidade segue um padrão consistente em seus elementos e interfaces. Os elementos de design, como cores, tipografia e ícones, mantêm uma uniformidade em todo o protótipo. </p>
+
+- **Os termos na interface seguem convenções estabelecidas no domínio?**
+<p align="justify">&emsp;&emsp; Sim, os termos da interface seguem as convenções estabelecidas no domínio de serviços de água e saneamento. Por exemplo, termos como "faturas", "consumo", "conta" são utilizados de maneira consistente .</p>
+
+- **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
+
+<p align="justify">&emsp;&emsp; Foi recomenddado reforçar a consistência na terminologia usada em diferentes partes da interface. Isso contribuirá para uma compreensão mais fácil e rápida por parte dos usuários, especialmente ao navegar por diferentes seções do sistema.   </p>
+
+- **Foi possível identificar ideias principais de design?**
+<p align="justify">&emsp;&emsp; Sim, os usuários avaliaram positivamente a concepção apresentada no protótipo de alta fidelidade, embora ainda seja necessário realizar alguns ajustes.  </p>
+
+
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;  Na análise, os usuários executaram suas tarefas com precisão, sem identificação de problemas significativos.   </p>
+
+
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;  O feedback dos usuários em relação ao design alternativo do protótipo de alta fidelidade foi positivo, apesar dos problemas identificados ou das dificuldades que possam impactar a realização da tarefa. </p>
+
+
+
 
 
 
@@ -396,5 +423,11 @@ Video 1 - Entrevista 1
 | 1.1  | 28/11/2023 | Inserindo Entrevista 1 e Consultar Contas Pagas  | Jefferson | Mateus |
 | 1.2  | 28/11/2023 | Inserindo Entrevista 2 e Consultar Falta Dágua  | Tiago | Leandro |
 | 1.3  | 28/11/2023 | Inserindo Entrevista 3 e Revisão de Conta  | Rodrigo | Mateus |
+| 1.4  | 28/11/2023 | Inserindo Entrevista 4 e Emitir segunda via | Leandro | oscar |
+| 1.5  | 28/11/2023 | Qualidade da Água  | Mateus | Pedro |
+| 1.6 | 28/11/2023 | Inserindo Entrevista 5 e Informar Vazamento  | Pedro | Leandro |
+| 1.7  | 28/11/2023 | Inserindo Entrevista 6 e Consular Débitos | Oscar | Pedro |
+
+
 
 </center>
