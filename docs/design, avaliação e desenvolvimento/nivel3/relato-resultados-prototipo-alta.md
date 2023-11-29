@@ -71,9 +71,21 @@ Protótipo 2: Consultar falta de água
 
  Protótipo 4: Emitir Segunda Via de Conta
 
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzx6DXS2mSaWYZUPHiwiys7%2FUntitled%3Fnode-id%3D0-88%26mode%3Ddesign%26t%3D2iWTOly7B5yt53a9-1" allowfullscreen></iframe>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fzx6DXS2mSaWYZUPHiwiys7%2FUntitled%3Fnode-id%3D0-630%26mode%3Ddesign%26t%3DyL1otcXb8UFFfLJR-1" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+
+Protótipo 5: Informar vazamento na rua
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeO0nD127Vyd5uGTPIJkpaZ%2FProt%25C3%25B3tipo-informar-vazamento-na-rua%3Ftype%3Ddesign%26node-id%3D1-393%26t%3DEESoRRqVFdgBOvfM-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26mode%3Ddesign" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
+
+Protótipo 6: Situação de Débitos
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FSOR1bHtpOQnYrQmiBlJM5Q%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DZ1kxAoJRWFL4Osqn-1" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
 
 </center>
 
@@ -92,11 +104,11 @@ Protótipo 2: Consultar falta de água
 
 | Ordem | Pergunta | Entrevista 1  |  Entrevista 2 | Entrevista 3 | Entrevista 4 |Entrevista 5 | Entrevista 6 |Entrevista 7 |Entrevista 8 |Entrevista 9 | 
 | :---: | :-------: | :------: | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: | 
-| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | Sim  | | | | | |
-| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | Sim | | | | | |
-| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| Não| | | | | |
-| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | | | | | |
-| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | | | | | |
+| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | Sim  | Sim | Sim | | |
+| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | Sim | Sim | Sim | | | |
+| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| Não| Sim | Não| | | |
+| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | Não | Não | | | |
+| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | Não | Não | | | |
 
 
 </center>
@@ -131,13 +143,13 @@ Video 1 - Entrevista 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37MUeYjG5wA?si=QTzJbk2JwDYbN0PS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank"></a>, </p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2024</p></font>
 
  Video 6 - Entrevista 6
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_RrYs6RJFU?si=Wh_tm4zpCxmrQg0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank"></a>, 2023</p></font>
 
  Video 7 - Entrevista 7
 
@@ -158,10 +170,6 @@ Video 1 - Entrevista 1
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
 
 </center>
-
-
-
-
 
 ## Consultar Contas Pagas
 
@@ -269,34 +277,38 @@ Video 1 - Entrevista 1
 
 ### Interpretação e análise de dados
 
-<p align="justify">&emsp;&emsp; A substituição do botão de download por um novo botão chamado "Conta Completa" e a adição de um dropdown para selecionar o ano foram as alterações implementadas com base nos feedbacks fornecidos pelos participantes durante a avaliação do protótipo de baixa fidelidade. Essas modificações contribuíram significativamente para melhorar a usabilidade do site, uma vez que tornaram o procedimento de emissão de uma segunda via mais intuitivo e menos propenso a causar confusões. Todos os usuários conseguiram utilizar corretamente a função Emitir Segunda Via de Conta.</p>
+<p align="justify">&emsp;&emsp; A substituição do botão de download por um novo botão chamado "Conta Completa" e a adição de um dropdown para selecionar o ano foram as alterações implementadas com base nos feedbacks fornecidos pelos participantes durante a avaliação do protótipo de baixa fidelidade. Essas modificações contribuíram significativamente para melhorar a usabilidade do site, uma vez que tornaram a função de emitir uma segunda via mais intuitiva e menos confusa. Todos os usuários conseguiram utilizar corretamente a função Emitir Segunda Via de Conta.</p>
 
 - **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
-<p align="justify">&emsp;&emsp; Nada deixou o usuário insatisfeito durante a avaliação.  </p>
+<p align="justify">&emsp;&emsp; As cores dos botões e a proximidade dos elementos na tela. </p>
 
 - **Foi possível identificar problemas de usabilidade preliminares?**
-<p align="justify">&emsp;&emsp; Nãoão foram identificados problemas de usabilidade premilinares.      </p>
+<p align="justify">&emsp;&emsp; Não foram identificados problemas de usabilidade pelos usuários. </p>
 
 - **O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?**
-<p align="justify">&emsp;&emsp; Sim, segundo o usuário os elementos estão em conformidade com a interface seguindo um padrão.   </p>
+<p align="justify">&emsp;&emsp; Sim, segundo os usuários os elementos estão em conformidade com a interface.   </p>
 
 - **Os termos na interface seguem convenções estabelecidas no domínio?**
-<p align="justify">&emsp;&emsp; Sim, os termos da interface seguem convenções estabelecidas no domínio.   </p>
+<p align="justify">&emsp;&emsp; Sim, os termos da interface seguem convenções estabelecidas no site sem fugir muito do padrão. </p>
 
 - **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
 
-<p align="justify">&emsp;&emsp; Não foi feita nenhuma sugestão.   </p>
+<p align="justify">&emsp;&emsp; Aumentar a distância entree os elementos na interface e mudar a cor dos botões.  </p>
 
 - **Foi possível identificar ideias principais de design?**
-<p align="justify">&emsp;&emsp; Sim, utilizar as opções do portal de autoatendimento na tela inicial e direcionar o usuário para as contas pagas após a realização de login demonstrou melhorar a usabilidade tornando a execução da tarefa mais intuitiva.   </p>
+<p align="justify">&emsp;&emsp; Sim, os usuários conseguiram identificar fácilmente.</p>
 
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;  Durante essa avaliação os usuários conseguiram realizar as atividades de forma correta e não foram encontrados problemas.   </p>
 
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;  Os usuários elogiaram a intuitividade das interfaces, porém não gostaram da proximidade dos elementos na interface e das cores dos botões.</p>
 
 
 ## Informar vazamento na rua 
 
 ### Interpretação e análise dos dados
-<p align="justify">&emsp;&emsp;Com a realização da avaliação, ficou claro que as correções e melhorias realizadas a partir do protótipo de papel para o protótipo de alta fidelidade atenderam às expectativas e permitiram aos usuários realizarem as tarefas com eficiência. Para a funcionalidade de informar vazamento, a implementação de um formulário para preencher o endereço do vazamento a ser reportado no site permitiu mais dinamismo e eficiência na realização dessa tarefa, além disso as mudanças para realizar confirmações nos dados através de um pop up, favoreceram também a prevenção de erros dos usuários. Dessa forma, com base na avaliação e nos resultados das entrevistas, conclui-se que o design alternativo melhorou efetivamente a usabilidade e eficiência do site, tornando a realização das tarefas mais fáceis e satisfatórias.</p>
+<p align="justify">&emsp;&emsp;Com a realização da avaliação, ficou claro que as correções e melhorias realizadas a partir do protótipo de papel para o protótipo de alta fidelidade atenderam às expectativas e permitiram aos usuários realizarem as tarefas com eficiência. Para a funcionalidade de informar vazamento, a implementação de um formulário para preencher o endereço do vazamento a ser reportado no site permitiu mais dinamismo e eficiência na realização dessa tarefa, além disso as mudanças para realizar confirmações nos dados através de um pop up, favoreceram também a prevenção de erros dos usuários. Dessa forma, com base na avaliação e nos resultados das entrevistas, conclui-se que o design alternativo melhorou efetivamente a usabilidade e eficiência do site, tornando a realização das tarefas mais fáceis e satisfatórias. Abaixo estão respondidas as perguntas relacionadas aos objetivos planejados:</p>
 
 
 - **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
@@ -309,17 +321,50 @@ Video 1 - Entrevista 1
 <p align="justify">&emsp;&emsp;Sim, o protótipo de alta fidelidade segue um padrão claro entre seus elementos e interfaces, de forma a facilitar a realização das tarefas por meio da padronização, aumentando a familiaridade e intuitividade do usuário com o sistema.</p>
 
 - **Os termos na interface seguem convenções estabelecidas no domínio?**
-<p align="justify">&emsp;&emsp;Sim, os termos da interface do protótipo de alta fidelidade seguem as convenções estabelecidas no domínio, atendendo aos padrões dos sites governamentais e às padronizações necessárias.</p>
+<p align="justify">&emsp;&emsp;Sim, os termos da interface do protótipo de alta fidelidade seguem as convenções estabelecidas no domínio, atendendo aos convenções dos sites governamentais e às padronizações necessárias.</p>
 
 - **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
-<p align="justify">&emsp;&emsp;Foram feitas algumas sugestões referentes à página inicial do site, sobre o agrupamento e referente aos icones da tela inicial. Essas sugestões foram </p>
+<p align="justify">&emsp;&emsp;Foram feitas algumas sugestões referentes à página inicial do site, sobre o agrupamento das funcionalidades, dizendo que essas podiam estar mais espaçadas e referente aos icones da tela inicial serem mais sugestivos. Essas sugestões foram levadas em conta com relação às metas do projeto e analisadas nesse sentido. Alguns usuários também sugeriram alteração da cor dos botões da tela inicial, alterando de gradientes para cores sólidas.</p>
 
 - **Foi possível identificar ideias principais de design?**
-<p align="justify">&emsp;&emsp;</p>
+<p align="justify">&emsp;&emsp;Sim, as principais ideias do design foram identificadas. Com as funcionalidades mais utilizadas direto na tela inicial e a implementação de um pop up de confirmação dos dados do vazamento o design se tornou mais agradável e eficiente para a realização das funcionalidades.</p>
+
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;De uma forma geral não foram encontrados problemas que impedissem os usuários de realizarem as tarefas propostas, todos os entrevistados conseguiram realizar a tarefa com sucesso, e houveram apenas algumas sugestões com relação ao protótipo.</p>
+
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;Os usuários se mostraram satisfeitos com a interface e com as mudanças propostas, utilizando o site e realizando suas atividades sem impedimentos, os feedbacks fornecidos foram com relação à tela inicial, onde alguns usuários informaram que os itens estão muito agrupados e com relação a alguns ícones não serem tão claros, além disso houveram feedbacks com relação a.coloração de alguns botões da tela inicial, sugerindo que nesses possuissem cores sólidas ao invés de gradiente.Esses feedbacks foram analisados e levados em conta com base nas metas definidas no projeto.</p>
 
 
 
+## Situação de débitos
 
+### Interpretação e análise dos dados
+<p align="justify">&emsp;&emsp;Com as mudanças realizadas para as atividades foi possível observar um resultado satisfatório na realização da avaliação do protótipo de alta fidelidade, de forma que as principais funcionalidades estarem disponíveis na tela inicial auxilou os usuários na eficiência para realização das tarefas, melhorando a usabilidade do site e familiaridade com o sistema. Dessa foi possível concluir que o design alternativo proposto contribuiu para o site e facilitou a realização da tarefa de situação de débitos, tornando-a mais fácil e intuitiva de ser realizada. Após isso, abaixo estão definidas as perguntas relacionadas aos objetivos propostos no documento de planejamento desse artefato:</p>
+
+- **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
+<p align="justify">&emsp;&emsp; Os usuários não relataram nenhuma insatisfação durante a avaliação.</p>
+
+- **Foi possível identificar problemas de usabilidade preliminares?**
+<p align="justify">&emsp;&emsp;Não, uma vez que não foram encontrados pelos usuários problemas durante a realização das entrevistas relacionadas a funcionalidade de situação de débitos.</p>
+
+- **O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?**
+<p align="justify">&emsp;&emsp;Todos os elementos do protótipo seguem um padrão.</p>
+
+- **Os termos na interface seguem convenções estabelecidas no domínio?**
+<p align="justify">&emsp;&emsp;Sim, o protótipo de alta fidelidade proposto segue as convenções estabelecidas no domínio, com as cores e elementos padronizados dentro do protótipo seguindo as convenções do site.</p>
+
+- **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
+<p align="justify">&emsp;&emsp; Sim, Mudar as cores dos botões para cores sólidas, substituindo o gradiente proposto no protótipo de alta fidelidade. E houveram algumas sugestões com relação ao agrupamento dos elementos na tela inicial, propondo que esses fossem mais espaçados para facilitar a visualização.</p>
+
+- **Foi possível identificar ideias principais  de design?**
+<p align="justify">&emsp;&emsp; Sim, de uma forma geral, os usuários conseguiram identificar as principais ideias de design, percebendo as padronizações dos elementos e as novas ideias propostas no protótipo de alta fidelidade.</p>
+
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;Não foram encontrados problemas, todoso os usuários que participaram da avaliação do protótipo de alta fidelidade e utilizaram a funcionalidade de situação de débitos conseguiram realizar essa tarefa facilmente e sem grandes problemas, apenas algumas sugestões foram feitas com relação ao design do protótipo. Dessa forma demonstrando a eficiência do protótipo proposto.</p>
+
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;Diante da realização efetiva das tarefas propostas aos usuários durante as entrevistas, foram foram fornecidos alguns feedbacks com relação ao design do protótipo, como o agrupamento dos elementos da tela inicial, onde foi proposto que esses estivessem mais espaçados, e além disso, a coloração dos botões que ao invés de cores gradientes deveria ser um cor sólida.</p>
 
 #### Proximas Funcionalidades e demais tópicos
 
