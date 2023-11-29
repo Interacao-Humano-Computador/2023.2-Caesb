@@ -240,7 +240,7 @@ Video 1 - Entrevista 1
 ## Revisão de Conta
 
 ### Interpretação e análise de dados
-<p align="justify">&emsp;&emsp;  Com base nos dados coletados dessa avaliação de protótipo de alta fidelidade, torna-se claros que os problemas encontrados no protótipo de baixa fidelidade, doram corrigidos e tornando assim a execução da tarefa do usuário mais simples e facíl de entender e executar.  </p>
+<p align="justify">&emsp;&emsp;  Com base nos dados coletados dessa avaliação de protótipo de alta fidelidade, torna-se claros que os problemas encontrados no protótipo de baixa fidelidade, foram corrigidos e tornando assim a execução da tarefa do usuário mais simples e facíl de entender e executar.  </p>
 
 - **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
 <p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi abordado pontos que deixam os usuários insatisfeitos.   </p>
