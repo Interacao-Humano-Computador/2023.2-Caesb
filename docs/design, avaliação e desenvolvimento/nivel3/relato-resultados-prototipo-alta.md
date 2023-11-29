@@ -66,9 +66,9 @@ Protótipo 2: Consultar falta de água
 
  Protótipo 3: próximos protótipos
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhOfeaidZqy0HSBZBGUnT1P%2FPrototipo-de-alta-IHC-(Copy)%3Ftype%3Ddesign%26node-id%3D1-2%26t%3DQdXtoymjmjiXurgh-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, 2023</p></font>
+ <font size="3"><p style="text-align: center"> Fonte:<a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
 
  Protótipo 4: próximos protótipos
 
@@ -94,7 +94,7 @@ Protótipo 2: Consultar falta de água
 | Ordem | Pergunta | Entrevista 1  |  Entrevista 2 | Entrevista 3 | Entrevista 4 |Entrevista 5 | Entrevista 6 |Entrevista 7 |Entrevista 8 |Entrevista 9 | 
 | :---: | :-------: | :------: | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: | 
 | 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | | | | | | |
-| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |  |Sim | | | | | | |
+| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | | | | | | |
 | 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| | | | | | |
 | 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | | | | | | |
 | 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não | | | | | | |
@@ -241,28 +241,34 @@ Video 1 - Entrevista 1
 ## Revisão de Conta
 
 ### Interpretação e análise de dados
-<p align="justify">&emsp;&emsp;  O design alternativo dda tela inicial do protótipo de alta fidelidade que possibiolita o usuário tenha uma interação mais facil.  </p>
+<p align="justify">&emsp;&emsp;  Com base nos dados coletados dessa avaliação de protótipo de alta fidelidade, torna-se claros que os problemas encontrados no protótipo de baixa fidelidade, doram corrigidos e tornando assim a execução da tarefa do usuário mais simples e facíl de entender e executar.  </p>
 
-- Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?
+- **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
 <p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi abordado pontos que deixam os usuários insatisfeitos.   </p>
-- Foi possível identificar problemas de usabilidade preliminares?
+
+- **Foi possível identificar problemas de usabilidade preliminares?**
 <p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi identificado problemas de usabilidade premilinares.      </p>
-- O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?
-<p align="justify">&emsp;&emsp; Sim, os elementos estão em conformiade com a interface seguindo um padrão como um todo tornando a usabilidade intuitiva para o usuário executar as tarefas.    </p>
-- Os termos na interface seguem convenções estabelecidas no domínio?
+
+- **O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?**
+<p align="justify">&emsp;&emsp; Sim, os componentes seguem uma conformidade com a interface, mantendo um padrão consistente que,  tornando a usabilidade intuitiva para que o usuário possa executar suas tarefas.    </p>
+
+- **Os termos na interface seguem convenções estabelecidas no domínio?**
 <p align="justify">&emsp;&emsp; Sim, baseado na avaliação do protótipo de alta fidelidade, os termos da interface seguem convenções estabelecidas no domínio.   </p>
-- Foi observado alguma sugestão de melhoria para o protótipo proposto?
-<p align="justify">&emsp;&emsp; Não foram observados propostas de melhoria no design proposto.   </p>
-- Foi possível identificar ideias principais de design?
-<p align="justify">&emsp;&emsp; Sim, utilizar as opções do portal de autoatendimento na tela inicial e direcionar o usuário para as contas pagas após a realização de login demonstrou melhorar a usabilidade tornando a execução da tarefa mais intuitiva.   </p>
+
+- **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
+
+<p align="justify">&emsp;&emsp; Foi recomendado que os ícones das funcionalidades fossem tornados mais diferentes, garantindo a eliminação de possíveis confusões entre eles..   </p>
+
+- **Foi possível identificar ideias principais de design?**
+<p align="justify">&emsp;&emsp; Sim, A concepção apresentada no protótipo de alta fidelidade foi avaliada como satisfatória pelos usuários, embora ainda demande ajustes. .   </p>
 
 
 ### Problemas encontrados
-<p align="justify">&emsp;&emsp;  Durante a execução da avaliação, uma dificuldade encontrada que prejudica os usuários durante a realização da funcionalidade são os ícones do portal de autoatendimento que pode confundir para encontrar a funcionalidade determinada.   </p>
+<p align="justify">&emsp;&emsp;  Durante essa avaliação os usuário conseguiram fazer as sua atividade de forma correta e não foram encontrados problemas muitos graves.   </p>
 
 
 ### Feedback dos usuários
-<p align="justify">&emsp;&emsp;  O design alternativo do protótipo de alta fidelidade obteve feedback positivo por partes dos usuários mesmo com  os problemas identificados ou dificuldades que prejudique os usuários duante a execução da tarefa.    </p>
+<p align="justify">&emsp;&emsp;  O design alternativo do protótipo de alta fidelidade recebeu feedback positivo por parte dos usuários, mesmo diante dos problemas identificados ou das dificuldades que possam prejudicar a execução da tarefa.    </p>
 
 
 
