@@ -12,7 +12,7 @@
 - Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?
 - Foi possível identificar problemas de usabilidade preliminares?
 - O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?
-- Os termos na interface seguem convenções estabelecidas no domínio?A interface segue o padrão do sistema operacional?
+- Os termos na interface seguem convenções estabelecidas no domínio?
 - Foi observado alguma sugestão de melhoria para o protótipo proposto?
 - Foi possível identificar ideias principais de design?
   

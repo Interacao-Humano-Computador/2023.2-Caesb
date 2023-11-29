@@ -53,7 +53,7 @@
 
  - O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?
 
-  - Os termos na interface seguem convenções estabelecidas no domínio?- A interface segue o padrão do sistema operacional?
+  - Os termos na interface seguem convenções estabelecidas no domínio?
   
 <b>Objetivo: comparar ideias e alternativas de design</b>
  

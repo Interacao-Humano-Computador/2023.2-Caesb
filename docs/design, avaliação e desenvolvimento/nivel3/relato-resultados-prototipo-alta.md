@@ -24,8 +24,268 @@
  - Foi observado alguma sugestão de melhoria para o protótipo proposto?
  - Foi possível identificar ideias principais de design?
 
-## Funcionalidades a partir daqui
+## Aplicação dos Testes de Usabilidade
 
+### Método de Avaliação
+<p align="justify">&emsp;&emsp; Para realizar essa avaliação foi utilizada a metologia de investigação por meio de entrevistas com usuários que se encaixem no perfil de usuário definido no projeto. Para a entrevista da avaliação do protótipo foram utilizados mecanismos de gravação onde o entrevistado realizava a avaliação por meio de um notebook que gravava a ações executadas pelo usuário e o áudio capturando informações relevantes. Também foi utilizado uma câmera exclusiva para gravação do usuário e entrevistador. </p>
+
+<center>
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma executado das entrevistas</p></font>
+
+
+| Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
+| ------------- | ------- | ---------- | ----------- | ------------------ |
+| Jeferson  | João  | 28/11 | 13:00-13:05 | Faculdade do Gama - FGA |
+| Tiago |   Juan  |  28/11 | 13:20-13:25 | Faculdade do Gama - FGA |
+| Rodrigo |   José  |  28/11 | 13:10-13:15 | Faculdade do Gama - FGA |
+| Leandro | Danilo | 25/11  | 15:00-15:20 | Residência do usuário |
+| Oscar |  |  |  |  |
+| Pedro | Gerson | 26/11 | 16:30 - 16:40 | Residência do usuário |
+
+<font size="3"><p style="text-align: center">Fonte: Grupo 06. 2023</p></font>
+
+</center>
+
+
+<p align="justify">&emsp;&emsp; A seguir é apresentado os protótipos de Alta Fidelidade utilizados nas entrevistas de acordo com cada funcionalidade. </p>
+
+<center>
+Protótipo 1: Consultar Contas Pagas
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FINcZscDZDkn80rAf8wQXkt%2FPrototipo-de-alta-IHC-(Jefferson)%3Ftype%3Ddesign%26node-id%3D1-2%26t%3D4VGTwsvsADRNnIjC-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a>, 2023</p></font>
+
+
+Protótipo 2: Consultar falta de água
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXM062Eu4S6oOM49zWeOxtp%2FPrototipo-de-alta-IHC-(Copy)%3Ftype%3Ddesign%26node-id%3D401-2659%26t%3D5l0BAdDqkvb4RVqo-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26mode%3Ddesign" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
+ Protótipo 3: próximos protótipos
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, 2023</p></font>
+
+ Protótipo 4: próximos protótipos
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, 2023</p></font>
+
+</center>
+
+
+### Perfil dos Participantes
+<p align="justify">&emsp;&emsp;Os usuários escolhidos se enquadram no perfil de usuário definido nesse projeto, se encaixando na faixa etária que representa a maioria dos usuários do site da Caesb, possui familiaridade com tecnologia e já utilizou a funcionalidade em questão. Foram realizadas  três entrevistas de teste de usabilidade para cada funcionalidade, com usuário diferentes. De acordo com Krug(2006), com três ou quatro usuários a maioria dos problemas é detectado, tornando possível fazer a análise no mesmo dia.</p>
+
+
+
+### Sumário dos Dados Coletados
+<p align="justify">&emsp;&emsp; A tabela 2 contém as respostas das perguntas feitas aos usuários durante o teste de usabilidade, as perguntas foram definidas no planejamento da avaliação do protótipo de alta fidelidade </p>
+<center> 
+
+
+<font size="3"><p style="text-align: center">Tabela 2: Perguntas feitas aos usuários</p></font>
+
+| Ordem | Pergunta | Entrevista 1  |  Entrevista 2 | Entrevista 3 | Entrevista 4 |Entrevista 5 | Entrevista 6 |Entrevista 7 |Entrevista 8 |Entrevista 9 | 
+| :---: | :-------: | :------: | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: | 
+| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | | | | | | |
+| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |  |Sim | | | | | | |
+| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| | | | | | |
+| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | | | | | | |
+| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não | | | | | | |
+
+
+</center>
+
+<center>
+
+Video 1 - Entrevista 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0T_7xJ42XF0?si=Ls1grqHruVd_RNna" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank"></a>Jefferson, 2023</p></font>
+
+
+
+ Video 2 - Entrevista 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8uwGxJrrrq4?si=likSpE45BNKoCFcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank"></a>Tiago Albuquerque, 2023</p></font>
+
+
+
+ Video 3 - Entrevista 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwvqOtca3c0?si=YBvDDlf5Z7rRd8IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: Rodrigo Fonseca, 2023<a href="https://github.com/rodfon3301" target="_blank"></a> </p></font>
+
+ Video 4 - Entrevista 4
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+
+ Video 5 - Entrevista 5
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+
+ Video 6 - Entrevista 6
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+
+ Video 7 - Entrevista 7
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+
+ Video 8 - Entrevista 8
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+
+ Video 9 - Entrevista 9
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/" target="_blank"></a>, </p></font>
+
+</center>
+
+
+
+
+
+## Consultar Contas Pagas
+
+### Interpretação e análise de dados
+<p align="justify">&emsp;&emsp;  O design alternativo do protótipo de alta fidelidade que mescla a página inicial com a página subsequente do portal de autoatendimento torna a usabilidade mais intuitiva, uma vez que facilita o usuário encontrar determinadas funcionalidades. A partir disso, o usuário consegue entrar no site e encontrar a funcionalidade de consultar as contas pagas sem a necessidade de ir à outra página. Outro fator a ser considerado é que a partir da realização do login o usuário é redirecionado para as contas pagas de sua inscrição cadastrada tornando a execução da tarefa menos redundante.  </p>
+
+- **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
+<p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi abordado pontos que deixam os usuários insatisfeitos.   </p>
+
+- **Foi possível identificar problemas de usabilidade preliminares?**
+<p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi identificado problemas de usabilidade premilinares.      </p>
+
+- **O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?**
+<p align="justify">&emsp;&emsp; Sim, os elementos estão em conformidade com a interface seguindo um padrão como um todo tornando a usabilidade intuitiva para o usuário executar as tarefas.    </p>
+
+- **Os termos na interface seguem convenções estabelecidas no domínio?**
+<p align="justify">&emsp;&emsp; Sim, baseado na avaliação do protótipo de alta fidelidade, os termos da interface seguem convenções estabelecidas no domínio.   </p>
+
+- **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
+
+<p align="justify">&emsp;&emsp; Foi feita a sugestão referente aos ícones das funcionalidades serem mais diferentes garantindo que não sejam confundidos.   </p>
+
+- **Foi possível identificar ideias principais de design?**
+<p align="justify">&emsp;&emsp; Sim, utilizar as opções do portal de autoatendimento na tela inicial e direcionar o usuário para as contas pagas após a realização de login demonstrou melhorar a usabilidade tornando a execução da tarefa mais intuitiva.   </p>
+
+
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;  Durante a execução da avaliação, uma dificuldade encontrada que prejudica os usuários durante a realização da funcionalidade são os ícones do portal de autoatendimento que pode confundir para encontrar a funcionalidade determinada.   </p>
+
+
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;  O design alternativo do protótipo de alta fidelidade obteve feedback positivo por partes dos usuários mesmo com  o problema identificado referente aos ícones que podem confunfir em encontrar as funcionalidades.    </p>
+
+
+
+## Consultar falta de água
+
+### Interpretação e análise de dados
+
+<p align="justify">&emsp;&emsp; Baseado nos dados coletados durante a avaliação do protótipo de alta fidelidade, percebe-se que os problemas relatados no protótipo de baixa fidelidade foram resolvidos, afinal todos os participantes conseguiram realizar as tarefas sem os problemas anteriormente encontrados. Para a funcionalidade de "consultar falta de água", apenas algumas das perguntas realizadas aos usuário não foram avaliadas como "sim", conforme a tabela 2.  </p>
+
+- **Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?**
+<p align="justify">&emsp;&emsp; Um dos usuários relatou a dificuldade de encontrar a funcionalidade "Consultar falta de água" a partir da tela inicial por conta de seu ícone, o qual não é muito representativo para a funcionalidade. Outro usuário relatou uma dificuldade quanto ao preenchimento dos campos da funcionalidade, pois não sabia se existia algum campo obrigatório ou não. </p>
+
+- **Foi possível identificar problemas de usabilidade preliminares?**
+<p align="justify">&emsp;&emsp; Sim, os usuários relataram alguns problemas existentes no protótipo de alta fidelidade, sendo assim possível identificar problemas de usabilidade preliminares. </p>
+
+- **O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?**
+<p align="justify">&emsp;&emsp; Sim, com base na avaliação realizada com os usuários, os elementos e interfaces do protótipo de alta fidelidade seguem um padrão </p>
+
+- **Os termos na interface seguem convenções estabelecidas no domínio?**
+<p align="justify">&emsp;&emsp; Sim, com base na avaliação do protótipo de alta fidelidade, todos os termos da interface seguem convenções estabelecidas no domínio. </p>
+
+- **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
+<p align="justify">&emsp;&emsp; Sim, realizar mudança do ícone do botão de "consultar falta de água" para algo mais sugestivo à funcionalidade. </p>
+
+- **Foi possível identificar ideias principais de design?**
+<p align="justify">&emsp;&emsp; Sim, a ideia apresentada por meio do protótipo de alta fidelidade foi considerada satisfatório para os usuários, apesar de necessitar alterações. </p>
+
+
+### Problemas Encontrados
+<p align="justify">&emsp;&emsp; Durante a avaliação do protótipo de alta fidelidade foi possível encontrar alguns problemas, sendo estes:   </p
+
+- Ícone da funcionalidade "Consultar falta de água" é de difícil identificação, deixando o usuário confuso;
+- Campos de busca não indicam se são obrigatórios ou não.
+
+
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;Em geral os usuários conseguiram realizar a tarefa proposta sem grandes dificuldades e não relataram problemas graves na usabilidade do protótipo de alta fidelidade.</p>
+
+
+## Revisão de Conta
+
+### Interpretação e análise de dados
+<p align="justify">&emsp;&emsp;  O design alternativo dda tela inicial do protótipo de alta fidelidade que possibiolita o usuário tenha uma interação mais facil.  </p>
+
+- Que parte da interface e da interação do protótipo de alta fidelidade deixa o usuário insatisfeito?
+<p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi abordado pontos que deixam os usuários insatisfeitos.   </p>
+- Foi possível identificar problemas de usabilidade preliminares?
+<p align="justify">&emsp;&emsp; Durante a realização das entrevistas, não foi identificado problemas de usabilidade premilinares.      </p>
+- O protótipo de alta fidelidade segue um padrão entre seus elementos e interfaces?
+<p align="justify">&emsp;&emsp; Sim, os elementos estão em conformiade com a interface seguindo um padrão como um todo tornando a usabilidade intuitiva para o usuário executar as tarefas.    </p>
+- Os termos na interface seguem convenções estabelecidas no domínio?
+<p align="justify">&emsp;&emsp; Sim, baseado na avaliação do protótipo de alta fidelidade, os termos da interface seguem convenções estabelecidas no domínio.   </p>
+- Foi observado alguma sugestão de melhoria para o protótipo proposto?
+<p align="justify">&emsp;&emsp; Não foram observados propostas de melhoria no design proposto.   </p>
+- Foi possível identificar ideias principais de design?
+<p align="justify">&emsp;&emsp; Sim, utilizar as opções do portal de autoatendimento na tela inicial e direcionar o usuário para as contas pagas após a realização de login demonstrou melhorar a usabilidade tornando a execução da tarefa mais intuitiva.   </p>
+
+
+### Problemas encontrados
+<p align="justify">&emsp;&emsp;  Durante a execução da avaliação, uma dificuldade encontrada que prejudica os usuários durante a realização da funcionalidade são os ícones do portal de autoatendimento que pode confundir para encontrar a funcionalidade determinada.   </p>
+
+
+### Feedback dos usuários
+<p align="justify">&emsp;&emsp;  O design alternativo do protótipo de alta fidelidade obteve feedback positivo por partes dos usuários mesmo com  os problemas identificados ou dificuldades que prejudique os usuários duante a execução da tarefa.    </p>
+
+
+
+
+
+#### Proximas Funcionalidades e demais tópicos
+
+
+
+
+## Referências
+
+> <p id="1">1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.</p> 
+
+> <p id="1">2. KRUG, Steve. Não Me Faça Pensar. Rio de Janeiro: Alta Books, 2006.</p> 
+
+
+
+## Bibliografia
+
+> <p align="justify"> 1. Bilheteria Digital. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/. Acesso em: 28 de out. 2023.</p>
+
+> <p id="1" align="justify">3. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
 
 
 ## Histórico de versão
@@ -35,5 +295,8 @@
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 | 1.0  | 28/11/2023 | Iniciando relato dos resultados do protótipo de alta fidelidade  | Pedro Henrique e Rodrigo Fonseca| Leandro |
+| 1.1  | 28/11/2023 | Inserindo Entrevista 1 e Consultar Contas Pagas  | Jefferson | Mateus |
+| 1.2  | 28/11/2023 | Inserindo Entrevista 2 e Consultar Falta Dágua  | Tiago | Leandro |
+| 1.3  | 28/11/2023 | Inserindo Entrevista 3 e Revisão de Conta  | Rodrigo | Mateus |
 
 </center>
