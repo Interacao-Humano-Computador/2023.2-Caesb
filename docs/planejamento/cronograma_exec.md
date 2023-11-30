@@ -96,6 +96,15 @@
 |Gravação e edição da apresentação |	Leandro e Oscar 	| Equipe 	| 22/11 | 16/11 - 19/11  | 20/11 - 22/11|
 | Revisão Cronograma |	Pedro Muniz e Oscar| Leandro | 22/11|  	16/11 - 19/11 |	20/11 - 22/11|
 
+### Ponto de controle 8 - Relatos dos resultados do protótipo de alta fidelidade
+
+| Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período Planejado | Período de revisão |
+| :----: | :--------: | :------------------: | :-----: | :-----------: | :-----: |
+| Relatos dos resultados do protótipo de alta fidelidade | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |  Pedro Muniz | 28/11 | 23/11 - 26/11 | 28/11 |
+Atualizar o GitPages| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Oscar | 28/11 | 23/11 - 26/11 |  28/11 | 
+| Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 28/11 |  27/11 - 27/11 |  28/11 |
+| Revisão cronograma | Jefferson | Pedro Muniz | 28/11 | 28/11 - 28/11 | 28/11 |
+
 ## Referências
 
 > <p id="1">1. SALES, André Barros de. Ambientação - Plano de ensino. Aprender 3. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=1108979> Acesso em 27 de setembro de 2023.</p>
@@ -114,5 +123,6 @@
 | 1.6 | 30/10/2023 | Adicionando Ponto de Controle 4 | Jefferson e Tiago | Oscar |
 | 1.7 |08/11/2023 | Adicionando Ponto de Controle 5 | Jefferson e Tiago | Oscar |
 | 1.8 |15/11/2023 | Adicionando Ponto de Controle 6.1 | Jefferson e Tiago | Oscar |
+| 1.9 |28/11/2023 | Adicionando Ponto de Controle 8| Jefferson | Oscar |
 
 </center>
