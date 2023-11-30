@@ -110,13 +110,13 @@ Protótipo 7: Consultar Qualidade da Água
 
 <font size="3"><p style="text-align: center">Tabela 2: Perguntas feitas aos usuários</p></font>
 
-| Ordem | Pergunta | Entrevista 1  |  Entrevista 2 | Entrevista 3 | Entrevista 4 |Entrevista 5 | Entrevista 6 |Entrevista 7 |Entrevista 8 |Entrevista 9 | 
-| :---: | :-------: | :------: | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: | 
-| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | Sim  | Sim | Sim | Sim | |
-| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | Sim | Sim | Sim | Sim | | |
-| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| Não| Sim | Não| Sim | | |
-| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | Não | Não | Não | | |
-| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | Não | Não | Não | | |
+| Ordem | Pergunta | Entrevista 1  |  Entrevista 2 | Entrevista 3 | Entrevista 4 |Entrevista 5 | Entrevista 6 |Entrevista 7 |
+| :---: | :-------: | :------: | :------: | :------: |:------: |:------: |:------: |:------: |
+| 1º | A interface apresentada foi de fácil utilização? | Sim | Sim |Sim | Sim  | Sim | Sim | Sim | 
+| 2º | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim | Sim |Sim | Sim | Sim | Sim | Sim |  
+| 3º | Alguma sugestão com relação à disposição dos elementos na tela?  |Não  |Não | Sim| Não| Sim | Não| Sim | 
+| 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | Não | Não | Não |  
+| 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | Não | Não | Não |  
 
 
 </center>
@@ -145,19 +145,19 @@ Video 1 - Entrevista 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBsQb2X4e8g?si=kr9AMHLggoY_slAq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2024</p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
 
  Video 5 - Entrevista 5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37MUeYjG5wA?si=QTzJbk2JwDYbN0PS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2024</p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
  Video 6 - Entrevista 6
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H_RrYs6RJFU?si=Wh_tm4zpCxmrQg0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank"></a>, 2023</p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
 
  Video 7 - Entrevista 7
 
@@ -427,6 +427,8 @@ Video 1 - Entrevista 1
 | 1.5  | 28/11/2023 | Qualidade da Água  | Mateus | Pedro |
 | 1.6 | 28/11/2023 | Inserindo Entrevista 5 e Informar Vazamento  | Pedro | Leandro |
 | 1.7  | 28/11/2023 | Inserindo Entrevista 6 e Consular Débitos | Oscar | Pedro |
+| 1.8  | 28/11/2023 | Corrigindo Datas | Leandro | Oscar |
+
 
 
 
