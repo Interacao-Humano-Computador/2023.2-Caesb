@@ -87,6 +87,7 @@ A apresentação da entrega 8, pode ser vista no [YouTube]( ).
 |  4.0   | 08/11/2023 | Adicionou Entrega 5 | Leandro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  5.0   | 15/11/2023 | Adicionou Entrega 6.1 | Jefferson e Tiago | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  6.0   | 22/11/2023 | Adicionou Entrega 7 | Leandro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+|  7.0   | 28/11/2023 | Adicionou Entrega 8 | Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
 
