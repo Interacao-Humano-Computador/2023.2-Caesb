@@ -51,6 +51,27 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
 
+
+## Vídeo da Verificação
+
+<center>
+
+Video 1 - Entrevista 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_xFaGS_anWw?si=fwanZz5AT-89Y3Yj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+|Tiago | Jefferson |  03/12/2023 | 18:32 até 18:41 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+</center>
+
 ## Problemas encontrados
 ### Número 2 - O artefato define a metodologia que será utilizada?
 <p align="justify">&emsp;&emsp; Na metodologia, é apresentado a metodologia de observação porém não é apresentado escolha de participantes, análise dos dados coletados ou demais tarefas que persistam a utilização da observação. </p>

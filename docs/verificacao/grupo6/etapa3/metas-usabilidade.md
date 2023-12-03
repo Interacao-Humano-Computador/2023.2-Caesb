@@ -44,7 +44,7 @@
 | 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada) ?| Sim | |
 | 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | Sim | |
 | 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | Incompleto | |
-| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim | |
+| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | |
 | 7 | As metas de usabilidade foram divididas em eficiência,eficácia,segurança,utilidade,aprendizagem e memorabilidade? | Sim | |
 | 8 | É apresentado a definição de cada uma das metas de usabilidade? | Sim | |  
 | 9 | É explicado a razão da escolha de cada uma das metas de usabilidade selecionadas? | Sim | |  
@@ -59,12 +59,39 @@ indicador de interesse? | Não | |
 
 
 
+## Vídeo da Verificação
+
+<center>
+
+Video 1 - Entrevista 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_xFaGS_anWw?si=fwanZz5AT-89Y3Yj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+|Tiago | Jefferson |  03/12/2023 | 18:32 até 18:41 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+</center>
+
+
 ## Problemas Encontrados
 ### Número 2 - O artefato define a metodologia que será utilizada?
 <p align="justify">&emsp;&emsp; É apresentado os aspectos em que conduzirão o desenvolvimento do artefato, porém não é evidenciado qual metodologia está de fato sendo utilizada.  </p> 
 
 ### Número 5 - Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ?
-<p align="justify">&emsp;&emsp; Erro de digitação no primeiro parágrafo do texto sobre metodologia.  </p> 
+<p align="justify">&emsp;&emsp;O artefato possui alguns erros de digitação, sendo estes:</p>
+
+- No título "Definição da Metas de Usabilidade", o correto seria "Definição das Metas de Usabilidade".
+- No tópico de metodologia, a frase possui erro gramatical "será percorrido o site a partir da perspectiva das características levantadas no perfil de usuário, dessa forma <b>se</b> analisando os aspectos de eficácia, eficiência...";
+- Na pergunta relacionada à "Eficiência", há um erro gramatical. A frase "Por isso Então o site da CAESB não cumpre a meta de eficiência" pode ser corrigida para "Por isso, o site da CAESB não cumpre a meta de eficiência".
+- Na pergunta sobre "Aprendizagem", há um erro de concordância em "Aprender a utilizar o site e relativamente simples". A forma correta seria "Aprender a utilizar o site é relativamente simples".
+- Na pergunta sobre "Memorização", há um erro gramatical em "mesmo apos um periodo". O correto seria "mesmo após um período".
 
 ### Número 12 - É apresentado faixas de valores são inaceitáveis, aceitáveis e ideais para cada
 indicador de interesse?
@@ -78,6 +105,9 @@ indicador de interesse?
  - No item <b>número 5</b>, é necessário analisar o texto corrigindo erros de digitação garantindo a coerência do artefato analisado.
 
   - No item <b>número 12</b>, é necessário definir faixa de valores que determinam se em cada meta de usabilidade o sistema possui uma faixa aceitável e ideal para cada indicador.
+
+
+## Gravação
 
 
 ## Histórico de versões
