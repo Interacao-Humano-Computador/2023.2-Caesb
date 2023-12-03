@@ -77,7 +77,12 @@ nav:
   - Verificação:
       - Grupo 06:
         - Etapa 3:
-              - Planejamento: verificacao/grupo6/planejamento.md
+              - Planejamento: verificacao/grupo6/etapa3/planejamento.md
+              - Metas de Usabilidade: verificacao/grupo6/etapa3/guia_estilo.md
+              - Características: verificacao/grupo6/etapa3/caracteristica-plataforma.md
+              - Guia Estilo: verificacao/grupo6/etapa3/guia_estilo.md
+        - Etapa 08:
+              - Relato da Avaliação do Protótipo de Alta Fidelidade: verificacao/grupo6/etapa8/relato-prototipo-alta.md
       - Grupo 07:
         - Etapa 1:
               - Planejamento: verificacao/Etapa1/planejamento.md

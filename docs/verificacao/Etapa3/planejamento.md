@@ -17,8 +17,7 @@
 - Metas de usabilidade até a versão 1.1, da data de 21/10/2023, autorado por <a href="https://github.com/luanatorress" target="_blanck">Luana Torres</a> e <a href="https://github.com/esteerlino" target="_blanck">Ester Lino</a>.
 - Definição do guia de estilo até a versão 1.2, da data de 22/10/2023, autorado por <a href="https://github.com/henriqtorresl" target="_blanck">Henrique Torres</a>, <a href="https://github.com/suzaneduarte" target="_blanck">Suzane Duarte</a> e <a href="https://github.com/PabloGJBS" target="_blanck">Pablo Guilherme</a> .
 - Características da Plataforma até a versão 1.0, da data de 21/10/2023, autorado por <a href="https://github.com/esteerlino" target="_blanck">Ester Lino</a> e <a href="https://github.com/luanatorress " target="_blanck">Luana Torres</a>.
-- O site escolhido até a versão  1.2, da data de 16/10/2023, autorado por <a href="https://github.com/esteerlino" target="_blanck">Ester Lino</a>.
-- O processo de design até a versão 1.1, da data de 13/10/2023, autorado por <a href="https://github.com/luanatorress" target="_blanck">Luana Torres</a> e <a href="https://github.com/esteerlino" target="_blanck">Ester Lino</a>.
+
 
 
 ### Cronograma
@@ -141,7 +140,7 @@
 ### Checklist de características da plataforma
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 6, será definido os critérios esperados na verificação do artefato características da plataforma</p>
 
-<font size="3"><p style="text-align: center"> Tabela 6: Checklist dos sites avaliados</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 6: Checklist da características da plataforma</p> </font>
 
 <center>
 
