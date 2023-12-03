@@ -54,6 +54,26 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a> e <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
+## Vídeo da Verificação
+
+<center>
+
+Video 1 - Entrevista 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yz0AMz1InlI?si=7WeQseJItaiYfDgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a> e <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+|Leandro de Almeida | Oscar de Brito |  03/12/2023 | 22:54 até 22:58 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a> e <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
+</center>
+
 ## Problemas encontrados
 <p align="justify">&emsp;&emsp;A Tabela de artefatos não possue legenda e fonte</p>
 
