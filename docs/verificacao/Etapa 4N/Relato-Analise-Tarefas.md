@@ -19,7 +19,7 @@
 | 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |       | |
 | 7      | O artefato apresenta o objetivo e escopo da Avaliação?                                                          |      | |
 | 8      | E esse objetivo e escopo da avaliação é bem desenvolvido?   |      | |
-| 9      | E esse objetivo e escopo da avaliação é bem desenvolvido?                                       |      | |
+| 9      | O planejamento estabelece o método de avaliação dos resultados?                                      |      | |
 | 10    | O planejamento estabelece o método de avaliação dos resultados?                               |      | |
 | 11  | No planejamento, são indicados o porque é escolhidos o total de participantes que foram selecionados? |      | |
 | 12  |O planejamento apresenta o perfil do usuário? |      | |
@@ -40,21 +40,21 @@
 
 | Número | Descrição                                                                                              | Avaliação | Observações |
 |--------|---------------------------------------------------------------------------------------------------------|----------|-------------|
-| 1      | O artefato possui introdução?                                                                          |      | |
-| 2      | O artefato define a metodologia que será utilizada?                                                     |      | |
-| 3      | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada)? |      | |
-| 4      | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis?                 |      | |
-| 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                         |      | |
-| 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |       | |
-| 7      | O artefato apresenta o objetivo e escopo da Avaliação?                                                          |      | |
-| 8      | E esse objetivo e escopo da avaliação é bem desenvolvido?   |      | |
-| 9   | O planejamento estabelece o método de avaliação dos resultados?                               |      | |
-| 10  | No planejamento, são indicados o porque é escolhidos o total de participantes que foram selecionados? |      | |
-| 11  |O planejamento apresenta o perfil do usuário? |      | |
-| 12  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas? |      | |
-| 13  | O planejamento apresenta a interpretação e análise dos dados?|      | |
-| 14  | O planejamento aborda como será realizada a análise e interpretação dos usuários?|      | |
-| 15 | O planejamento apresenta uma seção para o feedback dos usuários?|      | |
+| 1      | O artefato possui introdução?                                                                          |   Sim   | |
+| 2      | O artefato define a metodologia que será utilizada?                                                     |   Sim   | |
+| 3      | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a referência é utilizada)? |  Não    | |
+| 4      | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis?                 |    Sim  | |
+| 5      | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação?                         |    Sim  | |
+| 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                            |    Sim | |
+| 7      | O artefato apresenta o objetivo e escopo da Avaliação?                                                          |    Sim  | |
+| 8      | E esse objetivo e escopo da avaliação é bem desenvolvido?   |   Sim   | |
+| 9   | O planejamento estabelece o método de avaliação dos resultados?                               |    Sim  | |
+| 10  | No planejamento, são indicados o porque é escolhidos o total de participantes que foram selecionados? |   Não   | |
+| 11  |O planejamento apresenta o perfil do usuário? |   Sim   | |
+| 12  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas? |   Não   | |
+| 13  | O planejamento apresenta a interpretação e análise dos dados?|   Sim   | |
+| 14  | O planejamento aborda como será realizada a análise e interpretação dos usuários?|     Não | |
+| 15 | O planejamento apresenta uma seção para o feedback dos usuários?|   Sim   | |
 
 </center>
 
@@ -113,4 +113,4 @@ Video 1 - Avaliação
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 02/12/2023 | Verificação do artefato | Rodrigo | Matheus |
+|  1.0   | 04/12/2023 | Verificação do artefato | Rodrigo | Matheus |
