@@ -1,7 +1,7 @@
 # GOMS
 
 ## Introdução 
-<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação da analise de tarefas produzido pelo grupo 06, que tem seu projeto voltado para o site Caesb.</p>
+<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do GOMS produzido pelo grupo 06, que tem seu projeto voltado para o site Caesb.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para essa verificação serão utilizadas as perguntas definidas no documento de planejamento dessa etapa, sendo 6 das perguntas referentes a padronização e as outras referentes ao que se espera do conteúdo desse artefato. Abaixo, nas tabelas 1, serão retomadas as perguntas com base na verificação:</p>
