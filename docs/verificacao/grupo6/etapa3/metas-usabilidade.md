@@ -50,8 +50,7 @@
 | 9 | É explicado a razão da escolha de cada uma das metas de usabilidade selecionadas? | Sim | |  
 | 10 | Foram apresentadas questões adequadas sobre cada uma das metas de usabilidade? | Sim | |
 | 11 | É apresentado análise do comportamento do sistema com base nas questões abordadas em cada meta? | Sim | |
-| 12 | É apresentado faixas de valores são inaceitáveis, aceitáveis e ideais para cada
-indicador de interesse? | Não | |
+| 12 | É apresentado faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse? | Não | |
 
 </center>
 
@@ -79,6 +78,26 @@ Video 1 - Entrevista 1
 
 </center>
 
+## Vídeo de Relato da Verificação ao Autor
+
+<center>
+
+Video 2 - Entrevista 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IqlrEfGMMJE?si=TtE9FmtxikY9HNYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
+
+| Autor | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+|Rodrigo | Jefferson |  03/12/2023 | 18:32 até 18:41 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+</center>
+
 
 ## Problemas Encontrados
 ### Número 2 - O artefato define a metodologia que será utilizada?
@@ -93,14 +112,13 @@ Video 1 - Entrevista 1
 - Na pergunta sobre "Aprendizagem", há um erro de concordância em "Aprender a utilizar o site e relativamente simples". A forma correta seria "Aprender a utilizar o site é relativamente simples".
 - Na pergunta sobre "Memorização", há um erro gramatical em "mesmo apos um periodo". O correto seria "mesmo após um período".
 
-### Número 12 - É apresentado faixas de valores são inaceitáveis, aceitáveis e ideais para cada
-indicador de interesse?
+### Número 12 - É apresentado faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse?
 <p align="justify">&emsp;&emsp; Não foi definido faixa de valores que determinam se as metas de usabilidade fora alcançadas ou não.  </p>
 
 ## Sugestões
 <p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
 
- - No item <b>número 2</b>, com o contexto abordado e seguindo os parâmetros definidos, a metodologia de investigação seria a ideal para conduzir o desenvolvimento do artefato.
+ - No item <b>número 2</b>, com o contexto abordado e seguindo os parâmetros definidos, a metodologia de inspeção seria a ideal para conduzir o desenvolvimento do artefato.
 
  - No item <b>número 5</b>, é necessário analisar o texto corrigindo erros de digitação garantindo a coerência do artefato analisado.
 
