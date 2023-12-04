@@ -77,11 +77,11 @@
 
 ## Problemas encontrados
 ### Número 12 - É feito o cálculo da distribuição proporcional dos usuários em cada perfil? 
-<p align="justify">&emsp;&emsp;Apresentar o calculo da distribuição proporcional.</p>
+<p align="justify">&emsp;&emsp;Cálculo da distribuição proporcional não apresentado.</p>
 
 
 ## Sugestões
-- Para o item <b>número 12</b> apresentar o calculo da distribuição proporcional.</p>
+- Para o item <b>número 12</b> apresentar o cálculo da distribuição proporcional.</p>
 
 
 
