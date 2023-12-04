@@ -74,11 +74,15 @@
 ## Vídeo da verificação
 <font size="3"><p style="text-align: center"> Vídeo 1: Verificação do artefato</p> </font>
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/23L1L6XspsU?si=xJEtj4aGBZRv3c_v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique, 2023</a> </p> </font>
 
-<font size="3"><p style="text-align: center"> Tabela 3:  Cronograma da entrevista</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 3:  Tabela 3:  Cronograma da verificação</p> </font>
 
 <center>
 
@@ -108,6 +112,20 @@
 - No item <b>número 13</b> indicar em uma tabela após os vídeos das entrevistas, quem foram os participantes, com o nome dos membros do grupo que participaram e o nome do entrevistado.
 - No item <b>número 14</b> justificar a quantidade de usuários entrevistados para a avaliação relacionando com a bibliografia da disciplina.
 - No item <b>número 19</b> concluir o artefato indicando a necessidade ou não de realizar o reprojeto do sistema planejado.
+
+
+## Correção
+<p align="justify">&emsp;&emsp;Com base nesse artefato, foi feita uma correção juntamente ao leandro, um dos autores do artefato avaliado, o vídeo abaixo evidencia as correções feitas juntamente a ele:</p>
+
+<font size="3"><p style="text-align: center"> Vídeo 2: Correção do artefato de relato dos resultados do protótipo de papel</p> </font>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRS2AO008Es?si=x2GYlOBnA_CdNV--" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique e</a> <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a> </p> </font>
 
 ## Histórico de versão
 

@@ -106,7 +106,7 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique, 2023</a> </p> </font>
 
-<font size="3"><p style="text-align: center"> Tabela 3:  Cronograma da entrevista</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 3:  Cronograma da verificação</p> </font>
 
 <center>
 
