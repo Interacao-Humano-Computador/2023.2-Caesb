@@ -28,7 +28,7 @@
 
 </center>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a>, 2023</p> </font>
 
 ## Análise
 <p align="justify">&emsp;&emsp;Na tabela 2 abaixo será feita a análise do artefato respondendo as perguntas estabelecidas</p>

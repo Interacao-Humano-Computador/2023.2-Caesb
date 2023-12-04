@@ -58,13 +58,13 @@
 
 <center>
 
-Video 1 - Entrevista 1
+Video 1 - Avaliação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yz0AMz1InlI?si=7WeQseJItaiYfDgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar de Brito</a> e <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
-<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da verificação</p> </font>
 
 | Checklist | Verificação | Data| Horário de início e fim | 
 |:---------:|:---------:|:-------:|:-------:|
