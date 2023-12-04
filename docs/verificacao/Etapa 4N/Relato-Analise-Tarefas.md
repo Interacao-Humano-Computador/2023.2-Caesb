@@ -87,8 +87,8 @@ Video 1 - Avaliação
 <p align="justify">&emsp;&emsp;O artefato possui falta de detalhamento:</p>
 
 
-### Número 10 - É apresentado faixas de valores são inaceitáveis, aceitáveis e ideais para cada
-<p align="justify">&emsp;&emsp; Não apresrnta o porqeu que foram escolhidos tantos participantes para serem avaliados.  </p>
+### Número 10 - No planejamento, são indicados o porque é escolhidos o total de participantes que foram selecionados?
+<p align="justify">&emsp;&emsp; Não apresenta o por que que foram escolhidos tantos participantes para serem avaliados.  </p>
 
 ### Número 12 - O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas?
 <p align="justify">&emsp;&emsp; não possui menção ao ambiente onde ocorreram as avaliações  </p>
@@ -97,17 +97,17 @@ Video 1 - Avaliação
 <p align="justify">&emsp;&emsp; não apresenta uma seção que detalho como vai ser feita o feedback dos usuários. </p>
 
 ## Sugestões
-<p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
+As sugestões para os problemas encontrados são:
 
- - No item <b>número 3</b>, Colocar as referências como bibliografia.
+- No item <b>número 3</b>, Colocar as referências como bibliografia.
 
- - No item <b>número 8</b>, Fazer o mais detalhados os objetivos.
+- No item <b>número 8</b>, Fazer o mais detalhados os objetivos.
 
-  - No item <b>número 10</b>, Colocar o porque escolheu aquele tanto de pessoas.
+- No item <b>número 10</b>, Colocar o porque escolheu aquele tanto de pessoas.
 
-  - No item <b>número 12</b>, Representar o ambiente que vai ser utilizados.
+- No item <b>número 12</b>, Representar o ambiente que vai ser utilizados.
 
-  - No item <b>número 14</b>, Detalhar o como será feita o feedback dos usuários.
+- No item <b>número 14</b>, Detalhar o como será feita o feedback dos usuários.
 
 ## Histórico de versão
 
