@@ -46,12 +46,12 @@
 
 | Número | Descrição | Avaliação | Observações | 
 | :----: | :-------: | :-------: | :--------: | 
-| 1 | O artefato possui introdução?|  |  |
-| 2 | O artefato define a metodologia que será utilizada? | | |
-| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada)?| | |
-| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | | |
-| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | | |
-| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  | |
+| 1 | O artefato possui introdução?| sim |  |
+| 2 | O artefato define a metodologia que será utilizada? | sim | |
+| 3 | O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada)?| sim | |
+| 4 | O artefato possui histórico de versões apresentado a versão, a data, e os responsáveis | sim | |
+| 5 | Os textos dos artefatos estão escritos em norma culta e sem erros de digitação ? | sim | |
+| 6 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | sim | |
 | 7 | São expostos os objetivos a serem atingidos? | sim | |
 | 8 | Foram empregadas no mínimo duas abordagens para detalhar as tarefas? | sim | |
 | 9 | As tarefas apresentadas são realistas? | sim | |
