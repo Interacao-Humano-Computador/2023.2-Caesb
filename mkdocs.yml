@@ -161,6 +161,8 @@ nav:
       - Entregas: apresentacoes/Entregas.md
   - Site selecionado:
     - Site escolhido: site-escolhido/siteEscolhido.md
+  - Entrega Final: 
+    - Execução do Projeto: entrega_final/execucao_projeto.md
 markdown_extensions:
   - attr_list
   - md_in_html
