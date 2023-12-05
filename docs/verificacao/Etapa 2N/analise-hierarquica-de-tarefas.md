@@ -69,6 +69,25 @@
 
 
 
+<center>
+
+Video 1 - Avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IQyBUghpcvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy</a> e <a href="https://github.com/Muniz2811" target="_blanck">Pedro Muniz</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da verificação</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+| Mateus Levy | Pedro Muniz |  04/12/2023 | 13:58 até 14:02 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy</a> e <a href="https://github.com/Muniz2811" target="_blanck">Pedro Muniz</a>, 2023</p> </font>
+
+</center>
+
+
 ## Problemas encontrados
 ### Número 11 - Os elementos típicos de um diagrama HTA estão presentes neste diagrama?
 <p align="justify">&emsp;&emsp;Falta detalhamento de impedimentos para realizar a tarefa.</p>

@@ -66,6 +66,25 @@
 <font size="3"><p style="text-align: center"> Autor: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy</a>, 2023.</p></font>
 
 
+<center>
+
+Video 1 - Avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mii0T6sj5zo?si=cla4wFK_QUBiklEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy</a> e <a href="https://github.com/rodfon3301" target="_blanck">Rodrigo Fonseca</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da verificação</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+| Mateus Levy | Rodrigo Fonseca |  04/12/2023 | 16:00 até 16:08 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blanck">Mateus Levy</a> e <a href="https://github.com/rodfon3301" target="_blanck">Rodrigo Fonseca</a>, 2023</p> </font>
+
+</center>
+
+
 
 ## Problemas encontrados
 ### Número 3 - O artefato possui bibliografia ou referência bibliográfica (Chamando do texto para as referências aonde a refeência é utilizada)?
@@ -80,7 +99,7 @@
 ## Sugestões
 - Para o item <b>número 3</b> Arrumar as referências que não estao sendo chamadas no texto, e corrigir referêcia incorreta.</p>
 - Para o item <b>número 6</b>Inserir chamdadas para as tabelas que ainda não foram citadas no texto.</p>
-- Para o item <b>número 10</b>Detalhar os 4 elementos em todos os GOMS que estão incompletos. </p>
+- Para o item <b>número 10</b> Detalhar os 4 elementos em todos os GOMS que estão incompletos. </p>
 
 ## Histórico de versões
 
