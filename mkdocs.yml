@@ -124,7 +124,12 @@ nav:
               - Verificação do Site Selecionado: verificacao/Etapa 1N/site_selecionado.md
               - Verificação dos Sites Avaliados: verificacao/Etapa 1N/sites_avaliados.md
         - Etapa 4:
+
+              - Planejamento da Avaliação da Análise de Tarefas: verificacao/Etapa 4N/Ava-Analise-Tarefa.md
+              - Planejamento da Avaliação do StoryBoard: verificacao/Etapa 4N/Ava-StoryBoard.md
+              - Planejamento dos Resultados da Avaliação da Análise de Tarefas: verificacao/Etapa 4N/Relato-Analise-Tarefas.md
               - Verificação do Planejamento do Relato dos Resultados do Storyboard: verificacao/Etapa 4N/plan_relato_story.md
+
         - Etapa 5:
               - Verificação do relato dos resultados do storyboard: verificacao/Etapa 5N/relato-story.md
               - Verificação do relato dos resultados da analise de tarefas: verificacao/Etapa 5N/relato-tarefa.md
