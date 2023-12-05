@@ -141,5 +141,6 @@ Atualizar o GitPages| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago 
 | 1.7 |08/11/2023 | Adicionando Ponto de Controle 5 | Jefferson e Tiago | Oscar |
 | 1.8 |15/11/2023 | Adicionando Ponto de Controle 6.1 | Jefferson e Tiago | Oscar |
 | 1.9 |28/11/2023 | Adicionando Ponto de Controle 8| Jefferson | Oscar |
+| 2.0 |04/12/2023 | Adicionando Ponto de Controle 6.2| Rodrigo | Oscar |
 
 </center>
