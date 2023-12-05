@@ -1,7 +1,7 @@
-# Verificação do artefato de guia de estilo
+# Verificação do artefato de relato dos resultados do protótipo de alta fidelidade
 
 ## Introdução 
-<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do artefato de relato dos resultados do protótipo de papel produzido pelo grupo 06 (nosso grupo), que tem seu projeto voltado para a Caesb.</p>
+<p align="justify">&emsp;&emsp;Nessa página será relatado os resultados da verificação do artefato de relato dos resultados do protótipo de alta fidelidade produzido pelo grupo 06 (nosso grupo), que tem seu projeto voltado para a Caesb.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Para essa verificação serão utilizadas as perguntas definidas no documento de planejamento dessa etapa, sendo 6 das perguntas referentes a padronização e as outras referentes ao que se espera do conteúdo desse artefato. Abaixo, na tabela 1, serão retomadas as perguntas com base na verificação:</p>
