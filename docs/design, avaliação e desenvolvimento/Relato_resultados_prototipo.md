@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-<p align="justify">&emsp;&emsp;O relato dos resultados é uma maneira de detalhar a análise realizada durante uma atividade específica. Esse artefato tem como finalidade documentar os resultados da avaliação do protótipo de papel.</p>
+<p align="justify">&emsp;&emsp;O relato dos resultados é uma maneira de detalhar a análise realizada durante uma atividade específica. Esse artefato tem como finalidade documentar os resultados da avaliação do protótipo de papel. Como mencionado anteriormente no planejamento serão avaliados sete usuários, o que está dentro da quantidade determinada por Dumas e Redish (1999).</p>
 
 ##  Objetivo
 <p align="justify">&emsp;&emsp;A avaliação buscou analisar a experiência de usuários reais para ajustar os fluxos e ações. A organização da página, disposição das tarefas disponíveis no site, foram analisados mesmo sem um protótipo detalhado. Os objetivos incluem identificar problemas na interação e na interface, simular interações e fluxos de usuário e identificar problemas de usabilidade no caminho  dos fluxos das tarefas.</p>
@@ -15,7 +15,6 @@ Para verificar se os objetivos da análise foram alcançados, as perguntas abaix
 | O usuário, através da simulação via protótipo papel, consegue operar o sistema? |  |
 | Que parte da interface e da interação o deixa insatisfeito? |  |
 | Ele entende o que significa e para que serve cada elemento de interface? |  |
-
 
 ### Funcionalidade de informar vazamento
 
@@ -266,6 +265,13 @@ Video 5 - Entrevista 5
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro Almeida</a>, 2023</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 6: Cronograma da entrevista</p></font>
+
+| Entrevistador |    Entrevistado    |      Data       | 
+|  Leandro de Almeida  |  Edilberto Cantuária | 22/11/2023 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro Almeida</a>, 2023</p></font>
+
 </center>
 
 #### Interpretação e Análise dos Dados
@@ -295,7 +301,7 @@ Video 5 - Entrevista 5
 O usuário selecionado tem 23 anos, reside em Brasília e faz uso frequente do site da Caesb, indicando que ele se encaixa no perfil de usuário estabelecido neste projeto.</p>
 
 #### Sumário dos dados coletados
-<font size="3"><p style="text-align: center">Tabela 6: Roteiro de Perguntas</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Roteiro de Perguntas</p></font>
 
 <center>
 
@@ -339,15 +345,6 @@ Foi sugerido que o download não ocorresse automaticamente, ou, caso ocorresse, 
 <p align="justify">&emsp;&emsp; 
 O download não ocorrer automaticamente sem aviso prévio.</p>
 
-
-
-
-
-
-
-
-
-
 ### Consultar Qualidade da Água
 
 #### Metodologia
@@ -360,7 +357,7 @@ O indivíduo em questão possui 23 anos, vive em Brasília e utiliza regularment
 </p>
 
 #### Sumário dos dados coletados
-<font size="3"><p style="text-align: center">Tabela 7: Roteiro de Perguntas</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Roteiro de Perguntas</p></font>
 
 <center>
 
@@ -404,6 +401,10 @@ O usuário percebeu que a interface está muito bem organizada para facilitar a 
 <p align="justify">&emsp;&emsp; 
 Diversas alternativas estão disponíveis no submenu relacionado à água.</p>
 
+## Reprojeto
+
+<p align="justify">&emsp;&emsp; Não será necessário realizar o reprojeto pois todas as entrevistas obtiveram sucesso na coleta dos dados necesseráios para avançar esta etapa.</p> 
+
 ## Bibliografia
 
 > <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
@@ -423,5 +424,6 @@ Diversas alternativas estão disponíveis no submenu relacionado à água.</p>
 |  7.0   | 22/11/2023 | Adicionando situação de débito | Oscar | Pedro |
 |  8.0 | 22/11/2023 | Adicionando consultar qualidade de água | Mateus | Rodrigo |
 |  8.1 | 22/11/2023 | Correções pontuais| Mateus | Rodrigo |
+|  9.0 | 04/12/2023 | Correção apoś verificação | Leandro | Pedro |
 
 </center>

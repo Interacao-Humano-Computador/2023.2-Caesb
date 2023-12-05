@@ -81,8 +81,30 @@ Video 1 - Avaliação
 <p align="justify">&emsp;&emsp;As sugestões para os problemas encontrados são:</p>
 - Acrescentar descrição das ferramentas, para melhor entendimento do uso delas.
 
+## Vídeo da Correção 
+
+<center>
+
+Video 2 - Correção
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ArTjWkVAPQ8?si=SiLNCxDwiIzR2Zgy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 2:  Cronograma da correção</p> </font>
+
+| Verificação | Correção | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+|Leandro de Almeida | Pedro Muniz |  03/12/2023 | 19:32 até 19:42 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
+</center>
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 02/12/2023 | Verificação do artefato de ferramentas| Leandro e Oscar | Tiago |
+|  2.0   | 04/12/2023 | Correção do artefato de ferramentas| Pedro | Leandro |
+
