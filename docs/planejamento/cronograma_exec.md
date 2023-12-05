@@ -98,7 +98,7 @@
 | Verificação e Relato artefatos etapa 8 |  Jefferson e Tiago | Mateus | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
 |Atualizar o GitPages  | Leandro, Oscar, Jefferson, Tiago, Rodrigo e Mate | Oscar | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
 |Gravação e edição da apresentação  | Pedro de Muniz | Equipe | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
-| Revisao cronograma  | Jefferson e Tiago | Rodrigo | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Revisao cronograma  | Rodrigo | Rodrigo | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
 
 ### Ponto de controle 7 - Relato dos resultados e desenvolvimento do protótipo de papel
 
