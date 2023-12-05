@@ -19,7 +19,7 @@
  Além disso deverá ser explicado se esses objetivos foram atingidos ou não após a avaliação.
 
 ### Método de avaliação
-<p align="justify">&emsp;&emsp;Aqui o avaliador deverá explicar o método utilizado para essa avaliação, que nesse projeto ficou definido como teste de usabilidade, para avaliar a usabilidade do sistema  a partir de experiências de uso dos seus usuários-alvo, utilizando o método da investigação por meio de entrevistas e observaçoes presenciais da interação dos entrevistados com o protótipo de alta fidelidade. Aqui também deverá ser explicitado os detalhes do ambiente e das ferramentas que foram utilizadas durante a entrevista. Abaixo, na tabela 1, está definido um cronograma preliminar para a realização das entrevistas:</p>
+<p align="justify">&emsp;&emsp;Aqui o avaliador deverá explicar o método utilizado para essa avaliação, que nesse projeto ficou definido como teste de usabilidade, para avaliar a usabilidade do sistema  a partir de experiências de uso dos seus usuários-alvo, utilizando o método da investigação por meio de entrevistas e observaçoes presenciais da interação dos entrevistados com o protótipo de alta fidelidade, para isso serão entrevistados 7 usuários, o que se enquadra na recomendação de Dumas e Redish. Aqui também deverá ser explicitado os detalhes do ambiente e das ferramentas que foram utilizadas durante a entrevista. Abaixo, na tabela 1, está definido um cronograma preliminar para a realização das entrevistas:</p>
 
 <center>
 
@@ -29,9 +29,11 @@
 | Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
 | ------------- | ------- | ---------- | ----------- | ------------------ |
 | Jeferson  | Emanuel  | 25/11 | 15:00-15:20 | Residência do usuário |
-| Tiago |     |  |  |  |
+| Tiago |   Juan  |  28/11 | 13:20-13:25 | Faculdade do Gama - FGA |
+| Rodrigo |   José  |  28/11 | 13:10-13:15 | Faculdade do Gama - FGA |
 | Leandro | Danilo | 25/11  | 15:00-15:20 | Residência do usuário |
-| Oscar |  |  |  |  |
+| Mateus | Gabriel | 27/11  | 18:30-18:50 | Residência do usuário |
+| Oscar | Carolina |   27/11 | 15:50-16:00| Faculdade do Gama - FGA |
 | Pedro | Gerson | 26/11 | 16:30 - 16:40 | Residência do usuário |
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 06. 2023</p></font>
@@ -54,7 +56,7 @@
 <p align="justify">&emsp;&emsp;Nesse tópico deverão ser evidenciados todos os feedbacks que os usuários que participaram da entrevista fornecerem, evidenciando opiniões e sugestões obtidas durante a avaliação. Esses feedbacks devem ser levados em conta mas avaliados com base nas metas de usabilidade, contexto, e experiência do usuário em questão, garantindo que esse feedback contribua positivamente para o projeto.</p>
 
 ### Planejamento de reprojeto
-<p align="justify">&emsp;&emsp;Por fim, nesse último tópico caso os resultados não estejam de acordo e sejam identificadas mudanças necessárias no artefato deverá ser realizado um reprojeto, mantendo a base do projeto e atendendo às novas especificações necessárias para garantir a correta execução da avaliação, abaixo está definido um cronograma preliminar de reprojeto:</p>
+<p align="justify">&emsp;&emsp;Por fim, nesse último tópico caso os resultados não estejam de acordo e sejam identificadas mudanças necessárias no artefato deverá ser realizado um reprojeto, mantendo a base do projeto e atendendo às novas especificações necessárias para garantir a correta execução da avaliação, abaixo, na tabela 2, está definido um cronograma preliminar de reprojeto:</p>
 
 <center>
 
@@ -87,5 +89,6 @@
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 21/11/2023 | Adicionando planejamento do relato dos resultados do protótipo de alta fidelidade | Pedro Henrique e Rodrigo Fonseca | Leandro |
+| 2.0    | 05/12/2023 | Realizando correções com base na verificação | Pedro Henrique | Leandro |
 
 </center>

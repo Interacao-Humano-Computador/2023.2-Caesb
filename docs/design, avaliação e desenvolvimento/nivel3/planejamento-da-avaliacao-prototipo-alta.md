@@ -41,7 +41,7 @@
  - Verificar a conformidade com um padrão
  - comparar ideias e alternativas de design
 
-<p align="justify">&emsp;&emsp; As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)<a id="anchor_1" href="#REF1">1</a>  as perguntas selecionadas foram as seguintes:</p>
+<p align="justify">&emsp;&emsp; As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)<a id="anchor_1" href="#REF1">1</a> e com base no perfil de usuário definido do projeto e as metas de usabilidade esperadas, as perguntas selecionadas foram as seguintes:</p>
 
 
 <b>Objetivo: Identificar problemas na interação e Interface</b>
@@ -95,7 +95,7 @@ Os participantes foram definidos com base no Perfil de Usuário.
 
 ### Prazos
 
-<p align="justify"> Em relação aos prazos, a tabela 2 apresenta um cronograma da realização de cada entrevista com o entrevistador responsável, o participante, a data, hora e local.</p>
+<p align="justify"> Em relação aos prazos, a tabela 2 apresenta um cronograma da realização de cada entrevista com o entrevistador responsável, o participante, a data, hora e local. Esse cronograma planejado está dentro do prazo máximo para a realização dessa etapa, uma vez que essas deverão ser realizadas até dia 29 de novembro.</p>
 
 <center>
 
@@ -104,15 +104,25 @@ Os participantes foram definidos com base no Perfil de Usuário.
 | Entrevistadores | Usuário | Data       | Início-Fim  | Local              |
 | ------------- | ------- | ---------- | ----------- | ------------------ |
 | Jeferson  | Emanuel  | 25/11 | 15:00-15:20 | Residência do usuário |
-| Tiago |     |  |  |  |
-| Leandro |      |  |  |  |
-| Oscar |  |  |  |  |
+| Tiago |   Juan  |  28/11 | 13:20-13:25 | Faculdade do Gama - FGA |
+| Rodrigo |   José  |  28/11 | 13:10-13:15 | Faculdade do Gama - FGA |
+| Leandro | Danilo | 25/11  | 15:00-15:20 | Residência do usuário |
+| Mateus | Gabriel | 27/11  | 18:30-18:50 | Residência do usuário |
+| Oscar | Carolina |   27/11 | 15:50-16:00| Faculdade do Gama - FGA |
+| Pedro | Gerson | 26/11 | 17:30-17:40| Residência do usuário|
+
 
 <font size="3"><p style="text-align: center">Fonte: [Jefferson Sena](https://github.com/JeffersonSenaa) e [Tiago Albuquerque](https://github.com/Tiago1604).</p></font>
 
 </center>
 
 <a id="met4"></a>
+
+### Ferramentas
+<p align="justify">&emsp;&emsp;Para a realização da entrevista, será utilizado um notebook com câmera e acesso à internet, para que o usuário utilize o protótipo de alta fidelidade e seja possível registrar suas expressões durante a interação com o protótipo. Além disso, será utilizado um script com o roteiro das perguntas a serem realizadas, e por fim uma segunda câmera, para registrar a gravação mais ampla, incluindo o entrevistador e o entrevistado, durante a realização das perguntas.</p>
+
+### Mão de obra
+<p align="justify">&emsp;&emsp;Para a realização da entrevista é esperado uma mão de obra de 3 membros do grupo, com um deles agindo como o entrevistador, o segundo realizando a gravação da entrevista e por fim o último registrando suas percepções durante a entrevista e as respostas do usuário para cada pergunta.</p>
 
 ### Roteiro de Perguntas
 <p align="justify">&emsp;&emsp; Na entrevista, estará disponível ao usuário o fluxo da tarefa para orientação. Dentre as perguntas a serem analisadas, a tabela 3 apresenta as perguntas que serão feitas ao participante ao final da entrevista e a tabela 4 as perguntas para guiar os avaliadores em relação aos principais pontos da análise.</p>
@@ -204,3 +214,4 @@ Os participantes foram definidos com base no Perfil de Usuário.
 | Versão | Data       | Descrição                                                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | 1.0  | 22/11/2023 | Adicionando página  | Jefferson Sena e Tiago Albuquerque | Rodrigo   |
+| 2.0  | 05/12/2023 | Realizando correções com base na verificação | Pedro Henrique | Jefferson |
