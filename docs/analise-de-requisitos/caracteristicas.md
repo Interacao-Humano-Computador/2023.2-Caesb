@@ -13,7 +13,7 @@ Neste documento, estão destacadas as características essenciais da plataforma,
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Neste artefato, empregamos a metodologia de Observação, na qual o avaliador coleta informações por meio da observação direta de um site ou documento específico. Essa abordagem metodológica foi descrita no décimo segundo capítulo do livro "Interação Humano-Computador", escrito pela autora Simone Barbosa. </p>
+<p align="justify">&emsp;&emsp;Neste artefato, empregamos a metodologia de inspeção, na qual o avaliador coleta informações por meio da inspeção direta de um site ou documento específico. Essa abordagem metodológica foi descrita no décimo segundo capítulo do livro "Interação Humano-Computador", escrito pela autora Simone Barbosa. </p>
 
 ## Características gerais da plataforma
 <p align="justify">&emsp;&emsp;O site da CAESB é um sistema que permite aos seus usuários realizar tarefas relacionadas a fornecimento de água mais facilmente. Espera-se que ele possa ser acessado pelos navegadores mais modernos  e populares atualmente como Chrome, Firefox, Microsoft Edge, Opera, Safari entre outros. E as principais funcionalidades do site se encontram no portal de serviços, sendo elas: </p>

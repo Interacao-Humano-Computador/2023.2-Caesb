@@ -78,25 +78,7 @@ Video 1 - Entrevista 1
 
 </center>
 
-## Vídeo de Relato da Verificação ao Autor
 
-<center>
-
-Video 2 - Entrevista 2
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IqlrEfGMMJE?si=TtE9FmtxikY9HNYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
-
-<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
-
-| Autor | Verificação | Data| Horário de início e fim | 
-|:---------:|:---------:|:-------:|:-------:|
-|Rodrigo | Jefferson |  03/12/2023 | 18:32 até 18:41 | 
-
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
-
-</center>
 
 
 ## Problemas Encontrados
@@ -124,8 +106,25 @@ Video 2 - Entrevista 2
 
   - No item <b>número 12</b>, é necessário definir faixa de valores que determinam se em cada meta de usabilidade o sistema possui uma faixa aceitável e ideal para cada indicador.
 
+## Vídeo de Relato da Verificação ao Autor
 
-## Gravação
+<center>
+
+Video 2 - Entrevista 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IqlrEfGMMJE?si=TtE9FmtxikY9HNYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da entrevista</p> </font>
+
+| Autor | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+|Rodrigo | Jefferson |  03/12/2023 | 18:32 até 18:41 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+</center>
 
 
 ## Histórico de versões

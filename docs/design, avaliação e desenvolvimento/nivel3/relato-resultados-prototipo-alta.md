@@ -1,7 +1,7 @@
 # Relato dos resultados da avaliação do protótipo de alta fidelidade
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Com a realização da avaliação do protótipo de alta fidelidade faz-se necessário a criação do artefato com a finalidade de relatar os resultados dessa avaliação, conforme o planejado, tanto nos artefatos de planejamento da avaliação quanto no planejamento do relato dos resultados. Por isso, esse documento tem por finalidade o relato dos resultados da avaliação do protótipo de alta fidelidade, passando pelos pontos importantes descritos nos planjemanentos e relatandos e analisando os dados coletados durante essa avaliação.</p>
+<p align="justify">&emsp;&emsp;Com a realização da avaliação do protótipo de alta fidelidade faz-se necessário a criação do artefato com a finalidade de relatar os resultados dessa avaliação, conforme o planejado, tanto nos artefatos de planejamento da avaliação quanto no planejamento do relato dos resultados. Por isso, esse documento tem por finalidade o relato dos resultados da avaliação do protótipo de alta fidelidade, passando pelos pontos importantes descritos nos planejamentos e relatando e analisando os dados coletados durante essa avaliação.</p>
 
 ## Objetivos 
 <p align="justify">&emsp;&emsp;Alinhado com o planejamento realizado, essa avaliação tem por objetivo, através de interações dos usuários reais do site da Caesb com o protótipo de alta fidelidade elaborado, obter opiniões e feedbacks dos entrevistados sobre a usabilidade e a interface proposta nesse protótipo. Além disso, com a realização das entrevistas esse projeto tem como objetivos efetivamente identificar problemas na interação e Interface, verificar a conformidade com um padrão e comparar ideias e alternativas de design, e baseado nisso, abaixo estão retomadas as perguntas elaboradas no planejamento para verificar se esses objetivos foram atingidos:</p>
@@ -92,7 +92,7 @@ Protótipo 7: Consultar Qualidade da Água
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAjtXbnAj6BFpbeuyNfDGoI%2FPrototipo-de-alta-IHC-(Copy)%3Ftype%3Ddesign%26node-id%3D1-2%26t%3D2t1WpGB4amL3g2qN-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: Mateus Levy <a href="https://github.com/mateus9levy" target="_blank"></a>, 2023</p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy </a>, 2023</p></font>
 
 
 </center>
@@ -118,6 +118,7 @@ Protótipo 7: Consultar Qualidade da Água
 | 4º | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |Não |Não | Não | Não | Não | Não |  
 | 5º |  Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |Não | Não |Não | Não | Não | Não |  
 
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
 
 </center>
 
@@ -127,19 +128,19 @@ Video 1 - Entrevista 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0T_7xJ42XF0?si=Ls1grqHruVd_RNna" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank"></a>Jefferson, 2023</p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank"> Jefferson</a>, 2023</p></font>
 
  Video 2 - Entrevista 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8uwGxJrrrq4?si=likSpE45BNKoCFcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank"></a>Tiago Albuquerque, 2023</p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
 
  Video 3 - Entrevista 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwvqOtca3c0?si=YBvDDlf5Z7rRd8IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- <font size="3"><p style="text-align: center"> Fonte: Rodrigo Fonseca, 2023<a href="https://github.com/rodfon3301" target="_blank"></a> </p></font>
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank"> Rodrigo Fonseca</a>, 2023 </p></font>
 
  Video 4 - Entrevista 4
 
@@ -159,9 +160,10 @@ Video 1 - Entrevista 1
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
 
- Video 7 - Entrevista 7
+ <!--Video 7 - Entrevista 7
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hLsRvPw2xI9?si=ZKcQaJ3yF8mMg7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hLsRvPw2xI9?si=ZKcQaJ3yF8mMg7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
 </center>
 
 ## Consultar Contas Pagas
@@ -379,7 +381,7 @@ Video 1 - Entrevista 1
 
 - **Foi observado alguma sugestão de melhoria para o protótipo proposto?**
 
-<p align="justify">&emsp;&emsp; Foi recomenddado reforçar a consistência na terminologia usada em diferentes partes da interface. Isso contribuirá para uma compreensão mais fácil e rápida por parte dos usuários, especialmente ao navegar por diferentes seções do sistema.   </p>
+<p align="justify">&emsp;&emsp; Foi recomendado reforçar a consistência na terminologia usada em diferentes partes da interface. Isso contribuirá para uma compreensão mais fácil e rápida por parte dos usuários, especialmente ao navegar por diferentes seções do sistema.   </p>
 
 - **Foi possível identificar ideias principais de design?**
 <p align="justify">&emsp;&emsp; Sim, os usuários avaliaram positivamente a concepção apresentada no protótipo de alta fidelidade, embora ainda seja necessário realizar alguns ajustes.  </p>
@@ -428,8 +430,5 @@ Video 1 - Entrevista 1
 | 1.6 | 28/11/2023 | Inserindo Entrevista 5 e Informar Vazamento  | Pedro | Leandro |
 | 1.7  | 28/11/2023 | Inserindo Entrevista 6 e Consular Débitos | Oscar | Pedro |
 | 1.8  | 28/11/2023 | Corrigindo Datas | Leandro | Oscar |
-
-
-
 
 </center>

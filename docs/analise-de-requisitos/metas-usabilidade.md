@@ -5,10 +5,10 @@
 <p align="justify">&emsp;&emsp;O propósito deste documento é identificar e descrever as características da plataforma com base nas metas de usabilidade. Essas metas de usabilidade têm o intuito de oferecer ao designer de interação um método de avaliação dos aspectos da experiência do usuário em relação a um produto interativo.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Para identificar as  características da plataforma e analisar as metas de usabilidade do site da CAESB, será percorrido o site a partir da perspectiva das características levantadas no perfil de usuário, dessa forma se analisando os aspectos de eficácia, eficiência, segurança, utilidade, aprendizado e memorização.</p>
+<p align="justify">&emsp;&emsp;Para identificar as  características da plataforma e analisar as metas de usabilidade do site da CAESB, será utilizado a metodologia de inspeção onde será percorrido o site a partir da perspectiva das características levantadas no perfil de usuário, dessa forma será analisado os aspectos de eficácia, eficiência, segurança, utilidade, aprendizado e memorização.</p>
 <p align="justify">&emsp;&emsp;A escolha da metodologia que incorpora as metas de usabilidade definidas por Jakob Nielsen é fundamental na criação de produtos e sistemas interativos. Essas metas representam diretrizes essenciais para o desenvolvimento, pois colocam o foco na experiência do usuário. No geral, a adoção dessas metas de usabilidade resulta em produtos mais eficazes, eficientes e seguros, proporcionando uma experiência mais satisfatória para os usuários. </p>
 
-## Definição da Metas de Usabilidade:
+## Definição das Metas de Usabilidade:
 ### **1. Eficácia:**
 <p align="justify">&emsp;&emsp;Uma regra geral que visa avaliar o desempenho de um sistema em relação à sua capacidade de atender às expectativas dos usuários, permitindo que eles aprendam facilmente a usá-lo, realizem suas tarefas de forma eficaz, acessem as informações que precisam e executem outros serviços de maneira satisfatória. O sistema deve fazer o que se espera dele.</p>
 
@@ -42,7 +42,7 @@
 ### 2. Eficiência:
 
  - **Pergunta:** Os usuários podem realizar tarefas no site da CAESB de forma rápida e eficiente, ou há muitos obstáculos e etapas demoradas no processo?
- - **No sistema:** No quesito eficiência, o site da CAESB tem alguns obstaculos para chegar no resultado final, podendo atrasar o usuario. Como a ausência de algumas opções na tela inicial do site,por exemplo a opção de login. Por isso Então o site da CAESB não cumpre a meta de eficiência.
+ - **No sistema:** No quesito eficiência, o site da CAESB tem alguns obstaculos para chegar no resultado final, podendo atrasar o usuario. Como a ausência de algumas opções na tela inicial do site,por exemplo a opção de login. Por isso então o site da CAESB não cumpre a meta de eficiência.
 
 ### 3. Segurança:
 
@@ -62,10 +62,10 @@
 
 ### 5. Aprendizagem
 - **Pergunta:** Os usuários conseguem aprender a utilizar o sistema facilmente, de forma rápida e intuitiva? 
-- **No sistema:** Aprender a utilizar o site e relativamente simples, porém apresenta algumas dificuldades para pessoas que não estão tão familiarizadas com o uso da internet, alguns pontos como ausência de possibilidade de login na tela inicial, e um excesso de informações também nessa mesma tela podem levar alguns usuários a se sentirem desmotivados e terem dificuldades de aprender a utilizar o sistema. Logo, o site da CAESB atende parcialmente o aspecto da aprendizagem, tendo a possibilidade de melhorias em alguns pontos para facilitar a utilização de todos os usuários.
+- **No sistema:** Aprender a utilizar o site é relativamente simples, porém apresenta algumas dificuldades para pessoas que não estão tão familiarizadas com o uso da internet, alguns pontos como ausência de possibilidade de login na tela inicial, e um excesso de informações também nessa mesma tela podem levar alguns usuários a se sentirem desmotivados e terem dificuldades de aprender a utilizar o sistema. Logo, o site da CAESB atende parcialmente o aspecto da aprendizagem, tendo a possibilidade de melhorias em alguns pontos para facilitar a utilização de todos os usuários.
 
 ### 6. Memorização
-- **Pergunta:** O sistema permite que os usuários se recordem de como realizar atividades mesmo apos um periodo sem utilizar o site?
+- **Pergunta:** O sistema permite que os usuários se recordem de como realizar atividades mesmo após um periodo sem utilizar o site?
 - **No sistema:** A utilização do sistema de fácil memorização, ou seja, após aprender a utilizar o sistema e se realizar as tarefas que se deseja, fica fácil mesmo após um período de inatividade recuperar os conhecimentos que se tinha antes sobre o site e lembrar o caminho para realizar as tarefas.
 
 
