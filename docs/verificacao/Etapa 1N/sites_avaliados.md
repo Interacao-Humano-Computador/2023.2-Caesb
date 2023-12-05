@@ -56,6 +56,26 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
 
+## Vídeo da Correção 
+
+<center>
+
+Video 1 - Correção 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8X2mH5_oRXg?si=U5E2Yr0DdubHjIp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da correção</p> </font>
+
+| Verificação | Correção | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+| Tiago Albuquerque | Oscar |  04/12/2023 | 14:00 até 14:15 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
+</center>
+
 ## Problemas encontrados
 ### Número 2 - O artefato define a metodologia que será utilizada? 
 <p align="justify">&emsp;&emsp;O artefato não apresenta um subtópico de "metologia" onde especifica como se dá a criação do artefato. </p>

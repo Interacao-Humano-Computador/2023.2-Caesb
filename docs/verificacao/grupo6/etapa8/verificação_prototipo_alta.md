@@ -58,6 +58,28 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> e <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena, 2023</a> </p> </font>
 
+## Vídeo da Verificação
+
+
+<center>
+
+Video 1 - Avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aByShviKFg?si=onrDP3rgCiqxYaMh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023 e <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da verificação</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+| Jefferson Sena| Tiago Albuquerque |  03/12/2023 | 14:00 até 14:15 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023 e <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
+
+</center>
+
+
 ## Problemas encontrados
 
 
