@@ -84,6 +84,22 @@
 |Gravação e edição da apresentação  | Leandro e Oscar | Equipe |15/11 | 08/11 - 11/11 | 15/11 |
 | Revisao cronograma  | Jefferson e Tiago | Rodrigo | 15/11 | 08/11 - 11/11 | 15/11 |
 
+
+### Ponto de controle 6.2 - Correção e verificação dos artefatos
+
+| Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
+| :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
+|Correção dos artefatos Ponto de Controle 1 |   Oscar e Leandro| Jefferson | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Verificação e Relato artefatos etapa 2 | Mateus Levy |Jefferson | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Verificação e Relato artefatos etapa 3 |  Jeffeson e Tiago | Mateus Levy | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Verificação e Relato artefatos etapa 4 |  Rodrigo | Mateus | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Verificação e Relato artefatos etapa 5 |  Leandro | Pedro Muniz | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Verificação e Relato artefatos etapa 7 |  Pedro Muniz  | Oscar| 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Verificação e Relato artefatos etapa 8 |  Jefferson e Tiago | Mateus | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+|Atualizar o GitPages  | Leandro, Oscar, Jefferson, Tiago, Rodrigo e Mate | Oscar | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+|Gravação e edição da apresentação  | Pedro de Muniz | Equipe | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+| Revisao cronograma  | Jefferson e Tiago | Rodrigo | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
+
 ### Ponto de controle 7 - Relato dos resultados e desenvolvimento do protótipo de papel
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
@@ -104,6 +120,7 @@
 Atualizar o GitPages| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Oscar | 28/11 | 23/11 - 26/11 |  28/11 | 
 | Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 28/11 |  27/11 - 27/11 |  28/11 |
 | Revisão cronograma | Jefferson | Pedro Muniz | 28/11 | 28/11 - 28/11 | 28/11 |
+
 
 ## Referências
 
