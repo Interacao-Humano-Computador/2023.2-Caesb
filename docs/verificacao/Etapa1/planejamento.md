@@ -188,7 +188,7 @@
 
 ## Bibliografia
 
-> De Melo, Arthur. Planejamento da verificação da etapa 1. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/> 
+> De Melo, Arthur. Planejamento da verificação da etapa 1. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/
 
 > ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>. Acesso em: 30 maio 2023.
 
