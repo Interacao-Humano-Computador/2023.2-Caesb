@@ -61,7 +61,7 @@ Video 1 - Avaliação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vL-yI5OIuec?si=DqX3-HolqMZGYoOl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Rodrigo Fonseca</a>, 2023</p> </font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Pedro Henrique</a>, 2023</p> </font>
 
 <font size="3"><p style="text-align: center"> Tabela 3:  Cronograma da verificação</p> </font>
 
@@ -73,7 +73,6 @@ Video 1 - Avaliação
 
 </center>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 
 ## Problemas encontrados
