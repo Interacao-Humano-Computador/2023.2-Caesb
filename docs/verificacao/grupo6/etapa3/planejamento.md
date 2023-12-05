@@ -1,22 +1,22 @@
-# Planejamento da verificação da etapa 3 do grupo 07
+# Planejamento da verificação da etapa 3
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Nessa etapa do projeto será feita a verificação dos artefatos do grupo 07, essa é uma etapa muito importante uma vez que por meio dela será possível aprender a realizar uma verificação e além disso fornecer um feedback para outro grupo acerca de seus artefatos produzidos até aqui. Para tanto esse documento tem como objetivo apresentar o planejamento de como será feito essa verificação, passando pelas etapas de metologia utilizada, os participantes da análise, os artefatos alvo da verificação, o cronograma e por fim os checklists que serão utilizados para cada artefato.</p> 
+<p align="justify">&emsp;&emsp;Nessa etapa do projeto será realizada a verificação dos artefatos que o grupo produziu, essa é uma etapa muito importante uma vez que por meio dela será possível realizar uma verificação do conteúdo desenvolvido, além de encontrar pontos de correção. Para tanto esse documento tem como objetivo apresentar o planejamento de como será feito essa verificação, passando pelas etapas de metologia utilizada, os participantes da análise, os artefatos alvo da verificação, o cronograma e por fim os checklists que serão utilizados para cada artefato.</p> 
 
 ## Metodologia 
 <p align="justify">&emsp;&emsp;Para esta verificação, foi escolhido o método de inspeção, que é um tipo específico de revisão desenvolvido por Fagan (1976). Inicialmente concebido para análise de código, esse método pode ser aplicado a outros artefatos. Na revisão, examinadores analisam produtos ou processos para garantir que estejam corretos, utilizando listas de verificação para certificar-se de que tudo está de acordo com os padrões.</p>
 
 
 ### Participantes
-<p align="justify">&emsp;&emsp;Os integrantes responsáveis pela verificação desta etapa foram <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, encarregados de realizar o planejamento, a inspeção, o relato dos resultados e a correção.</p>
+<p align="justify">&emsp;&emsp;Os integrantes responsáveis pela verificação desta etapa foram <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, encarregados de realizar o planejamento, a inspeção e o relato dos resultados.</p>
 
 ### Artefatos que serão verificados
 <p align="justify">&emsp;&emsp;Os artefatos objetos de avaliação por meio dessa verificação serão os seguintes artefatos do grupo 07:</p>
 
-- Princípios gerais do projeto até a versão 1.2, da data de 23/10/2023, autorado por <a href="https://github.com/PabloGJBS" target="_blanck">Pablo Guilherme</a>.
-- Metas de usabilidade até a versão 1.1, da data de 21/10/2023, autorado por <a href="https://github.com/luanatorress" target="_blanck">Luana Torres</a> e <a href="https://github.com/esteerlino" target="_blanck">Ester Lino</a>.
-- Definição do guia de estilo até a versão 1.2, da data de 22/10/2023, autorado por <a href="https://github.com/henriqtorresl" target="_blanck">Henrique Torres</a>, <a href="https://github.com/suzaneduarte" target="_blanck">Suzane Duarte</a> e <a href="https://github.com/PabloGJBS" target="_blanck">Pablo Guilherme</a> .
-- Características da Plataforma até a versão 1.0, da data de 21/10/2023, autorado por <a href="https://github.com/esteerlino" target="_blanck">Ester Lino</a> e <a href="https://github.com/luanatorress " target="_blanck">Luana Torres</a>.
+- Princípios gerais do projeto até a versão 1.1, da data de 22/10/2023, autorado por <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>.
+- Metas de usabilidade até a versão 1.1, da data de 20/10/2023, autorado por <a href="https://github.com/Muniz2811" target="_blanck">Pedro</a> e <a href="https://github.com/rodfon3301" target="_blanck">Rodrigo</a>.
+- Definição do guia de estilo até a versão 1.1, da data de 21/10/2023, autorado por <a href="https://github.com/leomitx10" target="_blanck">Leandro</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar</a>.
+- Características da Plataforma até a versão 1.2, da data de 20/10/2023, autorado por <a href="https://github.com/mateus9levy" target="_blanck">Mateus</a> e <a href="https://github.com/Muniz2811 " target="_blanck">Pedro</a>.
 
 
 
@@ -28,20 +28,20 @@
 <center>
 
 | Data | Artefato analisado | Responsável |
-| :--: | :----------------: | :---------: |
-| 12/11/2023 | Verificação dos Princípios Gerais | <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> |  
-| 12/11/2023 | Verificação das Metas de Usabilidade | <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> |
-| 12/11/2023 | Verificação das Características gerais | <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a> | 
-| 12/11/2023 | Verificação do Guia de Estilo | <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>  |
+| :--: | :----------------: | :---------: |  
+| 03/12/2023 | Verificação dos Princípios Gerais | ---------- |
+| 03/12/2023 | Verificação das Metas de Usabilidade | <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> |
+| 03/12/2023 | Verificação das Características gerais | <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> | 
+| 03/12/2023 | Verificação do Guia de Estilo | <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>  |
 
 
 </center>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Jefferson Sena, 2023</a> </p> </font>
 
 
 ## Checklist 
-<p align="justify">&emsp;&emsp;Abaixo ficará definido os checklists que levantam questões de padronização e de conteúdo feito para verificar a qualidade dos artefatos produzidos pelo grupo 07, o primeiro checklist abordará as questões de padronização e formatação, por isso estão presentes antes de todos os outros checklists de conteúdo. Após isso será definido separadamente um checklist para cada artefato a ser verificado, passando por pontos do conteúdo que se espera em cada um deles.</p>
+<p align="justify">&emsp;&emsp;Abaixo ficará definido os checklists que levantam questões de padronização e de conteúdo feito para verificar a qualidade dos artefatos produzidos pelos membros responsáveis, o primeiro checklist abordará as questões de padronização e formatação, por isso estão presentes antes de todos os outros checklists de conteúdo. Após isso será definido separadamente um checklist para cada artefato a ser verificado, passando por pontos do conteúdo que se espera em cada um deles.</p>
 
 ### Checklist de padronização
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 2, será definido os critérios esperados na verificação para a padronização dos artefatos.</p>
@@ -126,9 +126,12 @@
 | 7 | O objetivo do guia de estilo foi apresentado com os elementos que serão analizados ? | | 
 | 8 | O público-alvo do guia de estilo foi definido ? | | 
 | 9 | O artefato fornece a informação de como usar o guia de estilo ? | | 
-| 10 | Os elementos de interface, interação e ação foram analisados ? | | 
-| 11 | Os resultados da análise do guia de estilo foram apresentados ? | | 
-| 12 | Há um subtópico de Vocabulários e padrões contendo terminologia, Tipos de Tela e Sequência de Diálogos do site avaliado ? | | 
+| 10 | O artefato fornece a informação de como manter o guia de estilo ? | | 
+| 11 | Os elementos de interface foram aprensentados (Disposição espacial e grid,Janelas, Tipografia, Símbolos não tipográficos, Cores, Animações) em um subtópico ? | | 
+| 12 | Os elementos de interação foram aprensentados (Estilos de interação, Seleção de um estilo, Aceleradores(teclas de atalho)) em um subtópico ? | | 
+| 13 | Os elementos de ação foram aprensentados (Preenchimento de campos, Seleção e Ativação) em um subtópico ? | | 
+| 14 | Os resultados da análise do guia de estilo foram apresentados e os objetivos foram cumpridos ? | | 
+| 15 | Há um subtópico de Vocabulários e padrões contendo terminologia, Tipos de Tela e Sequência de Diálogos do site avaliado ? | | 
 
 
 
@@ -140,7 +143,7 @@
 ### Checklist de características da plataforma
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 6, será definido os critérios esperados na verificação do artefato características da plataforma</p>
 
-<font size="3"><p style="text-align: center"> Tabela 6: Checklist da características da plataforma</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 6: Checklist da característica da plataforma</p> </font>
 
 <center>
 
@@ -170,4 +173,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 14/11/2023 | Criação do documento de planejamento da verificação da etapa 3 | Jefferson e Tiago | Mateus |
+|  1.0   | 02/12/2023 | Criação do documento de planejamento da verificação da etapa 3 | Jefferson e Tiago | Leandro |
