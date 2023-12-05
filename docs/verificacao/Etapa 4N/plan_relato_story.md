@@ -57,17 +57,6 @@
 
 <center>
 
-Video 1 - Avaliação
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vL-yI5OIuec?si=DqX3-HolqMZGYoOl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Pedro Henrique</a>, 2023</p> </font>
-
-<font size="3"><p style="text-align: center"> Tabela 3:  Cronograma da verificação</p> </font>
-
-| Checklist | Verificação | Data| Horário de início e fim | 
-|:---------:|:---------:|:-------:|:-------:|
-| Rodrigo Fonseca | Jefersson|  04/12/2023 | 19: até 19:30 | 
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Rodrigo Fonseca</a>, 2023</p> </font>
 
