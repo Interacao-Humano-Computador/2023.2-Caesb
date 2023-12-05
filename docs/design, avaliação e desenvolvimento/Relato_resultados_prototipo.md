@@ -51,7 +51,15 @@ Video 1 - Entrevista 1
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 2: Cronograma realizado da entrevista</p></font>
+
+ | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
+| Pedro Henrique  |  Lucas natanael | 18/11/2023 | 
+
 </center>
+
+
 
 #### Interpretação e análise dos dados
 <p align="justify">&emsp;&emsp;Com os dados coletados pela avaliação do protótipo de papel foi possível identificar problemas de visibilidade e usabilidade na tela inicial, com o botão da carta de serviços estando abaixo de itens com maior importância para os usuários do site, e além disso, o elemento do banner na página inicial escrito portal de serviços não possue elementos que indiquem que ele é um artefato clicável e que pode ser utilizado para acessar o portal de serviços para se utilizar alguma funcionalidade do site. E relacionando a análise dos dados com os objetivos definidos para essa avaliação serão retomadas as questões definidas no tópico de objetivos do artefato de planejamento do relato dos resultados dessa avaliação:</p>
@@ -78,7 +86,7 @@ Video 1 - Entrevista 1
 <p align="justify">&emsp;&emsp;O usuário escolhido possui o enquadramento necessário para o perfil de usuário definido nesse projeto, se encaixando na faixa etária que representa a maioria dos usuários do site da caesb, possuindo familiaridade com tecnologia e já tendo utilizado a funcionalidade.</p>
 
 #### Sumário dos dados coletados
-<font size="3"><p style="text-align: center">Tabela 2: Roteiro de Perguntas</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Roteiro de Perguntas</p></font>
 
 <center>
 
@@ -102,6 +110,13 @@ Video 2 - Entrevista 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KzgGAb5jBIE?si=-6JWkZ8n1hEApEVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jefferson Sena</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 4: Cronograma realizado da entrevista</p></font>
+
+ | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
+| Jefferson |  Emanuel | 21/11/2023 | 
+
 
 </center>
 
@@ -131,7 +146,7 @@ Video 2 - Entrevista 2
 <p align="justify">&emsp;&emsp;O usuário escolhido possui o enquadramento necessário para o perfil de usuário definido nesse projeto, se encaixando na faixa etária que representa a maioria dos usuários do site da caesb, possuindo familiaridade com tecnologia e já tendo utilizado a funcionalidade.</p>
 
 #### Sumário dos dados coletados
-<font size="3"><p style="text-align: center">Tabela 3: Roteiro de Perguntas</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Roteiro de Perguntas</p></font>
 
 <center>
 
@@ -155,6 +170,13 @@ Video 3 - Entrevista 3
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cTao6jsbfg?si=kHweU2Z5wW68cWlH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 6: Cronograma realizado da entrevista</p></font>
+
+ | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
+| Tiago |  Maria Eduarda | 21/11/2023 | 
+
 
 </center>
 
@@ -210,6 +232,12 @@ Video 4 - Entrevista 4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eGnMcy09jh4?si=9x0BTczlcElpLLk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo</a>, 2023</p></font>
+
+ <font size="3"><p style="text-align: center">Tabela 6: Cronograma realizado da entrevista</p></font>
+
+ | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
+| Rodrigo |  Sofia | 21/11/2023 | 
 
 </center>
 
@@ -268,6 +296,7 @@ Video 5 - Entrevista 5
 <font size="3"><p style="text-align: center">Tabela 6: Cronograma da entrevista</p></font>
 
 | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
 |  Leandro de Almeida  |  Edilberto Cantuária | 22/11/2023 | 
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro Almeida</a>, 2023</p></font>
@@ -326,6 +355,12 @@ Video 6 - Entrevista 6
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>, 2023</p></font>
 
+<font size="3"><p style="text-align: center">Tabela 6: Cronograma realizado da entrevista</p></font>
+
+ | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
+| Oscar |  Edilberto Cantuária | 22/11/2023 | 
+
 </center>
 
 #### Interpretação e Análise dos Dados
@@ -381,6 +416,12 @@ Video 7 - Entrevista 7
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5lscFfJCDlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 6: Cronograma realizado da entrevista</p></font>
+
+ | Entrevistador |    Entrevistado    |      Data       | 
+| :-----: | :------: | :-------: |
+| Mateus |   | 22/11/2023 | 
 
 </center>
 
