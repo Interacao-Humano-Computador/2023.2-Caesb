@@ -91,10 +91,10 @@ Video 1 - Avaliação
 <p align="justify">&emsp;&emsp;As referências não estão sendo chamadas no texto e uma das referências está errada.</p>
 
 ### Número 6 - Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? 
-<p align="justify">&emsp;&emsp;Algumas tabelas não apresentam chamadas no texto./p>
+<p align="justify">&emsp;&emsp;Algumas tabelas não apresentam chamadas no texto.</p>
 
 ### Número 10 - Os métodos GOMS englobam os quatro elementos essenciais?
-<p align="justify">&emsp;&emsp;Alguns dos GOMS's estão incompletos./p>
+<p align="justify">&emsp;&emsp;Alguns dos GOMS's estão incompletos.</p>
 
 ## Sugestões
 - Para o item <b>número 3</b> Arrumar as referências que não estao sendo chamadas no texto, e corrigir referêcia incorreta.</p>
@@ -109,6 +109,7 @@ Video 1 - Avaliação
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 04/12/2023 | Verificação GOMS | Mateus Levy | Rodrigo |
+|  1.1   | 04/12/2023 | Corrige HTML quebrado | Mateus Levy | Rodrigo |
 
 
 </center>
