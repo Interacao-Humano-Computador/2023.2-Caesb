@@ -100,6 +100,7 @@ A apresentação da entrega 6.2, pode ser vista no [YouTube](https://youtu.be/4n
 |  5.0   | 15/11/2023 | Adicionou Entrega 6.1 | Jefferson e Tiago | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  6.0   | 22/11/2023 | Adicionou Entrega 7 | Leandro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  7.0   | 28/11/2023 | Adicionou Entrega 8 | Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+|  8.0   | 04/11/2023 | Adicionou entrega 6.2 | Pedro Henrique| Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
 
