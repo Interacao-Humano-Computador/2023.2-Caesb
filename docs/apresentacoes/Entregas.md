@@ -70,6 +70,16 @@ A apresentação da entrega 8, pode ser vista no [YouTube](https://www.youtube.c
 <b>Vídeo 7</b>: Entrega 8 (Fonte: Grupo 06. 2023). </p>
 
 
+## Entrega 6.2:
+A apresentação da entrega 6.2, pode ser vista no [YouTube](https://youtu.be/4nwjHZtRcIA).
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nwjHZtRcIA?si=xH48pjcjTf5nAlAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+<b>Vídeo 8</b>: Entrega 6.2 (Fonte: Grupo 06. 2023). </p>
+
 
 ## Referências
 
