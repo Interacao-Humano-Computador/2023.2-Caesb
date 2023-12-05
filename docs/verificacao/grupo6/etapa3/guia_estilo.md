@@ -61,6 +61,26 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque, 2023</a> </p> </font>
 
+## Vídeo da Verificação
+
+<center>
+
+Video 1 - Avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FRDuJxkNWmQ?si=PjITm2wiATHMYzHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
+<font size="3"><p style="text-align: center"> Tabela 1:  Cronograma da verificação</p> </font>
+
+| Checklist | Verificação | Data| Horário de início e fim | 
+|:---------:|:---------:|:-------:|:-------:|
+| Rodrigo | Tiago Albuquerque |  03/12/2023 | 14:00 até 14:15 | 
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
+</center>
+
 ## Problemas encontrados
 ### Número 3 - O artefato define a metodologia que será utilizada?
 <p align="justify">&emsp;&emsp;O artefato não possui um campo de metodolia que explique como o artefato foi criado e qual é a lógica de sua criação.</p>
