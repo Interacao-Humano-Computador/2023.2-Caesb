@@ -162,6 +162,8 @@ nav:
   - Site selecionado:
     - Site escolhido: site-escolhido/siteEscolhido.md
   - Entrega Final: 
+    - Ciclo de vida: entrega_final/ciclo_de_vida.md
+    - Site escolhido: entrega_final/site_escolhido.md
     - Planejamento dos recursos e das entregas: entrega_final/planej_rec_entregas.md
     - Execução do Projeto: entrega_final/execucao_projeto.md
     - Resultados Alcançados com a Execução do Projeto: entrega_final/resultados_alcancados.md

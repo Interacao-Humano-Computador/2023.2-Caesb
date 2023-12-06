@@ -1,20 +1,16 @@
-# Site escolhido
+# Site Selecionado
 
 ## Introdução
-<p align="justify">&emsp;&emsp; Na fase inicial do projeto de Interação Humano-Computador, os estudantes individualmente selecionaram websites governamentais ou de comunidades de software livre e realizaram avaliações de usabilidade com base no framework DECIDE<a href="#1"><sup>1</sup></a>. Em seguida, em grupos, discutiram e escolheram o website que apresentava os desafios mais significativos em usabilidade, trabalhando para propor melhorias práticas e aplicar seus conhecimentos teóricos em um contexto real.</p>
 
-## Website escolhido pela equipe
-<p align="justify">&emsp;&emsp;Após a seleção individual, o grupo discutiu as sugestões, levando em consideração os seguintes critérios:</p>
+Os membros do grupo apresentaram diversos sites que atendiam aos requisitos estabelecidos pelo professor, os quais consistiam em serem sites públicos ou de código aberto. Após uma análise realizada pelo grupo, optou-se pelo site da Caesb. Para uma compreensão mais aprofundada, é possível verificar as alternativasapresentadas pelos membros do grupo <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/planejamento/SitesAvaliados/" target="_blank">aqui</a> .
+
+## Critérios para a escolha
 
 1. O website apresenta questões relacionadas à usabilidade.
 2. O website pertence ao governo ou a uma comunidade de software livre.
 3. Os usuários do website podem acessá-lo de maneira livre e conveniente.
 
-## CAESB - COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL
-
-<p align="justify">&emsp;&emsp; A Companhia de Saneamento Ambiental do Distrito Federal, conhecida como CAESB<a href="#2"><sup>2</sup></a>, é uma empresa pública responsável pelo abastecimento de água e tratamento de esgoto na região do Distrito Federal, Brasil. Com a missão de fornecer serviços essenciais para a população, a CAESB mantém um compromisso contínuo com a qualidade e eficiência de seus serviços, e isso inclui a interação com seus clientes por meio de seu site oficial.</p>
-
-Razões para avaliar o site da CAESB:
+## Motivações de escolha
 
 1. **Relevância e Importância dos Serviços**: <p align="justify">&emsp;&emsp;A CAESB desempenha um papel crucial no fornecimento de água e tratamento de esgoto, serviços essenciais para a vida das pessoas. Portanto, seu site é uma ferramenta vital para fornecer informações, relatórios de serviços, e interações com os clientes.</p>
 
@@ -28,15 +24,7 @@ Razões para avaliar o site da CAESB:
 
 6. **Facilidade de contato com público-alvo**: <p align="justify">&emsp;&emsp; Tendo em vista que o site apresenta um bem presente em todas as residências, que é o acesso a água, se torna fácil ter acesso aos usuários do site tendo em vista que a grande maioria da população utiliza desse bem e com isso tem grandes chance de ter utilizado o site para alguma funcionalidade relacionada a isso, como checar contas, reportar problemas entre outros.</p>
 
-<p align="justify">&emsp;&emsp;  A avaliação da interação humano-computador no contexto desse site pode ajudar a identificar áreas para melhorias, garantindo que ele continue a servir efetivamente a comunidade, fornecendo informações e serviços essenciais de maneira acessível e eficaz.</p>
-
-<center> <figcaption>Figura 1: Página inicial do Website da CAESB.</figcaption> </center>
-
-![Alt text](image.png)
-
-<center> <figcaption>Fonte: <a href="https://www.caesb.df.gov.br/" target="_blanck">Caesb</a>, 2023</figcaption> </center>
-
-## Problemas Identificados
+## Problemas encontrados
 
 <p align="justify">&emsp;&emsp; Utilizando as Heurísticas de Nilsen (Nilsen, 1993), conseguimos encontrar os seguintes problemas no site da Caesb.</p>
 
@@ -48,31 +36,25 @@ Razões para avaliar o site da CAESB:
 
 - __Reconhecimento ao invés de memorização__: O site possui muitas informações e não é intuitivo o que pode fazer com que muitas pessoas que estão acessando o site pela primeira vez se sintam perdidas. Apesar das informações estarem todas na tela elas se misturam com muitas outras.
 
-## Referências
+## Aspectos que serão trabalhados
+
+<p align="justify">&emsp;&emsp; Com base nos problemas encontrados os aspectos que foram escolhidos para serem trabalhados são:</p>
+
+- __Linguagem utilizada no site__: Muitos termos técnicos ou que estão em inglês serão substituídos e textos desnecessários serão eliminados.
+
+- __Design__: Algumas telas vão ser alteradas com o objetivo de melhorar a experiência do usuário.
+
+- __Principais funcionalidades__: Como o site possui muitas funcionalidades as mais utilizadas serão escolhidas para serem alteradas com o objetivo de melhorar a interação do usuário com o site.
+
+## Bibliografia
 
 > <p id="1">1. BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.</p>
 
-> <p id="2">2. Site da Caesb. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 26 set. 2023.</p>
-
-
 ## Histórico de versão
-
-
 <center>
 
-| Versão |    Data    |      Descrição       |  Autor  | Revisor |
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 01/10/2023 | Declaração do Site  | Oscar de Brito | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago  |
-| 1.1 | 08/10/2023 | Atualiza informações | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
-| 1.2 | 08/10/2023 | Arruma as referências | Leandro, Oscar e Pedro | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago |
-| 2.0 | 08/10/2023 | Corrige o Artefato | Leandro | Pedro |
+|  1.0   | 05/12/2023 | Adiciona Site Escolhido | Leandro | Mateus |
 
 </center>
-
-
-
-<hr/>
-<p align="center"><b>Grupo 6</b></p>
-<p align="center">Interação Humano-Computador<br /><br />
-<a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
-</p>
