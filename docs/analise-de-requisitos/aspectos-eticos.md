@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na <a href="/analise-de-requisitos/resolucao466.pdf" target="_blank">Resolução nº 466/2012</a> do Conselho Nacional de Saúde no Brasil<a id="anchor_1" href="#REF1">^1^</a>.</p>
+<p align="justify">&emsp;&emsp;A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na <a href="/2023.2-Caesb/analise-de-requisitos/resolucao466.pdf" target="_blank">Resolução nº 466/2012</a> do Conselho Nacional de Saúde no Brasil<a id="anchor_1" href="#REF1">^1^</a>.</p>
 
 <p align="justify">&emsp;&emsp; - Princípios  da autonomia: que diz respeito à necessidade de obter o consentimento voluntário e plenamente informado das pessoas que participam da pesquisa. Além disso, esse princípio se estende à proteção de grupos vulneráveis e indivíduos legalmente incapazes, como menores de idade, estudantes ou subordinados. Isso implica que qualquer estudo envolvendo seres humanos deve tratar os participantes com respeito, levando em consideração sua capacidade de tomar decisões e cuidando especialmente daqueles que se encontram em situações de fragilidade. </p>
 
@@ -74,4 +74,5 @@ Ao prosseguir com a pesquisa, você está demonstrando sua concordância com os 
 |  2.2   | 16/10/2023 | Corrige paragrafo | Mateus | Jefferson |
 |  2.3   | 16/10/2023 | Corrige termo consentimento | Mateus | Jefferson |
 |  2.4   | 06/12/2023 | Adiciona referencias e melhoria no texto | Mateus | Leandro |
+|  2.5   | 06/12/2023 | corrige referencia | Mateus | Leandro |
 </center>
