@@ -20,8 +20,8 @@
 | 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |  | |
 | 7      | A escolha do ciclo de vida foi justificada? |  | |
 | 8      | Foi explicado como será executado o ciclo de vida? |  | |
-| 10     | Foi apresentada o diagrama proposto pelo método escolhido? |  | |
-| 11     | Foram levados em conta os pontos positivos e negativos do ciclo de vida escolhido? |  | |
+| 9     | Foi apresentada o diagrama proposto pelo método escolhido? |  | |
+| 10     | Foram levados em conta os pontos positivos e negativos do ciclo de vida escolhido? |  | |
 
 </center>
 
@@ -45,8 +45,8 @@
 | 6      | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | sim | |
 | 7      | A escolha do ciclo de vida foi justificada? | sim | |
 | 8      | Foi explicado como será executado o ciclo de vida? | não | |
-| 10     | Foi apresentada o diagrama proposto pelo método escolhido? | sim | |
-| 11     | Foram levados em conta os pontos positivos e negativos do ciclo de vida escolhido? | sim | |
+| 9     | Foi apresentada o diagrama proposto pelo método escolhido? | sim | |
+| 10     | Foram levados em conta os pontos positivos e negativos do ciclo de vida escolhido? | sim | |
 
 
 </center>

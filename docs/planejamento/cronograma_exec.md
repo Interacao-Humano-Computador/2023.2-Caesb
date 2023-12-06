@@ -7,6 +7,8 @@
 
 ### Ponto de controle 1
 
+<font size="3"><p style="text-align: center"> Tabela 1: Ponto de controle 1</p> </font>
+
 | Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento |Período planejado |Período de revisão |
 | :----: | :--------: | :------------------: | :-----: | :-----------: |:-----------: |
 | Sites avaliados   | Mateus e Pedro| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 29/09/2023 | 25/09 - 28/09 | 25/09 - 29/09  |
@@ -19,7 +21,11 @@
 | revisão da entrega 01 |  Jefferson, Leandro, Oscar, Pedro, e Tiago   |   Jefferson, Leandro, Oscar, Pedro, e Tiago | 01/10 - 07/10 | 01/10 - 07/10 | 07/10 - 09/10 | 
 | Revisao cronograma | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 08/10 - 12/10 | 01/10 - 07/10 |12/10 - 13/10|
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
 ## Ponto de controle 2 
+
+<font size="3"><p style="text-align: center"> Tabela 2: Ponto de controle 2</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado| Período de revisão | 
 | :----: |  :------------------: | :-----: | :-----------: |:-----------: | :-----------: |
@@ -31,7 +37,11 @@
 | Gravação e edição da apresentação |    Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 16/10 | 15/10 - 16/10 |16/10 |
 | Revisão cronograma | Jefferson e Tiago | Rodrigo e Mateus | 16/10 | 15/10 - 16/10  | 16/10 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
 ### Ponto de controle 3 - Princípios Gerais do Projeto
+
+<font size="3"><p style="text-align: center"> Tabela 3: Ponto de controle 3</p> </font>
 
 | Atividade  | Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
 | :----: | :--------: | :------------------: | :-----: |:-----------: | :-----------: |
@@ -43,8 +53,11 @@
 | Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 22/10 |17/10 - 20/10 | 23/10 - 24/10 |
 | Revisao cronograma |  Jefferson e Tiago | Rodrigo | 22/10 |17/10 - 20/10 | 21/10 - 24/10 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
 ### Ponto de controle 4 - Planejamento do relato dos resultados do storyboard
 
+<font size="3"><p style="text-align: center"> Tabela 4: Ponto de controle 4</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período Planejado |Período de revisão | 
 | :----: |  :------------------: | :-----: | :-----: |  :-----------: |:-----------: |
@@ -56,8 +69,11 @@
 |Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10| 29/10 - 30/10 |  29/10 - 30/10 |
 | Revisão cronograma |  Jefferson e Tiago   |  Leandro, Mateus, Oscar, Pedro, Rodrigo | 30/10 | 29/10 - 30/10 |  30/10 - 31/10 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
 
 ### Ponto de controle 5 - Relato dos resultados
+
+<font size="3"><p style="text-align: center"> Tabela 5: Ponto de controle 5</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
@@ -70,7 +86,11 @@
 | Gravação e edição da apresentação |   Leandro  | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 08/11 |30/10 - 03/11 |08/11 |
 | Revisão cronograma | Jefferson e Tiago | Leandro | 08/11  | 30/10 - 03/11 |08/11  | 
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
 ### Ponto de controle 6.1 - Verificação dos Artefatos
+
+<font size="3"><p style="text-align: center"> Tabela 6: Ponto de controle 6.1</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
@@ -84,8 +104,11 @@
 |Gravação e edição da apresentação  | Leandro e Oscar | Equipe |15/11 | 08/11 - 11/11 | 15/11 |
 | Revisao cronograma  | Jefferson e Tiago | Rodrigo | 15/11 | 08/11 - 11/11 | 15/11 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
 
 ### Ponto de controle 6.2 - Correção e verificação dos artefatos
+
+<font size="3"><p style="text-align: center"> Tabela 7: Ponto de controle 6.2</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
@@ -100,7 +123,11 @@
 |Gravação e edição da apresentação  | Pedro de Muniz | Equipe | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
 | Revisao cronograma  | Rodrigo | Rodrigo | 27/11 - 05/12 |27/11 - 05/12 |04/12 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
 ### Ponto de controle 7 - Relato dos resultados e desenvolvimento do protótipo de papel
+
+<font size="3"><p style="text-align: center"> Tabela 8: Ponto de controle 7</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período planejado |Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----: | :-----------: |
@@ -112,7 +139,11 @@
 |Gravação e edição da apresentação |	Leandro e Oscar 	| Equipe 	| 22/11 | 16/11 - 19/11  | 20/11 - 22/11|
 | Revisão Cronograma |	Pedro Muniz e Oscar| Leandro | 22/11|  	16/11 - 19/11 |	20/11 - 22/11|
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
+
 ### Ponto de controle 8 - Relatos dos resultados do protótipo de alta fidelidade
+
+<font size="3"><p style="text-align: center"> Tabela 9: Ponto de controle 8</p> </font>
 
 | Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período Planejado | Período de revisão |
 | :----: | :--------: | :------------------: | :-----: | :-----------: | :-----: |
@@ -121,6 +152,7 @@ Atualizar o GitPages| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago 
 | Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 28/11 |  27/11 - 27/11 |  28/11 |
 | Revisão cronograma | Jefferson | Pedro Muniz | 28/11 | 28/11 - 28/11 | 28/11 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>, 2023</p> </font>
 
 ## Referências
 
@@ -142,5 +174,6 @@ Atualizar o GitPages| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago 
 | 1.8 |15/11/2023 | Adicionando Ponto de Controle 6.1 | Jefferson e Tiago | Oscar |
 | 1.9 |28/11/2023 | Adicionando Ponto de Controle 8| Jefferson | Oscar |
 | 2.0 |04/12/2023 | Adicionando Ponto de Controle 6.2| Rodrigo | Oscar |
+| 2.1 |06/12/2023 | Correção do Artefarto | Leandro | Oscar |
 
 </center>

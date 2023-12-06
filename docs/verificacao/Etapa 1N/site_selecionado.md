@@ -21,8 +21,8 @@
 | 7      | O motivo da escolha do site foi definido?                                                              |      | |
 | 8      | Foi detalhado os problemas encontrados no site escolhido?                                              |      | |
 | 9      | São citadas as heurísticas usadas para encontrar os problemas?                                          |      | |
-| 11     | O site apresenta relevância para o contexto do projeto ou da disciplina?                                |      | |
-| 12     | O site escolhido condiz com as diretrizes da disciplina? sendo ou um site do governo ou de software livre. |      | |
+| 10     | O site apresenta relevância para o contexto do projeto ou da disciplina?                                |      | |
+| 11     | O site escolhido condiz com as diretrizes da disciplina? sendo ou um site do governo ou de software livre. |      | |
 
 </center>
 
@@ -46,8 +46,8 @@
 | 7      | O motivo da escolha do site foi definido?                                                              | Sim      | |
 | 8      | Foi detalhado os problemas encontrados no site escolhido?                                              | Não      | |
 | 9      | São citadas as heurísticas usadas para encontrar os problemas?                                          | Não      | |
-| 11     | O site apresenta relevância para o contexto do projeto ou da disciplina?                                | Sim      | |
-| 12     | O site escolhido condiz com as diretrizes da disciplina? sendo ou um site do governo ou de software livre. | Sim      | |
+| 10     | O site apresenta relevância para o contexto do projeto ou da disciplina?                                | Sim      | |
+| 11     | O site escolhido condiz com as diretrizes da disciplina? sendo ou um site do governo ou de software livre. | Sim      | |
 
 
 </center>
