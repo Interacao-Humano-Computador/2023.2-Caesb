@@ -30,7 +30,9 @@
 
 ## Bibliografia
 
-> <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+> <p id=""> 1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/entrega-final/tecnicas-utilizadas/#tecnicas. Acesso em: 05/12/2023</p>
+
+> <p id="1" align="justify">2. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
 
 
 ## Histórico de Versões
