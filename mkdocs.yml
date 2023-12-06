@@ -166,6 +166,7 @@ nav:
     - Execução do Projeto: entrega_final/execucao_projeto.md
     - Resultados Alcançados com a Execução do Projeto: entrega_final/resultados_alcancados.md
     - Artefatos criados no projeto: entrega_final/artefatos_criados.md
+    - Síntese das Apresentações: entrega_final/sintese-apresentacao.md
 markdown_extensions:
   - attr_list
   - md_in_html
