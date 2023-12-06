@@ -24,7 +24,7 @@
 
 </center>
 
-## Planejamento
+## Metodologia
 
 <p align="justify">&emsp;&emsp;Será utilizado o DECIDE que segundo Sharp, Rogers e Preece (2007) é um framework que serve para orientar o planejamento, a execução e a análise de uma avaliação de IHC. Cada letra da palavra DECIDE é uma etapa a ser realizada no planejamento. A tabela 2 apresenta o significado de cada letra.</p>
 
@@ -80,7 +80,7 @@
 </center>
 
 ## C - Escolher os métodos de avaliação
-<p align="justify">&emsp;&emsp;O método escolhido foi o das entrevistas, no qual utilizamos um questionário contendo perguntas relacionadas ao sistema e às tarefas executadas pelo usuário nele. Optamos por este método, uma vez que ele nos permite obter informações sobre o sistema sob a perspectiva do usuário. As entrevistas foram gravadas, e todos os usuários concordaram em participar delas..</p>
+<p align="justify">&emsp;&emsp;O método escolhido foi o das entrevistas, no qual utilizamos um questionário contendo perguntas relacionadas ao sistema e às tarefas executadas pelo usuário nele. Optamos por este método, uma vez que ele nos permite obter informações sobre o sistema sob a perspectiva do usuário. As entrevistas foram gravadas, e todos os usuários concordaram em participar delas.</p>
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -93,31 +93,57 @@
 |:---------:|:---------:|:-------:|:-------:|:-------:|
 | Leandro de Almeida | Danilo Félix | 02/11/2023 | 16:50 até 17:05 | Discord |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blank">Leandro de Almeida</a>, 2023</p></font>
+
+
 <font size="3"><p style="text-align: center">Tabela 5:  Entrevista 2</p></font>
 
 | Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
 |Oscar de Brito| Laura Coutinho      |  02/11/2023 | 20:30 até 20:40  | Teams|
-|Pedro Henrique |  Lucas Ambrósio |  04/11/2023 |  14:40 até 14:50 | Discord|
 
-<font size="3"><p style="text-align: center">Tabela 6:  Entrevista 3</p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar Brito</a>, 2023</p></font>
 
-|Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+
+
+<font size="3"><p style="text-align: center"> Tabela 6:  Entrevista 3</p> </font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|nome aqui|      |   |   | Discord|
+|Pedro Henrique|Lucas Ambrosio|  04/11/2023 | 14:40 até 14:50 | Discord|
 
-<font size="3"><p style="text-align: center">Tabela 7:  Entrevista 4</p></font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
-| Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+<font size="3"><p style="text-align: center"> Tabela 7:  Entrevista 4</p> </font>
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|nome aqui|      |   |   | Discord|
+|Tiago Albuquerque|João Lucas|  08/11/2023 | 18:40 até 18:50 | Teams<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Tiago1604" target="_blank">Tiago Albuquerque</a>, 2023</p></font>
+
 
 <font size="3"><p style="text-align: center">Tabela 8:  Entrevista 5</p></font>
 
-| Entrevistadores | Entrevistado | Data| Horário de início e fim | Local |
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
-|nome aqui|      |   |   | Discord|
+|Jefferson Sena|José André|  08/11/2023 | 18:00 até 18:10 | Teams<a href="#2"><sup>2</sup></a>|
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jeffeson Sena</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 8:  Entrevista 6</p></font>
+
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Rodrigo Fonseca |Carlos Guilherme|  08/11/2023 | 13:30 até 13:40 | Discord<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 8:  Entrevista 7</p></font>
+| Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
+|:---------:|:---------:|:-------:|:-------:|:-------:|
+|Mateus Levy |Pedro Luiz|  08/11/2023 | 18:30 até 18:35 | Discord<a href="#2"><sup>2</sup></a>|
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
 
 ## D - Decidir como lidar com as questões éticas
 
@@ -171,6 +197,7 @@
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 28/10/2023 | Adiciona Planejamento da Avaliação | Leandro e Oscar | Jefferson |
 |  1.1   | 29/10/2023 | Adicina etepa I do decide e Vídeo do teste piloto | Leandro e Oscar | Jefferson |
+|  1.2   | 29/10/2023 | Arrumando Possíveis | Rodrigo | Mateus |
 
 
 
