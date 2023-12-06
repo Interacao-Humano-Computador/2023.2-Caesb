@@ -163,6 +163,8 @@ nav:
     - Site escolhido: site-escolhido/siteEscolhido.md
   - Entrega Final: 
     - Execução do Projeto: entrega_final/execucao_projeto.md
+    - Planejamento dos recursos e das entregas: entrega_final/planej_rec_entregas.md
+    - Artefatos criados no projeto: entrega_final/artefatos_criados.md
 markdown_extensions:
   - attr_list
   - md_in_html
