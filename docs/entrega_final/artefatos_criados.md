@@ -115,8 +115,8 @@
 
 |Artefato | Descrição | Autor(es) | Revisor(es) | 
 |:------: | :------:  | :------:  | :------:  | 
-| Verificação e Relato artefatos etapa 1 | Realizar o planejamento e a verificação dos artefatos da etapa 1 do nosso próprio grupo.| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Mateus |
-| Planejamento da avaliação do protótipo de alta de fidelidade | Realizar o planejamento da avaliação do protótipo de alta fidelidade.| Jefferson e Tiago | Rodrigo |
+| Relato dos resultados e desenvolvimento do protótipo de papel | Relatar os resultados e dados obtidos com o desenvolvimento da avaliação do protótipo de papel.| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Mateus |
+| Planejamento da avaliação do protótipo de alta de fidelidade | Realizar o planejamento para a avaliação do protótipo de alta fidelidade.| Jefferson e Tiago | Rodrigo |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Realizar o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.| Pedro e Rodrigo | Leandro |
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a></p></font>  
