@@ -1,18 +1,31 @@
 # Execução do Projeto em cada Etapa do Ciclo de Vida
 
 ## Introdução
-<p align="justify">&emsp;&emsp; Com o desenvolvimento do projeto, tem-se como etapa final a demonstração da execução do ciclo de vida do projeto. Dessa forma, aspectos como transparência, comunicação, gerenciamento de riscos, aprendizado contínuo e avaliação de desempenho são relatados e demonstrado sua relevância. Para documentar de forma breve e esquematica cada etapa desenvolvida no projeto foi elaborado uma tabela contendo as etapas seguindo o (Ciclo de Vida de Mayhew, 1999) atrinbuindo cada um dos artefatos produzidos. A seguir é apresentado a tabela: </p>
+<p align="justify">&emsp;&emsp; Com o desenvolvimento do projeto, tem-se como etapa final a demonstração da execução do ciclo de vida do projeto. Dessa forma, aspectos como transparência, comunicação, gerenciamento de riscos, aprendizado contínuo e avaliação de desempenho são relatados e demonstrado sua relevância. Para documentar de forma breve e esquematica cada etapa desenvolvida no projeto foi elaborado uma tabela 1 contendo as etapas seguindo o Ciclo de Vida de Mayhew e atrinbuindo cada um dos artefatos produzidos. </p>
+
+## Execução do projeto
 
 <center>
- Execução do Projeto em cada Etapa do Ciclo de Vida
+ Tabela 1 - Execução do Projeto em cada Etapa do Ciclo de Vida
 
 | Etapas| Definição | Artefatos  |
 | :-----: | :-----: | :-------: |
-|Análise de Requisitos | Nesta fase, é estabelecido as metas de usabilidade levando em consideração o perfil dos usuários definido para o projeto, a análise de tarefas, a plataforma em questão e os princípios de design de IHC. Tais metas são documentadas em guias de estilo, os quais incorporam diretrizes para os elementos da interface do usuário. |  |
-| Design, Avaliação e Desenvolvimento| | |
-| Nível 1 |  | |
-| Nível 2|  | |
-|Nível 3 |  | |
+|Análise de Requisitos | Nesta fase, é estabelecido as metas de usabilidade levando em consideração o perfil dos usuários definido para o projeto, a análise de tarefas, a plataforma e os princípios de design de IHC. Tais metas são documentadas em guias de estilo, os quais incorporam diretrizes para elementos da interface do usuário. | [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/perfil-do-usuario/), [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/analise-de-tarefas/HTA/), [GOMS](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/analise-de-tarefas/GOMS/), [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/caracteristicas/), [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/principios_gerais/), [Metas de Usabilidades](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/metas-usabilidade/) e [Guia de Estilo](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/guia-de-estilo/) |
+| Design, Avaliação e Desenvolvimento| Durante esta etapa, o objetivo foi desenvolver uma interface que estivesse alinhada com as metas de usabilidade previamente estabelecidas. Esse processo foi desenvolvido em três níveis: prototipação em baixa fidelidade, prototipação em média fidelidade e o projeto da interface em alta fidelidade. | |
+| Nível 1 | Nesta fase, o design é estabelecido com base nos requisitos identificados sendo elaborado um conceito inicial e uma proposta para a interface do usuário. Essas ideias podem ser expressas por meio de rascunhos, esboços ou diagramas, possibilitando uma avaliação preliminar e a obtenção de feedback por parte dos usuários e outras partes interessadas. | [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Planejamento%20da%20avalia%C3%A7%C3%A3o/),  [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/), [Relato do Resultado - Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato%20dos%20resultados/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Planejamento-Avalia%C3%A7%C3%A3o-Storyboard/), [Planejamento do Relato dos Resultados - Storyboard](https://interacao-humano-computador.github.io/2023.2-Caesb/design-avaliacao-desenv/nivel1/storyboard/planej-resultado-story/), [Relato do Resultado - Storyboard](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato%20dos%20resultados%20do%20story/) e [Storyboards](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Storyboards/) |
+| Nível 2| Nesta fase, o design que define as interações, os fluxos de trabalho e a estrutura da interface surgem a partir do detalhamento e refinamento dos conceitos iniciais. E com isso, são criados protótipos de baixa fidelidade que podendo ser testados e iterados possibilitam a usabilidade e atendimento às necessidades dos usuários. | [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/planejamento-prototipo-papel/), [Planejamento do Relato dos Resultados - Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/planejamento_do_relato_dos_resultados_papel/) e [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato_resultados_prototipo/) |
+|Nível 3 | Nesta última etapa, é realizado o design da interface em alta fidelidade. A completude do projeto, ocorre por meio de softwares de design gráfico ou de interface do usuário onde é produzido uma representação que precisa considera aspectos visuais, como cores, fontes, ícones e layouts, além das iterações entre as páginas do protótipo.  | [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/nivel3/planejamento-da-avaliacao-prototipo-alta/), [Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/nivel3/planejamento-do-relato-result-prototipo-alta/) e [Relato dos Resultados - Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/nivel3/relato-resultados-prototipo-alta/) |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a>, 2023</p> </font>
 
 </center>
+
+## Bibliografia
+
+> <p id="1" align="justify">1. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Elsevier, 2010.</p>
+
+## Histórico de versões
+
+| Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
+| :----: | :--------: | :------------------: | :-----: | :-----: |
+|  1.0   | 05/12/2023 | Adicionando Execução do Projeto  | Jefferson | Tiago |
