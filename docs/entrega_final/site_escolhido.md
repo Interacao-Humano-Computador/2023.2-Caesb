@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Os membros do grupo apresentaram diversos sites que atendiam aos requisitos estabelecidos pelo professor, os quais consistiam em serem sites públicos ou de código aberto. Após uma análise realizada pelo grupo, optou-se pelo site da Caesb. Para uma compreensão mais aprofundada, é possível verificar as alternativasapresentadas pelos membros do grupo <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/planejamento/SitesAvaliados/" target="_blank">aqui</a> .
+ <p align="justify">&emsp;&emsp;Os membros do grupo apresentaram diversos sites que atendiam aos requisitos estabelecidos pelo professor, os quais consistiam em serem sites públicos ou de código aberto. Após uma análise realizada pelo grupo, optou-se pelo site da Caesb. Para uma compreensão mais aprofundada, é possível verificar as alternativas apresentadas pelos membros do grupo <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/planejamento/SitesAvaliados/" target="_blank">aqui</a>.</p>
 
 ## Critérios para a escolha
 
