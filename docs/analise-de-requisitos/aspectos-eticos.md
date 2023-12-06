@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na Resolução nº 466/2012 do Conselho Nacional de Saúde no Brasil.</p>
+<p align="justify">&emsp;&emsp;A pesquisa que envolve a participação de seres humanos desempenha um papel crucial na expansão do conhecimento em diversas áreas. No entanto, a realização de estudos com indivíduos traz à tona um conjunto de questões éticas de extrema importância que precisam ser abordadas com extrema cautela. Esses aspectos éticos são fundamentais para garantir o devido respeito, segurança e bem-estar dos participantes, ao mesmo tempo em que asseguram a integridade da pesquisa. Para cumprir esse objetivo, é essencial que todo o processo seja estruturado de acordo com princípios éticos reconhecidos, como aqueles estabelecidos na <a href="/analise-de-requisitos/resolucao466.pdf" target="_blank">Resolução nº 466/2012</a> do Conselho Nacional de Saúde no Brasil<a id="anchor_1" href="#REF1">^1^</a>.</p>
 
 <p align="justify">&emsp;&emsp; - Princípios  da autonomia: que diz respeito à necessidade de obter o consentimento voluntário e plenamente informado das pessoas que participam da pesquisa. Além disso, esse princípio se estende à proteção de grupos vulneráveis e indivíduos legalmente incapazes, como menores de idade, estudantes ou subordinados. Isso implica que qualquer estudo envolvendo seres humanos deve tratar os participantes com respeito, levando em consideração sua capacidade de tomar decisões e cuidando especialmente daqueles que se encontram em situações de fragilidade. </p>
 
@@ -15,7 +15,7 @@
 
 ## Termo de consentimento
 
-<p align="justify">&emsp;&emsp;O termo de consentimento abaixo apresenta um padrão a ser utilizado durante as atividades envolvendo seres humanos, o membro do grupo que estiver aplicando a atividade deverá preencher os dados de acordo com a atividade desenvolvida.
+<p align="justify">&emsp;&emsp;O termo de consentimento abaixo apresenta um padrão a ser utilizado durante as atividades envolvendo seres humanos, o membro do grupo que estiver aplicando a atividade deverá preencher os dados de acordo com a atividade desenvolvida. No contexto de gravações, o pesquisador reforçará a obtenção de permissão para utilizar tais registros, englobando a voz e/ou imagem dos participantes. Na abordagem desta disciplina em pesquisas que envolvem indivíduos, o grupo adota o modelo de termo de consentimento apresentado abaixo e será apresentado sempre que for pertinente.
 </p>
 
 <div style="text-align: center">
@@ -56,7 +56,7 @@ Ao prosseguir com a pesquisa, você está demonstrando sua concordância com os 
 
 ## Referências
 
-> <p id="1"> 1. Brasil, Resolução nº 466, de 12 de dezembro de 2012. Disponível em: https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf. Acesso em: 13/10/2023.</p>
+> <a id="REF1" href="#anchor_1"><p id="1"> 1. Brasil, Resolução nº 466, de 12 de dezembro de 2012. Disponível em: https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf. Acesso em: 13/10/2023.</a>
 
 
 > <p id="2"> 2. Aspectos Éticos Bilheteria digital. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/aspectos-eticos.md. Acesso em: 13/10/2023</p>
@@ -73,4 +73,5 @@ Ao prosseguir com a pesquisa, você está demonstrando sua concordância com os 
 |  2.1   | 16/10/2023 | Adicionando parágrafo | Mateus | Jefferson |
 |  2.2   | 16/10/2023 | Corrige paragrafo | Mateus | Jefferson |
 |  2.3   | 16/10/2023 | Corrige termo consentimento | Mateus | Jefferson |
+|  2.4   | 06/12/2023 | Adiciona referencias e melhoria no texto | Mateus | Leandro |
 </center>
