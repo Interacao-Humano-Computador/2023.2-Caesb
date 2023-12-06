@@ -81,33 +81,33 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Rodrigo Fonseca, 2023</a> </p> </font>
 
-### Checklist do planejamento da avaliação do protótipo de alta fidelidade
+### Checklist do Planejamento da Avaliação do StoryBoard
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 4, será definido os critérios esperados na verificação para o artefato do planejamento da avaliação do protótipo de alta fidelidade.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 4: Checklist do planejamento da avaliação do protótipo de alta fidelidade</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 4: Planejamento da Avaliação do StoryBoard</p> </font>
 
 <center>
 
-| Número | Descrição                                                                                              | Avaliação | Observações |
+ | Número | Descrição                                                                                              | Avaliação | Observações |
 |--------|---------------------------------------------------------------------------------------------------------|----------|-------------|
-| 7      | O artefato apresenta o objetivo e escopo da Avaliação?                                                          |      | |
-| 8      | E esse objetivo e escopo da avaliação é bem desenvolvido?   |      | |
-| 9   | O planejamento estabelece o método de avaliação dos resultados?                               |      | |
-| 10  | No planejamento, são indicados o porque é escolhidos o total de participantes que foram selecionados? |      | |
-| 11  |O planejamento apresenta o perfil do usuário? |      | |
-| 12  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas? |      | |
-| 13  | O planejamento apresenta a interpretação e análise dos dados?|      | |
-| 14  | O planejamento aborda como será realizada a análise e interpretação dos usuários?|      | |
-| 15 | O planejamento apresenta uma seção para o feedback dos usuários?|      | |
+| 7      | O planejamento segue algum framework para a execução da atividade?                                                          |      | |
+| 8      | É apresentado o framework DECIDE como base para a execução ?                                           |      | |
+| 9      | O planejamento descreve os métodos de avaliação a serem utilizados?                                         |      | |
+| 10    | O planejamento apresenta um roteiro de perguntas a serem feitas pelo avaliador durante o processo de avaliação?                               |      | |
+| 12  | O planejamento descreve o(s) objetivos da avaliação?|      | |
+| 13  | O planejamento descreve os métodos de avaliação a serem utilizados? |      | |
+| 14  | As questões éticas são mostradas no documento, onde serão empregadas nas entrevistas? |      | |
+| 15  | No planejamento, dentro dos aspectos éticos está presente o termo de consentimento?|      | |
+| 16  | O planejamento descreve as questões práticas dessa avaliação? Como por exemplo: O porquê de quantas pessoas a serem entrevistadas, recrutamento de usuários, se vai ser remota ou não, equipamentos, custos|      | |
 </center>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Rodrigo, 2023</a> </p> </font>
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique, 2023</a> </p> </font>
 
 
 ### Checklist do Planejamento da Avaliação da Análise de Tarefas
-<p align="justify">&emsp;&emsp;Abaixo, na tabela 5, será definido os critérios esperados na verificação para o artefato doPlanejamento da Avaliação da Análise de Tarefas.</p>
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 5, será definido os critérios esperados na verificação para o artefato do Planejamento da Avaliação da Análise de Tarefas.</p>
 
-<font size="3"><p style="text-align: center"> Tabela 5: Checklist do do Planejamento da Avaliação da Análise de Tarefas</p> </font>
+<font size="3"><p style="text-align: center"> Tabela 5: Checklist do Planejamento da Avaliação da Análise de Tarefas</p> </font>
 
 <center>
 
@@ -123,11 +123,25 @@
 | 15  | As questões éticas são mostradas no documento, onde serão empregadas nas entrevistas?|      | |
 | 16  | O planejamento define os prazos para serem realizadas as avaliações com os usuários?|      | |
 </center>
- 
+ <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Rodrigo Fonseca, 2023</a> </p> </font>
 
-</center>
+### Checklist do Planejamento do Relato dos Resultados da Avaliação do Storyboard
+<p align="justify">&emsp;&emsp;Abaixo, na tabela 6, será definido os critérios esperados na verificação para o artefato do Planejamento do Relato dos Resultados da Avaliação do Storyboard.</p>
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blanck">Matheus, 2023</a> </p> </font>
+<font size="3"><p style="text-align: center"> Tabela 6: Checklist do Planejamento do Relato dos Resultados da Avaliação do Storyboard.</p> </font>
+
+
+| Número | Descrição | Avaliação | Observações |
+|--------|------------------------------------------------------|-----------|-----------|
+|   7    | O planejamento define método de avaliação dos resultados? |      | |
+|   8    | O planejamento apresenta uma seção para o feedback dos usuários? |        | |
+|   9    | O planejamento aborda como será realizada a análise da interação do usuário com o artefato? |        | |
+|   11   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados? |        | |
+|   12   | O planejamento apresenta os participantes selecionados? |        | |
+|   13   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |        | |
+|   14   | O planejamento define objetivo da avaliação? |        | |
+
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Oscar de Brito, 2023</a> </p> </font>
 
 
 ## Bibliografia
@@ -143,4 +157,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 12/11/2023 | Adiciona planejamento, iniciando checklists | Pedro Henrique | Leandro |
+|  1.0   | 06/12/2023 | Adiciona planejamento, iniciando checklists | Rodrigo | Leandro |
