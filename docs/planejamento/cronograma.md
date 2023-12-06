@@ -5,6 +5,8 @@
 
 ## Cronograma Geral
 
+<font size="3"><p style="text-align: center"> Tabela 1: Cronograma Geral</p> </font>
+
 | Etapa |  Título   |      Descrição      |  Entrega | Apresentação | 
 | :----: | :------------------: | :-----: | :-----------: |:-----------: |
 | 1      | Planejamento | Planejamento do projeto, sites avaliados, site escolhido para o projeto. Definição da Metodologia, ferramentos, processo de design, cronograma das atividades do projeto. | 02/10 |  03/10 |  
@@ -18,7 +20,11 @@
 | 8 |       Relato dos resultados da avaliação do protótipo de alta fidelidade | Relato dos resultados da avaliação do protótipo de alta fidelidade | 27/11 | 28/11 | 
 | 9 |     Apresentação do Projeto Final | Apresentação e avaliação do projeto final | 06/12 | 07/12 - 19/12 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
 ### Ponto de controle 1 - Planejamento
+
+<font size="3"><p style="text-align: center"> Tabela 2: Ponto de controle 1</p> </font>
 
 | Atividade |  Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão | 
 | :----: | :------------------: | :-----: | :-----------: |:-----------: |
@@ -32,8 +38,11 @@
 | revisão da entrega 01 |      Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/10 - 07/10 | 01/09 - 02/09 | 
 | Revisao cronograma |     Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 01/10 - 07/10 | 01/09 - 02/09 | 
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ### Ponto de controle 2 - Perfil do Usuário
+
+<font size="3"><p style="text-align: center"> Tabela 3: Ponto de controle 2</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão | 
 | :----: |  :------------------: | :-----: | :-----------: |:-----------: |
@@ -45,8 +54,11 @@
 | Gravação e edição da apresentação |    Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 16/10 | 16/10 - 16/10 |
 | Revisão cronograma | Rodrigo e Leandro| Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 15/10 - 08/10 | 17/10 - 15/10|
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ### Ponto de controle 3 - Princípios Gerais do Projeto
+
+<font size="3"><p style="text-align: center"> Tabela 4: Ponto de controle 3</p> </font>
 
 | Atividade  | Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: | :--------: | :------------------: | :-----: | :-----------: |
@@ -58,9 +70,11 @@
 | Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 17/10 - 20/10 | 21/10 - 24/10 |
 | Revisao cronograma |  Tiago e Jefferson | Leandro, Mateus, Oscar, Pedro, Rodrigo | 17/10 - 20/10 | 21/10 - 24/10 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ### Ponto de controle 4 - Planejamento do relato dos resultados do storyboard
 
+<font size="3"><p style="text-align: center"> Tabela 5: Ponto de controle 4</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão | 
 | :----: |  :------------------: | :-----: | :-----------: |:-----------: |
@@ -72,8 +86,11 @@
 |Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 29/10 - 30/10 | 29/10 - 30/10 |
 | Revisão cronograma |  Tiago e Jefferson   |  Leandro, Mateus, Oscar, Pedro, Rodrigo | 29/10 - 30/10 | 30/10 - 31/10 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ### Ponto de controle 5 - Relato dos resultados
+
+<font size="3"><p style="text-align: center"> Tabela 6: Ponto de controle 5</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----------: |
@@ -86,8 +103,11 @@
 | Gravação e edição da apresentação |   Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 30/10 - 03/11 | 04/11 - 08/11 |
 | Revisão cronograma |     Oscar | Leandro | 30/10 - 03/11 | 04/11 - 08/11 | 
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ### Ponto de controle 6 - Correção e verificação dos artefatos
+
+<font size="3"><p style="text-align: center"> Tabela 7: Ponto de controle 6</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----------: |
@@ -101,8 +121,11 @@
 |Gravação e edição da apresentação  | Leandro e Oscar | Equipe | 08/11 - 11/11 | 12/11 - 15/11 |
 | Revisao cronograma  | Oscar | Rodrigo | 08/11 - 11/11 | 12/11 - 15/11 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ### Ponto de controle 6.2 - Correção e verificação dos artefatos
+
+<font size="3"><p style="text-align: center"> Tabela 8: Ponto de controle 6.2</p> </font>
 
 | Atividade |   Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: |  :--------: | :------------------: | :-----: | :-----------: |
@@ -116,7 +139,11 @@
 | Gravação e edição da apresentação  | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 22/10 - 25/10 | 26/10 - 29/10 |
 | Revisao cronograma  | Pedro Muniz | Tiago | 22/10 - 25/10 | 26/10 - 29/10 | 
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
 ### Ponto de controle 7 - Relato dos resultados e desenvolvimento do protótipo de papel
+
+<font size="3"><p style="text-align: center"> Tabela 9: Ponto de controle 7</p> </font>
 
 | Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: | :--------: | :------------------: | :-----: | :-----------: |
@@ -128,7 +155,11 @@
 | Gravação e edição da apresentação  | Leandro e Oscar | Equipe | 16/11 - 19/11 | 20/11 - 22/11 |
 | Revisão Cronograma |  Pedro Muniz | Oscar | 16/11 - 19/11 | 20/11 - 22/11 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
+
 ### Ponto de controle 8 - Relatos dos resultados do protótipo de alta fidelidade
+
+<font size="3"><p style="text-align: center"> Tabela 10: Ponto de controle 8</p> </font>
 
 | Atividade |    Autor(es)   |      Revisor(es)      |  Período de desenvolvimento | Período de revisão |
 | :----: | :--------: | :------------------: | :-----: | :-----------: |
@@ -137,6 +168,7 @@ Atualizar o GitPages| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 |
 | Gravação e edição da apresentação | Leandro e Oscar | Jefferson, Leandro, Mateus, Oscar, Pedro, Rodrigo e Tiago | 27/11 - 27/11 | 28/11 - 28/11 |
 | Revisão cronograma | Tiago | Pedro Muniz | 28/11 - 28/11 | 28/11-28/11 |
 
+<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/leomitx10" target="_blanck">Leandro de Almeida</a>, 2023</p> </font>
 
 ## Referências
 
@@ -156,6 +188,7 @@ Atualizar o GitPages| Leandro | Oscar | 23/11 - 26/11 | 26/11 - 27/11 |
 | 1.1 | 04/10/2023 | Adicionando detalhamento e corrige nome da equipe | Leandro, Oscar, Tiago e Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.2 | 08/10/2023 | Arrumando referências | Leandro, Oscar e Pedro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 | 1.3 | 09/10/2023 | Criação do cronograma geral e detalhamento | Tiago e Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+| 2.0 | 06/12/2023 | Correção do artefato | Leandro | Mateus |
 
 
 </center>
