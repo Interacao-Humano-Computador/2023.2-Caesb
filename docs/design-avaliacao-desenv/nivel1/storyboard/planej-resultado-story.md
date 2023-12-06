@@ -36,11 +36,11 @@ Ou seja, os relatos dos resultados deverão conter a seguinte formatação:
 | :----: | :--------: | :------------------: | :-----: | :-----: | :-------: |
 |  Pedro Henrique | Lucas Ambrosio | 19:00 | 19:30 | 03/11/2023 |  Discord | 
 |  Oscar de Brito | Marco Couto  | 20:00 |  20:15 | 07/11/2023	 | teams |   
-| Leandro de Almeida |   |  |  |  |  | 
-|  Jefferson |   |  |  |  |  | 
-|  Tiago |   |  |  |  |  | 
-|  Mateus |   |  |  |  |  | 
-|  Rodrigo |   |  |  |  |  | 
+| Leandro de Almeida | Bernado Borges  | 19:00  | 19:10 | 04/11/2023 | Discord | 
+|  Jefferson | José André  | 18:00 | 18:10 | 08/11/2023 | Teams | 
+|  Tiago | João Lucas  |19:00  | 19:10 | 08/11/2023 |  Teams| 
+|  Mateus | Marco Couto  | 20:00 | 20:15 |07/11/2023  | Teams | 
+|  Rodrigo | Carlos Guilherme | 13:00 | 13:10 | 08/11/2023  | Discord | 
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 06. 2023</p></font>
 
