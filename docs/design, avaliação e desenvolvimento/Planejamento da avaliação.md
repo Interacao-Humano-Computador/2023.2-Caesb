@@ -114,7 +114,9 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blank">Pedro Henrique</a>, 2023</p></font>
 
+
 <font size="3"><p style="text-align: center"> Tabela 7:  Entrevista 4</p> </font>
+
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
 |Tiago Albuquerque|João Lucas|  08/11/2023 | 18:40 até 18:50 | Teams<a href="#2"><sup>2</sup></a>|
@@ -130,6 +132,7 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jeffeson Sena</a>, 2023</p></font>
 
+
 <font size="3"><p style="text-align: center">Tabela 9:  Entrevista 6</p></font>
 
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
@@ -138,12 +141,15 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
 
+
 <font size="3"><p style="text-align: center">Tabela 10:  Entrevista 7</p></font>
+
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
 |Mateus Levy |Pedro Luiz|  08/11/2023 | 18:30 até 18:35 | Discord<a href="#2"><sup>2</sup></a>|
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/mateus9levy" target="_blank">Mateus Levy</a>, 2023</p></font>
+
 
 ## D - Decidir como lidar com as questões éticas
 
