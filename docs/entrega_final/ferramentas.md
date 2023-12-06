@@ -31,11 +31,40 @@
 <p align="justify">&emsp;&emsp; Todas as ferramentas que foram elencadas no artefato inicial de <a href="https://interacao-humano-computador.github.io/2023.2-Caesb/planejamento/ferramentas/" target="_blank">ferramentas</a> foram utilizadas no desenvolvimento de todas as etapas do projeto. Contudo, algumas ferramentas que foram utilizadas não constavam no artefato inicial, como: mkdocs, Google Planilhas e Google Forms. As ferramentas foram de extrema importância para cada um dos artefatos desenvolvidos, foram utilizadas algumas ferramentas que os membros do grupo já dominavam anteriormente e outras que foram adquiridas conhecimento ao longo do processo da disciplina.</p>
 
 
+## Referências
+
+> <p id="1"> 1. Figma. Disponível em: <https://www.figma.com/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="2"> 2. Github. Disponível em: <https://github.com/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="3"> 3. Google Docs. Disponível em: <https://www.google.com/docs/about/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="4"> 4. Teams. Disponível em: <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software>. Acesso em: 27 set. 2023.</p>
+
+> <p id="5"> 5. This person does not exist. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="6"> 6. VSCode. Disponível em: <https://code.visualstudio.com/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="7"> 7. Whatsapp. Disponível em: <https://www.whatsapp.com>. Acesso em: 27 set. 2023.</p>
+
+> <p id="8"> 8. Youtube. Disponível em: <https://www.youtube.com/>. Acesso em: 27 set. 2023.</p>
+
+> <p id="9"> 9. Simularweb. Disponível em: <https://www.similarweb.com/pt/>. Acesso em: 18 out. 2023.</p>
+
+> <p id="10"> 10. Mkdocs. Disponível em: <https://www.mkdocs.org/>. Acesso em: 05 dez. 2023.</p>
+
+> <p id="11"> 11. Google Planilhas. Disponível em: <https://www.google.com/intl/pt-BR/sheets/about/>. Acesso em: 05 dez. 2023.</p>
+
+> <p id="12"> 12. Google Forms. Disponível em: <https://workspace.google.com/intl/pt-BR/lp/forms/>. Acesso em: 05 dez. 2023.</p>
+
+
 ## Histórico de versão
 <center>
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
 |  1.0   | 05/12/2023 | Criação do artefato de ferramentas da entrega final | Tiago | Pedro |
+|  1.1   | 05/12/2023 | Adicionando a referência das ferramentas | Tiago | Pedro |
+
 
 </center>
