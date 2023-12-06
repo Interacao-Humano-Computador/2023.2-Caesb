@@ -130,7 +130,7 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/JeffersonSenaa" target="_blank">Jeffeson Sena</a>, 2023</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 8:  Entrevista 6</p></font>
+<font size="3"><p style="text-align: center">Tabela 9:  Entrevista 6</p></font>
 
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
@@ -138,7 +138,7 @@
 
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/rodfon3301" target="_blank">Rodrigo Fonseca</a>, 2023</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 8:  Entrevista 7</p></font>
+<font size="3"><p style="text-align: center">Tabela 10:  Entrevista 7</p></font>
 | Entrevistador | Entrevistado | Data| Horário de início e fim | Local |
 |:---------:|:---------:|:-------:|:-------:|:-------:|
 |Mateus Levy |Pedro Luiz|  08/11/2023 | 18:30 até 18:35 | Discord<a href="#2"><sup>2</sup></a>|
