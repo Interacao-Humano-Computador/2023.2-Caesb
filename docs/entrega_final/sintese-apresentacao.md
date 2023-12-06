@@ -7,7 +7,6 @@
 <h1>Etapa 1</h1>
 </summary>
 
-A apresentação da entrega 1, pode ser vista no [YouTube](https://www.youtube.com/watch?v=pkAoLAPOnQk&ab_channel=oscarbrito).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkAoLAPOnQk?si=lGpj6mGpiutxiGaC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -30,7 +29,6 @@ A apresentação da entrega 1, pode ser vista no [YouTube](https://www.youtube.c
 <h1>Etapa 2</h1>
 </summary>
 
-A apresentação da entrega 2, pode ser vista no [YouTube](https://www.youtube.com/watch?v=m_p23vwHqM8&ab_channel=oscarbrito).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_p23vwHqM8?si=NVZZq2JZ00qEpIU6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -54,7 +52,6 @@ A apresentação da entrega 2, pode ser vista no [YouTube](https://www.youtube.c
 <h1>Etapa 3</h1>
 </summary>
 
-A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.com/embed/VKEvtGgIwdY?si=2eTwYfq0fc9DDbTu).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKEvtGgIwdY?si=2eTwYfq0fc9DDbTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -78,7 +75,6 @@ A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.c
 <h1>Etapa 4</h1>
 </summary>
 
- apresentação da entrega 4, pode ser vista no [YouTube](https://www.youtube.com/watch?v=2jWX2IAyT4A).
  
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2jWX2IAyT4A?si=2VwZDTPeDsu2mN3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -101,8 +97,6 @@ A apresentação da entrega 3, pode ser vista no [YouTube](https://www.youtube.c
 <summary>
 <h1>Etapa 5</h1>
 </summary>
-
-A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.com/watch?v=X7CcZs-ZbJ8).
 
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X7CcZs-ZbJ8?si=qMwswIV2AFrVwopF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -127,7 +121,6 @@ A apresentação da entrega 5, pode ser vista no [YouTube](https://www.youtube.c
 <h1>Etapa 6.1</h1>
 </summary>
 
-A apresentação da entrega 6.1, pode ser vista no [YouTube](https://www.youtube.com/watch?v=X7CcZs-ZbJ8).
 
  <center>
 
@@ -153,7 +146,6 @@ A apresentação da entrega 6.1, pode ser vista no [YouTube](https://www.youtube
 <h1>Etapa 7</h1>
 </summary>
 
-A apresentação da entrega 7, pode ser vista no [YouTube](https://www.youtube.com/watch?v=ZPy1mvZyM1k).
  <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPy1mvZyM1k?si=6jnoYzYy6V9UooRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -178,7 +170,6 @@ A apresentação da entrega 7, pode ser vista no [YouTube](https://www.youtube.c
 <h1>Etapa 8</h1>
 </summary>
 
-A apresentação da entrega 8, pode ser vista no [YouTube](https://www.youtube.com/watch?v=-0Gp-UeEshM).
  <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0Gp-UeEshM?si=28bBsVtozftv0cKS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -202,8 +193,6 @@ A apresentação da entrega 8, pode ser vista no [YouTube](https://www.youtube.c
 <summary>
 <h1>Etapa 6.2</h1>
 </summary>
-
-A apresentação da entrega 6.2, pode ser vista no [YouTube](https://youtu.be/4nwjHZtRcIA).
 
 <center>
 
