@@ -35,7 +35,7 @@
 <font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique, 2023</a> </p> </font>
 
 ## Checklist 
-<p align="justify">&emsp;&emsp;Abaixo ficará definido os checklists que levantam questões de padronização e de conteúdo feito para verificar a qualidade dos artefatos produzidos pelo grupo 07, o primeiro checklist abordará as questões de padronização e formatação, por isso estão presentes antes de todos os outros checklists de conteúdo. Após isso será definido separadamente um checklist para cada artefato a ser verificado, passando por pontos do conteúdo que se espera em cada um deles.</p>
+<p align="justify">&emsp;&emsp;Abaixo ficará definido os checklists que levantam questões de padronização e de conteúdo feito para verificar a qualidade dos artefatos produzidos pelo nosso grupo, o primeiro checklist abordará as questões de padronização e formatação, por isso estão presentes antes de todos os outros checklists de conteúdo. Após isso será definido separadamente um checklist para cada artefato a ser verificado, passando por pontos do conteúdo que se espera em cada um deles.</p>
 
 ### Checklist de padronização
 <p align="justify">&emsp;&emsp;Abaixo, na tabela 2, será definido os critérios esperados na verificação para a padronização dos artefatos.</p>
@@ -159,9 +159,10 @@
 
 > De Melo, Arthur. Planejamento da verificação da etapa 1. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>
 
-> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>. Acesso em: 30 maio 2023.
+> De Melo, Arthur. Planejamento da verificação da etapa 7. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa7/planejamento-verificacao-etapa7-grupo/>
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula023 - Verificação e Validação. 2023. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1109167. Acesso em: 11 nov. 2023.
+
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula023 - Verificação e Validação. 2023. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1109167. 
 
 
 ## Histórico de versões
