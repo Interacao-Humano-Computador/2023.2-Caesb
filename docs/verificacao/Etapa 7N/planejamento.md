@@ -1,7 +1,7 @@
-# Planejamento da verificação da etapa 1 do grupo 07
+# Planejamento da verificação da etapa 7 do grupo 07
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Nessa etapa do projeto será feita a verificação dos artefatos da etapa 07 do nosso grupo, essa é uma etapa muito importante uma vez que por meio dela será possível aprender a realizar uma verificação e além disso conseguir nos avaliar e posteriormente corrigir nossas entregas. Para tanto esse documento tem como objetivo apresentar o planejamento de como será feito essa verificação, passando pelas etapas de metologia utilizada, os participantes da análise, os artefatos alvo da verificação, o cronograma e por fim os checklists que serão utilizados para cada artefato.</p> 
+<p align="justify">&emsp;&emsp;Nessa etapa do projeto será feita a verificação dos artefatos da etapa 05 do nosso grupo, essa é uma etapa muito importante uma vez que por meio dela será possível aprender a realizar uma verificação e além disso conseguir nos avaliar e posteriormente corrigir nossas entregas. Para tanto esse documento tem como objetivo apresentar o planejamento de como será feito essa verificação, passando pelas etapas de metologia utilizada, os participantes da análise, os artefatos alvo da verificação, o cronograma e por fim os checklists que serão utilizados para cada artefato.</p> 
 
 ## Metodologia 
 <p align="justify">&emsp;&emsp;Para esta verificação, foi escolhido o método de inspeção, que é um tipo específico de revisão desenvolvido por Fagan (1976). Inicialmente concebido para análise de código, esse método pode ser aplicado a outros artefatos. Na revisão, examinadores analisam produtos ou processos para garantir que estejam corretos, utilizando listas de verificação para certificar-se de que tudo está de acordo com os padrões.</p>
@@ -157,7 +157,7 @@
 
 ## Bibliografia
 
-> De Melo, Arthur. Planejamento da verificação da etapa 1. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/
+> De Melo, Arthur. Planejamento da verificação da etapa 1. Repositório do grupo Bilheteria digital da disciplina de interação humano computador da universidade de brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>
 
 > ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>. Acesso em: 30 maio 2023.
 
@@ -168,4 +168,4 @@
 
 | Versão |    Data    |      Descrição       |  Autor(es) | Revisor(es) |
 | :----: | :--------: | :------------------: | :-----: | :-----: |
-|  1.0   | 12/11/2023 | Adiciona planejamento, iniciando checklists | Pedro Henrique | Leandro |
+|  1.0   | 06/12/2023 | Adicionando planejamento da verificação | Pedro Henrique | Leandro |
