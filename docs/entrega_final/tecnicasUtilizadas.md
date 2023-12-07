@@ -2,7 +2,11 @@
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;Este documento corresponde à conclusão final da disciplina de Interação Humano-Computador. Jefferson Sena, Leandro de Almeida, Mateus Levy, Oscar de Brito, Pedro Muniz, Rodrigo Fonseca e Tiago Albuquerque , serão detalhadas todas as técnicas empregadas na elaboração dos artefatos ao longo do curso.</p>
+<p align="justify">&emsp;&emsp;Este documento corresponde à conclusão final da disciplina de Interação Humano-Computador. Aqui mostra as técnicas utilizadas pelos integrantes do grupo:
+
+ Jefferson Sena, Leandro de Almeida, Mateus Levy, Oscar de Brito, Pedro Muniz, Rodrigo Fonseca e Tiago Albuquerque.
+ 
+ serão detalhadas todas as técnicas empregadas na elaboração dos artefatos ao longo do curso.</p>
 <center>
 
 ### Tabela 1 - Tećnicas Utilizadas
