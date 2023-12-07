@@ -120,13 +120,13 @@ nav:
               - Verificação do cronograma: verificacao/Etapa 1N/cronograma.md
               - Verificação do Processo de Design: verificacao/Etapa 1N/processodedesing.md
         - Etapa 2:
+              - Planejamento: verificacao/Etapa 2N/planejamento.md
               - Verificação de Personas: verificacao/Etapa 2N/personas.md
               - Verificação do Aspectos Éticos: verificacao/Etapa 2N/aspectos-eticos.md
               - Verificação de Cenários: verificacao/Etapa 2N/cenarios.md
               - Verificação do Perfil do Usuário: verificacao/Etapa 2N/perfil-do-usuario.md
               - Verificação do Análise Hierárquica-de-tarefas: verificacao/Etapa 2N/analise-hierarquica-de-tarefas.md
               - Verificação do GOMS: verificacao/Etapa 2N/GOMS.md
-             
         - Etapa 3:
               - Planejamento: verificacao/grupo6/etapa3/planejamento.md
               - Metas de Usabilidade: verificacao/grupo6/etapa3/metas-usabilidade.md
