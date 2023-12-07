@@ -113,6 +113,7 @@ A apresentação da entrega final, pode ser vista no [YouTube](https://youtu.be/
 |  6.0   | 22/11/2023 | Adicionou Entrega 7 | Leandro | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  7.0   | 28/11/2023 | Adicionou Entrega 8 | Jefferson | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 |  8.0   | 04/11/2023 | Adicionou entrega 6.2 | Pedro Henrique| Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
+|  9.0   | 04/11/2023 | Adicionou entrega final | Pedro Henrique | Mateus, Jefferson, Leandro, Oscar, Pedro, Rodrigo e Tiago |
 
 </center>
 
