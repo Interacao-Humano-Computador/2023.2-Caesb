@@ -80,6 +80,18 @@ A apresentação da entrega 6.2, pode ser vista no [YouTube](https://youtu.be/4n
 </center>
 <b>Vídeo 8</b>: Entrega 6.2 (Fonte: Grupo 06. 2023). </p>
 
+## Entrega Final:
+
+A apresentação da entrega final, pode ser vista no [YouTube](https://youtu.be/U9y5rPzGDGM).
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9y5rPzGDGM?si=3vxD5LyQQnzx8xyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
+<b>Vídeo 9</b>: Entrega Final (Fonte: Grupo 06. 2023). </p>
+
 
 ## Referências
 
