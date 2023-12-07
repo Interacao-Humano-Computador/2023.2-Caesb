@@ -12,9 +12,10 @@
 ### Artefatos que serão verificados
 <p align="justify">&emsp;&emsp;Os artefatos objetos de avaliação por meio dessa verificação serão os seguintes artefatos do nosso grupo:</p>
 
-- O artefato do Planejamento da Avaliação da Análise de Tarefas , até a versão 1.1, da data de 29/10/2023, autorado por <a href="https://github.com/leomitx10" target="_blanck">Leandro</a> e <a href="https://github.com/OscarDeBrito" target="_blanck">Oscar</a>.
+- O artefato do Planejamento da Avaliação da Análise de Tarefas , até a versão 1.1, da data de 29/10/2023, autorado por <a href="https://github.com/leomitx10" target="_blanck">Rodrigo</a> e <a href="https://github.com/Muniz2811" target="_blanck">Pedro Henrique</a>.
 - O artefato de Planejamento da Avaliação do Storyboard, até a versão 1.1, da data de 30/10/2023, autorado por <a href="https://github.com/JeffersonSenaa" target="_blanck">Matheus levy</a> 
-- O artefato de Planejamento do relato dos resultados da avaliação da análise de tarefas, até a versão 1.1, da data de 29/10/2023, autorado por <a href="https://github.com/JeffersonSenaa" target="_blanck">Jefferson Sena</a> e <a href="https://github.com/Tiago1604" target="_blanck">Tiago Albuquerque</a>.
+- O artefato de Planejamento do relato dos resultados da avaliação da análise de tarefas, até a versão 1.1, da data de 29/10/2023, autorado por <a href="https://github.com/mateus9levy" target="_blanck">Matheus levy</a>
+- O artefato de Planejamento dos Resultados da Avaliação da Análise de Tarefas, até a versão 1.1, da data de 29/10/2023, autorado por <a href="https://github.com/mateus9levy" target="_blanck">Matheus levy</a> 
 
 
 ### Cronograma
